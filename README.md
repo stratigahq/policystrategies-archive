@@ -1,3 +1,22 @@
+---
+license: cc-by-nc-sa-4.0
+language:
+  - tr
+  - en
+task_categories:
+  - question-answering
+  - text-retrieval
+tags:
+  - ai-agents
+  - cold-war
+  - declassified-archives
+  - financial-history
+  - geoeconomics
+  - geopolitics
+  - osint
+pretty_name: Open-Source Macro-Strategy Archive
+---
+
 # 🏛️ Open-Source Macro-Strategy, Financial History & Intelligence Archive
 
 [![Reddit Community](https://img.shields.io/badge/Reddit-r%2Fpolicystrategies-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/policystrategies/)
