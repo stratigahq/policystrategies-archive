@@ -112,6 +112,48 @@
         "source_url": "https://www.reddit.com/r/policystrategies/s/G372LoEB8N"
     },
     {
+        "id": "FIN_009",
+        "category": "Finance History",
+        "title_tr": "Şanghay Baronlarının Finansal Çöküşü ve Çin Kamulaştırma Tarihi",
+        "title_en": "The Financial Collapse of Shanghai Barons and the History of Chinese Nationalization",
+        "period": "1952-1956",
+        "key_entities": [
+            "Rong Yiren",
+            "Chen Yun",
+            "Bo Yibo",
+            "Sung Sing Cotton Mills",
+            "Pekin Ekonomi Komitesi",
+            "Çin"
+        ],
+        "mechanism": "Wufan Hareketi kapsamında başlatılan adli muhasebe denetimleri, banka hesaplarının dondurulması ve geriye dönük astronomik vergi/bilanço cezaları yoluyla özel sektörün likiditesinin kurutulması; ödenemeyen borçlar karşılığında hisselerin sıfır bedelle kamu-özel ortaklığına devredilmesi.",
+        "systemic_impact": "Şanghay merkezli özel sanayi ve ticaret burjuvazisi tasfiye edilerek Doğu Çin'in tüm sermayesi ve üretim araçları tek kurşun atılmadan merkezi planlama idaresine ve devlet mülkiyetine geçirildi.",
+        "keywords": [
+            "Wufan Hareketi",
+            "Kamulaştırma",
+            "Rong Yiren",
+            "Adli Muhasebe",
+            "Finansal Abluka",
+            "Kamu-Özel Ortaklığı"
+        ],
+        "context_tr": "1952 yılında Pekin yönetimi, Şanghay sanayicilerini doğrudan lağvetmek yerine Wufan Hareketi üzerinden ağır adli denetimler ve astronomik bilanço cezalarıyla finansal kıskaca aldı. Likiditesi kurutulan ve borç batağına sürüklenen sermaye sahipleri, 1956 yılına gelindiğinde tüm hisselerini ve mülkiyet haklarını devlete devretmek zorunda kaldı.",
+        "context_en": "In 1952, the Beijing government leveraged the Five-Anti (Wufan) Campaign to trap Shanghai industrialists in a financial blockade through forensic audits and insurmountable retroactive fines. Deprived of liquidity and forced into severe debt, prominent capitalists ceded their enterprise shares and private ownership to the state by 1956.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/dyPl6TcOmX"
+    },
+    {
+        "id": "FIN_010",
+        "category": "Finance History",
+        "title_tr": "Borsa Manipülasyonu ve Sahte Stoklar: McKesson & Robbins Vakası",
+        "title_en": "Stock Manipulation and Phantom Inventories: The McKesson & Robbins Scandal",
+        "period": "1926-1938",
+        "key_entities": [ "Philip Musica (Dr. Frank Coster)", "McKesson & Robbins", "Julian Thompson", "Price Waterhouse", "SEC", "NYSE" ],
+        "mechanism": "Sahte kimlikli bir yöneticinin paravan şirketler ve fiktif faturalar aracılığıyla var olmayan ham ilaç stokları yaratarak bilançoyu 12 yıl boyunca şişirmesi ve denetçilerin fiziki sayım yapmadan evrakları onaylaması.",
+        "systemic_impact": "Amerikan Muhasebeciler Enstitüsü (AIA) tarafından bağımsız denetçiler için fiziki stok sayımı ve alacak teyidinin zorunlu hale getirilmesi (SAP No. 1); modern kurumsal denetim standartlarının doğuşu.",
+        "keywords": [ "McKesson & Robbins", "Philip Musica", "Accounting Fraud", "Phantom Inventory", "SEC", "Audit Standards" ],
+        "context_tr": "Sabıkalı Philip Musica, sahte bir kimlikle ilaç devi McKesson & Robbins'in başına geçerek paravan şirketler üzerinden milyonlarca dolarlık hayalet stok yaratmıştır. 1938'de fiktif varlıkların ortaya çıkmasıyla patlak veren skandal, denetçilere bizzat fiziki stok sayımı yapma zorunluluğu getirerek modern denetim standartlarını temelden değiştirmiştir.",
+        "context_en": "Convicted con artist Philip Musica assumed a false identity to lead pharmaceutical giant McKesson & Robbins, inflating the balance sheet with millions of dollars in fictitious inventory via shell companies. The exposure of the phantom assets in 1938 fundamentally transformed corporate governance by mandating physical inventory counts and independent audit verifications.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/1BdrrXar7R"
+    },
+    {
         "id": "INT_001",
         "category": "Espionage Notes",
         "title_tr": "Tarihin En Büyük İstihbarat Sızıntısı: CIA ve MI6 Sovyetleri Nasıl Dinledi?",
@@ -140,6 +182,20 @@
         "source_url": "https://www.reddit.com/r/policystrategies/s/3xRk7qfoOH"
     },
     {
+        "id": "INT_003",
+        "category": "Espionage Notes",
+        "title_tr": "Richard Sorge: Şanghay’daki Sovyet Casusu",
+        "title_en": "Richard Sorge: The Soviet Spy in Shanghai",
+        "period": "1930-1933",
+        "key_entities": [ "Richard Sorge", "Hotsumi Ozaki", "Max Clausen", "Agnes Smedley", "GRU", "Alman Askeri Misyonu", "Şanghay Belediye Polisi" ],
+        "mechanism": "İmtiyaz bölgelerinin diplomatik zırhı ve saygın Alman gazeteci örtüsü kullanılarak Çin-Alman askeri iş birliği sırları ve Japon hamleleri toplanmış, el yapımı kısa dalga telsizlerle Moskova'ya iletilmiştir.",
+        "systemic_impact": "Sömürge polisinin proleter militanlara odaklanarak elit çevrelerdeki kurumsal körlüğe düşmesi, Sovyet istihbaratının Pasifik ve Mançurya jeopolitiğini deşifre edip daha sonraki efsanevi Tokyo hücresine zemin hazırlamasını sağlamıştır.",
+        "keywords": [ "Richard Sorge", "GRU", "Şanghay", "Askeri İstihbarat", "Hotsumi Ozaki", "Max Clausen", "Mukden Olayı" ],
+        "context_tr": "Richard Sorge, 1930'ların başında parçalanmış Şanghay imtiyaz bölgelerini ve Alman ekonomi muhabiri kimliğini kullanarak Kızıl Ordu adına kusursuz bir istihbarat ağı kurmuştur. Hotsumi Ozaki ve teknik operatör Max Clausen'in desteğiyle, hem Mançurya işgaline dair kritik veriler hem de Çin-Alman askeri sırları tespit edilmeden doğrudan Moskova'ya aktarılmıştır.",
+        "context_en": "In the early 1930s, Richard Sorge leveraged Shanghai's fragmented concession zones and his cover as a conservative German journalist to establish a sophisticated intelligence network for the Red Army. Aided by key contact Hotsumi Ozaki and radio operator Max Clausen, the cell funneled critical intelligence on the Manchurian invasion and Sino-German military cooperation directly to Moscow without detection.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/DuO6bzRWJd"
+    },
+    {
         "id": "GEO_001",
         "category": "Geopolitical Conflict",
         "title_tr": "1911 İran-Rusya Morgan Shuster Krizi: Kaçar Hanedanı Nasıl İflas Etti?",
@@ -160,28 +216,54 @@
         "title_en": "Mao's Successor Lin Biao and Project 571: Failed Coup and the Mysterious Plane Crash",
         "period": "1969-1971",
         "key_entities": [
-          "Lin Biao",
-          "Mao Zedong",
-          "Lin Liguo",
-          "Ye Qun",
-          "Çin Komünist Partisi",
-          "Halk Kurtuluş Ordusu",
-          "Sovyetler Birliği",
-          "Moğolistan"
+            "Lin Biao",
+            "Mao Zedong",
+            "Lin Liguo",
+            "Ye Qun",
+            "Çin Komünist Partisi",
+            "Halk Kurtuluş Ordusu",
+            "Sovyetler Birliği",
+            "Moğolistan"
         ],
         "mechanism": "Askeri vesayetin sivil parti hiyerarşisiyle çatışması sonucu planlanan tren suikastı (Proje 571) istihbarat sızıntısıyla çökmüş, aceleyle başlatılan hava firarı yakıt yetersizliği ve kaza ile sonuçlanmıştır.",
         "systemic_impact": "Çin Komünist Partisi içindeki askeri kanadın nüfuzu tasfiye edilmiş, Kültür Devrimi'nin meşruiyeti sarsılmış ve Çin-ABD yakınlaşmasına zemin hazırlayan yeni bir denge kurulmuştur.",
         "keywords": [
-          "Lin Biao",
-          "Mao Zedong",
-          "Proje 571",
-          "Lushan Konferansı",
-          "Kültür Devrimi",
-          "Darbe Girişimi",
-          "Öndörkhaan Uçak Kazası"
+            "Lin Biao",
+            "Mao Zedong",
+            "Proje 571",
+            "Lushan Konferansı",
+            "Kültür Devrimi",
+            "Darbe Girişimi",
+            "Öndörkhaan Uçak Kazası"
         ],
         "context_tr": "Mao Zedong'un anayasal halefi Mareşal Lin Biao ve cuntası, tasfiye edilme korkusuyla 'Proje 571' kodlu bir suikast ve darbe planı hazırlamıştır. Planın deşifre olması üzerine Sovyetler Birliği'ne kaçmaya çalışan Lin Biao'yu taşıyan uçak, yakıtının bitmesi sonucu Moğolistan bozkırlarına düşmüştür.",
         "context_en": "Marshal Lin Biao, designated as Mao Zedong's constitutional successor, orchestrated a coup and assassination plot codenamed 'Project 571' amid rising factional tensions. Following the exposure of the plot, Lin attempted to flee to the Soviet Union, but his aircraft crashed in Mongolia due to fuel exhaustion.",
         "source_url": "https://www.reddit.com/r/policystrategies/s/n19MdVJuBR"
-      }
+    },
+    {
+        "id": "CHN_002",
+        "category": "China & Asia-Pacific",
+        "title_tr": "Rong Yiren: Çin'in Milyarderi Nasıl Hademe Oldu ve Devlet Başkan Yardımcılığına Yükseldi?",
+        "title_en": "Rong Yiren: How China's Billionaire Became a Janitor and Rose to Vice Presidency",
+        "period": "1949-1993",
+        "key_entities": [
+            "Rong Yiren",
+            "Mao Zedong",
+            "Deng Xiaoping",
+            "CITIC",
+            "Çin Komünist Partisi"
+        ],
+        "mechanism": "Sanayici sermayesinin önce kamulaştırılması, Kültür Devrimi sırasında tasfiyesi ve Deng döneminde dışa açılma ile CITIC üzerinden piyasa entegrasyonu.",
+        "systemic_impact": "Çin'in 'Kızıl Kapitalist' modeliyle yabancı sermayeyi çekmesi ve komünist rejim içinde pragmatik pazar reformlarına geçişi.",
+        "keywords": [
+            "Kızıl Kapitalist",
+            "Kültür Devrimi",
+            "CITIC",
+            "Deng Xiaoping",
+            "Kamulaştırma"
+        ],
+        "context_tr": "Rong Yiren, Mao döneminde fabrikalarının kamulaştırılması ve Kültür Devrimi'nde hademeliğe zorlanması gibi tasfiyelere maruz kalmıştır. Deng Xiaoping döneminde ise CITIC'i kurarak Çin'in dışa açılma sürecine öncülük etmiş ve Devlet Başkan Yardımcılığına kadar yükselmiştir.",
+        "context_en": "Rong Yiren experienced the nationalization of his enterprises and was forced into manual labor as a janitor during the Cultural Revolution. Under Deng Xiaoping, he founded CITIC to drive foreign investment and eventually rose to the Vice Presidency of China.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/whwyWU3KJ3"
+    }
 ]
