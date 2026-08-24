@@ -1,11 +1,156 @@
-{"id":"FIN_001","category":"Finance History","title_tr":"Londra'yı Sallayan Hayalet Altınlar: 40 Milyar Dolarlık Madencilik Skandalı","title_en":"The $40 Billion Ghost Asset Fraud: Bre-X Minerals and the Busang Gold Hoax","period":"1993-1997","key_entities":["Bre-X Minerals","Toronto Stock Exchange","Wall Street","John Felderhof","Michael de Guzman"],"mechanism":"Fiktif Altın Rezervi ve Tuzlanmış Karot Numuneleriyle Borsa Şişirmesi","systemic_impact":"Emtia piyasalarında likidite çöküşü ve Kanada borsa regülasyonlarında reform","keywords":["BreX","BusangFraud","MiningScandal","CommoditiesFraud","MarketManipulation"],"context_tr":"Bre-X şirketinin Endonezya ormanlarında uydurduğu sahte altın rezervi vakası. Kuruşluk hisselerin Wall Street fonlarıyla milyarlarca dolarlık balona dönüşmesi ve çöküşü.","context_en":"Detailed post-mortem of Bre-X Minerals fictitious gold discovery in Indonesia. Explores how salted core samples inflated Toronto Stock Exchange valuations and misled Wall Street.","source_url":"https://www.reddit.com/r/policystrategies/s/waXGDpQoed"}
-{"id":"FIN_002","category":"Finance History","title_tr":"Trans-Sibirya Hattında Finansal Sabotaj: 1982 Sovyet Gaz Boru Hattı Şoku","title_en":"The 1982 Trans-Siberian Pipeline Software Sabotage & Soviet Hard-Currency Denial","period":"1982","key_entities":["CIA","KGB","Soviet Ministry of Gas","Farewell Dossier","Vladimir Vetrov"],"mechanism":"Truva Atı SCADA Kontrol Yazılımı ve Mantık Bombası (Logic Bomb) Sabotajı","systemic_impact":"Sovyet doğal gaz ihracatının felç edilmesi ve Moskova'nın döviz rezervlerinin kurutulması","keywords":["FarewellDossier","CIASabotage","EconomicWarfare","SovietEnergy","PipelineSabotage"],"context_tr":"CIA'in Sovyet doğal gaz hattı otomasyon yazılımına yerleştirdiği truva atı operasyonu. Sovyetlerin Avrupa'ya gaz satarak döviz kazanmasını engelleyen siber-finansal altyapı sabotajı.","context_en":"Analysis of CIA Operation Farewell Dossier involving weaponized SCADA software supplied to USSR, disrupting Siberian gas exports to Europe and denying hard currency.","source_url":"https://www.reddit.com/r/policystrategies/s/fiNc6z6Sk8"}
-{"id":"FIN_003","category":"Finance History","title_tr":"Demir Perde Operasyonu: Budapeşte ve Prag Borsalarının Likidasyon Gizemi","title_en":"Soviet Liquidation and Nationalization of the Budapest and Prague Stock Exchanges","period":"1945-1952","key_entities":["Budapest Stock Exchange","Prague Stock Exchange","Soviet Military Administration","Hungarian National Bank"],"mechanism":"Mevzuat Baskısı, Yapay Hiperenflasyon ve Hisse Senetlerinin Değersizleştirilerek Kamulaştırılması","systemic_impact":"Orta Avrupa sermaye piyasalarının tamamen yok edilmesi ve devlet mülkiyetine geçiş","keywords":["IronCurtain","StockExchangeNationalization","PostWarFinance","Expropriation","Hyperinflation"],"context_tr":"2. Dünya Savaşı sonrası Budapeşte ve Prag borsalarında hisse senetlerinin Sovyet güdümlü bürokrasi tarafından manipülasyon ve yasal baskılarla kamulaştırılması süreci.","context_en":"Examination of postwar Soviet-led systematic destruction of Central European equity markets via decree-based squeezes, hyperinflation, and arbitrary expropriation.","source_url":"https://www.reddit.com/r/policystrategies/s/PFUYY5vYtY"}
-{"id":"FIN_004","category":"Finance History","title_tr":"Paris Borsası ve Kukla 'Coulisse' Operasyonu","title_en":"Nazi Financial Takeover of the Paris Bourse and Subjugation of the Coulisse Market","period":"1940-1944","key_entities":["Paris Bourse","Reichsbank","CCDVT","Otto Abetz","Vichy Government"],"mechanism":"Gayriresmi Serbest Pazarın Kapatılması, Hamiline Hisselerin Fişlenmesi ve Alman Tahvillerine Zorunlu Likidite Transferi","systemic_impact":"Fransız vatandaşlarının servetinin Alman savaş makinesini finanse etmek için eritilmesi","keywords":["ParisBourse","CoulisseMarket","Reichsbank","BearerShares","WarFinance","OccupiedFrance"],"context_tr":"Nazi işgali altındaki Paris Borsası'nda serbest pazarın kapatılması, hamiline hisselerin fişlenerek kontrol altına alınması ve Fransız servetinin Reichsbank tahvillerine yönlendirilmesi.","context_en":"German occupation takeover of French securities markets, shutting down unofficial Coulisse floor, converting bearer shares to registered securities to fund German war bonds.","source_url":"https://www.reddit.com/r/policystrategies/s/mFOh7VjHdK"}
-{"id":"FIN_005","category":"Finance History","title_tr":"Boş Kargo Gemileriyle Gelen Borsa Rallisi: Yunan Armatörlerin Hayali Navlun Manipülasyonu","title_en":"Ghost Fleets and Phantom Freight Contracts: The 1950s Greek Shipping Stock Speculation","period":"1950-1956","key_entities":["London Stock Exchange","Greek Shipowners Syndicate","Baltic Exchange","Lloyds of London"],"mechanism":"Hayali Navlun Sözleşmeleri ve Boş Dolaşan Gemiler Üzerinden Şişirilen Bilanço Gelirleri","systemic_impact":"Londra Borsası'nda gemicilik hisselerinde sahte ralli ve bilanço iflasları","keywords":["MaritimeFinance","FreightFraud","LondonStockExchange","GhostCargo","AccountingDeception"],"context_tr":"1950'lerde Yunan armatörlerin sahte navlun kontratlarıyla Londra Borsası'ndaki hisse değerlerini şişirmesi ve boş dolaşan gemiler üzerinden yürütülen muhasebe manipülasyonu.","context_en":"Case study on 1950s maritime shipping speculation using fabricated charter contracts recognized on London-listed balance sheets to engineer stock rallies with idle vessels.","source_url":"https://www.reddit.com/r/policystrategies/s/3N7dVwaQEB"}
-{"id":"FIN_006","category":"Finance History","title_tr":"Hayali Kahve Çuvalları ve Hamburg Borsası'nı Sallayan 'Depo Makbuzu' Vurgunu","title_en":"The Phantom Coffee Bag Fraud & The Hamburg Exchange Warehouse Warrant Scheme","period":"1952-1955","key_entities":["Hamburg Commodity Exchange","Deutsche Bank","Brazilian Coffee Importers Guild"],"mechanism":"Üstü Kahve, Altı Taş Dolu Çuvallara Düzenlenen Sahte Depo Makbuzlarıyla Kredi Toplama","systemic_impact":"Hamburg emtia piyasasında teminat iflasları ve emtia varant denetimlerinin sıkılaştırılması","keywords":["HamburgExchange","CommodityFraud","WarehouseWarrants","CoffeeSpeculation","CollateralFraud"],"context_tr":"2. Dünya Savaşı sonrası Almanya'sında sahte depo makbuzlarıyla yürütülen emtia vurgunu. Üstü kahve, altı taş dolu çuvalların teminat gösterilerek bankalardan kredi toplanması.","context_en":"Post-WWII German commodity fraud involving forged warehouse warrants for coffee, using gravel-filled sacks under a coffee layer as collateral for millions in bank loans.","source_url":"https://www.reddit.com/r/policystrategies/s/yuR0Fjffwc"}
-{"id":"FIN_007","category":"Finance History","title_tr":"Graiver Kardeşler ve Şeker Kamışı Tahvillerinin Tasfiyesi","title_en":"The Graiver Affair: Money Laundering, Sugar Cane Bonds & Transnational Bank Fraud","period":"1973-1980","key_entities":["David Graiver","Montoneros","American Bank & Trust","Banque pour l'Amérique du Sud"],"mechanism":"Gerilla Fidye Paralarının Tarım Tahvilleri ve Uluslararası Paravan Banka Ağıyla Aklanması","systemic_impact":"New York ve Brüksel bankalarının iflası ve çok uluslu finansal aklama ağının çöküşü","keywords":["DavidGraiver","Montoneros","MoneyLaundering","AgriculturalBonds","TransnationalBanking"],"context_tr":"Arjantinli banker David Graiver'ın Montoneros örgütünün fidye paralarını tarım tahvillerinde aklama şebekesi ve New York/Brüksel bankaları üzerinden kurduğu fiktif kredi illüzyonu.","context_en":"Analysis of Argentine financier David Graiver laundering Montoneros ransom capital through commodity bonds, fictitious inter-bank circuits, and acquired banks across US and Europe.","source_url":"https://www.reddit.com/r/policystrategies/s/HUFeN7dtZT"}
-{"id":"FIN_008","category":"Finance History","title_tr":"Yarım Milyar Dolarlık Hayalet Poliçe: Equity Funding Skandalı","title_en":"The Equity Funding Corporation Scandal: Fabricated Ghost Policies and Reinsurance Fraud","period":"1973-1975","key_entities":["Equity Funding Corporation of America","SEC","Ray Dirks","Bakersfield Reinsurance Syndicate"],"mechanism":"Bilgisayarla Üretilen On Binlerce Hayali Müşteri Poliçesinin Reasürans Şirketlerine Satılması","systemic_impact":"Tarihin ilk büyük bilgisayarlı finansal dolandırıcılığı soruşturması ve adli bilişim denetiminin doğuşu","keywords":["EquityFunding","InsuranceFraud","SECInvestigation","ReinsuranceScandal","ComputerFraud"],"context_tr":"Equity Funding şirketinin bilgisayarlarda on binlerce hayali müşteri ve sahte ölüm belgesi üreterek reasürans şirketlerine satması; tarihin ilk büyük bilgisayarlı finans dolandırıcılığı.","context_en":"Review of the 1973 Equity Funding scandal involving tens of thousands of computer-generated fake life insurance policies resold to reinsurance syndicates for cash flow.","source_url":"https://www.reddit.com/r/policystrategies/s/G372LoEB8N"}
-{"id":"INT_001","category":"Espionage Notes","title_tr":"Tarihin En Büyük İstihbarat Sızıntısı: CIA ve MI6 Sovyetleri Nasıl Dinledi?","title_en":"Operation Gold / Stopwatch: The CIA-MI6 Subterranean Berlin Wiretap and Double Agent Blake","period":"1953-1956","key_entities":["CIA","MI6","KGB","George Blake","Allen Dulles"],"mechanism":"450 Metrelik Yeraltı Tüneliyle Askeri İletişim Kablosu Dinlemesi ve Çifte Ajan İhaneti","systemic_impact":"Soğuk Savaş sinyal istihbaratının (SIGINT) çifte ajanlar karşısındaki zafiyetinin kanıtlanması","keywords":["OperationGold","BerlinTunnel","GeorgeBlake","SignalsIntelligence","Wiretapping","ColdWarEspionage"],"context_tr":"CIA ve MI6'in Doğu Berlin altına tünel kazarak Sovyet askeri iletişim hatlarını dinlemesi ve operasyonun çifte ajan George Blake tarafından KGB'ye ilk günden sızdırılması.","context_en":"Clandestine subterranean tunnel dug under East Berlin by CIA and MI6 to tap Soviet military cables, compromised from day one by British double agent George Blake.","source_url":"https://www.reddit.com/r/policystrategies/s/8RAGtWdXy1"}
-{"id":"INT_002","category":"Espionage Notes","title_tr":"Brooklyn'deki Bozuk Paradan FBI Karşı İstihbarat Masasına Uzanan Ağ","title_en":"The Hollow Nickel Case: Cryptanalysis and the Capture of Soviet Master Spy Rudolf Abel","period":"1953-1957","key_entities":["FBI","KGB Illegals Directorate","Rudolf Abel (Vilyam Fisher)","Reino Häyhänen"],"mechanism":"İçi Oyuk 5 Sentlik Madeni Para, Şifreli Mikrofilm ve Kriptoanaliz Takibi","systemic_impact":"Kuzey Amerika'daki en büyük Sovyet yasadışı casus ağının çökertilmesi ve tarihi casus takası","keywords":["HollowNickelCase","RudolfAbel","KGBIllegals","FBICounterintelligence","Microfilm","Cryptanalysis"],"context_tr":"Manhattan'da düşürülen içi oyuk 5 sentlik madeni paradan çıkan mikrofilmin, FBI kriptologları tarafından deşifre edilerek Sovyet casus şefi Rudolf Abel'in yakalanmasına uzanan hikayesi.","context_en":"Counterintelligence case unraveling a premier Soviet illegal spy ring after an encrypted microfilm inside a 5-cent coin led to the FBI arrest of KGB master spy Rudolf Abel.","source_url":"https://www.reddit.com/r/policystrategies/s/3xRk7qfoOH"}
-{"id":"GEO_001","category":"Geopolitical Conflict","title_tr":"1911 İran-Rusya Morgan Shuster Krizi: Kaçar Hanedanı Nasıl İflas Etti?","title_en":"The 1911 Iran-Russia Morgan Shuster Crisis: The Fiscal Collapse of the Qajar Dynasty","period":"1911","key_entities":["W. Morgan Shuster","Qajar Dynasty","Tsarist Russian Empire","British Empire","Persian Majlis"],"mechanism":"Mali Egemenlik Girişimi, Askeri Ültimatom, Kuzey İran'ın İşgali ve Meclis'in Zorla Kapatılması","systemic_impact":"Kaçar Hanedanı'nın mali bağımsızlığını tamamen yitirerek İngiliz-Rus nüfuz alanına teslim olması","keywords":["MorganShuster","QajarDynasty","GreatGame","ImperialIntervention","SovereignDebt","GunboatDiplomacy"],"context_tr":"Kaçar Hanedanı maliyesini toparlamak için atanan Amerikalı danışman Morgan Shuster vakası; Çarlık Rusyası'nın askeri işgali ve İran meclisini basarak devleti iflasa sürükleyişi.","context_en":"Analysis of the 1911 fiscal crisis in Persia, where American advisor Morgan Shuster's revenue modernization triggered Russian invasion and the fiscal subjugation of Qajar Iran.","source_url":"https://www.reddit.com/r/policystrategies/s/BDLyr4dtRr"}
+[
+    {
+        "id": "FIN_001",
+        "category": "Finance History",
+        "title_tr": "Londra'yı Sallayan Hayalet Altınlar: 40 Milyar Dolarlık Madencilik Skandalı",
+        "title_en": "The $40 Billion Ghost Asset Fraud: Bre-X Minerals and the Busang Gold Hoax",
+        "period": "1993-1997",
+        "key_entities": [ "Bre-X Minerals", "Toronto Stock Exchange", "Wall Street", "John Felderhof", "Michael de Guzman" ],
+        "mechanism": "Fiktif Altın Rezervi ve Tuzlanmış Karot Numuneleriyle Borsa Şişirmesi",
+        "systemic_impact": "Emtia piyasalarında likidite çöküşü ve Kanada borsa regülasyonlarında reform",
+        "keywords": [ "BreX", "BusangFraud", "MiningScandal", "CommoditiesFraud", "MarketManipulation" ],
+        "context_tr": "Bre-X şirketinin Endonezya ormanlarında uydurduğu sahte altın rezervi vakası. Kuruşluk hisselerin Wall Street fonlarıyla milyarlarca dolarlık balona dönüşmesi ve çöküşü.",
+        "context_en": "Detailed post-mortem of Bre-X Minerals fictitious gold discovery in Indonesia. Explores how salted core samples inflated Toronto Stock Exchange valuations and misled Wall Street.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/waXGDpQoed"
+    },
+    {
+        "id": "FIN_002",
+        "category": "Finance History",
+        "title_tr": "Trans-Sibirya Hattında Finansal Sabotaj: 1982 Sovyet Gaz Boru Hattı Şoku",
+        "title_en": "The 1982 Trans-Siberian Pipeline Software Sabotage & Soviet Hard-Currency Denial",
+        "period": "1982",
+        "key_entities": [ "CIA", "KGB", "Soviet Ministry of Gas", "Farewell Dossier", "Vladimir Vetrov" ],
+        "mechanism": "Truva Atı SCADA Kontrol Yazılımı ve Mantık Bombası (Logic Bomb) Sabotajı",
+        "systemic_impact": "Sovyet doğal gaz ihracatının felç edilmesi ve Moskova'nın döviz rezervlerinin kurutulması",
+        "keywords": [ "FarewellDossier", "CIASabotage", "EconomicWarfare", "SovietEnergy", "PipelineSabotage" ],
+        "context_tr": "CIA'in Sovyet doğal gaz hattı otomasyon yazılımına yerleştirdiği truva atı operasyonu. Sovyetlerin Avrupa'ya gaz satarak döviz kazanmasını engelleyen siber-finansal altyapı sabotajı.",
+        "context_en": "Analysis of CIA Operation Farewell Dossier involving weaponized SCADA software supplied to USSR, disrupting Siberian gas exports to Europe and denying hard currency.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/fiNc6z6Sk8"
+    },
+    {
+        "id": "FIN_003",
+        "category": "Finance History",
+        "title_tr": "Demir Perde Operasyonu: Budapeşte ve Prag Borsalarının Likidasyon Gizemi",
+        "title_en": "Soviet Liquidation and Nationalization of the Budapest and Prague Stock Exchanges",
+        "period": "1945-1952",
+        "key_entities": [ "Budapest Stock Exchange", "Prague Stock Exchange", "Soviet Military Administration", "Hungarian National Bank" ],
+        "mechanism": "Mevzuat Baskısı, Yapay Hiperenflasyon ve Hisse Senetlerinin Değersizleştirilerek Kamulaştırılması",
+        "systemic_impact": "Orta Avrupa sermaye piyasalarının tamamen yok edilmesi ve devlet mülkiyetine geçiş",
+        "keywords": [ "IronCurtain", "StockExchangeNationalization", "PostWarFinance", "Expropriation", "Hyperinflation" ],
+        "context_tr": "2. Dünya Savaşı sonrası Budapeşte ve Prag borsalarında hisse senetlerinin Sovyet güdümlü bürokrasi tarafından manipülasyon ve yasal baskılarla kamulaştırılması süreci.",
+        "context_en": "Examination of postwar Soviet-led systematic destruction of Central European equity markets via decree-based squeezes, hyperinflation, and arbitrary expropriation.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/PFUYY5vYtY"
+    },
+    {
+        "id": "FIN_004",
+        "category": "Finance History",
+        "title_tr": "Paris Borsası ve Kukla 'Coulisse' Operasyonu",
+        "title_en": "Nazi Financial Takeover of the Paris Bourse and Subjugation of the Coulisse Market",
+        "period": "1940-1944",
+        "key_entities": [ "Paris Bourse", "Reichsbank", "CCDVT", "Otto Abetz", "Vichy Government" ],
+        "mechanism": "Gayriresmi Serbest Pazarın Kapatılması, Hamiline Hisselerin Fişlenmesi ve Alman Tahvillerine Zorunlu Likidite Transferi",
+        "systemic_impact": "Fransız vatandaşlarının servetinin Alman savaş makinesini finanse etmek için eritilmesi",
+        "keywords": [ "ParisBourse", "CoulisseMarket", "Reichsbank", "BearerShares", "WarFinance", "OccupiedFrance" ],
+        "context_tr": "Nazi işgali altındaki Paris Borsası'nda serbest pazarın kapatılması, hamiline hisselerin fişlenerek kontrol altına alınması ve Fransız servetinin Reichsbank tahvillerine yönlendirilmesi.",
+        "context_en": "German occupation takeover of French securities markets, shutting down unofficial Coulisse floor, converting bearer shares to registered securities to fund German war bonds.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/mFOh7VjHdK"
+    },
+    {
+        "id": "FIN_005",
+        "category": "Finance History",
+        "title_tr": "Boş Kargo Gemileriyle Gelen Borsa Rallisi: Yunan Armatörlerin Hayali Navlun Manipülasyonu",
+        "title_en": "Ghost Fleets and Phantom Freight Contracts: The 1950s Greek Shipping Stock Speculation",
+        "period": "1950-1956",
+        "key_entities": [ "London Stock Exchange", "Greek Shipowners Syndicate", "Baltic Exchange", "Lloyds of London" ],
+        "mechanism": "Hayali Navlun Sözleşmeleri ve Boş Dolaşan Gemiler Üzerinden Şişirilen Bilanço Gelirleri",
+        "systemic_impact": "Londra Borsası'nda gemicilik hisselerinde sahte ralli ve bilanço iflasları",
+        "keywords": [ "MaritimeFinance", "FreightFraud", "LondonStockExchange", "GhostCargo", "AccountingDeception" ],
+        "context_tr": "1950'lerde Yunan armatörlerin sahte navlun kontratlarıyla Londra Borsası'ndaki hisse değerlerini şişirmesi ve boş dolaşan gemiler üzerinden yürütülen muhasebe manipülasyonu.",
+        "context_en": "Case study on 1950s maritime shipping speculation using fabricated charter contracts recognized on London-listed balance sheets to engineer stock rallies with idle vessels.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/3N7dVwaQEB"
+    },
+    {
+        "id": "FIN_006",
+        "category": "Finance History",
+        "title_tr": "Hayali Kahve Çuvalları ve Hamburg Borsası'nı Sallayan 'Depo Makbuzu' Vurgunu",
+        "title_en": "The Phantom Coffee Bag Fraud & The Hamburg Exchange Warehouse Warrant Scheme",
+        "period": "1952-1955",
+        "key_entities": [ "Hamburg Commodity Exchange", "Deutsche Bank", "Brazilian Coffee Importers Guild" ],
+        "mechanism": "Üstü Kahve, Altı Taş Dolu Çuvallara Düzenlenen Sahte Depo Makbuzlarıyla Kredi Toplama",
+        "systemic_impact": "Hamburg emtia piyasasında teminat iflasları ve emtia varant denetimlerinin sıkılaştırılması",
+        "keywords": [ "HamburgExchange", "CommodityFraud", "WarehouseWarrants", "CoffeeSpeculation", "CollateralFraud" ],
+        "context_tr": "2. Dünya Savaşı sonrası Almanya'sında sahte depo makbuzlarıyla yürütülen emtia vurgunu. Üstü kahve, altı taş dolu çuvalların teminat gösterilerek bankalardan kredi toplanması.",
+        "context_en": "Post-WWII German commodity fraud involving forged warehouse warrants for coffee, using gravel-filled sacks under a coffee layer as collateral for millions in bank loans.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/yuR0Fjffwc"
+    },
+    {
+        "id": "FIN_007",
+        "category": "Finance History",
+        "title_tr": "Graiver Kardeşler ve Şeker Kamışı Tahvillerinin Tasfiyesi",
+        "title_en": "The Graiver Affair: Money Laundering, Sugar Cane Bonds & Transnational Bank Fraud",
+        "period": "1973-1980",
+        "key_entities": [ "David Graiver", "Montoneros", "American Bank & Trust", "Banque pour l'Amérique du Sud" ],
+        "mechanism": "Gerilla Fidye Paralarının Tarım Tahvilleri ve Uluslararası Paravan Banka Ağıyla Aklanması",
+        "systemic_impact": "New York ve Brüksel bankalarının iflası ve çok uluslu finansal aklama ağının çöküşü",
+        "keywords": [ "DavidGraiver", "Montoneros", "MoneyLaundering", "AgriculturalBonds", "TransnationalBanking" ],
+        "context_tr": "Arjantinli banker David Graiver'ın Montoneros örgütünün fidye paralarını tarım tahvillerinde aklama şebekesi ve New York/Brüksel bankaları üzerinden kurduğu fiktif kredi illüzyonu.",
+        "context_en": "Analysis of Argentine financier David Graiver laundering Montoneros ransom capital through commodity bonds, fictitious inter-bank circuits, and acquired banks across US and Europe.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/HUFeN7dtZT"
+    },
+    {
+        "id": "FIN_008",
+        "category": "Finance History",
+        "title_tr": "Yarım Milyar Dolarlık Hayalet Poliçe: Equity Funding Skandalı",
+        "title_en": "The Equity Funding Corporation Scandal: Fabricated Ghost Policies and Reinsurance Fraud",
+        "period": "1973-1975",
+        "key_entities": [ "Equity Funding Corporation of America", "SEC", "Ray Dirks", "Bakersfield Reinsurance Syndicate" ],
+        "mechanism": "Bilgisayarla Üretilen On Binlerce Hayali Müşteri Poliçesinin Reasürans Şirketlerine Satılması",
+        "systemic_impact": "Tarihin ilk büyük bilgisayarlı finansal dolandırıcılığı soruşturması ve adli bilişim denetiminin doğuşu",
+        "keywords": [ "EquityFunding", "InsuranceFraud", "SECInvestigation", "ReinsuranceScandal", "ComputerFraud" ],
+        "context_tr": "Equity Funding şirketinin bilgisayarlarda on binlerce hayali müşteri ve sahte ölüm belgesi üreterek reasürans şirketlerine satması; tarihin ilk büyük bilgisayarlı finans dolandırıcılığı.",
+        "context_en": "Review of the 1973 Equity Funding scandal involving tens of thousands of computer-generated fake life insurance policies resold to reinsurance syndicates for cash flow.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/G372LoEB8N"
+    },
+    {
+        "id": "INT_001",
+        "category": "Espionage Notes",
+        "title_tr": "Tarihin En Büyük İstihbarat Sızıntısı: CIA ve MI6 Sovyetleri Nasıl Dinledi?",
+        "title_en": "Operation Gold / Stopwatch: The CIA-MI6 Subterranean Berlin Wiretap and Double Agent Blake",
+        "period": "1953-1956",
+        "key_entities": [ "CIA", "MI6", "KGB", "George Blake", "Allen Dulles" ],
+        "mechanism": "450 Metrelik Yeraltı Tüneliyle Askeri İletişim Kablosu Dinlemesi ve Çifte Ajan İhaneti",
+        "systemic_impact": "Soğuk Savaş sinyal istihbaratının (SIGINT) çifte ajanlar karşısındaki zafiyetinin kanıtlanması",
+        "keywords": [ "OperationGold", "BerlinTunnel", "GeorgeBlake", "SignalsIntelligence", "Wiretapping", "ColdWarEspionage" ],
+        "context_tr": "CIA ve MI6'in Doğu Berlin altına tünel kazarak Sovyet askeri iletişim hatlarını dinlemesi ve operasyonun çifte ajan George Blake tarafından KGB'ye ilk günden sızdırılması.",
+        "context_en": "Clandestine subterranean tunnel dug under East Berlin by CIA and MI6 to tap Soviet military cables, compromised from day one by British double agent George Blake.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/8RAGtWdXy1"
+    },
+    {
+        "id": "INT_002",
+        "category": "Espionage Notes",
+        "title_tr": "Brooklyn'deki Bozuk Paradan FBI Karşı İstihbarat Masasına Uzanan Ağ",
+        "title_en": "The Hollow Nickel Case: Cryptanalysis and the Capture of Soviet Master Spy Rudolf Abel",
+        "period": "1953-1957",
+        "key_entities": [ "FBI", "KGB Illegals Directorate", "Rudolf Abel (Vilyam Fisher)", "Reino Häyhänen" ],
+        "mechanism": "İçi Oyuk 5 Sentlik Madeni Para, Şifreli Mikrofilm ve Kriptoanaliz Takibi",
+        "systemic_impact": "Kuzey Amerika'daki en büyük Sovyet yasadışı casus ağının çökertilmesi ve tarihi casus takası",
+        "keywords": [ "HollowNickelCase", "RudolfAbel", "KGBIllegals", "FBICounterintelligence", "Microfilm", "Cryptanalysis" ],
+        "context_tr": "Manhattan'da düşürülen içi oyuk 5 sentlik madeni paradan çıkan mikrofilmin, FBI kriptologları tarafından deşifre edilerek Sovyet casus şefi Rudolf Abel'in yakalanmasına uzanan hikayesi.",
+        "context_en": "Counterintelligence case unraveling a premier Soviet illegal spy ring after an encrypted microfilm inside a 5-cent coin led to the FBI arrest of KGB master spy Rudolf Abel.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/3xRk7qfoOH"
+    },
+    {
+        "id": "GEO_001",
+        "category": "Geopolitical Conflict",
+        "title_tr": "1911 İran-Rusya Morgan Shuster Krizi: Kaçar Hanedanı Nasıl İflas Etti?",
+        "title_en": "The 1911 Iran-Russia Morgan Shuster Crisis: The Fiscal Collapse of the Qajar Dynasty",
+        "period": "1911",
+        "key_entities": [ "W. Morgan Shuster", "Qajar Dynasty", "Tsarist Russian Empire", "British Empire", "Persian Majlis" ],
+        "mechanism": "Mali Egemenlik Girişimi, Askeri Ültimatom, Kuzey İran'ın İşgali ve Meclis'in Zorla Kapatılması",
+        "systemic_impact": "Kaçar Hanedanı'nın mali bağımsızlığını tamamen yitirerek İngiliz-Rus nüfuz alanına teslim olması",
+        "keywords": [ "MorganShuster", "QajarDynasty", "GreatGame", "ImperialIntervention", "SovereignDebt", "GunboatDiplomacy" ],
+        "context_tr": "Kaçar Hanedanı maliyesini toparlamak için atanan Amerikalı danışman Morgan Shuster vakası; Çarlık Rusyası'nın askeri işgali ve İran meclisini basarak devleti iflasa sürükleyişi.",
+        "context_en": "Analysis of the 1911 fiscal crisis in Persia, where American advisor Morgan Shuster's revenue modernization triggered Russian invasion and the fiscal subjugation of Qajar Iran.",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/BDLyr4dtRr"
+    }
+]
