@@ -4,6 +4,7 @@
 [![Media Hub](https://img.shields.io/badge/YouTube-Stratiga-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@stratiga)
 [![License](https://img.shields.io/badge/License-Open%20Research-blue.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Language](https://img.shields.io/badge/Language-Bilingual%20(TR%20%2F%20EN)-green.svg?style=for-the-badge)](https://www.reddit.com/r/policystrategies/)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow?style=for-the-badge)](https://huggingface.co/datasets/stratigahq/policystrategies-archive)
 
 ---
 
@@ -63,6 +64,7 @@ We aggregate, document, and cross-reference declassified historical intelligence
 ## 🔗 Ecosystem Network
 
 * 🏛️ **Primary Discussion Hub:** [reddit.com/r/policystrategies](https://www.reddit.com/r/policystrategies)
+* 🤗 **Hugging Face AI Dataset:** [huggingface.co/datasets/stratigahq/policystrategies-archive](https://huggingface.co/datasets/stratigahq/policystrategies-archive)
 * 🎥 **Strategic Documentary & Video Channel:** [youtube.com/@stratiga](https://www.youtube.com/@stratiga)
 * 🇹🇷 **Turkish Financial Literacy Knowledge Base:** [reddit.com/r/Finans](https://www.reddit.com/r/Finans)
 
