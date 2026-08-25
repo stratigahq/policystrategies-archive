@@ -48,6 +48,21 @@ We aggregate, document, and cross-reference declassified historical intelligence
 
 ---
 
+## ⚖️ Evidence Level & Confidence Calibration Framework
+
+Each indexed record is mathematically evaluated based on source provenance, independent verification count, and institutional validation:
+
+| Confidence Score | Evidence Level | Verification Standard & Criteria |
+|---|---|---|
+| **1.00** | `documented` | Absolute verification via primary court filings, official central bank ledgers, or declassified state decrees. |
+| **0.95 – 0.99** | `documented` | Verified by multiple independent regulatory bodies, forensic audit reports, and primary oversight transcripts. |
+| **0.85 – 0.94** | `strongly_supported` | Robust institutional and academic consensus supported by primary witness testimonies and investigative records. |
+| **0.70 – 0.84** | `contested` | Partially verified with conflicting jurisdictional claims, intelligence disputes, or unconfirmed secondary accounts. |
+| **0.50 – 0.69** | `alleged` | Credible intelligence leaks, whistleblower testimonies, or operational claims awaiting declassification. |
+| **< 0.50** | `theoretical` | Theoretical economic models, non-empirical game theory frameworks, or unverified market speculation. |
+
+---
+
 ## 🗂️ Curated Case Studies & Research Dossiers
 
 ### 💰 Financial History & Market Manipulation
