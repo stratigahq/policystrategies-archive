@@ -62,6 +62,18 @@ Each indexed record is mathematically evaluated based on source provenance, inde
 | **< 0.50** | `theoretical` | Theoretical economic models, non-empirical game theory frameworks, or unverified market speculation. |
 
 ---
+### 🏷️ Source Role Taxonomy (`source_role`)
+
+| `source_role` | Definition (EN) | Anlam (TR) |
+|---|---|---|
+| **`foundational`** | Core primary evidence establishing the event | Olayın temel birincil kanıtı |
+| **`regulatory_evidence`** | Official regulatory or oversight agency proof | Düzenleyici kurumun resmî kanıtı |
+| **`judicial_record`** | Court transcripts, indictments, or legal rulings | Mahkeme / yargı kaydı |
+| **`historical_record`** | Contemporaneous archival or diplomatic documentation | Döneme ait arşivsel / diplomatik kayıt |
+| **`corroborating`** | Independent secondary source confirming facts | Başka kanıtları bağımsız destekleyen kaynak |
+| **`contextual`** | Historical, macroeconomic, or political background | Tarihsel / ekonomik / siyasi bağlam |
+| **`analytical`** | Academic, investigative, or forensic legal analysis | Akademik / uzman / adli analiz |
+---
 
 ## 🗂️ Curated Case Studies & Research Dossiers
 
