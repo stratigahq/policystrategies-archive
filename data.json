@@ -956,83 +956,83 @@
         ]
     },
     {
-  "id": "INT_004",
-  "category": "Espionage Notes",
-  "period": "1933-1944",
-  "source_url": "https://www.reddit.com/r/policystrategies/s/kN7cPNkveF",
-  "actors": [
-    "Richard Sorge",
-    "Hotsumi Ozaki",
-    "Eugen Ott",
-    "Max Clausen",
-    "Yotoku Miyagi",
-    "Fumimaro Konoe"
-  ],
-  "institutions": [
-    "Main Intelligence Directorate (GRU)",
-    "German Embassy Tokyo",
-    "Special Higher Police (Tokkō)",
-    "Kempeitai",
-    "South Manchuria Railway Company",
-    "Imperial Japanese Cabinet"
-  ],
-  "title_en": "Operation Ramsay: Strategic Infiltration of the Axis Core in Tokyo",
-  "mechanism_en": "Utilization of deep-cover Nazi journalist credentials to penetrate the German diplomatic mission, coupled with high-level cabinet access via Japanese advisors to transmit tactical and geopolitical intelligence to Moscow via clandestine HF radio transmissions.",
-  "systemic_impact_en": "Preempted a two-front war for the USSR by confirming Japanese southward expansion, enabling the redeployment of Far Eastern Siberian divisions to decisively alter the outcome of the Battle of Moscow.",
-  "context_en": "Operating under the Ramsay ring in Tokyo, Soviet GRU operative Richard Sorge cultivated unprecedented access to German Ambassador Eugen Ott and Imperial Japanese Cabinet secrets via Hotsumi Ozaki. This intelligence pipeline provided Moscow with pivotal confirmation of Operation Barbarossa and Japan's southern military pivot prior to the ring's compromise in October 1941.",
-  "keywords_en": [
-    "Richard Sorge",
-    "Ramsay Ring",
-    "GRU",
-    "Tokkō",
-    "Operation Barbarossa",
-    "Battle of Moscow",
-    "HUMINT",
-    "Hotsumi Ozaki"
-  ],
-  "faq_en": [
-    {
-      "q": "Who was Richard Sorge and how did he conduct Soviet espionage in Tokyo under a Nazi identity?",
-      "a": "Richard Sorge was a deep-cover Soviet GRU operative who joined the Nazi Party and worked as a correspondent for the Frankfurter Zeitung in Tokyo. By exploiting ideological trust, he became a trusted confidant and press advisor to German Ambassador Eugen Ott, gaining direct access to classified Berlin cables and embassy cipher rooms."
+        "id": "INT_004",
+        "category": "Espionage Notes",
+        "period": "1933-1944",
+        "source_url": "https://www.reddit.com/r/policystrategies/s/kN7cPNkveF",
+        "actors": [
+            "Richard Sorge",
+            "Hotsumi Ozaki",
+            "Eugen Ott",
+            "Max Clausen",
+            "Yotoku Miyagi",
+            "Fumimaro Konoe"
+        ],
+        "institutions": [
+            "Main Intelligence Directorate (GRU)",
+            "German Embassy Tokyo",
+            "Special Higher Police (Tokkō)",
+            "Kempeitai",
+            "South Manchuria Railway Company",
+            "Imperial Japanese Cabinet"
+        ],
+        "title_en": "Operation Ramsay: Strategic Infiltration of the Axis Core in Tokyo",
+        "mechanism_en": "Utilization of deep-cover Nazi journalist credentials to penetrate the German diplomatic mission, coupled with high-level cabinet access via Japanese advisors to transmit tactical and geopolitical intelligence to Moscow via clandestine HF radio transmissions.",
+        "systemic_impact_en": "Preempted a two-front war for the USSR by confirming Japanese southward expansion, enabling the redeployment of Far Eastern Siberian divisions to decisively alter the outcome of the Battle of Moscow.",
+        "context_en": "Operating under the Ramsay ring in Tokyo, Soviet GRU operative Richard Sorge cultivated unprecedented access to German Ambassador Eugen Ott and Imperial Japanese Cabinet secrets via Hotsumi Ozaki. This intelligence pipeline provided Moscow with pivotal confirmation of Operation Barbarossa and Japan's southern military pivot prior to the ring's compromise in October 1941.",
+        "keywords_en": [
+            "Richard Sorge",
+            "Ramsay Ring",
+            "GRU",
+            "Tokkō",
+            "Operation Barbarossa",
+            "Battle of Moscow",
+            "HUMINT",
+            "Hotsumi Ozaki"
+        ],
+        "faq_en": [
+            {
+                "q": "Who was Richard Sorge and how did he conduct Soviet espionage in Tokyo under a Nazi identity?",
+                "a": "Richard Sorge was a deep-cover Soviet GRU operative who joined the Nazi Party and worked as a correspondent for the Frankfurter Zeitung in Tokyo. By exploiting ideological trust, he became a trusted confidant and press advisor to German Ambassador Eugen Ott, gaining direct access to classified Berlin cables and embassy cipher rooms."
+            },
+            {
+                "q": "How did the Ramsay espionage ring alter the course of World War II and the Defense of Moscow?",
+                "a": "In September 1941, the ring confirmed that Imperial Japan would advance southward into the Pacific rather than attacking Soviet Siberia. This definitive geopolitical intelligence enabled the Red Army to redeploy critical Far Eastern Siberian divisions to the western front, halting the German advance on Moscow."
+            },
+            {
+                "q": "How did the Japanese Special Higher Police (Tokkō) dismantle the Hotsumi Ozaki and Richard Sorge network?",
+                "a": "Tokkō uncovered the network through counter-intelligence surveillance of domestic left-wing circles, tracing courier Yotoku Miyagi to senior cabinet advisor Hotsumi Ozaki, who was arrested on October 14, 1941. Interrogations and physical evidence led directly to Sorge's arrest on October 18, 1941, with encryption materials and classified documents recovered at his residence."
+            }
+        ],
+        "title_tr": "Ramsay Operasyonu: Tokyo'da Mihver İttifakı Merkezine Stratejik Sızma",
+        "mechanism_tr": "Resmi Nazi kimliği ve gazeteci örtüsüyle Alman Büyükelçiliği kripto odasına sızılması ve Japon Başbakanlık danışman kadrosundan elde edilen kabine kararlarının Tokyo banliyölerinden Moskova'ya gizli telsiz dalgalarıyla aktarılması mekanizması.",
+        "systemic_impact_tr": "Japonya'nın Sibirya yerine Güney Pasifik'e yöneleceğini kesinleştirerek Kızıl Ordu'nun Uzak Doğu tümenlerini batıya kaydırmasını sağlamış, SSCB'yi iki cepheli savaştan kurtararak Moskova Savunması'nın sonucunu tayin etmiştir.",
+        "context_tr": "Sovyet GRU ajanı Richard Sorge, Tokyo'da kurduğu Ramsay şebekesiyle Alman Büyükelçisi Eugen Ott ve Japon Başbakanı'nın danışmanı Hotsumi Ozaki üzerinden en üst düzey stratejik planlara erişim sağlamıştır. Ağ, Barbarossa Harekâtı ve Japonya'nın güney stratejisi gibi kritik istihbaratları Moskova'ya aktardıktan sonra Ekim 1941'de Tokkō takibiyle çökertilmiştir.",
+        "keywords_tr": [
+            "Richard Sorge",
+            "Ramsay Şebekesi",
+            "GRU",
+            "Tokkō",
+            "Barbarossa Harekâtı",
+            "Moskova Savunması",
+            "HUMINT",
+            "Hotsumi Ozaki"
+        ],
+        "faq_tr": [
+            {
+                "q": "Richard Sorge kimdir ve Nazi kimliğiyle Tokyo'da Sovyet casusluğunu nasıl yürüttü?",
+                "a": "Richard Sorge, Nazi Partisi üyesi ve Frankfurter Zeitung muhabiri kimliğiyle Tokyo'da görev yapan Sovyet GRU ajanıdır. Alman Büyükelçisi General Eugen Ott'un resmi basın danışmanı ve yakın dostu olarak büyükelçilikteki kripto odasına ve Berlin'den gelen en gizli askeri yazışmalara doğrudan erişim sağlamıştır."
+            },
+            {
+                "q": "Ramsay casusluk şebekesi II. Dünya Savaşı'nın ve Moskova Savunması'nın seyrini nasıl değiştirdi?",
+                "a": "Eylül 1941'de Japonya'nın SSCB'ye (Sibirya) saldırmayacağını ve Güney Pasifik'e odaklanacağını Moskova'ya kesin olarak bildirmiştir. Bu teyit sayesinde Sovyet yönetimi Uzak Doğu'daki dinç Sibirya tümenlerini başkentin savunması için batı cephesine kaydırmış ve Moskova'nın düşmesini engellemiştir."
+            },
+            {
+                "q": "Japon Düşünce Polisi Tokkō, Hotsumi Ozaki ve Richard Sorge ağını nasıl çökertti?",
+                "a": "Tokkō'nun yerel sol örgütlere yönelik takibi sırasında şebekenin kuryesi Yotoku Miyagi tespit edilmiş, temas zinciri çözülerek 14 Ekim 1941'de Başbakanlık danışmanı Hotsumi Ozaki tutuklanmıştır. İfadeler doğrultusunda 18 Ekim 1941'de Sorge'nin evine baskın yapılmış ve telsiz kodları ile diplomatik belgeler ele geçirilerek şebeke tasfiye edilmiştir."
+            }
+        ]
     },
-    {
-      "q": "How did the Ramsay espionage ring alter the course of World War II and the Defense of Moscow?",
-      "a": "In September 1941, the ring confirmed that Imperial Japan would advance southward into the Pacific rather than attacking Soviet Siberia. This definitive geopolitical intelligence enabled the Red Army to redeploy critical Far Eastern Siberian divisions to the western front, halting the German advance on Moscow."
-    },
-    {
-      "q": "How did the Japanese Special Higher Police (Tokkō) dismantle the Hotsumi Ozaki and Richard Sorge network?",
-      "a": "Tokkō uncovered the network through counter-intelligence surveillance of domestic left-wing circles, tracing courier Yotoku Miyagi to senior cabinet advisor Hotsumi Ozaki, who was arrested on October 14, 1941. Interrogations and physical evidence led directly to Sorge's arrest on October 18, 1941, with encryption materials and classified documents recovered at his residence."
-    }
-  ],
-  "title_tr": "Ramsay Operasyonu: Tokyo'da Mihver İttifakı Merkezine Stratejik Sızma",
-  "mechanism_tr": "Resmi Nazi kimliği ve gazeteci örtüsüyle Alman Büyükelçiliği kripto odasına sızılması ve Japon Başbakanlık danışman kadrosundan elde edilen kabine kararlarının Tokyo banliyölerinden Moskova'ya gizli telsiz dalgalarıyla aktarılması mekanizması.",
-  "systemic_impact_tr": "Japonya'nın Sibirya yerine Güney Pasifik'e yöneleceğini kesinleştirerek Kızıl Ordu'nun Uzak Doğu tümenlerini batıya kaydırmasını sağlamış, SSCB'yi iki cepheli savaştan kurtararak Moskova Savunması'nın sonucunu tayin etmiştir.",
-  "context_tr": "Sovyet GRU ajanı Richard Sorge, Tokyo'da kurduğu Ramsay şebekesiyle Alman Büyükelçisi Eugen Ott ve Japon Başbakanı'nın danışmanı Hotsumi Ozaki üzerinden en üst düzey stratejik planlara erişim sağlamıştır. Ağ, Barbarossa Harekâtı ve Japonya'nın güney stratejisi gibi kritik istihbaratları Moskova'ya aktardıktan sonra Ekim 1941'de Tokkō takibiyle çökertilmiştir.",
-  "keywords_tr": [
-    "Richard Sorge",
-    "Ramsay Şebekesi",
-    "GRU",
-    "Tokkō",
-    "Barbarossa Harekâtı",
-    "Moskova Savunması",
-    "HUMINT",
-    "Hotsumi Ozaki"
-  ],
-  "faq_tr": [
-    {
-      "q": "Richard Sorge kimdir ve Nazi kimliğiyle Tokyo'da Sovyet casusluğunu nasıl yürüttü?",
-      "a": "Richard Sorge, Nazi Partisi üyesi ve Frankfurter Zeitung muhabiri kimliğiyle Tokyo'da görev yapan Sovyet GRU ajanıdır. Alman Büyükelçisi General Eugen Ott'un resmi basın danışmanı ve yakın dostu olarak büyükelçilikteki kripto odasına ve Berlin'den gelen en gizli askeri yazışmalara doğrudan erişim sağlamıştır."
-    },
-    {
-      "q": "Ramsay casusluk şebekesi II. Dünya Savaşı'nın ve Moskova Savunması'nın seyrini nasıl değiştirdi?",
-      "a": "Eylül 1941'de Japonya'nın SSCB'ye (Sibirya) saldırmayacağını ve Güney Pasifik'e odaklanacağını Moskova'ya kesin olarak bildirmiştir. Bu teyit sayesinde Sovyet yönetimi Uzak Doğu'daki dinç Sibirya tümenlerini başkentin savunması için batı cephesine kaydırmış ve Moskova'nın düşmesini engellemiştir."
-    },
-    {
-      "q": "Japon Düşünce Polisi Tokkō, Hotsumi Ozaki ve Richard Sorge ağını nasıl çökertti?",
-      "a": "Tokkō'nun yerel sol örgütlere yönelik takibi sırasında şebekenin kuryesi Yotoku Miyagi tespit edilmiş, temas zinciri çözülerek 14 Ekim 1941'de Başbakanlık danışmanı Hotsumi Ozaki tutuklanmıştır. İfadeler doğrultusunda 18 Ekim 1941'de Sorge'nin evine baskın yapılmış ve telsiz kodları ile diplomatik belgeler ele geçirilerek şebeke tasfiye edilmiştir."
-    }
-  ]
-},
     {
         "id": "GEO_001",
         "category": "Geopolitical Conflict",
