@@ -3,6 +3,8 @@
         "id": "FIN_001",
         "category": "Finance History",
         "period": "1993-1997",
+        "start_year": "1993",
+        "end_year": "1997",
         "source_url": "https://www.reddit.com/r/policystrategies/s/waXGDpQoed",
         "actors": [
             "John Felderhof",
@@ -27,6 +29,37 @@
             "CommoditiesFraud",
             "MarketManipulation",
             "SaltedCores"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Bre-X discovered the world's richest gold deposit in Busang, claiming over 200 million ounces of mineable reserves.",
+            "actual_reality": "Zero economic gold existed in the deposit; volcanic core drill samples were systematically salted with shaved jewelry and river gold dust."
+        },
+        "causal_chain_en": {
+            "trigger": "Bre-X acquires the Busang property in Indonesia to escape bankruptcy, claiming immense gold assay intercepts.",
+            "execution": "Chief geologist Michael de Guzman salts core samples for years, driving penny shares into a $6 billion market bubble.",
+            "collapse": "Independent audits by partner Freeport-McMoRan reveal zero gold, De Guzman falls from a helicopter, and Bre-X shares crash to zero."
+        },
+        "relationships_en": [
+            {
+                "source": "Michael de Guzman",
+                "relation": "falsified_assays_for",
+                "target": "Bre-X Minerals"
+            },
+            {
+                "source": "Bre-X Minerals",
+                "relation": "misled_investors_on",
+                "target": "Toronto Stock Exchange"
+            },
+            {
+                "source": "Freeport-McMoRan",
+                "relation": "uncovered_fraud_at",
+                "target": "Busang Mine"
+            },
+            {
+                "source": "Lehman Brothers",
+                "relation": "issued_buy_ratings_for",
+                "target": "Bre-X Stock"
+            }
         ],
         "faq_en": [
             {
@@ -53,6 +86,37 @@
             "BorsaManipülasyonu",
             "EmtiaDolandırıcılığı"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Bre-X, Endonezya Busang'da 200 milyon onsu aşan rezervle tarihin en zengin altın yatağını keşfettiğini iddia etti.",
+            "gercek_durum": "Madende ekonomik hiçbir altın yoktu; volkanik kaya numunelerine nehirlerden ve altın takılardan kazınan mikroskobik tozlar serpiştirilmişti."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "İflasın eşiğindeki Bre-X şirketi, Busang arazisinde devasa altın bulduğunu duyurarak küresel sermaye piyasalarından fon toplamaya başladı.",
+            "uygulama": "Baş jeolog De Guzman yıllarca karot numunelerini tuzlayarak sahte laboratuvar raporlarıyla kuruşluk hisseleri milyarlarca dolarlık deve dönüştürdü.",
+            "cokus": "Ortak Freeport'un bağımsız tahlillerinde hiç altın çıkmaması ve De Guzman'ın helikopterden şüpheli ölümüyle hisseler sıfırlandı ve şirket battı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Michael de Guzman",
+                "iliski": "sahte_tahlil_uretti",
+                "hedef": "Bre-X Minerals"
+            },
+            {
+                "kaynak": "Bre-X Minerals",
+                "iliski": "yatirimcilari_yaniltti",
+                "hedef": "Toronto Borsası"
+            },
+            {
+                "kaynak": "Freeport-McMoRan",
+                "iliski": "sahtekarligi_ortaya_cikardi",
+                "hedef": "Busang Madeni"
+            },
+            {
+                "kaynak": "Lehman Brothers",
+                "iliski": "al_tavsiyesi_verdi",
+                "hedef": "Bre-X Hisseleri"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "Bre-X altın madeni skandalı nedir ve nasıl ortaya çıktı?",
@@ -72,6 +136,8 @@
         "id": "FIN_002",
         "category": "Finance History",
         "period": "1982",
+        "start_year": "1982",
+        "end_year": "1982",
         "source_url": "https://www.reddit.com/r/policystrategies/s/fiNc6z6Sk8",
         "actors": [
             "Vladimir Vetrov (Farewell)",
@@ -95,7 +161,44 @@
             "EconomicWarfare",
             "SovietEnergy",
             "PipelineSabotage",
-            "SCADA"
+            "SCADA",
+            "LogicBomb"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "The Soviet government claimed the Trans-Siberian pipeline was operating on secure domestic automated controls and attributed pipeline ruptures to standard industrial material defects.",
+            "actual_reality": "The pipeline automated SCADA software had been covertly stolen from a Canadian firm via Line X and deliberately weaponized by the CIA with a hidden logic bomb to trigger pressure overload."
+        },
+        "causal_chain_en": {
+            "trigger": "KGB Colonel Vladimir Vetrov leaks the Farewell Dossier to French DST, exposing the entire Soviet Line X industrial espionage shopping list.",
+            "execution": "The CIA secretly modifies automated SCADA pipeline control software ordered by Soviet front companies with a dormant logic bomb.",
+            "collapse": "The software enters service in Siberia, resetting pump speeds and valve pressures to trigger a massive non-nuclear explosion that disrupts gas revenues to Western Europe."
+        },
+        "relationships_en": [
+            {
+                "source": "Vladimir Vetrov (Farewell)",
+                "relation": "leaked_line_x_dossier_to",
+                "target": "Direction de la Surveillance du Territoire (DST)"
+            },
+            {
+                "source": "DST",
+                "relation": "transferred_intelligence_to",
+                "target": "CIA"
+            },
+            {
+                "source": "Gus W. Weiss",
+                "relation": "devised_deception_strategy_for",
+                "target": "CIA"
+            },
+            {
+                "source": "CIA",
+                "relation": "weaponized_scada_software_against",
+                "target": "Soviet Ministry of Gas"
+            },
+            {
+                "source": "KGB (Line X Directorate T)",
+                "relation": "acquired_compromised_software_for",
+                "target": "Trans-Siberian Pipeline"
+            }
         ],
         "faq_en": [
             {
@@ -121,7 +224,44 @@
             "EkonomikSavaş",
             "SovyetEnerjisi",
             "BoruHattıSabotajı",
-            "SCADA"
+            "SCADA",
+            "MantıkBombası"
+        ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Sovyet yönetimi Trans-Sibirya boru hattının güvenli yerli sistemlerle yönetildiğini iddia etti ve patlamayı sıradan mekanik malzeme yorgunluğuna bağladı.",
+            "gercek_durum": "Boru hattı kontrol yazılımı KGB tarafından Kanada'dan çalınmış ve CIA tarafından vanaları patlatacak gizli bir mantık bombasıyla kasten modifiye edilmişti."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "KGB Albayı Vladimir Vetrov'un Fransız istihbaratına (DST) sızdırdığı Farewell Dosyası, Sovyetlerin Batı'dan çalmayı planladığı teknoloji listesini deşifre etti.",
+            "uygulama": "CIA, Sovyet paravan şirketlerinin çalacağı Kanada yapımı SCADA boru hattı kontrol yazılımına gizli bir mantık bombası (truva atı) yerleştirdi.",
+            "cokus": "Yazılım Sibirya'da devreye girdiğinde basınç vanalarını aşırı yükleyerek devasa bir patlamaya yol açtı ve Sovyetlerin Avrupa'ya gaz satarak döviz kazanmasını felç etti."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Vladimir Vetrov (Farewell)",
+                "iliski": "line_x_dosyasini_sizdirdi",
+                "hedef": "Direction de la Surveillance du Territoire (DST)"
+            },
+            {
+                "kaynak": "DST",
+                "iliski": "istihbarati_teslim_etti",
+                "hedef": "CIA"
+            },
+            {
+                "kaynak": "Gus W. Weiss",
+                "iliski": "sabotaj_planini_hazirladi",
+                "hedef": "CIA"
+            },
+            {
+                "kaynak": "CIA",
+                "iliski": "truva_ati_yazilimini_kullandi",
+                "hedef": "Sovyet Gaz Bakanlığı"
+            },
+            {
+                "kaynak": "KGB (Line X)",
+                "iliski": "modifiye_yazilimi_caldi",
+                "hedef": "Trans-Sibirya Boru Hattı"
+            }
         ],
         "faq_tr": [
             {
@@ -142,6 +282,8 @@
         "id": "FIN_003",
         "category": "Finance History",
         "period": "1945-1952",
+        "start_year": "1945",
+        "end_year": "1952",
         "source_url": "https://www.reddit.com/r/policystrategies/s/PFUYY5vYtY",
         "actors": [
             "Matyas Rakosi",
@@ -165,7 +307,39 @@
             "BudapestBourse",
             "PragueExchange",
             "PostWarFinance",
-            "Expropriation"
+            "Expropriation",
+            "Hyperinflation"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Postwar coalition governments claimed equity trading was reopening under free-market principles to support national reconstruction and curb speculative inflation.",
+            "actual_reality": "Regimes weaponized decree-driven price caps, confiscatory tax audits, and hyperinflation to bankrupt private shareholders, seizing corporate equity for the state without compensation."
+        },
+        "causal_chain_en": {
+            "trigger": "Budapest and Prague bourses reopen after WWII amid severe war damage and private capital reconstruction efforts.",
+            "execution": "Soviet-backed communist ministries impose administrative profit caps, sudden listing delistings, and targeted arrests of major shareholders as class enemies.",
+            "collapse": "Private equity values plunge to zero, the 1948 Prague Coup seals central control, and both trading floors are formally shut down and absorbed into command economies."
+        },
+        "relationships_en": [
+            {
+                "source": "Matyas Rakosi",
+                "relation": "enforced_nationalization_policies_in",
+                "target": "Budapest Stock Exchange"
+            },
+            {
+                "source": "Klement Gottwald",
+                "relation": "orchestrated_post_coup_liquidation_of",
+                "target": "Prague Stock Exchange"
+            },
+            {
+                "source": "Soviet Military Administration",
+                "relation": "mandated_command_economy_over",
+                "target": "Hungarian National Bank"
+            },
+            {
+                "source": "Czechoslovak Ministry of Finance",
+                "relation": "expropriated_private_equity_from",
+                "target": "Prague Stock Exchange"
+            }
         ],
         "faq_en": [
             {
@@ -193,6 +367,37 @@
             "SavaşSonrasıFinans",
             "Mülksüzleştirme"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Savaş sonrası geçiş hükümetleri, borsaların ulusal yeniden inşayı finanse etmek ve serbest piyasayı canlandırmak amacıyla açıldığını iddia etti.",
+            "gercek_durum": "Borsalar ve şirketler; yapay hiperenflasyon, kâr tavanı kararnameleri ve vergi cezalarıyla kasten iflas ettirilerek özel mülkiyet tazminatsız şekilde devlete devredildi."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "2. Dünya Savaşı'nın yıkımı ardından Budapeşte ve Prag borsaları yeniden açılarak özel sektör sermayesiyle toparlanma süreci başlatıldı.",
+            "uygulama": "Sovyet güdümlü bakanlıklar kâr sınırlamaları getirdi, kotasyon kurallarını bozdu ve büyük hisse sahiplerini 'vatan haini spekülatör' ilan ederek gözaltına aldı.",
+            "cokus": "Hisse senetlerinin değeri sıfırlandı, 1948 darbesiyle tüm sermaye piyasaları tamamen kapatılarak sanayi tesisleri bedelsiz kamulaştırıldı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Matyas Rakosi",
+                "iliski": "kamulastirma_baskisi_uyguladi",
+                "hedef": "Budapeşte Borsası"
+            },
+            {
+                "kaynak": "Klement Gottwald",
+                "iliski": "darbe_sonrasi_tasfiyeyi_yonetti",
+                "hedef": "Prag Borsası"
+            },
+            {
+                "kaynak": "Sovyet Askeri İdaresi",
+                "iliski": "merkezi_planlama_dikte_etti",
+                "hedef": "Macaristan Ulusal Bankası"
+            },
+            {
+                "kaynak": "Çekoslovakya Maliye Bakanlığı",
+                "iliski": "hisseleri_tazminatsiz_devraldi",
+                "hedef": "Prag Borsası"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "Sovyetler Birliği 1948 sonrası Budapeşte ve Prag borsalarını nasıl kapattı?",
@@ -212,6 +417,8 @@
         "id": "FIN_004",
         "category": "Finance History",
         "period": "1940-1944",
+        "start_year": "1940",
+        "end_year": "1944",
         "source_url": "https://www.reddit.com/r/policystrategies/s/mFOh7VjHdK",
         "actors": [
             "Otto Abetz",
@@ -238,7 +445,39 @@
             "BearerShares",
             "WarFinance",
             "CCDVT",
-            "OccupiedFrance"
+            "OccupiedFrance",
+            "PricePegging"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "The German Military Administration and Vichy Government claimed the reorganization of the Paris Bourse and CCDVT centralization were technical modernization measures to protect French investors from wartime currency speculation.",
+            "actual_reality": "The reforms systematically destroyed financial anonymity, identified private wealth for expropriation, and pegged equity prices to channel all French domestic liquidity directly into German occupation war debt."
+        },
+        "causal_chain_en": {
+            "trigger": "Following the 1940 fall of France, the Third Reich seeks to finance occupation costs and redirect French capital into the German war economy.",
+            "execution": "Reichsbank commissioners shut down the unofficial 'Coulisse' trading floor, mandate CCDVT share registration to identify bearer-share holders, and enforce arbitrary price floors and ceilings.",
+            "collapse": "French securities markets become entirely illiquid puppet instruments; post-liberation audits in 1944 dismantle Nazi price mandates and transform CCDVT into the modern French securities clearing house."
+        },
+        "relationships_en": [
+            {
+                "source": "Reichsbank",
+                "relation": "imposed_supervisory_commissars_on",
+                "target": "Paris Bourse"
+            },
+            {
+                "source": "Otto Abetz",
+                "relation": "coordinated_economic_extraction_with",
+                "target": "Vichy Regime"
+            },
+            {
+                "source": "Vichy Regime",
+                "relation": "mandated_share_centralization_via",
+                "target": "CCDVT (Caisse Centrale de Dépôts et de Virements de Titres)"
+            },
+            {
+                "source": "CCDVT",
+                "relation": "eliminated_trading_freedom_of",
+                "target": "Coulisse Market"
+            }
         ],
         "faq_en": [
             {
@@ -265,7 +504,39 @@
             "HamilineHisse",
             "SavaşFinansı",
             "CCDVT",
-            "Naziİşgali"
+            "Naziİşgali",
+            "FiyatSabitleme"
+        ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Alman Askeri İdaresi ve Vichy Hükümeti, Paris Borsası'nın yeniden yapılandırılması ve CCDVT merkezileşmesinin Fransız yatırımcıları savaş dönemi spekülasyonlarından korumak için teknik bir modernizasyon olduğunu iddia etti.",
+            "gercek_durum": "Reformlar finansal gizliliği tamamen yok etti, özel servet sahiplerini fişledi ve hisse fiyatlarını yapay sabitleyerek tüm Fransız likiditesini doğrudan Alman savaş tahvillerine aktardı."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "1940'ta Fransa'nın işgali ardından Nazi Almanyası, işgal masraflarını finanse etmek ve Fransız sermayesini Alman savaş ekonomisine çekmek için harekete geçti.",
+            "uygulama": "Reichsbank komiserleri gayriresmi serbest pazar 'Coulisse'i kapattı, CCDVT aracılığıyla tüm hamiline hisseleri fişledi ve borsa seanslarında yapay taban/tavan fiyatları zorunlu kıldı.",
+            "cokus": "Fransız borsa piyasası tamamen kukla bir likidite tuzağına dönüştü; 1944 kurtuluşu sonrası Nazi fiyat kontrolleri lağvedildi ve CCDVT modern Fransız takas kurumuna dönüştürüldü."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Reichsbank",
+                "iliski": "denetim_komiserleri_atadi",
+                "hedef": "Paris Borsası"
+            },
+            {
+                "kaynak": "Otto Abetz",
+                "iliski": "ekonomik_tasfiyeyi_koordine_etti",
+                "hedef": "Vichy Hükümeti"
+            },
+            {
+                "kaynak": "Vichy Hükümeti",
+                "iliski": "hisselerin_merkezilesmesini_zorunlu_kildi",
+                "hedef": "CCDVT"
+            },
+            {
+                "kaynak": "CCDVT",
+                "iliski": "serbest_ticareti_kapatti",
+                "hedef": "Coulisse Pazarı"
+            }
         ],
         "faq_tr": [
             {
@@ -286,6 +557,8 @@
         "id": "FIN_005",
         "category": "Finance History",
         "period": "1950-1956",
+        "start_year": "1950",
+        "end_year": "1956",
         "source_url": "https://www.reddit.com/r/policystrategies/s/3N7dVwaQEB",
         "actors": [
             "Greek Shipowner Syndicate",
@@ -312,6 +585,37 @@
             "AccountingDeception",
             "ShippingRally",
             "BalticExchange"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Shipping syndicates and listed brokerages claimed extensive multi-year freight charters with industrial conglomerates, guaranteeing multi-million-pound cash flows.",
+            "actual_reality": "The freight charters were circular paper contracts between shell companies, while cargo vessels either sat idle in port or sailed empty ballast voyages without cargo."
+        },
+        "causal_chain_en": {
+            "trigger": "The post-WWII global trade boom sparks speculative investment in maritime transport and London-listed shipping equities.",
+            "execution": "Shipowners fabricate circular freight contracts between shell charterers, booking projected phantom freight revenues to trigger stock market rallies.",
+            "collapse": "Port audits and Lloyd's claims investigations reveal unladen ghost fleets; stock valuations collapse, leading to Admiralty court arbitrations."
+        },
+        "relationships_en": [
+            {
+                "source": "Greek Shipowner Syndicate",
+                "relation": "fabricated_charter_contracts_for",
+                "target": "London Stock Exchange"
+            },
+            {
+                "source": "Piraeus Maritime Brokers",
+                "relation": "routed_fictitious_bills_of_lading_to",
+                "target": "Baltic Exchange"
+            },
+            {
+                "source": "Lloyd's of London",
+                "relation": "investigated_fraudulent_claims_from",
+                "target": "Greek Shipowner Syndicate"
+            },
+            {
+                "source": "High Court of Admiralty",
+                "relation": "arbitrated_defaulted_disputes_against",
+                "target": "Piraeus Maritime Registry"
+            }
         ],
         "faq_en": [
             {
@@ -340,6 +644,37 @@
             "GemiRallisi",
             "BalticExchange"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Gemicilik sendikaları ve borsada kote şirketler, küresel sanayi devleriyle uzun vadeli navlun sözleşmeleri imzaladıklarını ve milyonlarca sterlinlik garantili nakit akışına sahip olduklarını iddia etti.",
+            "gercek_durum": "Navlun sözleşmeleri paravan şirketler arasında dönen hayali kağıtlardan ibaretti; kargo gemileri ya limanlarda paslanıyor ya da denizlerde tamamen boş dolaşıyordu."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "2. Dünya Savaşı sonrası küresel ticaretin canlanması, deniz taşımacılığı ve Londra Borsası'ndaki gemicilik hisselerinde spekülatif bir yatırım çılgınlığı başlattı.",
+            "uygulama": "Armatörler paravan kiralama şirketleri arasında hayali navlun sözleşmeleri imzalayıp gelecek gelirleri peşinen bilançolara yazarak borsa rallisi yarattı.",
+            "cokus": "Liman denetimleri ve Lloyd's sigorta soruşturmaları gemilerin bomboş dolaştığını ortaya çıkardı; hisseler çöktü ve armatörler deniz tahkim mahkemelerinde tasfiye edildi."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Yunan Armatörler Sendikası",
+                "iliski": "sahte_navlun_sozlesmeleri_sundu",
+                "hedef": "Londra Borsası"
+            },
+            {
+                "kaynak": "Pire Denizcilik Komisyoncuları",
+                "iliski": "fiktif_konsimento_trafigi_yaratti",
+                "hedef": "Baltic Exchange"
+            },
+            {
+                "kaynak": "Lloyd's of London",
+                "iliski": "sahte_tazminat_sorusturmasi_acti",
+                "hedef": "Yunan Armatörler Sendikası"
+            },
+            {
+                "kaynak": "Admiralty Tahkim Mahkemesi",
+                "iliski": "iflas_ve_tasfiye_kararlari_verdi",
+                "hedef": "Pire Gemi Sicili"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "1950'lerdeki hayali navlun manipülasyonu Londra Borsası'nı nasıl etkiledi?",
@@ -359,6 +694,8 @@
         "id": "FIN_006",
         "category": "Finance History",
         "period": "1952-1955",
+        "start_year": "1952",
+        "end_year": "1955",
         "source_url": "https://www.reddit.com/r/policystrategies/s/yuR0Fjffwc",
         "actors": [
             "Hamburg Coffee Importers",
@@ -385,6 +722,37 @@
             "CollateralFraud",
             "PostWarGermany",
             "Speicherstadt"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Importers and warehouse custodians certified that Speicherstadt port facilities held thousands of tons of premium imported Brazilian coffee beans pledged as solvent collateral.",
+            "actual_reality": "Only the top two inches of the warehouse sacks contained authentic coffee beans, while the lower bulk was loaded with worthless gravel, construction rubble, and sawdust."
+        },
+        "causal_chain_en": {
+            "trigger": "Severe post-WWII coffee shortages and high luxury tariffs in West Germany create an acute commodity credit and speculation boom.",
+            "execution": "Importers forge warehouse warrants on gravel-filled sacks topped with coffee, securing millions in Deutsche Mark commercial bank loans to inflate trading shares.",
+            "collapse": "Defaulted loans force creditor banks to seize and core-sample warehouse sacks, exposing the sawdust layers and bankrupting commodity brokerages on the Hamburg exchange."
+        },
+        "relationships_en": [
+            {
+                "source": "Hamburg Coffee Importers",
+                "relation": "pledged_fraudulent_warrants_to",
+                "target": "Deutsche Bank"
+            },
+            {
+                "source": "Speicherstadt Warehouse Keepers",
+                "relation": "falsified_storage_receipts_for",
+                "target": "Hamburg Commodity Exchange (Waren- und Produktenbörse)"
+            },
+            {
+                "source": "Deutsche Bank",
+                "relation": "seized_and_audited_collateral_at",
+                "target": "Hamburg Port Authority (Speicherstadt)"
+            },
+            {
+                "source": "West German Ministry of Economic Affairs",
+                "relation": "tightened_commodity_warrant_rules_for",
+                "target": "Brazilian Coffee Importers Guild"
+            }
         ],
         "faq_en": [
             {
@@ -413,6 +781,37 @@
             "SavaşSonrasıAlmanya",
             "Speicherstadt"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "İthalatçılar ve antrepo işletmecileri, Speicherstadt liman depolarında banka kredilerine teminat olarak binlerce ton yüksek kaliteli Brezilya kahvesi bulunduğunu beyan etti.",
+            "gercek_durum": "Çuvalların sadece en üstteki iki parmaklık katmanı gerçek kahve çekirdeğiyle doluydu; çuvalların alt kısımları tamamen değersiz taş, moloz ve talaşla doldurulmuştu."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "2. Dünya Savaşı sonrası Batı Almanya'da yaşanan kahve kıtlığı ve yüksek gümrük vergileri, emtiaya dayalı spekülatif bir kredi patlaması yarattı.",
+            "uygulama": "İthalatçılar üstü kahve, altı taş dolu çuvallara sahte depo makbuzları (warrants) düzenleyerek bankalardan milyonlarca Mark kredi topladı ve borsa hisselerini şişirdi.",
+            "cokus": "Vadesi gelen kredilerin ödenememesi üzerine bankalar depolardaki çuvalları delerek teftiş etti; taş ve talaş dökülmesiyle borsa hisseleri çöktü ve ithalatçılar tutuklandı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Hamburg Kahve İthalatçıları",
+                "iliski": "sahte_varant_teminati_verdi",
+                "hedef": "Deutsche Bank"
+            },
+            {
+                "kaynak": "Speicherstadt Depo İşletmecileri",
+                "iliski": "fiktif_makbuz_duzenledi",
+                "hedef": "Hamburg Emtia Borsası"
+            },
+            {
+                "kaynak": "Deutsche Bank",
+                "iliski": "teminata_el_koyup_numune_aldi",
+                "hedef": "Hamburg Liman İdaresi"
+            },
+            {
+                "kaynak": "Batı Almanya Ekonomi Bakanlığı",
+                "iliski": "varant_denetimlerini_zorunlu_kildi",
+                "hedef": "Brezilya Kahve İthalatçıları Birliği"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "1950'ler Almanya'sında sahte depo makbuzu (warrant) ile yapılan kahve vurgunu nedir?",
@@ -432,6 +831,8 @@
         "id": "FIN_007",
         "category": "Finance History",
         "period": "1973-1980",
+        "start_year": "1973",
+        "end_year": "1980",
         "source_url": "https://www.reddit.com/r/policystrategies/s/HUFeN7dtZT",
         "actors": [
             "David Graiver",
@@ -461,6 +862,42 @@
             "OffshoreFinance",
             "AmericanBankAndTrust"
         ],
+        "claims_vs_reality_en": {
+            "official_claim": "Financier David Graiver portrayed his international banking conglomerate as a solvent merchant banking empire backing agricultural development and sugar cane commodity derivatives.",
+            "actual_reality": "The banks were insolently leveraged offshore vehicles used to wash $17M in Montoneros terrorist ransom money via circular fictitious inter-company credit and non-existent sugar cane contracts."
+        },
+        "causal_chain_en": {
+            "trigger": "Montoneros guerrillas entrust $17 million in ransom proceeds from the Bunge & Born kidnapping to financier David Graiver for offshore money laundering.",
+            "execution": "Graiver acquires American Bank & Trust in New York and Banque pour l'Amérique du Sud in Brussels, generating circular loans secured by phantom sugar cane commodity paper.",
+            "collapse": "David Graiver dies in an August 1976 Mexican jet crash; the credit pyramid halts, New York regulators seize the bank, and his family is detained in Argentina."
+        },
+        "relationships_en": [
+            {
+                "source": "Montoneros",
+                "relation": "transferred_ransom_capital_to",
+                "target": "David Graiver"
+            },
+            {
+                "source": "David Graiver",
+                "relation": "routed_fictitious_agricultural_loans_through",
+                "target": "American Bank & Trust (New York)"
+            },
+            {
+                "source": "David Graiver",
+                "relation": "acquired_and_leveraged",
+                "target": "Banque pour l'Amérique du Sud (Brussels)"
+            },
+            {
+                "source": "New York State Banking Department",
+                "relation": "liquidated_and_closed",
+                "target": "American Bank & Trust (New York)"
+            },
+            {
+                "source": "Robert Morgenthau",
+                "relation": "indicted_network_associates_of",
+                "target": "David Graiver"
+            }
+        ],
         "faq_en": [
             {
                 "q": "What was the David Graiver and Montoneros ransom money laundering operation?",
@@ -488,6 +925,42 @@
             "OffshoreFinans",
             "AmericanBankAndTrust"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Banker David Graiver, çok uluslu bankacılık grubunun tarımsal kalkınmayı ve şeker kamışı emtia vadeli işlemlerini finanse eden saygın bir yatırım imparatorluğu olduğunu iddia etti.",
+            "gercek_durum": "Bankalar, Montoneros gerilla örgütünün 17 milyon dolarlık fidye parasını hayali şeker kamışı sözleşmeleri ve fiktif paravan kredilerle aklayan batık bir ponzi zinciriydi."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Montoneros gerilla örgütü, Bunge & Born kaçırma eyleminden topladığı 17 milyon dolarlık fidye parasını aklaması için banker David Graiver'a teslim etti.",
+            "uygulama": "Graiver, New York ve Brüksel'de bankalar satın alarak hayali şeker kamışı kontratları ve paravan şirketler arasında dönen fiktif kredilerle bir aklama çarkı kurdu.",
+            "cokus": "Graiver'ın Ağustos 1976'da Meksika'daki şüpheli uçak kazasında ölümüyle kredi piramidi durdu; New York regülatörleri bankayı kapattı ve aile Arjantin'de yargılandı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Montoneros",
+                "iliski": "fidye_parasini_teslim_etti",
+                "hedef": "David Graiver"
+            },
+            {
+                "kaynak": "David Graiver",
+                "iliski": "fiktif_tarim_kredileri_aktardi",
+                "hedef": "American Bank & Trust (New York)"
+            },
+            {
+                "kaynak": "David Graiver",
+                "iliski": "paravan_aklama_araci_olarak_kullandi",
+                "hedef": "Banque pour l'Amérique du Sud (Brüksel)"
+            },
+            {
+                "kaynak": "New York Eyaleti Bankacılık Departmanı",
+                "iliski": "lisansini_iptal_edip_kapatti",
+                "hedef": "American Bank & Trust (New York)"
+            },
+            {
+                "kaynak": "Robert Morgenthau",
+                "iliski": "adli_sorusturma_ve_iddianame_hazirladi",
+                "hedef": "David Graiver"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "David Graiver ve Montoneros fidye paralarının emtia borsalarında aklanması olayı nedir?",
@@ -507,6 +980,8 @@
         "id": "FIN_008",
         "category": "Finance History",
         "period": "1973-1975",
+        "start_year": "1973",
+        "end_year": "1975",
         "source_url": "https://www.reddit.com/r/policystrategies/s/G372LoEB8N",
         "actors": [
             "Stanley Goldblum",
@@ -520,7 +995,8 @@
             "SEC (Securities and Exchange Commission)",
             "New York Stock Exchange (NYSE)",
             "Pennsylvania Insurance Department",
-            "California Department of Insurance"
+            "California Department of Insurance",
+            "Bakersfield Reinsurance Syndicate"
         ],
         "title_en": "The Equity Funding Corporation Scandal: Fabricated Ghost Policies and Reinsurance Fraud",
         "mechanism_en": "Algorithmic generation of 64,000 fictitious policyholders and forged life insurance contracts resold to reinsurance syndicates for upfront liquidity, sustained through forged medical records and fabricated death certificates.",
@@ -533,7 +1009,44 @@
             "ReinsuranceScandal",
             "ComputerFraud",
             "RayDirks",
-            "Whistleblower"
+            "Whistleblower",
+            "GhostPolicies"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Equity Funding Corporation claimed it was the fastest-growing financial conglomerate in the US, combining mutual fund investments with hundreds of thousands of active, premium-paying life insurance policies.",
+            "actual_reality": "Over 64,000 policies (worth over $2 billion) were completely non-existent ghost accounts algorithmically fabricated on company mainframe computers and sold to reinsurers to generate fake cash flow."
+        },
+        "causal_chain_en": {
+            "trigger": "Executive pressure to maintain astronomical Wall Street earnings growth leads management to program fake life insurance policies on mainframe computers.",
+            "execution": "The company resells 64,000 algorithmically fabricated policies to reinsurance syndicates for upfront cash, keeping the fraud alive by forging death certificates and paying fake premiums.",
+            "collapse": "Whistleblower Ronald Secrist exposes the scheme to analyst Ray Dirks; regulatory raids on the Los Angeles data center halt NYSE trading and lead to executive indictments."
+        },
+        "relationships_en": [
+            {
+                "source": "Stanley Goldblum",
+                "relation": "directed_computer_fraud_at",
+                "target": "Equity Funding Corporation of America (EFCA)"
+            },
+            {
+                "source": "EFCA",
+                "relation": "sold_fabricated_policies_to",
+                "target": "Bakersfield Reinsurance Syndicate"
+            },
+            {
+                "source": "Ronald Secrist",
+                "relation": "whistleblew_fraud_to",
+                "target": "Ray Dirks"
+            },
+            {
+                "source": "Ray Dirks",
+                "relation": "alerted_institutional_clients_and",
+                "target": "SEC (Securities and Exchange Commission)"
+            },
+            {
+                "source": "SEC",
+                "relation": "halted_trading_on",
+                "target": "New York Stock Exchange (NYSE)"
+            }
         ],
         "faq_en": [
             {
@@ -560,7 +1073,44 @@
             "ReasüransSkandalı",
             "BilgisayarSahtekarlığı",
             "SECSoruşturması",
-            "AdliBilişim"
+            "AdliBilişim",
+            "RayDirks"
+        ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Equity Funding Corporation, yatırım fonlarını yüz binlerce prim ödeyen gerçek hayat sigortası poliçesiyle birleştiren ABD'nin en hızlı büyüyen ve en karlı finans devi olduğunu iddia etti.",
+            "gercek_durum": "Bilançodaki 64.000'den fazla poliçe (2 milyar dolar değerinde) tamamen hayaliydi; bilgisayarlarda üretilen bu 'hayalet müşteriler' nakit avans almak için reasürans şirketlerine satılmıştı."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Wall Street'in yüksek hisse senedi ve kâr beklentisini karşılamak isteyen yöneticiler, bilgisayar sistemlerinde hayali hayat sigortası poliçeleri üretmeye başladı.",
+            "uygulama": "Şirket, ürettiği 64.000 hayali poliçeyi reasürans şirketlerine peşin nakit karşılığı sattı; sistemi sürdürmek için sahte ölüm belgeleri düzenleyip sahte prim ödemeleri yaptı.",
+            "cokus": "Eski yönetici Ronald Secrist'in analist Ray Dirks'e itirafları sonrası sigorta müfettişleri veri merkezini bastı; hisseler durduruldu ve şirket tarihin ilk büyük bilişim iflasını yaşadı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Stanley Goldblum",
+                "iliski": "bilgisayar_vurgununu_yonetti",
+                "hedef": "Equity Funding Corporation of America (EFCA)"
+            },
+            {
+                "kaynak": "EFCA",
+                "iliski": "hayalet_policeleri_satti",
+                "hedef": "Bakersfield Reasürans Sendikası"
+            },
+            {
+                "kaynak": "Ronald Secrist",
+                "iliski": "sahtekarligi_ihbar_etti",
+                "hedef": "Ray Dirks"
+            },
+            {
+                "kaynak": "Ray Dirks",
+                "iliski": "piyasalari_ve_denetcileri_uyardi",
+                "hedef": "SEC (ABD Sermaye Piyasası Kurulu)"
+            },
+            {
+                "kaynak": "SEC",
+                "iliski": "hisse_islemlerini_durdurdu",
+                "hedef": "New York Borsası (NYSE)"
+            }
         ],
         "faq_tr": [
             {
@@ -581,6 +1131,8 @@
         "id": "FIN_009",
         "category": "Finance History",
         "period": "1952-1956",
+        "start_year": "1952",
+        "end_year": "1956",
         "source_url": "https://www.reddit.com/r/policystrategies/s/dyPl6TcOmX",
         "actors": [
             "Rong Yiren",
@@ -609,6 +1161,37 @@
             "StateCapitalism",
             "FiveAntiCampaign"
         ],
+        "claims_vs_reality_en": {
+            "official_claim": "The Beijing government proclaimed the Five-Anti (Wufan) Campaign was an anti-corruption audit to eliminate capitalist bribery and establish voluntary public-private economic partnerships.",
+            "actual_reality": "It was an orchestrated forensic financial siege using asset freezes, raw material embargoes, and crushing retroactive fines to force private industrialists to surrender their equity and control to the state without military force."
+        },
+        "causal_chain_en": {
+            "trigger": "Following the 1949 communist victory, Beijing seeks to nationalize Shanghai's industrial manufacturing base to fund central planned industrialization.",
+            "execution": "The CCP deploys worker inspection teams to audit corporate ledgers, freezing bank liquidity and imposing retroactive penalties exceeding corporate asset values.",
+            "collapse": "Bankrupted Shanghai industrialists, led by textile magnate Rong Yiren, surrender enterprise shares to state-controlled joint management by 1956 in exchange for nominal annual dividends."
+        },
+        "relationships_en": [
+            {
+                "source": "Chen Yun",
+                "relation": "formulated_economic_takeover_policy_for",
+                "target": "Beijing Financial and Economic Committee"
+            },
+            {
+                "source": "Shanghai Municipal People's Government",
+                "relation": "executed_wufan_forensic_raids_against",
+                "target": "Sung Sing Cotton Mills"
+            },
+            {
+                "source": "People's Bank of China",
+                "relation": "froze_commercial_credit_and_liquidity_of",
+                "target": "Rong Yiren"
+            },
+            {
+                "source": "Rong Yiren",
+                "relation": "surrendered_private_equity_control_to",
+                "target": "Chinese Communist Party"
+            }
+        ],
         "faq_en": [
             {
                 "q": "What was the Wufan Movement and how was China's private sector nationalized?",
@@ -636,6 +1219,37 @@
             "FinansalAbluka",
             "KamuÖzelOrtaklığı"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Pekin hükümeti, Wufan Hareketi'nin sadece rüşvet ve vergi kaçakçılığını temizlemek ve gönüllü kamu-özel ortaklıkları kurmak için başlatılan bir yolsuzlukla mücadele denetimi olduğunu iddia etti.",
+            "gercek_durum": "Banka hesaplarının dondurulması, hammadde ambargosu ve geriye dönük astronomik cezalarla Şanghay sanayicilerinin likiditesini kurutarak tüm özel sermayeyi tek kurşun atmadan devlete devrettiren planlı bir finansal abluka operasyonuydu."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "1949 komünist zaferi sonrası Pekin yönetimi, merkezi planlı sanayileşmeyi finanse etmek için Şanghay'ın dev tekstil ve un sanayisini devlet kontrolüne almayı hedefledi.",
+            "uygulama": "İşçi teftiş tugayları şirket defterlerine adli muhasebe baskınları düzenledi, banka hesaplarını dondurdu ve şirketlerin değerini aşan geriye dönük cezalar kesti.",
+            "cokus": "Likiditesi kuruyan ve iflasa sürüklenen Şanghay baronları, tekstil kralı Rong Yiren öncülüğünde 1956'da tüm hisselerini sembolik temettüler karşılığında devlete devretmek zorunda kaldı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Chen Yun",
+                "iliski": "ekonomik_kamulastirma_politikasini_yazdi",
+                "hedef": "Pekin Ekonomi Komitesi"
+            },
+            {
+                "kaynak": "Şanghay Belediye Hükümeti",
+                "iliski": "wufan_adli_muhasebe_baskinlarini_yonetti",
+                "hedef": "Sung Sing Tekstil Fabrikaları"
+            },
+            {
+                "kaynak": "Çin Halk Bankası",
+                "iliski": "ticari_kredi_ve_hesaplari_dondurdu",
+                "hedef": "Rong Yiren"
+            },
+            {
+                "kaynak": "Rong Yiren",
+                "iliski": "tum_hisselerini_devlete_teslim_etti",
+                "hedef": "Çin Komünist Partisi"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "Wufan Hareketi nedir ve Çin'de özel sektör nasıl kamulaştırıldı?",
@@ -655,6 +1269,8 @@
         "id": "FIN_010",
         "category": "Finance History",
         "period": "1926-1938",
+        "start_year": "1926",
+        "end_year": "1938",
         "source_url": "https://www.reddit.com/r/policystrategies/s/1BdrrXar7R",
         "actors": [
             "Philip Musica (Dr. Frank Donald Coster)",
@@ -685,6 +1301,42 @@
             "SAPNo1",
             "SEC"
         ],
+        "claims_vs_reality_en": {
+            "official_claim": "McKesson & Robbins management and its certified audit reports claimed the corporation held over $20 million in physical crude drug stockpiles stored securely in Canadian warehouses.",
+            "actual_reality": "The crude drug division was completely fictitious; the Canadian warehouses were empty post office box addresses, and $20 million in inventory was fabricated through shell intermediary invoices."
+        },
+        "causal_chain_en": {
+            "trigger": "Con artist Philip Musica assumes the false identity of Dr. Frank Coster and acquires control of pharmaceutical giant McKesson & Robbins.",
+            "execution": "Musica and his brothers establish a fake crude drug division, cycling fraudulent purchase orders and billing through shell company W.W. Smith & Co. without auditors verifying physical inventory.",
+            "collapse": "CFO Julian Thompson discovers the inventories lack insurance; SEC raids the headquarters, Musica commits suicide, and the AIA establishes mandatory physical inventory counts (SAP No. 1)."
+        },
+        "relationships_en": [
+            {
+                "source": "Philip Musica (Dr. Frank Donald Coster)",
+                "relation": "falsified_phantom_inventories_at",
+                "target": "McKesson & Robbins"
+            },
+            {
+                "source": "George Musica (George Vernard)",
+                "relation": "operated_fictitious_shell_broker",
+                "target": "W.W. Smith & Company"
+            },
+            {
+                "source": "Price Waterhouse",
+                "relation": "conducted_paper_only_audits_on",
+                "target": "McKesson & Robbins"
+            },
+            {
+                "source": "Julian Thompson",
+                "relation": "exposed_fraudulent_assets_to",
+                "target": "SEC (Securities and Exchange Commission)"
+            },
+            {
+                "source": "SEC",
+                "relation": "prompted_mandatory_audit_reforms_by",
+                "target": "AIA (American Institute of Accountants / AICPA)"
+            }
+        ],
         "faq_en": [
             {
                 "q": "How was the McKesson & Robbins scandal uncovered and who was Philip Musica?",
@@ -713,6 +1365,42 @@
             "SAPNo1",
             "SECDenetimi"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "McKesson & Robbins yönetimi ve onaylı denetim raporları, şirketin Kanada depolarında saklanan 20 milyon dolarlık fiziki ham ilaç stokuna sahip olduğunu iddia etti.",
+            "gercek_durum": "Ham ilaç departmanı tamamen hayaliydi; Kanada'daki depolar sahte posta kutularından ibaretti ve 20 milyon dolarlık stok paravan şirket faturalarıyla havadan yaratılmıştı."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Sabıkalı dolandırıcı Philip Musica, sahte tıp diplomasıyla 'Dr. Frank Coster' kimliğine bürünenerek ilaç devi McKesson & Robbins'in yönetimini ele geçirdi.",
+            "uygulama": "Musica ve kardeşleri hayali bir ham ilaç birimi kurarak paravan şirket W.W. Smith & Co. üzerinden sahte faturalar ve konşimentolarla bilançonun %20'sini şişirdi.",
+            "cokus": "CFO Julian Thompson stokların sigortasız olduğunu fark etti; SEC baskınıyla sahtekarlık patlak verdi, Musica intihar etti ve denetimde zorunlu fiziki sayım devrimi (SAP No. 1) başladı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Philip Musica (Dr. Frank Donald Coster)",
+                "iliski": "hayalet_stok_bilancosu_yaratti",
+                "hedef": "McKesson & Robbins"
+            },
+            {
+                "kaynak": "George Musica (George Vernard)",
+                "iliski": "paravan_sirketi_yonetti",
+                "hedef": "W.W. Smith & Company"
+            },
+            {
+                "kaynak": "Price Waterhouse",
+                "iliski": "fiziki_sayim_yapmadan_onayladi",
+                "hedef": "McKesson & Robbins"
+            },
+            {
+                "kaynak": "Julian Thompson",
+                "iliski": "sahtekarligi_ihbar_etti",
+                "hedef": "SEC (ABD Sermaye Piyasası Kurulu)"
+            },
+            {
+                "kaynak": "SEC",
+                "iliski": "zorunlu_denetim_reformunu_baslatti",
+                "hedef": "AIA (Amerikan Muhasebeciler Enstitüsü)"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "McKesson & Robbins skandalı nasıl ortaya çıktı ve Philip Musica kimdir?",
@@ -732,6 +1420,8 @@
         "id": "INT_001",
         "category": "Espionage Notes",
         "period": "1953-1956",
+        "start_year": "1953",
+        "end_year": "1956",
         "source_url": "https://www.reddit.com/r/policystrategies/s/8RAGtWdXy1",
         "actors": [
             "George Blake",
@@ -761,6 +1451,42 @@
             "ColdWarEspionage",
             "KGB"
         ],
+        "claims_vs_reality_en": {
+            "official_claim": "The CIA and MI6 believed Operation Gold was the most secure and impenetrable subterranean SIGINT operation of the Cold War, secretly intercepting 500,000 hours of Soviet military communications without Moscow's awareness.",
+            "actual_reality": "The KGB had full schematics and tap coordinates before excavation even began, courtesy of MI6 double agent George Blake, allowing the Soviets to run controlled non-critical communications through the tapped lines for 11 months."
+        },
+        "causal_chain_en": {
+            "trigger": "CIA station chief William Harvey and MI6 plan a subterranean tunnel from West Berlin to tap Red Army cables in the Soviet sector.",
+            "execution": "Engineers dig a 450-meter tunnel (Operation Gold) and install induction taps on subterranean cables, while the KGB monitors the entire operation via double agent George Blake.",
+            "collapse": "In April 1956, Soviet telephone repair crews stage an accidental discovery following heavy rains; the tunnel is seized, publicized globally, and Blake is eventually arrested in 1961."
+        },
+        "relationships_en": [
+            {
+                "source": "George Blake",
+                "relation": "betrayed_tunnel_schematics_to",
+                "target": "KGB (First Chief Directorate)"
+            },
+            {
+                "source": "CIA (Directorate of Plans)",
+                "relation": "jointly_excavated_operation_gold_with",
+                "target": "MI6 (Secret Intelligence Service)"
+            },
+            {
+                "source": "William Harvey",
+                "relation": "supervised_field_operations_for",
+                "target": "CIA (Directorate of Plans)"
+            },
+            {
+                "source": "KGB (First Chief Directorate)",
+                "relation": "staged_publicized_raid_on",
+                "target": "Operation Gold (Berlin Tunnel)"
+            },
+            {
+                "source": "US Army Corps of Engineers",
+                "relation": "constructed_subterranean_infrastructure_for",
+                "target": "CIA (Directorate of Plans)"
+            }
+        ],
         "faq_en": [
             {
                 "q": "What was the Berlin Tunnel Operation and how did the CIA wiretap Soviet communications?",
@@ -788,6 +1514,42 @@
             "SoğukSavaşCasusluğu",
             "KGBKöstebek"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "CIA ve MI6, Berlin Tüneli'nin Soğuk Savaş'ın en gizli sinyal istihbaratı operasyonu olduğuna ve Sovyetlerin haberi olmadan 500 bin saatlik askeri iletişimi dinlediklerine inanıyordu.",
+            "gercek_durum": "KGB, MI6 içindeki çifte ajanı George Blake sayesinde tünelin tüm planlarını daha ilk kazma vurulmadan önce biliyordu; köstebeğini korumak için dinlemeye 11 ay boyunca bilerek izin verdi."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "CIA Berlin şefi William Harvey ve MI6, Doğu Berlin'deki Kızıl Ordu karargah kablolarını dinlemek için gizli bir yeraltı tüneli kazma kararı aldı.",
+            "uygulama": "Müttefikler 450 metrelik tüneli kazıp kablolara dinleme aparatları taktı; ancak toplantılara katılan MI6 subayı George Blake tüm planları KGB'ye sızdırdı.",
+            "cokus": "Nisan 1956'da Sovyet onarım ekipleri sahte bir yağmur sızıntısı bahanesiyle tüneli bastı; operasyon dünya basınına ifşa edildi ve Blake 1961'de deşifre olup tutuklandı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "George Blake",
+                "iliski": "tunel_planlarini_sizdirdi",
+                "hedef": "KGB (Birinci Baş Direktörlük)"
+            },
+            {
+                "kaynak": "CIA (Planlama Direktörlüğü)",
+                "iliski": "ortak_tunel_operasyonu_yuruttu",
+                "hedef": "MI6 (Gizli İstihbarat Servisi)"
+            },
+            {
+                "kaynak": "William Harvey",
+                "iliski": "saha_operasyonunu_yonetti",
+                "hedef": "CIA (Planlama Direktörlüğü)"
+            },
+            {
+                "kaynak": "KGB",
+                "iliski": "sahte_baskinla_desifre_etti",
+                "hedef": "Berlin Tüneli (Operation Gold)"
+            },
+            {
+                "kaynak": "ABD Kara Kuvvetleri Mühendisleri",
+                "iliski": "yeralti_tunelini_insa_etti",
+                "hedef": "CIA"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "Berlin Tüneli Operasyonu nedir ve CIA Sovyetleri nasıl dinledi?",
@@ -807,6 +1569,8 @@
         "id": "INT_002",
         "category": "Espionage Notes",
         "period": "1953-1957",
+        "start_year": "1953",
+        "end_year": "1957",
         "source_url": "https://www.reddit.com/r/policystrategies/s/3xRk7qfoOH",
         "actors": [
             "Rudolf Abel (Vilyam Genrikhovich Fisher)",
@@ -834,6 +1598,42 @@
             "Microfilm",
             "Cryptanalysis",
             "BridgeOfSpies"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Vilyam Fisher lived in Brooklyn as Emil R. Goldfus, a quiet, modest commercial artist, amateur photographer, and patriotic American citizen.",
+            "actual_reality": "He was Colonel Rudolf Abel, the supreme resident illegal spy chief of the KGB Directorate S in the United States, managing high-level nuclear and military intelligence dead-drop networks."
+        },
+        "causal_chain_en": {
+            "trigger": "A Brooklyn newsboy accidentally drops a 5-cent nickel that splits open to reveal a microphotographic cipher code, triggering a 4-year FBI cryptanalytic hunt.",
+            "execution": "KGB master spy Rudolf Abel runs North American illegal operations using radio ciphers and hollowed-out containers, paired with erratic assistant Reino Häyhänen.",
+            "collapse": "Häyhänen defects to the US Embassy in Paris in 1957, surrendering the cipher keys; the FBI arrests Abel, culminating in the 1962 Bridge of Spies prisoner exchange."
+        },
+        "relationships_en": [
+            {
+                "source": "Rudolf Abel (Vilyam Fisher)",
+                "relation": "commanded_illegal_residency_for",
+                "target": "KGB (Directorate S - Illegals)"
+            },
+            {
+                "source": "Reino Häyhänen",
+                "relation": "served_as_courier_and_assistant_to",
+                "target": "Rudolf Abel (Vilyam Fisher)"
+            },
+            {
+                "source": "Reino Häyhänen",
+                "relation": "defected_and_exposed_ciphers_to",
+                "target": "FBI (Federal Bureau of Investigation)"
+            },
+            {
+                "source": "FBI",
+                "relation": "arrested_and_prosecuted",
+                "target": "Rudolf Abel (Vilyam Fisher)"
+            },
+            {
+                "source": "James B. Donovan",
+                "relation": "negotiated_glienicke_bridge_exchange_for",
+                "target": "Francis Gary Powers"
+            }
         ],
         "faq_en": [
             {
@@ -863,6 +1663,42 @@
             "Kriptoanaliz",
             "CasuslarKöprüsü"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Vilyam Fisher, Brooklyn'de 'Emil R. Goldfus' adıyla sakin bir hayat yaşayan, fotoğrafçılık ve resim yapan mütevazı bir Amerikan vatandaşıydı.",
+            "gercek_durum": "KGB'nin Kuzey Amerika'daki tüm yasadışı derin operasyonlarını ve nükleer istihbarat kurye ağlarını yöneten Albay rütbeli baş casus Rudolf Abel'di."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Brooklyn'de bir gazete dağıtıcısının düşürdüğü 5 sentlik bozuk paranın içinden şifreli mikrofilm çıkmasıyla FBI 4 yıl sürecek gizli bir kriptoanaliz avı başlattı.",
+            "uygulama": "KGB baş casusu Rudolf Abel, Brooklyn'deki sanat stüdyosundan telsiz şifreleri ve oyuk eşyalarla Kuzey Amerika'daki nükleer ve askeri casusluk ağını yönetti.",
+            "cokus": "Alkolik yardımcısı Häyhänen 1957'de Paris'te ABD Elçiliği'ne sığınıp şifreyi çözdü; FBI Abel'i tutukladı ve 1962'de Casuslar Köprüsü'nde Gary Powers ile takas edildi."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Rudolf Abel (Vilyam Fisher)",
+                "iliski": "derin_casusluk_hucresini_yonetti",
+                "hedef": "KGB (S Direktörlüğü - İllegaller)"
+            },
+            {
+                "kaynak": "Reino Häyhänen",
+                "iliski": "yardimci_ve_kuryelik_yapti",
+                "hedef": "Rudolf Abel (Vilyam Fisher)"
+            },
+            {
+                "kaynak": "Reino Häyhänen",
+                "iliski": "iltica_edip_sifreleri_teslim_etti",
+                "hedef": "FBI"
+            },
+            {
+                "kaynak": "FBI",
+                "iliski": "takip_edip_tutukladi",
+                "hedef": "Rudolf Abel (Vilyam Fisher)"
+            },
+            {
+                "kaynak": "James B. Donovan",
+                "iliski": "tarihi_casus_takasini_muzakere_etti",
+                "hedef": "Francis Gary Powers"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "İçi Boş Nikel Vakası nedir ve Sovyet casusluk ağı nasıl deşifre oldu?",
@@ -882,6 +1718,8 @@
         "id": "INT_003",
         "category": "Espionage Notes",
         "period": "1930-1933",
+        "start_year": "1930",
+        "end_year": "1933",
         "source_url": "https://www.reddit.com/r/policystrategies/s/DuO6bzRWJd",
         "actors": [
             "Richard Sorge (Johnson)",
@@ -912,6 +1750,42 @@
             "SinoGermanCooperation",
             "SignalsIntelligence"
         ],
+        "claims_vs_reality_en": {
+            "official_claim": "Richard Sorge was a devoted conservative German journalist, intellectual Nazi sympathizer, and financial correspondent covering East Asian agriculture for prominent German publications.",
+            "actual_reality": "He was a high-ranking undercover Soviet GRU military intelligence officer running an elaborate espionage network across Shanghai, stealing Japanese and German military secrets for the Red Army."
+        },
+        "causal_chain_en": {
+            "trigger": "Soviet GRU dispatches Richard Sorge to fragmented Shanghai in 1930 to monitor Japanese expansionism and the German Military Advisory Group in China.",
+            "execution": "Sorge recruits journalist Agnes Smedley and Japanese correspondent Hotsumi Ozaki, using Max Clausen's clandestine portable shortwave radios to beam intelligence to Moscow.",
+            "collapse": "The Shanghai cell operates completely undetected by municipal police, successfully disbanding in 1933 to relocate to Tokyo where Sorge constructs his legendary WWII network."
+        },
+        "relationships_en": [
+            {
+                "source": "Richard Sorge (Johnson)",
+                "relation": "commanded_shanghai_espionage_ring_for",
+                "target": "GRU (Soviet Military Intelligence)"
+            },
+            {
+                "source": "Hotsumi Ozaki",
+                "relation": "provided_japanese_imperial_intelligence_to",
+                "target": "Richard Sorge (Johnson)"
+            },
+            {
+                "source": "Max Clausen",
+                "relation": "operated_clandestine_transmitters_for",
+                "target": "Richard Sorge (Johnson)"
+            },
+            {
+                "source": "Agnes Smedley",
+                "relation": "facilitated_diplomatic_introductions_for",
+                "target": "Richard Sorge (Johnson)"
+            },
+            {
+                "source": "German Military Mission in China",
+                "relation": "unwittingly_shared_tactical_secrets_with",
+                "target": "Richard Sorge (Johnson)"
+            }
+        ],
         "faq_en": [
             {
                 "q": "How did Richard Sorge obtain German military secrets and Chinese operational plans in Shanghai?",
@@ -940,6 +1814,42 @@
             "Askeriİstihbarat",
             "KısaDalgaTelsiz"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Richard Sorge, Şanghay'da Alman gazeteleri için ekonomi ve tarım muhabirliği yapan muhafazakar bir Alman entelektüeli ve sadık bir Nazi Partisi sempatizanıydı.",
+            "gercek_durum": "Kızıl Ordu Askeri İstihbarat Dairesi'ne (GRU) bağlı üst düzey bir Sovyet istihbarat subayıydı; Şanghay imtiyaz bölgelerinden Alman ve Japon askeri sırlarını Moskova'ya aktarıyordu."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Sovyet GRU karargahı, Japonya'nın Mançurya niyetlerini ve Çin'deki Alman Askeri Misyonu'nu izlemek üzere 1930'da Richard Sorge'yi Şanghay'a gönderdi.",
+            "uygulama": "Sorge, gazeteci Agnes Smedley ve Japon muhabir Hotsumi Ozaki'yi ağa kattı; Max Clausen'in el yapımı gizli kısa dalga telsizleriyle askeri verileri Moskova'ya iletti.",
+            "cokus": "Şanghay Belediye Polisi'ne hiç yakalanmayan hücre görevini 1933'te başarıyla tamamladı ve Sorge'nin 2. Dünya Savaşı'nın kaderini değiştireceği Tokyo hücresine zemin hazırladı."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Richard Sorge (Johnson)",
+                "iliski": "sanghay_casus_hucresini_yonetti",
+                "hedef": "GRU (Sovyet Askeri İstihbaratı)"
+            },
+            {
+                "kaynak": "Hotsumi Ozaki",
+                "iliski": "japon_askeri_istihbaratini_sagladi",
+                "hedef": "Richard Sorge (Johnson)"
+            },
+            {
+                "kaynak": "Max Clausen",
+                "iliski": "gizli_telsiz_operatorlugu_yapti",
+                "hedef": "Richard Sorge (Johnson)"
+            },
+            {
+                "kaynak": "Agnes Smedley",
+                "iliski": "diplomatik_ve_sosyal_ag_kurdu",
+                "hedef": "Richard Sorge (Johnson)"
+            },
+            {
+                "kaynak": "Çin'deki Alman Askeri Misyonu",
+                "iliski": "askeri_sirlari_fark_etmeden_paylasti",
+                "hedef": "Richard Sorge (Johnson)"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "Richard Sorge Şanghay’da Alman askeri sırlarını ve Çin planlarını nasıl ele geçirdi?",
@@ -959,6 +1869,8 @@
         "id": "INT_004",
         "category": "Espionage Notes",
         "period": "1933-1944",
+        "start_year": "1933",
+        "end_year": "1944",
         "source_url": "https://www.reddit.com/r/policystrategies/s/kN7cPNkveF",
         "actors": [
             "Richard Sorge",
@@ -981,14 +1893,51 @@
         "systemic_impact_en": "Preempted a two-front war for the USSR by confirming Japanese southward expansion, enabling the redeployment of Far Eastern Siberian divisions to decisively alter the outcome of the Battle of Moscow.",
         "context_en": "Operating under the Ramsay ring in Tokyo, Soviet GRU operative Richard Sorge cultivated unprecedented access to German Ambassador Eugen Ott and Imperial Japanese Cabinet secrets via Hotsumi Ozaki. This intelligence pipeline provided Moscow with pivotal confirmation of Operation Barbarossa and Japan's southern military pivot prior to the ring's compromise in October 1941.",
         "keywords_en": [
-            "Richard Sorge",
-            "Ramsay Ring",
+            "RichardSorge",
+            "RamsayRing",
             "GRU",
-            "Tokkō",
-            "Operation Barbarossa",
-            "Battle of Moscow",
+            "Tokko",
+            "OperationBarbarossa",
+            "BattleOfMoscow",
             "HUMINT",
-            "Hotsumi Ozaki"
+            "HotsumiOzaki",
+            "EugenOtt"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Dr. Richard Sorge was an impeccably loyal Nazi Party member, trusted German press attache, and confidant to Ambassador Eugen Ott at the German Embassy in Tokyo.",
+            "actual_reality": "He was 'Ramsay', the supreme Soviet GRU military intelligence spymaster in Tokyo, intercepting Berlin's top-secret telegrams and Imperial Japanese Cabinet war plans for Stalin."
+        },
+        "causal_chain_en": {
+            "trigger": "Soviet GRU commands Richard Sorge to establish the Ramsay espionage ring in Tokyo to monitor the German-Japanese Axis alliance and prevent a two-front war.",
+            "execution": "Sorge penetrates the German Embassy cipher rooms while Hotsumi Ozaki extracts Imperial Cabinet secrets; Max Clausen transmits the intelligence via clandestine HF radio to Vladivostok.",
+            "collapse": "In October 1941, Tokkō tracks courier Yotoku Miyagi to Ozaki and arrests Sorge; Sorge and Ozaki are executed at Sugamo Prison in November 1944."
+        },
+        "relationships_en": [
+            {
+                "source": "Richard Sorge",
+                "relation": "commanded_ramsay_ring_for",
+                "target": "Main Intelligence Directorate (GRU)"
+            },
+            {
+                "source": "Richard Sorge",
+                "relation": "infiltrated_cipher_room_of",
+                "target": "German Embassy Tokyo"
+            },
+            {
+                "source": "Hotsumi Ozaki",
+                "relation": "extracted_imperial_cabinet_secrets_from",
+                "target": "Imperial Japanese Cabinet"
+            },
+            {
+                "source": "Eugen Ott",
+                "relation": "unwittingly_disclosed_berlin_telegrams_to",
+                "target": "Richard Sorge"
+            },
+            {
+                "source": "Special Higher Police (Tokkō)",
+                "relation": "dismantled_and_arrested",
+                "target": "Richard Sorge"
+            }
         ],
         "faq_en": [
             {
@@ -1009,14 +1958,51 @@
         "systemic_impact_tr": "Japonya'nın Sibirya yerine Güney Pasifik'e yöneleceğini kesinleştirerek Kızıl Ordu'nun Uzak Doğu tümenlerini batıya kaydırmasını sağlamış, SSCB'yi iki cepheli savaştan kurtararak Moskova Savunması'nın sonucunu tayin etmiştir.",
         "context_tr": "Sovyet GRU ajanı Richard Sorge, Tokyo'da kurduğu Ramsay şebekesiyle Alman Büyükelçisi Eugen Ott ve Japon Başbakanı'nın danışmanı Hotsumi Ozaki üzerinden en üst düzey stratejik planlara erişim sağlamıştır. Ağ, Barbarossa Harekâtı ve Japonya'nın güney stratejisi gibi kritik istihbaratları Moskova'ya aktardıktan sonra Ekim 1941'de Tokkō takibiyle çökertilmiştir.",
         "keywords_tr": [
-            "Richard Sorge",
-            "Ramsay Şebekesi",
+            "RichardSorge",
+            "RamsayŞebekesi",
             "GRU",
             "Tokkō",
-            "Barbarossa Harekâtı",
-            "Moskova Savunması",
+            "BarbarossaHarekâtı",
+            "MoskovaSavunması",
             "HUMINT",
-            "Hotsumi Ozaki"
+            "HotsumiOzaki",
+            "EugenOtt"
+        ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Dr. Richard Sorge, Nazi Partisi üyesi, Frankfurter Zeitung muhabiri ve Tokyo'daki Alman Büyükelçisi General Eugen Ott'un en güvendiği gayriresmi danışmanıydı.",
+            "gercek_durum": "Kızıl Ordu Askeri İstihbarat Dairesi'nin (GRU) Tokyo'daki baş casusu 'Ramsay' kod adlı subayıydı; Berlin'den gelen askeri kriptoları ve Japon kabine kararlarını Moskova'ya sızdırıyordu."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Sovyet GRU karargahı, SSCB'yi iki cepheli bir savaştan korumak ve Berlin-Tokyo askeri ittifakını izlemek için Sorge'yi Tokyo'da Ramsay şebekesini kurmakla görevlendirdi.",
+            "uygulama": "Sorge Alman Büyükelçiliği kripto odasına sızarken Hotsumi Ozaki Japon kabine kararlarını temin etti; Max Clausen bu hayati verileri gizli HF telsizle Vladivostok'a iletti.",
+            "cokus": "Ekim 1941'de Tokkō kurye Miyagi üzerinden ağa ulaşıp Ozaki ve Sorge'yi tutukladı; Sorge ve Ozaki Kasım 1944'te Sugamo Cezaevi'nde idam edildi."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Richard Sorge",
+                "iliski": "ramsay_sebekesini_yonetti",
+                "hedef": "GRU (Sovyet Askeri İstihbaratı)"
+            },
+            {
+                "kaynak": "Richard Sorge",
+                "iliski": "kripto_odasina_sizdi",
+                "hedef": "Alman Büyükelçiliği Tokyo"
+            },
+            {
+                "kaynak": "Hotsumi Ozaki",
+                "iliski": "kabine_kararlarini_sizdirdi",
+                "hedef": "Japon İmparatorluk Kabinesi"
+            },
+            {
+                "kaynak": "Eugen Ott",
+                "iliski": "fark_etmeden_berlin_yazismalarini_paylasti",
+                "hedef": "Richard Sorge"
+            },
+            {
+                "kaynak": "Düşünce Polisi Tokkō",
+                "iliski": "sebekeyi_cokertip_tutukladi",
+                "hedef": "Richard Sorge"
+            }
         ],
         "faq_tr": [
             {
@@ -1037,6 +2023,8 @@
         "id": "GEO_001",
         "category": "Geopolitical Conflict",
         "period": "1911",
+        "start_year": "1911",
+        "end_year": "1911",
         "source_url": "https://www.reddit.com/r/policystrategies/s/BDLyr4dtRr",
         "actors": [
             "W. Morgan Shuster",
@@ -1066,6 +2054,42 @@
             "PersianConstitutionalRevolution",
             "ShuaAlSaltaneh"
         ],
+        "claims_vs_reality_en": {
+            "official_claim": "Tsarist Russia and the British Empire officially maintained that their 1907 Convention respected the absolute territorial integrity, financial independence, and national sovereignty of Qajar Persia.",
+            "actual_reality": "Both empires functioned as a dual-imperial cartel, invading northern Iran with Cossack troops and demanding the expulsion of Treasurer-General Morgan Shuster to prevent Persian financial independence and protect predatory imperial debt concessions."
+        },
+        "causal_chain_en": {
+            "trigger": "The Persian Constitutional Majlis hires American financial reformer W. Morgan Shuster to centralize tax collection and restore fiscal solvency to the bankrupt Qajar state.",
+            "execution": "Shuster forms the Treasury Gendarmerie and attempts to seize tax-delinquent estates of pro-Russian royal elites (Prince Shua-al-Saltaneh), directly defying Russian and British imperial spheres of influence.",
+            "collapse": "Tsarist Russia issues an ultimatum, invades northern Iran, and marches on Tehran; the cabinet forces the dissolution of the Majlis in December 1911 and expels Shuster."
+        },
+        "relationships_en": [
+            {
+                "source": "Persian Constitutional Majlis",
+                "relation": "appointed_treasurer_general",
+                "target": "W. Morgan Shuster"
+            },
+            {
+                "source": "W. Morgan Shuster",
+                "relation": "seized_tax_delinquent_estates_of",
+                "target": "Prince Shua-al-Saltaneh (Şuayb es-Saltana)"
+            },
+            {
+                "source": "Tsarist Russian Empire (Cossack Brigade)",
+                "relation": "militarily_invaded_and_ultimatumed",
+                "target": "Qajar Dynasty"
+            },
+            {
+                "source": "British Foreign Office",
+                "relation": "diplomatically_backed_russian_intervention_in",
+                "target": "Qajar Dynasty"
+            },
+            {
+                "source": "W. Morgan Shuster",
+                "relation": "authored_whistleblower_account",
+                "target": "Treasury-General of Persia"
+            }
+        ],
         "faq_en": [
             {
                 "q": "Who was William Morgan Shuster and what was his role in the 1911 Persian fiscal crisis?",
@@ -1094,6 +2118,42 @@
             "MeşrutiyetDevrimi",
             "ŞuaybEsSaltana"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Çarlık Rusyası ve İngiliz İmparatorluğu, 1907 Antlaşması'nın Kaçar İranı'nın toprak bütünlüğüne, mali bağımsızlığına ve egemenliğine tamamen saygılı olduğunu iddia etti.",
+            "gercek_durum": "İki emperyal güç gizli bir nüfuz karteli kurarak Kuzey İran'ı Kazak tugaylarıyla işgal etti ve İran'ın bağımsız bir vergi/maliye sistemi kurmasını engellemek için Morgan Shuster'ın kovulmasını askeri ültimatomla dayattı."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Kaçar Meclisi, iflas eden devlet maliyesini toparlamak ve vergi egemenliğini kurmak için Amerikalı maliyeci Morgan Shuster'ı Hazine Genel Saymanı olarak atadı.",
+            "uygulama": "Shuster Hazine Jandarması'nı kurarak vergi kaçıran Rus yanlısı Prens Şuayb es-Saltana'nın sarayına haciz koydu ve emperyal imtiyazlara doğrudan meydan okudu.",
+            "cokus": "Çarlık Rusyası askeri ültimatom verip Kuzey İran'ı işgal etti; Tahran hükümeti boyun eğerek Aralık 1911'de Meclis'i kapattı ve Shuster'ı sınır dışı etti."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "İran Meşrutiyet Meclisi",
+                "iliski": "hazine_genel_saymani_atadi",
+                "hedef": "W. Morgan Shuster"
+            },
+            {
+                "kaynak": "W. Morgan Shuster",
+                "iliski": "vergi_haczi_koydu",
+                "hedef": "Prens Şuayb es-Saltana"
+            },
+            {
+                "kaynak": "Çarlık Rusyası (Kazak Tugayı)",
+                "iliski": "askeri_ultimatom_ve_isgal_baslatti",
+                "hedef": "Kaçar Hanedanı"
+            },
+            {
+                "kaynak": "İngiliz Dışişleri Bakanlığı",
+                "iliski": "rus_isgalini_diplomatik_olarak_destekledi",
+                "hedef": "Kaçar Hanedanı"
+            },
+            {
+                "kaynak": "W. Morgan Shuster",
+                "iliski": "tarihi_ifsaat_kitabini_yazdi (The Strangling of Persia)",
+                "hedef": "İran Genel Saymanlığı"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "William Morgan Shuster kimdir ve 1911 İran maliye krizindeki rolü nedir?",
@@ -1113,6 +2173,8 @@
         "id": "CHN_001",
         "category": "China & Asia-Pacific",
         "period": "1969-1971",
+        "start_year": "1969",
+        "end_year": "1971",
         "source_url": "https://www.reddit.com/r/policystrategies/s/n19MdVJuBR",
         "actors": [
             "Lin Biao",
@@ -1142,6 +2204,42 @@
             "Ondorkhaan",
             "PLAAirForce"
         ],
+        "claims_vs_reality_en": {
+            "official_claim": "The CCP Constitution and state propaganda formally proclaimed Marshal Lin Biao as Chairman Mao Zedong's closest comrade-in-arms and sole designated constitutional successor.",
+            "actual_reality": "Lin Biao and his son Lin Liguo organized a clandestine military faction (Project 571) plotting Mao's assassination by bombing his special inspection train, ending in a panicked, fatal escape flight to the USSR."
+        },
+        "causal_chain_en": {
+            "trigger": "At the 1970 Lushan Conference, factional friction escalates as Lin Biao's military clique attempts to institutionalize power, prompting Mao to initiate a covert political purge.",
+            "execution": "Lin Liguo drafts 'Project 571' outlining an armed coup, flame-thrower train assault on Mao's inspection railcar, and emergency defection corridors to Irkutsk.",
+            "collapse": "Lin's daughter alerts Zhou Enlai; Mao secretly reroutes his train, forcing the Lin family into a midnight escape on a fuel-depleted Trident jet that crashes in Öndörkhaan."
+        },
+        "relationships_en": [
+            {
+                "source": "Lin Liguo",
+                "relation": "authored_project_571_coup_for",
+                "target": "Lin Biao"
+            },
+            {
+                "source": "Lin Biao",
+                "relation": "challenged_civilian_party_control_of",
+                "target": "Mao Zedong"
+            },
+            {
+                "source": "Zhou Enlai",
+                "relation": "intercepted_flight_intelligence_and_alerted",
+                "target": "Mao Zedong"
+            },
+            {
+                "source": "People's Liberation Army (PLA Air Force)",
+                "relation": "provided_unauthorized_trident_jet_to",
+                "target": "Lin Biao"
+            },
+            {
+                "source": "KGB (USSR)",
+                "relation": "conducted_forensic_autopsy_in",
+                "target": "Moğolistan"
+            }
+        ],
         "faq_en": [
             {
                 "q": "What was the Lin Biao incident and how was the Project 571 coup plot against Mao exposed?",
@@ -1170,6 +2268,42 @@
             "ÖndörkhaanKazası",
             "ÇinSiyasiTarihi"
         ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Çin Komünist Partisi tüzüğü ve devlet propagandası, Mareşal Lin Biao'nun Başkan Mao Zedong'un 'en yakın silah arkadaşı' ve anayasal tek halefi olduğunu ilan etti.",
+            "gercek_durum": "Lin Biao ve oğlu Lin Liguo, Mao'nun özel trenini bombalayarak askeri darbe yapmayı planlayan (Proje 571) gizli bir cunta kurmuş; deşifre olunca Sovyetler'e kaçarken uçakları Moğolistan'da düşmüştür."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "1970 Lushan Konferansı'nda Lin Biao'nun askeri kanadının iktidarı tekeline alma hamlesi, Mao'nun orduyu partiden tasfiye etme sürecini başlatmasına yol açtı.",
+            "uygulama": "Lin Liguo, Mao'nun teftiş trenine alev makineleri ve füzelerle saldırıp askeri darbe yapmayı planlayan 'Proje 571' operasyonel planını hazırladı.",
+            "cokus": "Lin'in kızının ihbarıyla Zhou Enlai durumu öğrendi; Mao tren rotasını değiştirdi ve Lin Biao ailesi gece yarısı kaçtıkları yakıtsız Trident jetiyle Moğolistan'da can verdi."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Lin Liguo",
+                "iliski": "proje_571_darbe_planini_yazdi",
+                "hedef": "Lin Biao"
+            },
+            {
+                "kaynak": "Lin Biao",
+                "iliski": "parti_otoritesine_karsi_cunta_kurdu",
+                "hedef": "Mao Zedong"
+            },
+            {
+                "kaynak": "Zhou Enlai",
+                "iliski": "kacis_ihbarini_alarak_onlem_aldi",
+                "hedef": "Mao Zedong"
+            },
+            {
+                "kaynak": "Halk Kurtuluş Ordusu Hava Kuvvetleri",
+                "iliski": "izinsiz_trident_jetini_tahsis_etti",
+                "hedef": "Lin Biao"
+            },
+            {
+                "kaynak": "KGB (SSCB)",
+                "iliski": "mogolistan_enkazinda_gizli_otopsi_yapti",
+                "hedef": "Lin Biao"
+            }
+        ],
         "faq_tr": [
             {
                 "q": "Lin Biao olayı nedir ve Mao Zedong'a suikast girişimi Proje 571 nasıl deşifre oldu?",
@@ -1189,6 +2323,8 @@
         "id": "CHN_002",
         "category": "China & Asia-Pacific",
         "period": "1949-1993",
+        "start_year": "1949",
+        "end_year": "1993",
         "source_url": "https://www.reddit.com/r/policystrategies/s/whwyWU3KJ3",
         "actors": [
             "Rong Yiren",
@@ -1215,7 +2351,44 @@
             "DengXiaoping",
             "CulturalRevolution",
             "ChineseNationalization",
-            "EconomicReforms"
+            "EconomicReforms",
+            "SungSingMills"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "Radical Red Guards during the Cultural Revolution branded Rong Yiren as a counter-revolutionary class enemy, traitor, and parasitic bourgeois bloodsucker.",
+            "actual_reality": "Rong was Mao's designated 'Red Capitalist' and later Deng Xiaoping's indispensable financial architect, who founded state sovereign conglomerate CITIC and rose to Vice President of China."
+        },
+        "causal_chain_en": {
+            "trigger": "Following the 1949 communist victory, Shanghai billionaire Rong Yiren chooses to stay in China and hands his 24 flour and textile mills to state-joint management.",
+            "execution": "During the 1966 Cultural Revolution, Red Guards seize his home and force him into janitorial labor cleaning toilets until Premier Zhou Enlai discreetly protects him.",
+            "collapse": "In 1978, Deng Xiaoping rehabilitates Rong to establish sovereign investment trust CITIC, leveraging Western capital markets to drive economic opening and appointing him Vice President in 1993."
+        },
+        "relationships_en": [
+            {
+                "source": "Mao Zedong",
+                "relation": "designated_title_red_capitalist_to",
+                "target": "Rong Yiren"
+            },
+            {
+                "source": "Zhou Enlai",
+                "relation": "discreetly_shielded_during_purges",
+                "target": "Rong Yiren"
+            },
+            {
+                "source": "Deng Xiaoping",
+                "relation": "commissioned_founding_of_citic_to",
+                "target": "Rong Yiren"
+            },
+            {
+                "source": "Rong Yiren",
+                "relation": "founded_and_directed",
+                "target": "CITIC (China International Trust and Investment Corporation)"
+            },
+            {
+                "source": "State Council of the PRC",
+                "relation": "appointed_vice_president",
+                "target": "Rong Yiren"
+            }
         ],
         "faq_en": [
             {
@@ -1242,7 +2415,44 @@
             "DengXiaoping",
             "KültürDevrimi",
             "KamulaştırmaTarihi",
-            "ÇinEkonomikReformu"
+            "ÇinEkonomikReformu",
+            "SungSingFabrikaları"
+        ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Kültür Devrimi sırasında radikal Kızıl Muhafızlar, Rong Yiren'i rejim düşmanı bir karşı-devrimci, vatan haini ve burjuva kan emici olarak ilan etti.",
+            "gercek_durum": "Rong, Mao'nun 'Kızıl Kapitalisti' ve Deng Xiaoping'in vazgeçilmez finans mimarıydı; Çin'in ilk devlet yatırım tröstü CITIC'i kurarak Çin Devlet Başkan Yardımcılığına kadar yükseldi."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "1949 devrimi sonrası Şanghaylı milyarder Rong Yiren kaçmayıp Çin'de kalmayı seçti ve ailesine ait 24 fabrikayı kamu-özel ortaklığıyla devlete devretti.",
+            "uygulama": "1966 Kültür Devrimi'nde Kızıl Muhafızlar evini bastı, mal varlığını yağmaladı ve Başbakan Zhou Enlai gizlice koruyana kadar Rong'u hademelik yapıp tuvalet temizlemeye zorladı.",
+            "cokus": "1978'de Deng Xiaoping Rong'u itibarını iade ederek göreve çağırdı; kurduğu CITIC tröstüyle Çin'e milyarlarca dolar çeken Rong, 1993'te Çin Devlet Başkan Yardımcısı oldu."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Mao Zedong",
+                "iliski": "kizil_kapitalist_unvanini_verdi",
+                "hedef": "Rong Yiren"
+            },
+            {
+                "kaynak": "Zhou Enlai",
+                "iliski": "tasfiyeler_sirasinda_gizlice_korudu",
+                "hedef": "Rong Yiren"
+            },
+            {
+                "kaynak": "Deng Xiaoping",
+                "iliski": "citic_trostunu_kurma_gorevi_verdi",
+                "hedef": "Rong Yiren"
+            },
+            {
+                "kaynak": "Rong Yiren",
+                "iliski": "kurucu_baskanligini_yapti",
+                "hedef": "CITIC (Çin Uluslararası Güven ve Yatırım Şirketi)"
+            },
+            {
+                "kaynak": "Çin Devlet Konseyi",
+                "iliski": "devlet_baskan_yardimcisi_atadi",
+                "hedef": "Rong Yiren"
+            }
         ],
         "faq_tr": [
             {
