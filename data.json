@@ -3,9 +3,83 @@
         "id": "FIN_001",
         "category": "Finance History",
         "period": "1993-1997",
-        "start_year": "1993",
-        "end_year": "1997",
+        "start_year": 1993,
+        "end_year": 1997,
         "source_url": "https://www.reddit.com/r/policystrategies/s/waXGDpQoed",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "documented",
+            "confidence_score": 0.98,
+            "source_count": 4,
+            "primary_source_count": 2,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "BRE-X MINERALS LTD. IN BANKRUPTCY",
+                "type": "primary",
+                "source_role": "judicial_record",
+                "publisher": "Deloitte Restructuring Inc.",
+                "host": "insolvencies.deloitte.ca",
+                "published_year": 2025,
+                "last_updated_year": 2025,
+                "url": "https://www.insolvencies.deloitte.ca/en-ca/Pages/BRE-X%20MINERALS%20LTD__%20IN%20BANKRUPTCY%20.aspx",
+                "supports": [
+                    "Bre-X Minerals Ltd. resmi iflas ve tasfiye süreci",
+                    "Şirketin yasal ve adli iflas kayıtları"
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Fraudster Friday: Bre-X Ltd. Gold Fraud",
+                "type": "regulatory",
+                "source_role": "regulatory_evidence",
+                "publisher": "Nova Scotia Securities Commission",
+                "host": "nssc.novascotia.ca",
+                "published_year": 2018,
+                "last_updated_year": 2018,
+                "url": "https://nssc.novascotia.ca/before-you-invest/fraudster-friday-bre-x-ltd-gold-fraud",
+                "supports": [
+                    "Karot numunelerinin tuzlanması ve sahte tahlil yöntemi",
+                    "Sermaye piyasası manipülasyonu ve NI 43-101 düzenleyici standartlarının doğuşu"
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "The Bre-X Gold Mining Scandal Turned Part of the Borneo Jungle Into a $6 Billion Lie",
+                "type": "journalism",
+                "source_role": "analytical",
+                "publisher": "Slate",
+                "host": "slate.com",
+                "published_year": 2015,
+                "last_updated_year": 2015,
+                "url": "https://slate.com/human-interest/2015/08/the-bre-x-gold-mining-scandal-turned-part-of-the-borneo-jungle-into-a-6-billion-lie.html",
+                "supports": [
+                    "Busang yatağındaki sahte keşif kurgusu ve 6 milyar dolarlık borsa balonu",
+                    "Michael de Guzman'ın karot tuzlama mekanizması ve helikopter vakası"
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Bre-X: The massive gold fraud that fooled the world",
+                "type": "journalism",
+                "source_role": "corroborating",
+                "publisher": "BBC News",
+                "host": "bbc.com",
+                "published_year": 2024,
+                "last_updated_year": 2024,
+                "url": "https://www.bbc.com/news/world-us-canada-68987824",
+                "supports": [
+                    "Freeport-McMoRan'ın bağımsız denetimiyle dolandırıcılığın çöküşü",
+                    "Toronto Borsası ve küresel yatırımcıların uğradığı sistemik kayıplar"
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "John Felderhof",
             "Michael de Guzman",
@@ -136,9 +210,84 @@
         "id": "FIN_002",
         "category": "Finance History",
         "period": "1982",
-        "start_year": "1982",
-        "end_year": "1982",
+        "start_year": 1982,
+        "end_year": 1982,
         "source_url": "https://www.reddit.com/r/policystrategies/s/fiNc6z6Sk8",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "contested",
+            "confidence_score": 0.76,
+            "source_count": 4,
+            "primary_source_count": 1,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "The Farewell Dossier: Duping the Soviets",
+                "type": "primary",
+                "source_role": "foundational",
+                "publisher": "Central Intelligence Agency (CIA) - Center for the Study of Intelligence",
+                "host": "cia.gov",
+                "published_year": 1996,
+                "last_updated_year": 1999,
+                "url": "https://www.cia.gov/readingroom/document/cia-rdp86t00608r000200230001-5",
+                "supports": [
+                    "Line X endüstriyel casusluk ağının Vladimir Vetrov (Farewell) tarafından ifşa edilmesi",
+                    "ABD'nin Sovyetlere kasıtlı olarak kusurlu ve değiştirilmiş teknoloji/yazılım sızdırma operasyonu (deception program)",
+                    "Gus W. Weiss ve William J. Casey liderliğindeki karşı istihbarat planlaması"
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "H-Diplo | RJISSF Forum on Marc Trachtenberg, 'Operation Farewell and the Siberian Pipeline Explosion: A Research Note'",
+                "type": "academic",
+                "source_role": "analytical",
+                "publisher": "H-Diplo / International Security Studies Forum (RJISSF)",
+                "host": "issforum.org",
+                "published_year": 2024,
+                "last_updated_year": 2024,
+                "url": "https://issforum.org/commentary/h-diplo-rjissf-commentary-iii-2-on-commentary-iii-2-forum-on-marc-trachtenberg-operation-farewell-and-the-siberian-pipeline-explosion",
+                "supports": [
+                    "Thomas Reed'in 'SCADA mantık bombası ve Sibirya boru hattı patlaması' iddiasına dair akademik şüpheler ve arşiv tutarsızlıkları",
+                    "Tarihsel belgeler ışığında 1982'deki büyük patlama iddiasının abartılmış veya efsaneleştirilmiş olma ihtimalinin analizi"
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Update: Agent Farewell and the Siberian Pipeline Explosion",
+                "type": "journalism",
+                "source_role": "corroborating",
+                "publisher": "National Security Archive (George Washington University)",
+                "host": "unredacted.com",
+                "published_year": 2013,
+                "last_updated_year": 2013,
+                "url": "https://unredacted.com/2013/04/26/agent-farewell-and-the-siberian-pipeline-explosion/",
+                "supports": [
+                    "Vladimir Vetrov'un DST ile ilişkisi ve dosyanın ABD'ye devri",
+                    "Sibirya boru hattı sabotajı iddiasının kamuoyuna ve arşiv araştırmalarına yansıması"
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "From Sci-Fi to Stuxnet: Exploding Gas Pipelines and the Farewell Dossier",
+                "type": "journalism",
+                "source_role": "contextual",
+                "publisher": "SC Media",
+                "host": "scworld.com",
+                "published_year": 2010,
+                "last_updated_year": 2010,
+                "url": "https://www.scworld.com/news/from-sci-fi-to-stuxnet-exploding-gas-pipelines-and-the-farewell-dossier",
+                "supports": [
+                    "SCADA kontrol yazılımları üzerinden yapılan siber-fiziksel sabotaj iddiaları ve operasyonel mekanizma anlatısı",
+                    "Farewell Dosyası'nın modern siber savaş konseptleri (ör. Stuxnet) ile karşılaştırmalı bağlamı"
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Vladimir Vetrov (Farewell)",
             "Gus W. Weiss",
@@ -282,9 +431,53 @@
         "id": "FIN_003",
         "category": "Finance History",
         "period": "1945-1952",
-        "start_year": "1945",
-        "end_year": "1952",
+        "start_year": 1945,
+        "end_year": 1952,
         "source_url": "https://www.reddit.com/r/policystrategies/s/PFUYY5vYtY",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.94,
+            "source_count": 2,
+            "primary_source_count": 2,
+            "independent_publisher_count": 2
+        },
+        "sources": [
+            {
+                "title": "Headquarters of the Budapest Stock Exchange - Exchange History",
+                "type": "primary",
+                "source_role": "historical_record",
+                "publisher": "Budapest Stock Exchange",
+                "host": "bse.hu",
+                "published_year": 2019,
+                "last_updated_year": 2019,
+                "url": "https://www.bse.hu/About-Us/history-of-the-exchange/Headquarters-of-the-Budapest-Stock-Exchange",
+                "supports": [
+                    "Post-WWII nationalization, state decree shutdowns, and liquidation of the Budapest Stock Exchange under communist administration",
+                    "Eradication of private equity trading and asset confiscation in postwar Hungary"
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "The Prague Stock Exchange: Application for Designation as a Designated Offshore Securities Market",
+                "type": "regulatory",
+                "source_role": "regulatory_evidence",
+                "publisher": "U.S. Securities and Exchange Commission (SEC)",
+                "host": "sec.gov",
+                "published_year": 2004,
+                "last_updated_year": 2024,
+                "url": "https://www.sec.gov/divisions/corpfin/cf-noaction/pse052804-incoming.pdf",
+                "supports": [
+                    "Closure and liquidation of the Prague Stock Exchange following the 1948 communist coup",
+                    "State takeover of capital market infrastructure and cessation of private equity markets in Czechoslovakia"
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Matyas Rakosi",
             "Klement Gottwald",
@@ -417,9 +610,79 @@
         "id": "FIN_004",
         "category": "Finance History",
         "period": "1940-1944",
-        "start_year": "1940",
-        "end_year": "1944",
+        "start_year": 1940,
+        "end_year": 1944,
         "source_url": "https://www.reddit.com/r/policystrategies/s/mFOh7VjHdK",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.92,
+            "source_count": 4,
+            "primary_source_count": 1,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "French Stock Exchanges and Regulation During World War II",
+                "type": "academic",
+                "source_role": "analytical",
+                "publisher": "Cambridge University Press",
+                "host": "Financial History Review",
+                "published_year": 2010,
+                "last_updated_year": null,
+                "url": "https://www.cambridge.org/core/journals/financial-history-review/article/abs/french-stock-exchanges-and-regulation-during-world-war-ii1/3A3A54DC9870BD5BB86F65EAABA5E1E4",
+                "supports": [
+                    "Analysis of Vichy and Nazi market interventions, forced share registration to eliminate anonymity, maximum price thresholds/pegging, and redirection of liquidity into sovereign/occupation debt (politique du circuit)."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Market Microstructure and Nazi Influence on the Paris Stock Exchange During WWII",
+                "type": "academic",
+                "source_role": "foundational",
+                "publisher": "ResearchGate / Centre Emile Bernheim (CEB)",
+                "host": "ResearchGate",
+                "published_year": 2004,
+                "last_updated_year": null,
+                "url": "https://www.researchgate.net/publication/24131049_Market_microstructure_and_Nazi_influence_on_the_Paris_stock_exchange_during_WWII",
+                "supports": [
+                    "Primary archival documentation from Compagnie des Agents de Change and German military administration detailing physical price manipulations, supervisory commissars, and market illiquidity."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Paris OTC (Coulisse) Institutional Overview",
+                "type": "academic",
+                "source_role": "contextual",
+                "publisher": "DFIH (Data for Financial History)",
+                "host": "wiki.dfih.fr",
+                "published_year": 2018,
+                "last_updated_year": null,
+                "url": "https://wiki.dfih.fr/wiki/Paris_OTC_(Coulisse)",
+                "supports": [
+                    "Structural background and institutional evolution of the unofficial Coulisse curb market versus the official Parquet exchange in Paris."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Fonds d'archives des marchés financiers et de la Compagnie des agents de change",
+                "type": "primary",
+                "source_role": "historical_record",
+                "publisher": "Ministère de l'Économie et des Finances (SAEF)",
+                "host": "economie.gouv.fr",
+                "published_year": 1944,
+                "last_updated_year": null,
+                "url": "https://www.economie.gouv.fr/saef/marches-financiers",
+                "supports": [
+                    "Official French ministerial archival holdings covering historical securities clearing, wartime stock market decrees, CCDVT establishment, and regulatory records."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Otto Abetz",
             "Walther Funk",
@@ -556,274 +819,426 @@
     {
         "id": "FIN_005",
         "category": "Finance History",
-        "period": "1950-1956",
-        "start_year": "1950",
-        "end_year": "1956",
+        "period": "1954-1955",
+        "start_year": 1954,
+        "end_year": 1955,
         "source_url": "https://www.reddit.com/r/policystrategies/s/3N7dVwaQEB",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.95,
+            "source_count": 4,
+            "primary_source_count": 3,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "Recent Tanker Agreement Between Mr. Onassis and the Saudi Arabian Government",
+                "type": "primary",
+                "source_role": "foundational",
+                "publisher": "U.S. Department of State, Office of the Historian",
+                "host": "Foreign Relations of the United States",
+                "published_year": 1954,
+                "last_updated_year": null,
+                "url": "https://history.state.gov/historicaldocuments/frus1952-54v09p1/d345",
+                "supports": [
+                    "Direct contemporary U.S. government record of the agreement between Aristotle Onassis and the Saudi Arabian Government.",
+                    "Confirms Onassis's ownership of the Saudi Arabian Tanker Company Ltd. and the dispute generated by the agreement among oil and shipping interests."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Saudi Arabia (Shipping Agreement)",
+                "type": "primary",
+                "source_role": "government_record",
+                "publisher": "UK Parliament",
+                "host": "Hansard",
+                "published_year": 1954,
+                "last_updated_year": null,
+                "url": "https://api.parliament.uk/historic-hansard/commons/1954/jul/19/saudi-arabia-shipping-agreement",
+                "supports": [
+                    "Official British parliamentary discussion of the Saudi Arabian Government's agreement with Aristotle Onassis.",
+                    "British government assessment that the agreement constituted flag discrimination and could adversely affect British shipping interests."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "The Kingdom of Saudi Arabia and Aramco Arbitrate the Onassis Agreement",
+                "type": "academic",
+                "source_role": "analytical",
+                "publisher": "Oxford University Press",
+                "host": "The Journal of World Energy Law & Business",
+                "published_year": 2010,
+                "last_updated_year": null,
+                "url": "https://academic.oup.com/jwelb/article-abstract/3/3/245/1150362",
+                "supports": [
+                    "Historical analysis of the 1954 Saudi Arabian Government-Onassis agreement and its conflict with ARAMCO's concession rights.",
+                    "Documents the dispute's development into the major Saudi Arabia–ARAMCO arbitration known as the Onassis case."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "United States Objectives and Policies in the Near East: The Onassis Agreement",
+                "type": "primary",
+                "source_role": "policy_record",
+                "publisher": "U.S. Department of State, Office of the Historian",
+                "host": "Foreign Relations of the United States",
+                "published_year": 1955,
+                "last_updated_year": null,
+                "url": "https://history.state.gov/historicaldocuments/frus1955-57v13/d164",
+                "supports": [
+                    "Confirms that the January 1954 agreement authorized Onassis to form a private company for the transport of Saudi oil.",
+                    "Records ARAMCO's opposition and the U.S. National Security Council recommendation to seek cancellation of the agreement or render it ineffective."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
-            "Greek Shipowner Syndicate",
-            "Piraeus Maritime Brokers",
-            "London Chartering Agents",
-            "Admiralty Arbitrators"
+            "Aristotle Onassis",
+            "Saudi Arabian Government",
+            "ARAMCO",
+            "U.S. Department of State"
         ],
         "institutions": [
-            "London Stock Exchange",
-            "Baltic Exchange",
-            "Lloyd's of London",
-            "Piraeus Maritime Registry",
-            "High Court of Admiralty"
+            "Saudi Arabian Tanker Company Ltd.",
+            "ARAMCO",
+            "U.S. Department of State",
+            "National Security Council"
         ],
-        "title_en": "Ghost Fleets and Phantom Freight Contracts: The 1950s Greek Shipping Stock Speculation",
-        "mechanism_en": "Fabrication of fictitious long-term freight charter agreements recognized as guaranteed future revenue on balance sheets to inflate shipping equities while cargo vessels sailed unladen.",
-        "systemic_impact_en": "Liquidity contraction in London-listed maritime equities, tightening of Baltic Exchange charter party verification, and overhaul of Lloyd's maritime cargo insurance audits.",
-        "context_en": "Case study on 1950s post-war maritime shipping speculation. Explains how fabricated long-term freight charter agreements were recognized on London-listed balance sheets to engineer stock rallies while cargo vessels sat idle.",
+        "title_en": "Who Would Carry the Oil? Aristotle Onassis and the Saudi Tanker Agreement",
+        "mechanism_en": "Aristotle Onassis secured an agreement with the Saudi Arabian Government authorizing a private tanker company to transport Saudi oil, creating a conflict with ARAMCO's existing concession rights and the established structure of international oil transportation.",
+        "systemic_impact_en": "The dispute became a major conflict involving oil concessions, tanker transportation rights, Saudi sovereignty, and U.S. strategic interests, eventually moving toward arbitration and prompting direct U.S. efforts to neutralize the agreement.",
+        "context_en": "Case study of the 1954 Onassis–Saudi Arabian tanker agreement, in which the Greek shipping magnate attempted to establish a major role in transporting Saudi petroleum through the Saudi Arabian Tanker Company Ltd., triggering opposition from ARAMCO and intervention by the U.S. government.",
         "keywords_en": [
+            "Onassis",
+            "SaudiOil",
+            "TankerAgreement",
+            "ARAMCO",
+            "OilShipping",
             "MaritimeFinance",
-            "FreightFraud",
-            "LondonStockExchange",
-            "GhostCargo",
-            "AccountingDeception",
-            "ShippingRally",
-            "BalticExchange"
+            "Geoeconomics"
         ],
         "claims_vs_reality_en": {
-            "official_claim": "Shipping syndicates and listed brokerages claimed extensive multi-year freight charters with industrial conglomerates, guaranteeing multi-million-pound cash flows.",
-            "actual_reality": "The freight charters were circular paper contracts between shell companies, while cargo vessels either sat idle in port or sailed empty ballast voyages without cargo."
+            "official_claim": "The agreement was presented as a means of developing a Saudi-linked tanker fleet and expanding Saudi participation in the transportation of its own petroleum.",
+            "actual_reality": "ARAMCO argued that the agreement conflicted with its existing oil concession rights, while U.S. officials viewed its provisions as sufficiently disruptive to recommend measures to cancel or render the agreement ineffective."
         },
         "causal_chain_en": {
-            "trigger": "The post-WWII global trade boom sparks speculative investment in maritime transport and London-listed shipping equities.",
-            "execution": "Shipowners fabricate circular freight contracts between shell charterers, booking projected phantom freight revenues to trigger stock market rallies.",
-            "collapse": "Port audits and Lloyd's claims investigations reveal unladen ghost fleets; stock valuations collapse, leading to Admiralty court arbitrations."
+            "trigger": "Post-war growth in global oil consumption and tanker shipping increased the strategic importance of controlling petroleum transportation.",
+            "execution": "In January 1954, Aristotle Onassis concluded an agreement with the Saudi Arabian Government authorizing a private company associated with him to transport Saudi oil.",
+            "collapse": "ARAMCO challenged the agreement as conflicting with its concession, the United States supported efforts against it, and the dispute moved into an arbitration process."
         },
         "relationships_en": [
             {
-                "source": "Greek Shipowner Syndicate",
-                "relation": "fabricated_charter_contracts_for",
-                "target": "London Stock Exchange"
+                "source": "Aristotle Onassis",
+                "relation": "concluded_tanker_agreement_with",
+                "target": "Saudi Arabian Government"
             },
             {
-                "source": "Piraeus Maritime Brokers",
-                "relation": "routed_fictitious_bills_of_lading_to",
-                "target": "Baltic Exchange"
+                "source": "Saudi Arabian Government",
+                "relation": "authorized_oil_transport_company_for",
+                "target": "Saudi Arabian Tanker Company Ltd."
             },
             {
-                "source": "Lloyd's of London",
-                "relation": "investigated_fraudulent_claims_from",
-                "target": "Greek Shipowner Syndicate"
+                "source": "ARAMCO",
+                "relation": "opposed_agreement_with",
+                "target": "Aristotle Onassis"
             },
             {
-                "source": "High Court of Admiralty",
-                "relation": "arbitrated_defaulted_disputes_against",
-                "target": "Piraeus Maritime Registry"
+                "source": "U.S. National Security Council",
+                "relation": "recommended_measures_to_neutralize",
+                "target": "Onassis-Saudi Arabian Tanker Agreement"
             }
         ],
         "faq_en": [
             {
-                "q": "How did the 1950s phantom freight manipulation impact the London Stock Exchange?",
-                "a": "Fabricated long-term freight charter agreements were booked as guaranteed future revenues on balance sheets, engineering an artificial stock rally in London-listed shipping shares before the liquidity bubble burst."
+                "q": "What was Aristotle Onassis's 1954 agreement with Saudi Arabia?",
+                "a": "Onassis concluded an agreement with the Saudi Arabian Government authorizing a private company associated with him to transport Saudi oil and participate in the development of a Saudi-linked tanker fleet."
             },
             {
-                "q": "How was the Greek shipowners' ghost fleet freight fraud uncovered?",
-                "a": "Port authorities and maritime auditors discovered that cargo vessels reported as operating at full capacity were actually sitting idle or cruising empty while accountants fabricated false bills of lading."
+                "q": "Why did ARAMCO oppose the Onassis tanker agreement?",
+                "a": "ARAMCO argued that the agreement conflicted with the terms of its existing oil concession and challenged the arrangement as an encroachment on its contractual rights."
             },
             {
-                "q": "What were the details of the Lloyd's of London 1956 maritime fraud investigation?",
-                "a": "Lloyd's underwriters and Admiralty arbitrators audited fraudulent insurance claims on non-existent cargo charters, exposing circular front-company lease networks and prompting strict global maritime contract reforms."
+                "q": "Why did the United States intervene in the Onassis-Saudi tanker dispute?",
+                "a": "The dispute affected ARAMCO, U.S. strategic interests, and the international oil transportation system. U.S. policy documents recommended taking appropriate measures to cancel or render the agreement ineffective."
             }
         ],
-        "title_tr": "Boş Kargo Gemileriyle Gelen Borsa Rallisi: Yunan Armatörlerin Hayali Navlun Manipülasyonu",
-        "mechanism_tr": "Kağıt üzerinde düzenlenen hayali uzun vadeli navlun sözleşmelerinin bilançolarda kesinleşmiş gelecek gelir olarak gösterilmesi ve boş dolaşan gemiler üzerinden borsa hisselerinin yapay olarak şişirilmesi.",
-        "systemic_impact_tr": "Londra Borsası'nda işlem gören denizcilik hisselerinde sert çöküş, Baltic Exchange navlun teyit mekanizmalarının zorunlu kılınması ve Lloyd's deniz sigortacılığı denetimlerinin sıkılaştırılması.",
-        "context_tr": "1950'lerde Yunan armatörlerin sahte navlun kontratlarıyla Londra Borsası'ndaki hisse değerlerini şişirmesi ve boş dolaşan gemiler üzerinden yürütülen muhasebe manipülasyonu.",
+        "title_tr": "Petrolü Kim Taşıyacak? Aristotle Onassis'in Suudi Tanker Anlaşması",
+        "mechanism_tr": "Aristotle Onassis'in Suudi Arabistan hükümetiyle Suudi petrolünün taşınması için özel bir tanker şirketine yetki veren anlaşma yapması; bu düzenlemenin ARAMCO'nun mevcut petrol imtiyazları ve uluslararası petrol taşımacılığı düzeniyle çatışmaya girmesi.",
+        "systemic_impact_tr": "Uyuşmazlık, petrol imtiyazları, tanker taşımacılığı hakları, Suudi egemenliği ve ABD'nin stratejik çıkarlarını kapsayan büyük bir jeoekonomik krize dönüştü; mesele tahkim sürecine taşındı ve ABD anlaşmayı etkisiz hâle getirmek için politika geliştirdi.",
+        "context_tr": "1954 tarihli Onassis–Suudi Arabistan tanker anlaşmasının vaka incelemesi. Yunan armatör Aristotle Onassis'in Saudi Arabian Tanker Company Ltd. üzerinden Suudi petrolünün taşınmasında önemli bir rol edinme girişimi, ARAMCO'nun itirazına ve ABD hükümetinin doğrudan müdahil olmasına yol açtı.",
         "keywords_tr": [
+            "Onassis",
+            "SuudiPetrolü",
+            "TankerAnlaşması",
+            "ARAMCO",
+            "PetrolTaşımacılığı",
             "DenizcilikFinansı",
-            "NavlunVurgunu",
-            "LondraBorsası",
-            "HayaliKargo",
-            "MuhasebeManipülasyonu",
-            "GemiRallisi",
-            "BalticExchange"
+            "Jeoekonomi"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Gemicilik sendikaları ve borsada kote şirketler, küresel sanayi devleriyle uzun vadeli navlun sözleşmeleri imzaladıklarını ve milyonlarca sterlinlik garantili nakit akışına sahip olduklarını iddia etti.",
-            "gercek_durum": "Navlun sözleşmeleri paravan şirketler arasında dönen hayali kağıtlardan ibaretti; kargo gemileri ya limanlarda paslanıyor ya da denizlerde tamamen boş dolaşıyordu."
+            "resmi_iddia": "Anlaşma, Suudi Arabistan'ın kendi petrol taşımacılığıyla daha doğrudan bağlantılı bir tanker filosu geliştirmesine yardımcı olacak bir düzenleme olarak sunuldu.",
+            "gercek_durum": "ARAMCO, anlaşmanın mevcut petrol imtiyazı haklarıyla çeliştiğini savundu; ABD makamları ise anlaşmanın etkisiz hâle getirilmesi veya iptal edilmesi için önlem alınmasını önerdi."
         },
         "causal_chain_tr": {
-            "tetikleyici": "2. Dünya Savaşı sonrası küresel ticaretin canlanması, deniz taşımacılığı ve Londra Borsası'ndaki gemicilik hisselerinde spekülatif bir yatırım çılgınlığı başlattı.",
-            "uygulama": "Armatörler paravan kiralama şirketleri arasında hayali navlun sözleşmeleri imzalayıp gelecek gelirleri peşinen bilançolara yazarak borsa rallisi yarattı.",
-            "cokus": "Liman denetimleri ve Lloyd's sigorta soruşturmaları gemilerin bomboş dolaştığını ortaya çıkardı; hisseler çöktü ve armatörler deniz tahkim mahkemelerinde tasfiye edildi."
+            "tetikleyici": "Savaş sonrası petrol tüketiminin ve tanker taşımacılığının hızla büyümesi, petrolün yalnızca üretimini değil taşınmasını da stratejik bir güç alanına dönüştürdü.",
+            "uygulama": "Aristotle Onassis, Ocak 1954'te Suudi Arabistan hükümetiyle Suudi petrolünün taşınması için kendi bağlantılı şirketine yetki sağlayan bir anlaşma yaptı.",
+            "cokus": "ARAMCO anlaşmanın kendi imtiyaz haklarını ihlal ettiğini savundu; ABD hükümeti anlaşmaya karşı harekete geçti ve uyuşmazlık tahkim sürecine taşındı."
         },
         "relationships_tr": [
             {
-                "kaynak": "Yunan Armatörler Sendikası",
-                "iliski": "sahte_navlun_sozlesmeleri_sundu",
-                "hedef": "Londra Borsası"
+                "kaynak": "Aristotle Onassis",
+                "iliski": "tanker_anlasmasi_imzaladi",
+                "hedef": "Suudi Arabistan Hükümeti"
             },
             {
-                "kaynak": "Pire Denizcilik Komisyoncuları",
-                "iliski": "fiktif_konsimento_trafigi_yaratti",
-                "hedef": "Baltic Exchange"
+                "kaynak": "Suudi Arabistan Hükümeti",
+                "iliski": "petrol_tasima_yetkisi_verdi",
+                "hedef": "Saudi Arabian Tanker Company Ltd."
             },
             {
-                "kaynak": "Lloyd's of London",
-                "iliski": "sahte_tazminat_sorusturmasi_acti",
-                "hedef": "Yunan Armatörler Sendikası"
+                "kaynak": "ARAMCO",
+                "iliski": "anlasmaya_karsi_cikti",
+                "hedef": "Aristotle Onassis"
             },
             {
-                "kaynak": "Admiralty Tahkim Mahkemesi",
-                "iliski": "iflas_ve_tasfiye_kararlari_verdi",
-                "hedef": "Pire Gemi Sicili"
+                "kaynak": "ABD Ulusal Güvenlik Konseyi",
+                "iliski": "anlasmanin_etkisizlestirilmesini_onerdi",
+                "hedef": "Onassis-Suudi Arabistan Tanker Anlaşması"
             }
         ],
         "faq_tr": [
             {
-                "q": "1950'lerdeki hayali navlun manipülasyonu Londra Borsası'nı nasıl etkiledi?",
-                "a": "Kağıt üzerinde imzalanan sahte uzun vadeli navlun sözleşmeleri gelecekteki kesin nakit akışı gibi bilançolara yazılarak Londra Borsası'ndaki gemicilik hisselerinde yapay bir ralli yarattı; balon patlayınca ciddi bir likidite çöküşü yaşandı."
+                "q": "Aristotle Onassis 1954'te Suudi Arabistan ile nasıl bir tanker anlaşması yaptı?",
+                "a": "Onassis, Suudi Arabistan hükümetiyle Suudi petrolünün taşınması için kendisiyle bağlantılı özel bir tanker şirketine yetki veren bir anlaşma yaptı."
             },
             {
-                "q": "Yunan armatörlerin boş kargo gemisi dolandırıcılığı nasıl ortaya çıktı?",
-                "a": "Denetçiler ve liman otoriteleri, bilançolarda tam kapasite çalıştığı ve yüksek gelir getirdiği iddia edilen kargo gemilerinin limanlarda boş beklediğini ve sahte konşimentolarla fatura trafiği yaratıldığını tespit etti."
+                "q": "ARAMCO neden Onassis'in tanker anlaşmasına karşı çıktı?",
+                "a": "ARAMCO, anlaşmanın şirketin Suudi Arabistan'daki mevcut petrol imtiyazı ve buna bağlı taşıma haklarıyla çeliştiğini savundu."
             },
             {
-                "q": "Lloyd's of London 1956 denizcilik sahtekarlığı davasının detayları nelerdir?",
-                "a": "Lloyd's sigorta denetçileri ve deniz tahkim mahkemesi, hayali kargolar için talep edilen sahte sigorta ve navlun tazminatlarını inceleyerek paravan kiralama zincirini deşifre etti ve uluslararası denizcilik poliçe kurallarını sıkılaştırdı."
+                "q": "ABD neden Onassis-Suudi Arabistan tanker anlaşmasına müdahil oldu?",
+                "a": "Uyuşmazlık ARAMCO'nun çıkarlarını, Suudi petrolünün taşınmasını ve ABD'nin bölgedeki stratejik politikalarını etkiledi. ABD politika belgelerinde anlaşmanın iptal edilmesi veya etkisiz hâle getirilmesi önerildi."
             }
         ]
     },
     {
         "id": "FIN_006",
         "category": "Finance History",
-        "period": "1952-1955",
-        "start_year": "1952",
-        "end_year": "1955",
+        "period": "2000",
+        "start_year": 2000,
+        "end_year": 2000,
         "source_url": "https://www.reddit.com/r/policystrategies/s/yuR0Fjffwc",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.95,
+            "source_count": 4,
+            "primary_source_count": 2,
+            "independent_publisher_count": 3
+        },
+        "sources": [
+            {
+                "title": "Finance and E-commerce in the Commodity Sector",
+                "type": "institutional",
+                "source_role": "foundational",
+                "publisher": "United Nations Conference on Trade and Development",
+                "host": "UNCTAD",
+                "published_year": 2001,
+                "last_updated_year": null,
+                "url": "https://digitallibrary.un.org/record/490123/files/%5BTD_%5DUNCTAD_DITC_COM_39-EN.pdf",
+                "supports": [
+                    "Documents the August 2000 collapse of Nicaragua's Interbank following the discovery of multi-million-dollar loans against non-existent coffee stocks involving Consagro.",
+                    "States that more than 22,000 tons of coffee were represented in warehouse receipts despite the documented quantities exceeding the capacity of some warehouses.",
+                    "Reports that only front-row bags contained coffee while many other bags were filled with rice chaff, and notes a parallel false warehouse-receipt scheme involving sugar."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Informe de Gestión Año 2000",
+                "type": "primary",
+                "source_role": "government_record",
+                "publisher": "Superintendencia de Bancos y de Otras Instituciones Financieras de Nicaragua",
+                "host": "SIBOIF",
+                "published_year": 2000,
+                "last_updated_year": null,
+                "url": "https://superintendencia.gob.ni/sites/default/files/documentos/informes-de-gestion/igestion2000.pdf",
+                "supports": [
+                    "Provides the official chronology of the INTERBANK case and the supervisory investigation.",
+                    "Documents liquidity problems and major credit exposures linked to companies associated with the Centeno-CONSAGRO group.",
+                    "Records irregular collections, undisclosed checks, suspected false repayments and discrepancies involving documented coffee shipments."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Nicaragua Letter of Intent and Memorandum of Economic and Social Policies",
+                "type": "primary",
+                "source_role": "policy_record",
+                "publisher": "International Monetary Fund",
+                "host": "IMF",
+                "published_year": 2000,
+                "last_updated_year": null,
+                "url": "https://www.imf.org/external/np/loi/2000/nic/01/index.htm",
+                "supports": [
+                    "Confirms that Nicaragua's banking supervisor discovered large financial operations involving alleged fraud and mismanagement affecting INTERBANK.",
+                    "Confirms that the bank was intervened on August 7, 2000.",
+                    "Records that authorities considered recapitalization or liquidation while criminal proceedings were initiated against individuals allegedly involved."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Nicaragua: Staff Report for the 2001 Article IV Consultation and the Staff-Monitored Program",
+                "type": "institutional_analysis",
+                "source_role": "analytical",
+                "publisher": "International Monetary Fund",
+                "host": "IMF",
+                "published_year": 2001,
+                "last_updated_year": null,
+                "url": "https://www.elibrary.imf.org/view/journals/002/2001/171/article-A001-en.xml",
+                "supports": [
+                    "Places the INTERBANK intervention within Nicaragua's wider 2000 banking crisis.",
+                    "Documents the resolution process through intervention and transfer of liabilities and performing assets.",
+                    "Confirms that banking-sector weaknesses were intensified by fraud and mismanagement during the period."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
-            "Hamburg Coffee Importers",
-            "Speicherstadt Warehouse Keepers",
-            "Commercial Bank Loan Officers",
-            "Customs Audit Investigators"
+            "Saúl Centeno",
+            "Grupo Centeno-CONSAGRO",
+            "INTERBANK Management",
+            "Warehouse Staff",
+            "Nicaraguan Banking Supervisors"
         ],
         "institutions": [
-            "Hamburg Commodity Exchange (Waren- und Produktenbörse)",
-            "Deutsche Bank",
-            "Hamburg Port Authority (Speicherstadt)",
-            "Brazilian Coffee Importers Guild",
-            "West German Ministry of Economic Affairs"
+            "Banco Internacional S.A. (INTERBANK)",
+            "CONSAGRO",
+            "Superintendencia de Bancos y de Otras Instituciones Financieras",
+            "Banco Central de Nicaragua",
+            "Banco de la Producción (BANPRO)"
         ],
-        "title_en": "The Phantom Coffee Bag Fraud & The Hamburg Exchange Warehouse Warrant Scheme",
-        "mechanism_en": "Issuance of forged warehouse warrants backed by gravel and sawdust sacks topped with a thin layer of coffee beans, pledged as collateral for millions in commercial loans to artificially inflate Hamburg exchange trading equities.",
-        "systemic_impact_en": "Collateral defaults across Hamburg commodity lenders, regulatory overhaul of German warehouse receipt verification, and the introduction of mandatory core-sampling audits for agricultural imports.",
-        "context_en": "Post-WWII German commodity fraud involving forged warehouse warrants for Brazilian coffee. Explores how worthless bags filled with gravel and sawdust under a single layer of coffee beans were used as collateral to secure millions in Deutsche Mark loans and inflate equity shares on the Hamburg exchange.",
+        "title_en": "Phantom Coffee Bags and the Warehouse Receipt Fraud That Helped Bring Down a Bank",
+        "mechanism_en": "Warehouse receipts representing more than 22,000 tons of coffee were used to support multi-million-dollar financing. Supervisory inspections later found that the documented quantities exceeded warehouse capacity and that, behind bags containing coffee in the visible front rows, many of the supposed coffee bags were filled with rice chaff.",
+        "systemic_impact_en": "The fraud exposed serious weaknesses in commodity-collateral verification, related-party lending controls and bank supervision. INTERBANK was intervened in August 2000, and its failure became part of a wider Nicaraguan banking crisis requiring state-backed resolution measures.",
+        "context_en": "Case study of the 2000 Nicaragua INTERBANK-CONSAGRO commodity collateral scandal. A major coffee exporter and bank insiders were linked to financing arrangements supported by warehouse documentation for coffee stocks that did not exist as represented, alongside other irregular credit operations.",
         "keywords_en": [
-            "HamburgExchange",
-            "CommodityFraud",
-            "WarehouseWarrants",
-            "CoffeeSpeculation",
+            "CoffeeFraud",
+            "WarehouseReceipts",
+            "CommodityFinance",
             "CollateralFraud",
-            "PostWarGermany",
-            "Speicherstadt"
+            "INTERBANK",
+            "CONSAGRO",
+            "Nicaragua"
         ],
         "claims_vs_reality_en": {
-            "official_claim": "Importers and warehouse custodians certified that Speicherstadt port facilities held thousands of tons of premium imported Brazilian coffee beans pledged as solvent collateral.",
-            "actual_reality": "Only the top two inches of the warehouse sacks contained authentic coffee beans, while the lower bulk was loaded with worthless gravel, construction rubble, and sawdust."
+            "official_claim": "Warehouse receipts represented more than 22,000 tons of coffee as stored collateral supporting commercial financing.",
+            "actual_reality": "The quantities shown in warehouse documentation exceeded the capacity of some facilities. When the stocks were inspected, only the visible front rows of many supposed coffee-bag piles contained coffee, while many other bags were filled with rice chaff."
         },
         "causal_chain_en": {
-            "trigger": "Severe post-WWII coffee shortages and high luxury tariffs in West Germany create an acute commodity credit and speculation boom.",
-            "execution": "Importers forge warehouse warrants on gravel-filled sacks topped with coffee, securing millions in Deutsche Mark commercial bank loans to inflate trading shares.",
-            "collapse": "Defaulted loans force creditor banks to seize and core-sample warehouse sacks, exposing the sawdust layers and bankrupting commodity brokerages on the Hamburg exchange."
+            "trigger": "Large and increasingly risky credit exposure accumulated around companies associated with the Centeno-CONSAGRO group.",
+            "execution": "Warehouse receipts for purported coffee inventories were used to obtain financing while other irregular credit operations, false collections and discrepancies in coffee shipments concealed the underlying deterioration of INTERBANK's loan portfolio.",
+            "collapse": "Supervisory investigations and physical verification exposed major irregularities in the represented collateral and associated financial operations. INTERBANK was intervened by Nicaragua's banking authorities in August 2000 and later resolved through a transfer of assets and liabilities."
         },
         "relationships_en": [
             {
-                "source": "Hamburg Coffee Importers",
-                "relation": "pledged_fraudulent_warrants_to",
-                "target": "Deutsche Bank"
+                "source": "Grupo Centeno-CONSAGRO",
+                "relation": "obtained_financing_from",
+                "target": "Banco Internacional S.A. (INTERBANK)"
             },
             {
-                "source": "Speicherstadt Warehouse Keepers",
-                "relation": "falsified_storage_receipts_for",
-                "target": "Hamburg Commodity Exchange (Waren- und Produktenbörse)"
+                "source": "Warehouse Staff",
+                "relation": "issued_warehouse_receipts_for",
+                "target": "Grupo Centeno-CONSAGRO"
             },
             {
-                "source": "Deutsche Bank",
-                "relation": "seized_and_audited_collateral_at",
-                "target": "Hamburg Port Authority (Speicherstadt)"
+                "source": "Superintendencia de Bancos y de Otras Instituciones Financieras",
+                "relation": "intervened",
+                "target": "Banco Internacional S.A. (INTERBANK)"
             },
             {
-                "source": "West German Ministry of Economic Affairs",
-                "relation": "tightened_commodity_warrant_rules_for",
-                "target": "Brazilian Coffee Importers Guild"
+                "source": "Banco de la Producción (BANPRO)",
+                "relation": "assumed_assets_and_liabilities_of",
+                "target": "Banco Internacional S.A. (INTERBANK)"
             }
         ],
         "faq_en": [
             {
-                "q": "What was the 1950s German coffee warehouse warrant fraud?",
-                "a": "During post-WWII scarcity when coffee was more valuable than gold, importers topped gravel and sawdust bags with a single layer of coffee beans to issue fraudulent warehouse warrants, securing millions in Deutsche Mark bank credit."
+                "q": "What was the Nicaragua phantom coffee warehouse receipt fraud?",
+                "a": "Warehouse receipts representing more than 22,000 tons of coffee were used to support financing. Inspections later found that the documented quantities exceeded the capacity of some warehouses and that many supposed coffee bags were filled with rice chaff."
             },
             {
-                "q": "How was the phantom coffee bag scandal that crashed Hamburg exchange equities uncovered?",
-                "a": "The fraud unraveled when creditor banks attempted to seize warehouse collateral to cover defaulted loans; upon piercing the sacks for sample verification, inspectors discovered worthless rubble and sawdust."
+                "q": "How was the phantom coffee bag fraud uncovered?",
+                "a": "Government supervision was triggered partly because the quantity of coffee represented in warehouse receipts exceeded the physical capacity of some warehouses. Physical inspections then exposed the discrepancy between the represented collateral and the actual contents of the stored bags."
             },
             {
-                "q": "How was post-WWII German coffee speculation and stock fraud executed?",
-                "a": "Speculators exploited steep coffee tariffs and supply shortages by pledging fabricated warehouse inventories as collateral, using the illicit liquidity to inflate trading company shares on the Hamburg exchange."
+                "q": "How did the scandal affect INTERBANK?",
+                "a": "The coffee collateral scheme formed part of broader irregular financial operations and credit exposure associated with the Centeno-CONSAGRO group. Nicaragua's banking supervisor intervened INTERBANK in August 2000, after which the bank was resolved through the transfer of assets and liabilities."
             }
         ],
-        "title_tr": "Hayali Kahve Çuvalları ve Hamburg Borsası'nı Sallayan 'Depo Makbuzu' Vurgunu",
-        "mechanism_tr": "Liman depolarında üstü bir kat kahve çekirdeği, altı ise tamamen taş, toprak ve talaşla doldurulmuş çuvallara sahte depo makbuzları (warrants) düzenlenerek bankalardan milyonlarca Mark kredi toplanması ve şirket hisselerinin şişirilmesi.",
-        "systemic_impact_tr": "Hamburg emtia piyasasında teminat iflasları, Alman emtia varant mevzuatının tamamen yenilenmesi ve gümrük depolarında derinlemesine numune alma (karot delme) denetimlerinin zorunlu kılınması.",
-        "context_tr": "2. Dünya Savaşı sonrası Almanya'sında sahte depo makbuzlarıyla (warrants) yürütülen emtia vurgunu. Üstü kahve, altı taş-toprak dolu çuvalların teminat gösterilerek bankalardan milyonlarca Mark kredi toplanması ve Hamburg borsasında hisselerin manipüle edilmesi.",
+        "title_tr": "Hayali Kahve Çuvalları ve Bankayı Çökerten 'Depo Makbuzu' Vurgunu",
+        "mechanism_tr": "22.000 tondan fazla kahveyi temsil ettiği iddia edilen depo makbuzları milyonlarca dolarlık finansman sağlamak için kullanıldı. Denetimlerde belgelerdeki stok miktarının bazı depoların kapasitesini aştığı görüldü; fiziki kontrollerde ise görünen ön sıralardaki bazı çuvallar kahve içerirken, çok sayıda diğer çuvalın pirinç kabuğuyla doldurulduğu ortaya çıktı.",
+        "systemic_impact_tr": "Vaka, emtia teminatlarının doğrulanması, bağlantılı taraflara kredi verilmesi ve banka içi kontrollerdeki ciddi zafiyetleri ortaya çıkardı. INTERBANK Ağustos 2000'de müdahale altına alındı ve bankanın çöküşü Nikaragua'daki daha geniş bankacılık krizinin önemli parçalarından biri hâline geldi.",
+        "context_tr": "2000 Nikaragua INTERBANK-CONSAGRO emtia teminat skandalının vaka incelemesi. Büyük bir kahve ihracatçısıyla bağlantılı şirketler ve banka içindeki yöneticiler, gerçekte belgelerde gösterildiği biçimde bulunmayan kahve stoklarını temsil eden depo belgeleri ve başka düzensiz kredi işlemleri üzerinden finansman sağladı.",
         "keywords_tr": [
-            "HamburgBorsası",
-            "EmtiaVurgunu",
+            "KahveSahtekarlığı",
             "DepoMakbuzu",
-            "KahveSpekülasyonu",
+            "EmtiaFinansı",
             "TeminatSahtekarlığı",
-            "SavaşSonrasıAlmanya",
-            "Speicherstadt"
+            "INTERBANK",
+            "CONSAGRO",
+            "Nikaragua"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "İthalatçılar ve antrepo işletmecileri, Speicherstadt liman depolarında banka kredilerine teminat olarak binlerce ton yüksek kaliteli Brezilya kahvesi bulunduğunu beyan etti.",
-            "gercek_durum": "Çuvalların sadece en üstteki iki parmaklık katmanı gerçek kahve çekirdeğiyle doluydu; çuvalların alt kısımları tamamen değersiz taş, moloz ve talaşla doldurulmuştu."
+            "resmi_iddia": "Depo makbuzları, ticari finansmana teminat oluşturacak şekilde 22.000 tondan fazla kahvenin depolarda bulunduğunu gösteriyordu.",
+            "gercek_durum": "Makbuzlarda gösterilen miktarlar bazı depoların fiziksel kapasitesini aşıyordu. Denetimlerde kahve yığınlarının yalnızca görünen ön sıralarındaki çuvalların kahve içerdiği, diğer çok sayıda çuvalın ise pirinç kabuğuyla doldurulduğu ortaya çıktı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "2. Dünya Savaşı sonrası Batı Almanya'da yaşanan kahve kıtlığı ve yüksek gümrük vergileri, emtiaya dayalı spekülatif bir kredi patlaması yarattı.",
-            "uygulama": "İthalatçılar üstü kahve, altı taş dolu çuvallara sahte depo makbuzları (warrants) düzenleyerek bankalardan milyonlarca Mark kredi topladı ve borsa hisselerini şişirdi.",
-            "cokus": "Vadesi gelen kredilerin ödenememesi üzerine bankalar depolardaki çuvalları delerek teftiş etti; taş ve talaş dökülmesiyle borsa hisseleri çöktü ve ithalatçılar tutuklandı."
+            "tetikleyici": "Centeno-CONSAGRO grubuyla bağlantılı şirketlere yönelik büyük ve giderek daha riskli kredi maruziyeti oluştu.",
+            "uygulama": "Kahve stoklarını temsil ettiği iddia edilen depo makbuzları finansman sağlamak için kullanılırken, başka düzensiz kredi işlemleri, sahte tahsilatlar ve kahve sevkiyatlarındaki tutarsızlıklar INTERBANK'ın kredi portföyündeki gerçek bozulmayı gizledi.",
+            "cokus": "Denetimler ve fiziki stok kontrolleri, temsil edilen teminatlar ile gerçek içerik arasında ciddi farklar bulunduğunu ortaya çıkardı. Nikaragua bankacılık otoritesi INTERBANK'a Ağustos 2000'de müdahale etti ve banka daha sonra varlık ve yükümlülüklerinin devri yoluyla çözüme kavuşturuldu."
         },
         "relationships_tr": [
             {
-                "kaynak": "Hamburg Kahve İthalatçıları",
-                "iliski": "sahte_varant_teminati_verdi",
-                "hedef": "Deutsche Bank"
+                "kaynak": "Centeno-CONSAGRO Grubu",
+                "iliski": "finansman_sagladi",
+                "hedef": "Banco Internacional S.A. (INTERBANK)"
             },
             {
-                "kaynak": "Speicherstadt Depo İşletmecileri",
-                "iliski": "fiktif_makbuz_duzenledi",
-                "hedef": "Hamburg Emtia Borsası"
+                "kaynak": "Depo Personeli",
+                "iliski": "depo_makbuzu_duzenledi",
+                "hedef": "Centeno-CONSAGRO Grubu"
             },
             {
-                "kaynak": "Deutsche Bank",
-                "iliski": "teminata_el_koyup_numune_aldi",
-                "hedef": "Hamburg Liman İdaresi"
+                "kaynak": "Nikaragua Bankalar ve Diğer Finansal Kuruluşlar Denetim Otoritesi",
+                "iliski": "mudahale_etti",
+                "hedef": "Banco Internacional S.A. (INTERBANK)"
             },
             {
-                "kaynak": "Batı Almanya Ekonomi Bakanlığı",
-                "iliski": "varant_denetimlerini_zorunlu_kildi",
-                "hedef": "Brezilya Kahve İthalatçıları Birliği"
+                "kaynak": "Banco de la Producción (BANPRO)",
+                "iliski": "varlik_ve_yukumlulukleri_devraldi",
+                "hedef": "Banco Internacional S.A. (INTERBANK)"
             }
         ],
         "faq_tr": [
             {
-                "q": "1950'ler Almanya'sında sahte depo makbuzu (warrant) ile yapılan kahve vurgunu nedir?",
-                "a": "Savaş sonrası kahvenin altından değerli olduğu dönemde, ithalatçıların liman depolarındaki çuvalların üstüne bir kat kahve çekirdeği koyup altını taş ve talaşla doldurarak sahte depo makbuzlarıyla (warrants) milyonlarca Mark kredi çekmesi olayıdır."
+                "q": "Nikaragua'daki hayali kahve depo makbuzu sahtekârlığı neydi?",
+                "a": "22.000 tondan fazla kahveyi temsil ettiği iddia edilen depo makbuzları finansman sağlamak için kullanıldı. Denetimler daha sonra belgelerdeki stok miktarlarının bazı depoların kapasitesini aştığını ve birçok sözde kahve çuvalının pirinç kabuğuyla dolu olduğunu ortaya çıkardı."
             },
             {
-                "q": "Hamburg Borsası'nda kahve hisselerinin çökmesine neden olan hayali çuval skandalı nasıl ortaya çıktı?",
-                "a": "Bankaların vadesi gelen kredileri tahsil etmek için depolardaki kahve çuvallarını haczedip fiziki kontrol amacıyla çuvalları delmesi ve içinden taş, toprak ve moloz dökülmesiyle skandal patlak verdi."
+                "q": "Hayali kahve çuvalı sahtekârlığı nasıl ortaya çıktı?",
+                "a": "Denetim makamları, depo makbuzlarında gösterilen kahve miktarının bazı tesislerin fiziksel kapasitesini aşması üzerine fiziki kontrol gerçekleştirdi. Kontroller, temsil edilen stoklarla çuvalların gerçek içeriği arasındaki farkı ortaya çıkardı."
             },
             {
-                "q": "İkinci Dünya Savaşı sonrası Almanya'da kahve spekülasyonu ve borsa dolandırıcılığı nasıl yapıldı?",
-                "a": "Spekülatörler, gümrük vergilerinin yüksekliği ve kahve kıtlığını kullanarak kağıt üzerindeki hayali stokları teminat gösterdi; toplanan fiktif fonlarla Hamburg Borsası'ndaki ticaret şirketi hisselerini yapay olarak zirveye taşıdı."
+                "q": "Skandal INTERBANK'ı nasıl etkiledi?",
+                "a": "Kahve teminat işlemleri, Centeno-CONSAGRO grubuyla bağlantılı daha geniş düzensiz kredi ve finansman operasyonlarının parçasıydı. INTERBANK Ağustos 2000'de müdahale altına alındı ve daha sonra varlık ve yükümlülüklerinin başka bir bankaya devredilmesi yoluyla çözüme kavuşturuldu."
             }
         ]
     },
@@ -831,148 +1246,223 @@
         "id": "FIN_007",
         "category": "Finance History",
         "period": "1973-1980",
-        "start_year": "1973",
-        "end_year": "1980",
+        "start_year": 1973,
+        "end_year": 1980,
         "source_url": "https://www.reddit.com/r/policystrategies/s/HUFeN7dtZT",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.91,
+            "source_count": 4,
+            "primary_source_count": 1,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "Extensions of Remarks",
+                "type": "primary",
+                "source_role": "government_record",
+                "publisher": "U.S. Government Publishing Office",
+                "host": "Congressional Record",
+                "published_year": 1977,
+                "last_updated_year": null,
+                "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1977-pt14/pdf/GPO-CRECB-1977-pt14-2-3.pdf",
+                "supports": [
+                    "Contemporary U.S. Congressional Record discussion of allegations concerning the Graiver group's handling of approximately $17 million connected to Montoneros.",
+                    "Records contemporary statements regarding investigations into the Graiver group and allegations of illegal currency and financial operations."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Alleged Financier Of Guerrilla Group Is Indicted in N.Y.",
+                "type": "journalistic",
+                "source_role": "foundational",
+                "publisher": "The Washington Post",
+                "host": "The Washington Post",
+                "published_year": 1978,
+                "last_updated_year": null,
+                "url": "https://www.washingtonpost.com/archive/politics/1978/04/13/alleged-financier-of-guerrilla-group-is-indicted-in-ny/d175e1f3-0f58-45fd-8ded-fd93c3888748/",
+                "supports": [
+                    "Reports the New York grand jury indictment involving David Graiver and officials of American Bank & Trust for conspiracy, misappropriation of funds and falsification of bank records.",
+                    "Describes allegations that funds were transferred from American Bank & Trust through the Belgian Banque pour l'Amérique du Sud to companies controlled by the Graiver family.",
+                    "Identifies Manhattan District Attorney Robert Morgenthau's role in the investigation."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Graiver y los millones de los Born",
+                "type": "journalistic",
+                "source_role": "analytical",
+                "publisher": "La Nación",
+                "host": "La Nación",
+                "published_year": 2010,
+                "last_updated_year": null,
+                "url": "https://www.lanacion.com.ar/politica/graiver-y-los-millones-de-los-born-nid1299330/",
+                "supports": [
+                    "Documents the historical account of approximately $17 million associated with Montoneros funds being transferred through Graiver's financial network.",
+                    "Describes the movement of funds through Switzerland and their subsequent incorporation into Graiver-controlled financial assets."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Quién era David Graiver",
+                "type": "journalistic",
+                "source_role": "contextual",
+                "publisher": "Infobae",
+                "host": "Infobae",
+                "published_year": 2010,
+                "last_updated_year": null,
+                "url": "https://www.infobae.com/2010/08/25/533218-quien-era-david-graiver/",
+                "supports": [
+                    "Provides historical background on David Graiver's banking and business activities.",
+                    "Notes the historical relationship between the Graiver affair, the Born kidnapping ransom, Montoneros and subsequent investigations involving members of the Graiver family."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "David Graiver",
-            "Isidoro Graiver",
-            "Juan Graiver",
+            "Lidia Papaleo",
             "Mario Firmenich",
-            "Robert Morgenthau"
+            "Robert Morgenthau",
+            "Montoneros"
         ],
         "institutions": [
             "American Bank & Trust (New York)",
             "Banque pour l'Amérique du Sud (Brussels)",
-            "Montoneros Guerrilla Movement",
-            "Argentine Central Bank",
+            "Montoneros",
             "New York State Banking Department",
-            "Papel Prensa"
+            "Manhattan District Attorney's Office",
+            "Argentine Central Bank"
         ],
-        "title_en": "The Graiver Affair: Money Laundering, Sugar Cane Bonds & Transnational Bank Fraud",
-        "mechanism_en": "Laundering of revolutionary ransom capital through agricultural commodity bonds, circular inter-bank loans, and acquired commercial banks in New York and Brussels to sustain an offshore credit pyramid.",
-        "systemic_impact_en": "The fourth-largest bank failure in US history at the time (American Bank & Trust), transnational regulatory crackdowns on offshore shell banks, and political trials following the Argentine military coup.",
-        "context_en": "Analysis of Argentine financier David Graiver's complex financial network. Details the laundering of Montoneros ransom capital (~$17M) through agricultural commodity bonds, fictitious inter-bank lending circuits, and acquired banking entities across New York and Brussels.",
+        "title_en": "The Graiver Affair: Montoneros Funds and Transnational Bank Fraud",
+        "mechanism_en": "Alleged movement of funds connected to Montoneros through an international financial network involving American Bank & Trust, Banque pour l'Amérique du Sud and companies associated with the Graiver family, accompanied by allegations of misappropriation of funds and falsification of bank records.",
+        "systemic_impact_en": "The affair triggered investigations in the United States and Argentina, exposed the vulnerability of cross-border banking structures to opaque ownership and related-party transactions, and became intertwined with the political repression that followed Argentina's 1976 military coup.",
+        "context_en": "Case study of Argentine financier David Graiver and the international financial network associated with him during the 1970s. Contemporary investigations and later historical accounts linked approximately $17 million associated with Montoneros to financial structures connected to the Graiver group.",
         "keywords_en": [
             "DavidGraiver",
             "Montoneros",
             "MoneyLaundering",
-            "AgriculturalBonds",
             "TransnationalBanking",
+            "BankFraud",
             "OffshoreFinance",
             "AmericanBankAndTrust"
         ],
         "claims_vs_reality_en": {
-            "official_claim": "Financier David Graiver portrayed his international banking conglomerate as a solvent merchant banking empire backing agricultural development and sugar cane commodity derivatives.",
-            "actual_reality": "The banks were insolently leveraged offshore vehicles used to wash $17M in Montoneros terrorist ransom money via circular fictitious inter-company credit and non-existent sugar cane contracts."
+            "official_claim": "Graiver's international business network was presented as a legitimate collection of banking and investment interests operating across several jurisdictions.",
+            "actual_reality": "Investigations alleged that companies and banks connected to the Graiver network were used to move funds through complex cross-border transactions, including transfers involving American Bank & Trust and Belgian financial institutions."
         },
         "causal_chain_en": {
-            "trigger": "Montoneros guerrillas entrust $17 million in ransom proceeds from the Bunge & Born kidnapping to financier David Graiver for offshore money laundering.",
-            "execution": "Graiver acquires American Bank & Trust in New York and Banque pour l'Amérique du Sud in Brussels, generating circular loans secured by phantom sugar cane commodity paper.",
-            "collapse": "David Graiver dies in an August 1976 Mexican jet crash; the credit pyramid halts, New York regulators seize the bank, and his family is detained in Argentina."
+            "trigger": "Funds associated with Montoneros, including money connected to the Bunge & Born kidnapping, entered financial channels associated with David Graiver and his business network.",
+            "execution": "The Graiver network used cross-border companies and banking relationships, including American Bank & Trust and Banque pour l'Amérique du Sud, to move and manage funds across jurisdictions.",
+            "collapse": "David Graiver died in an August 1976 aircraft crash in Mexico, while subsequent investigations in New York and Argentina examined alleged financial misconduct and the Graiver family's assets and business network."
         },
         "relationships_en": [
             {
                 "source": "Montoneros",
-                "relation": "transferred_ransom_capital_to",
+                "relation": "associated_funds_managed_by",
                 "target": "David Graiver"
             },
             {
                 "source": "David Graiver",
-                "relation": "routed_fictitious_agricultural_loans_through",
+                "relation": "controlled_business_network_connected_to",
                 "target": "American Bank & Trust (New York)"
             },
             {
-                "source": "David Graiver",
-                "relation": "acquired_and_leveraged",
+                "source": "American Bank & Trust (New York)",
+                "relation": "allegedly_transferred_funds_through",
                 "target": "Banque pour l'Amérique du Sud (Brussels)"
             },
             {
-                "source": "New York State Banking Department",
-                "relation": "liquidated_and_closed",
-                "target": "American Bank & Trust (New York)"
+                "source": "Robert Morgenthau",
+                "relation": "led_investigation_into",
+                "target": "Graiver Financial Network"
             },
             {
-                "source": "Robert Morgenthau",
-                "relation": "indicted_network_associates_of",
+                "source": "New York Grand Jury",
+                "relation": "indicted_associates_connected_to",
                 "target": "David Graiver"
             }
         ],
         "faq_en": [
             {
-                "q": "What was the David Graiver and Montoneros ransom money laundering operation?",
-                "a": "Argentine financier David Graiver laundered approximately $17 million in guerrilla ransom money from the Bunge & Born kidnapping through agricultural commodity bonds, sugar cane futures, and transnational shell bank circuits."
+                "q": "What was the David Graiver and Montoneros financial affair?",
+                "a": "The Graiver affair concerned allegations that funds associated with Montoneros, including money connected to the Bunge & Born kidnapping, were managed and moved through an international financial network associated with Argentine financier David Graiver."
             },
             {
-                "q": "How did the 1976 New York American Bank & Trust insolvency and fraudulent sugar cane contract scandal erupt?",
-                "a": "New York State Banking Department regulators discovered that tens of millions in commercial loans were backed by fictitious agricultural warrants and circular loans between Graiver-controlled shell companies, leading to the bank's emergency closure."
+                "q": "What was the connection between David Graiver and American Bank & Trust?",
+                "a": "A New York investigation examined alleged transfers involving American Bank & Trust, Banque pour l'Amérique du Sud and companies associated with the Graiver family, leading to indictments involving alleged misappropriation of funds and falsification of bank records."
             },
             {
-                "q": "How did the suspicious plane crash of the Graiver brothers collapse their international banking empire?",
-                "a": "David Graiver's reported death in an August 1976 jet crash in Mexico halted the circular credit pyramid, triggering the simultaneous collapse of his New York and Brussels banks and the detention of his family by the Argentine military junta."
+                "q": "What happened to the Graiver financial network after David Graiver's death?",
+                "a": "After Graiver's death in a 1976 aircraft crash, investigations in the United States and Argentina continued into the financial network associated with him, while members of his family and their assets became entangled in Argentina's political repression and legal disputes."
             }
         ],
-        "title_tr": "Graiver Kardeşler ve Şeker Kamışı Tahvillerinin Tasfiyesi",
-        "mechanism_tr": "Sol gerilla örgütü Montoneros'un fidye paralarının tarımsal şeker kamışı tahvilleri, vadeli emtia kontratları ve New York ile Brüksel'deki paravan bankalar üzerinden fiktif kredilerle aklanması.",
-        "systemic_impact_tr": "Dönemin ABD tarihindeki en büyük dördüncü banka iflası (American Bank & Trust), sınır ötesi paravan bankacılık denetimlerinin sıkılaştırılması ve Arjantin cuntasının yürüttüğü uluslararası tasfiye davaları.",
-        "context_tr": "Arjantinli banker David Graiver'ın Montoneros örgütünün fidye paralarını emtia ve tarım tahvillerinde aklama şebekesi. New York ve Brüksel bankaları üzerinden fiktif kredilerle kurulan çok uluslu finansal illüzyon ve tasfiyesi.",
+        "title_tr": "Graiver Olayı: Montoneros Fonları ve Uluslararası Bankacılık Soruşturması",
+        "mechanism_tr": "Montoneros ile ilişkilendirilen fonların, Graiver ailesiyle bağlantılı şirketler ve American Bank & Trust ile Banque pour l'Amérique du Sud gibi uluslararası bankacılık yapıları üzerinden sınır ötesi işlemlerle hareket ettirildiği iddiaları; bu süreçte fonların zimmete geçirilmesi ve banka kayıtlarının tahrif edilmesine ilişkin soruşturmalar.",
+        "systemic_impact_tr": "Olay ABD ve Arjantin'de finansal soruşturmaları tetikledi; sınır ötesi bankacılık yapılarındaki karmaşık sahiplik ilişkileri ve bağlantılı taraf işlemlerinin yarattığı riskleri ortaya çıkardı ve 1976 Arjantin askeri darbesi sonrasındaki siyasi baskı süreciyle iç içe geçti.",
+        "context_tr": "1970'lerde Arjantinli finansçı David Graiver ve onunla bağlantılı uluslararası finans ağının vaka incelemesi. Dönemin soruşturmaları ve sonraki tarihsel anlatımlar, Montoneros ile ilişkilendirilen yaklaşık 17 milyon dolarlık fonun Graiver grubuyla bağlantılı finansal yapılar üzerinden yönetildiğini ve hareket ettirildiğini ortaya koymaktadır.",
         "keywords_tr": [
             "DavidGraiver",
             "Montoneros",
-            "KaraParaAklama",
-            "TarımTahvilleri",
+            "KaraPara",
             "UluslararasıBankacılık",
+            "BankaSahtekarlığı",
             "OffshoreFinans",
             "AmericanBankAndTrust"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Banker David Graiver, çok uluslu bankacılık grubunun tarımsal kalkınmayı ve şeker kamışı emtia vadeli işlemlerini finanse eden saygın bir yatırım imparatorluğu olduğunu iddia etti.",
-            "gercek_durum": "Bankalar, Montoneros gerilla örgütünün 17 milyon dolarlık fidye parasını hayali şeker kamışı sözleşmeleri ve fiktif paravan kredilerle aklayan batık bir ponzi zinciriydi."
+            "resmi_iddia": "Graiver'ın uluslararası şirket ve bankacılık ağı, farklı ülkelerde faaliyet gösteren meşru yatırım ve finans kuruluşlarından oluşan bir iş imparatorluğu olarak görünüyordu.",
+            "gercek_durum": "ABD'deki soruşturmalar, Graiver ailesiyle bağlantılı şirketler ve bankalar üzerinden karmaşık sınır ötesi para transferleri yapıldığı; bazı işlemlerde zimmete para geçirme ve banka kayıtlarının tahrif edilmesi iddialarının bulunduğunu ortaya çıkardı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Montoneros gerilla örgütü, Bunge & Born kaçırma eyleminden topladığı 17 milyon dolarlık fidye parasını aklaması için banker David Graiver'a teslim etti.",
-            "uygulama": "Graiver, New York ve Brüksel'de bankalar satın alarak hayali şeker kamışı kontratları ve paravan şirketler arasında dönen fiktif kredilerle bir aklama çarkı kurdu.",
-            "cokus": "Graiver'ın Ağustos 1976'da Meksika'daki şüpheli uçak kazasında ölümüyle kredi piramidi durdu; New York regülatörleri bankayı kapattı ve aile Arjantin'de yargılandı."
+            "tetikleyici": "Montoneros ile ilişkilendirilen ve Bunge & Born kaçırma eyleminden elde edilen fidye paralarını da kapsayan fonlar, David Graiver ve onun finansal ağıyla bağlantılı yapılara ulaştı.",
+            "uygulama": "Graiver ağı, American Bank & Trust ve Banque pour l'Amérique du Sud ile bağlantılı uluslararası şirket ve bankacılık ilişkileri üzerinden fonları farklı ülkeler arasında hareket ettirdi.",
+            "cokus": "David Graiver'ın Ağustos 1976'da Meksika'daki uçak kazasında ölmesinin ardından, ABD ve Arjantin'deki makamlar finansal işlemleri ve Graiver ailesiyle bağlantılı şirketleri soruşturmaya devam etti."
         },
         "relationships_tr": [
             {
                 "kaynak": "Montoneros",
-                "iliski": "fidye_parasini_teslim_etti",
+                "iliski": "iliskili_fonlarin_yonetimini_bagladi",
                 "hedef": "David Graiver"
             },
             {
                 "kaynak": "David Graiver",
-                "iliski": "fiktif_tarim_kredileri_aktardi",
+                "iliski": "finansal_agini_baglantili_hale_getirdi",
                 "hedef": "American Bank & Trust (New York)"
             },
             {
-                "kaynak": "David Graiver",
-                "iliski": "paravan_aklama_araci_olarak_kullandi",
+                "kaynak": "American Bank & Trust (New York)",
+                "iliski": "iddia_edilen_fon_transferlerini_yonlendirdi",
                 "hedef": "Banque pour l'Amérique du Sud (Brüksel)"
             },
             {
-                "kaynak": "New York Eyaleti Bankacılık Departmanı",
-                "iliski": "lisansini_iptal_edip_kapatti",
-                "hedef": "American Bank & Trust (New York)"
+                "kaynak": "Robert Morgenthau",
+                "iliski": "finansal_ag_sorusturmasini_yonetti",
+                "hedef": "Graiver Finansal Ağı"
             },
             {
-                "kaynak": "Robert Morgenthau",
-                "iliski": "adli_sorusturma_ve_iddianame_hazirladi",
-                "hedef": "David Graiver"
+                "kaynak": "New York Büyük Jürisi",
+                "iliski": "Graiver_agiyla_baglantili_kisiler_hakkinda_iddianame_hazirladi",
+                "hedef": "David Graiver Finansal Ağı"
             }
         ],
         "faq_tr": [
             {
-                "q": "David Graiver ve Montoneros fidye paralarının emtia borsalarında aklanması olayı nedir?",
-                "a": "Arjantinli sol gerilla örgütü Montoneros'un Bunge & Born kaçırma eyleminden elde ettiği yaklaşık 17 milyon dolarlık fidye parasının, banker David Graiver tarafından tarımsal şeker kamışı tahvilleri, emtia vadeli işlemleri ve uluslararası paravan bankalar üzerinden aklanması operasyonudur."
+                "q": "David Graiver ve Montoneros fonları olayı nedir?",
+                "a": "Graiver olayı, Montoneros ile ilişkilendirilen ve Bunge & Born kaçırma eyleminden elde edilen paraları da kapsayan fonların, Arjantinli finansçı David Graiver ile bağlantılı uluslararası finans ağı üzerinden yönetildiği ve hareket ettirildiği iddialarıyla ilgilidir."
             },
             {
-                "q": "1976 New York American Bank & Trust iflası ve sahte şeker kamışı kontratları skandalı nasıl patlak verdi?",
-                "a": "New York Bankacılık Departmanı müfettişlerinin, banka kasalarındaki onlarca milyon dolarlık kredinin karşılığında teminat gösterilen şeker kamışı ve tarım tahvillerinin fiktif paravan şirketler arasında dönen hayali işlemler olduğunu tespit etmesi ve bankanın lisansını iptal etmesiyle patlak verdi."
+                "q": "David Graiver ile American Bank & Trust arasındaki bağlantı neydi?",
+                "a": "New York'taki soruşturma, American Bank & Trust'tan Belçika'daki Banque pour l'Amérique du Sud üzerinden Graiver ailesiyle bağlantılı şirketlere yapılan fon transferlerini inceledi; soruşturma zimmete para geçirme ve banka kayıtlarının tahrif edilmesi iddialarına ilişkin iddianamelerle sonuçlandı."
             },
             {
-                "q": "Arjantinli Graiver Kardeşler'in şüpheli uçak kazası ve uluslararası bankacılık ağı nasıl çöktü?",
-                "a": "David Graiver'ın Ağustos 1976'da Meksika üzerinde şüpheli bir uçak kazasında ölmesi (veya öldüğü iddiası) sonrası kredi çarkı durdu; New York ve Brüksel'deki bankaları peş peşe iflas etti, ailesi Arjantin askeri cuntası tarafından gözaltına alındı."
+                "q": "David Graiver'ın ölümünden sonra finansal ağına ne oldu?",
+                "a": "Graiver'ın 1976'daki uçak kazasında ölümünün ardından ABD ve Arjantin'deki soruşturmalar devam etti; ailesi ve şirketleri Arjantin'deki siyasi baskı, mal varlığına yönelik işlemler ve uzun süren hukuki tartışmaların merkezine yerleşti."
             }
         ]
     },
@@ -980,28 +1470,102 @@
         "id": "FIN_008",
         "category": "Finance History",
         "period": "1973-1975",
-        "start_year": "1973",
-        "end_year": "1975",
+        "start_year": 1973,
+        "end_year": 1975,
         "source_url": "https://www.reddit.com/r/policystrategies/s/G372LoEB8N",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.97,
+            "source_count": 4,
+            "primary_source_count": 3,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "Annual Report 1973",
+                "type": "primary",
+                "source_role": "regulatory_record",
+                "publisher": "U.S. Securities and Exchange Commission",
+                "host": "SEC",
+                "published_year": 1973,
+                "last_updated_year": null,
+                "url": "https://www.sec.gov/about/annual_report/1973.pdf",
+                "supports": [
+                    "The SEC described Equity Funding's scheme as involving nonexistent insurance policies sold to reinsurers for immediate cash.",
+                    "The SEC estimated that more than $2 billion of approximately $3 billion in purported life insurance face value was fictitious."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "The GAO Review: Equity Funding Scandal",
+                "type": "primary",
+                "source_role": "government_analysis",
+                "publisher": "U.S. Government Accountability Office",
+                "host": "GAO",
+                "published_year": 1976,
+                "last_updated_year": null,
+                "url": "https://www.gao.gov/assets/090967.pdf",
+                "supports": [
+                    "Documents the progression from improperly recorded insurance business to fully fabricated policies.",
+                    "Describes the use of bogus policy documentation and the pyramid-like need to create additional fictitious policies to sustain the scheme."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Dirks v. SEC, 463 U.S. 646",
+                "type": "primary",
+                "source_role": "judicial_record",
+                "publisher": "Supreme Court of the United States",
+                "host": "U.S. Government Publishing Office",
+                "published_year": 1983,
+                "last_updated_year": null,
+                "url": "https://www.govinfo.gov/app/details/USREPORTS-463/USREPORTS-463-646",
+                "supports": [
+                    "Provides the authoritative judicial record concerning Ray Dirks's role in uncovering the Equity Funding fraud.",
+                    "Confirms that Dirks received information from former Equity Funding insiders and played an important role in bringing the fraud to light."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "In re Equity Funding Corp. of America Securities Litigation",
+                "type": "judicial",
+                "source_role": "case_record",
+                "publisher": "United States District Court for the Central District of California",
+                "host": "Justia",
+                "published_year": 1976,
+                "last_updated_year": null,
+                "url": "https://law.justia.com/cases/federal/district-courts/FSupp/416/161/1500825/",
+                "supports": [
+                    "Documents false accounting entries, fictitious and inflated assets, and bogus life insurance policies reinsured with other companies.",
+                    "Confirms that fictitious policies were used to inflate Equity Funding's reported financial condition."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Stanley Goldblum",
             "Fred Levin",
             "Ronald Secrist",
             "Ray Dirks",
-            "Michael Sultan"
+            "Robert M. Loeffler"
         ],
         "institutions": [
             "Equity Funding Corporation of America (EFCA)",
+            "Equity Funding Life Insurance Company (EFLIC)",
             "SEC (Securities and Exchange Commission)",
             "New York Stock Exchange (NYSE)",
-            "Pennsylvania Insurance Department",
             "California Department of Insurance",
-            "Bakersfield Reinsurance Syndicate"
+            "Illinois Department of Insurance"
         ],
         "title_en": "The Equity Funding Corporation Scandal: Fabricated Ghost Policies and Reinsurance Fraud",
-        "mechanism_en": "Algorithmic generation of 64,000 fictitious policyholders and forged life insurance contracts resold to reinsurance syndicates for upfront liquidity, sustained through forged medical records and fabricated death certificates.",
-        "systemic_impact_en": "The first major computer-based corporate fraud investigation in US history, landmark Supreme Court precedent on insider trading (Dirks v. SEC), and the institutional mandate for digital forensic IT audits.",
-        "context_en": "Detailed review of the 1973 Equity Funding Corporation of America scandal. Explores the systematic creation of tens of thousands of computer-generated fake life insurance policies and forged death certificates resold to reinsurance syndicates to create fictitious cash flow.",
+        "mechanism_en": "Equity Funding fabricated thousands of nonexistent life insurance policies, supported them with falsified records, and transferred many of them to unsuspecting reinsurers to generate cash and inflate reported assets and earnings.",
+        "systemic_impact_en": "The scandal became one of the first major computer-assisted corporate fraud cases, triggered extensive regulatory and criminal investigations, and later became central to the landmark Supreme Court insider-trading decision in Dirks v. SEC.",
+        "context_en": "Case study of the 1973 collapse of Equity Funding Corporation of America, where management systematically created fictitious life insurance policies and financial records to inflate corporate growth, assets, and earnings before the fraud was exposed.",
         "keywords_en": [
             "EquityFunding",
             "InsuranceFraud",
@@ -1013,59 +1577,59 @@
             "GhostPolicies"
         ],
         "claims_vs_reality_en": {
-            "official_claim": "Equity Funding Corporation claimed it was the fastest-growing financial conglomerate in the US, combining mutual fund investments with hundreds of thousands of active, premium-paying life insurance policies.",
-            "actual_reality": "Over 64,000 policies (worth over $2 billion) were completely non-existent ghost accounts algorithmically fabricated on company mainframe computers and sold to reinsurers to generate fake cash flow."
+            "official_claim": "Equity Funding presented itself as a rapidly growing financial services company combining life insurance sales with mutual fund investments and expanding earnings.",
+            "actual_reality": "A substantial portion of its reported insurance business, assets, and earnings was fictitious, including thousands of nonexistent policies that were reinsured to obtain cash."
         },
         "causal_chain_en": {
-            "trigger": "Executive pressure to maintain astronomical Wall Street earnings growth leads management to program fake life insurance policies on mainframe computers.",
-            "execution": "The company resells 64,000 algorithmically fabricated policies to reinsurance syndicates for upfront cash, keeping the fraud alive by forging death certificates and paying fake premiums.",
-            "collapse": "Whistleblower Ronald Secrist exposes the scheme to analyst Ray Dirks; regulatory raids on the Los Angeles data center halt NYSE trading and lead to executive indictments."
+            "trigger": "Pressure to sustain rapid reported growth and earnings led Equity Funding management to manipulate insurance records and eventually create entirely fictitious policies.",
+            "execution": "Bogus policies were supported by falsified documentation and transferred to reinsurers, generating cash while simultaneously inflating reported insurance activity and assets.",
+            "collapse": "Information supplied by former employee Ronald Secrist reached analyst Ray Dirks and regulators; trading was suspended in March 1973, the SEC intervened, and the company entered reorganization."
         },
         "relationships_en": [
             {
                 "source": "Stanley Goldblum",
-                "relation": "directed_computer_fraud_at",
+                "relation": "led_management_of",
                 "target": "Equity Funding Corporation of America (EFCA)"
             },
             {
-                "source": "EFCA",
-                "relation": "sold_fabricated_policies_to",
-                "target": "Bakersfield Reinsurance Syndicate"
+                "source": "Equity Funding Life Insurance Company (EFLIC)",
+                "relation": "transferred_fictitious_policies_to",
+                "target": "Reinsurance Companies"
             },
             {
                 "source": "Ronald Secrist",
-                "relation": "whistleblew_fraud_to",
+                "relation": "provided_information_to",
                 "target": "Ray Dirks"
             },
             {
                 "source": "Ray Dirks",
-                "relation": "alerted_institutional_clients_and",
-                "target": "SEC (Securities and Exchange Commission)"
+                "relation": "alerted_investors_and_regulators_about",
+                "target": "Equity Funding Corporation of America (EFCA)"
             },
             {
-                "source": "SEC",
-                "relation": "halted_trading_on",
-                "target": "New York Stock Exchange (NYSE)"
+                "source": "SEC (Securities and Exchange Commission)",
+                "relation": "initiated_enforcement_action_against",
+                "target": "Equity Funding Corporation of America (EFCA)"
             }
         ],
         "faq_en": [
             {
                 "q": "What was the 1973 Equity Funding Corporation of America scandal and ghost policy fraud?",
-                "a": "It was a massive accounting fraud where the Wall Street-darling insurer algorithmically fabricated 64,000 fictitious policyholders and bogus life insurance contracts to inflate assets by over $2 billion."
+                "a": "It was a major corporate fraud in which Equity Funding created thousands of nonexistent life insurance policies and used false records to inflate assets, earnings, and insurance activity."
             },
             {
-                "q": "How did Equity Funding sell fake life insurance policies to reinsurance syndicates?",
-                "a": "The company sold fabricated policies to reinsurers for upfront cash, maintaining the deception by forging medical records and fake death certificates to remit premium shares and claims for non-existent people."
+                "q": "How did Equity Funding use fake life insurance policies in reinsurance transactions?",
+                "a": "The company transferred fictitious or improperly recorded policies to reinsurers and received payments that helped create the appearance of legitimate insurance business and cash flow."
             },
             {
-                "q": "How did the whistleblower leak and analyst Ray Dirks unravel the massive computer accounting fraud?",
-                "a": "Whistleblower Ronald Secrist alerted Wall Street analyst Ray Dirks, who exposed the scheme to institutional clients; subsequent regulatory raids on EFCA's Los Angeles computing centers halted trading and triggered bankruptcy."
+                "q": "How did Ray Dirks and Ronald Secrist help expose the Equity Funding fraud?",
+                "a": "Former employee Ronald Secrist provided information about the fraud to analyst Ray Dirks, who investigated the allegations, warned members of the investment community, and helped bring the scheme to public and regulatory attention."
             }
         ],
         "title_tr": "Yarım Milyar Dolarlık Hayalet Poliçe: Equity Funding Skandalı",
-        "mechanism_tr": "Bilgisayarlarda 64.000 adet tamamen hayali 'hayalet müşteri' adına sahte hayat sigortası poliçeleri üretilerek reasürans şirketlerine satılması; çarkın sahte ölüm belgeleri ve fiktif tazminat dosyalarıyla döndürülmesi.",
-        "systemic_impact_tr": "Tarihin ilk büyük bilgisayarlı finansal dolandırıcılığı soruşturması, içeriden öğrenenlerin ticareti konusunda emsal teşkil eden ABD Yüksek Mahkemesi kararı (Dirks v. SEC) ve modern adli bilişim (IT audit) denetiminin doğuşu.",
-        "context_tr": "1970'lerin başında Equity Funding şirketinin bilgisayarlarda on binlerce hayali müşteri ve sahte ölüm belgesi üreterek reasürans şirketlerine satması; tarihin ilk büyük bilgisayarlı finans ve sigorta dolandırıcılığı vakası.",
+        "mechanism_tr": "Equity Funding, binlerce hayali hayat sigortası poliçesi üretti; bunları sahte kayıtlarla destekleyip reasürans şirketlerine devrederek nakit akışı sağladı ve şirketin varlıkları ile gelirlerini olduğundan yüksek gösterdi.",
+        "systemic_impact_tr": "Skandal, tarihin ilk büyük bilgisayar destekli kurumsal dolandırıcılık vakalarından biri hâline geldi; geniş çaplı düzenleyici ve cezai soruşturmaları tetikledi ve daha sonra Dirks v. SEC kararına konu oldu.",
+        "context_tr": "1973 Equity Funding Corporation of America çöküşünün vaka incelemesi. Şirket yönetimi, büyüme ve kârlılık görünümünü korumak için hayali hayat sigortası poliçeleri ve sahte finansal kayıtlar üretti.",
         "keywords_tr": [
             "EquityFunding",
             "SigortaVurgunu",
@@ -1077,53 +1641,53 @@
             "RayDirks"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Equity Funding Corporation, yatırım fonlarını yüz binlerce prim ödeyen gerçek hayat sigortası poliçesiyle birleştiren ABD'nin en hızlı büyüyen ve en karlı finans devi olduğunu iddia etti.",
-            "gercek_durum": "Bilançodaki 64.000'den fazla poliçe (2 milyar dolar değerinde) tamamen hayaliydi; bilgisayarlarda üretilen bu 'hayalet müşteriler' nakit avans almak için reasürans şirketlerine satılmıştı."
+            "resmi_iddia": "Equity Funding Corporation, hayat sigortası ve yatırım fonlarını birleştiren, hızla büyüyen ve yüksek kâr üreten başarılı bir finans şirketi olduğunu gösteriyordu.",
+            "gercek_durum": "Şirketin bildirdiği sigorta faaliyetlerinin, varlıklarının ve gelirlerinin önemli bir bölümü hayaliydi; binlerce var olmayan poliçe reasürans işlemlerinde kullanılmıştı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Wall Street'in yüksek hisse senedi ve kâr beklentisini karşılamak isteyen yöneticiler, bilgisayar sistemlerinde hayali hayat sigortası poliçeleri üretmeye başladı.",
-            "uygulama": "Şirket, ürettiği 64.000 hayali poliçeyi reasürans şirketlerine peşin nakit karşılığı sattı; sistemi sürdürmek için sahte ölüm belgeleri düzenleyip sahte prim ödemeleri yaptı.",
-            "cokus": "Eski yönetici Ronald Secrist'in analist Ray Dirks'e itirafları sonrası sigorta müfettişleri veri merkezini bastı; hisseler durduruldu ve şirket tarihin ilk büyük bilişim iflasını yaşadı."
+            "tetikleyici": "Hızlı büyüme ve yüksek kâr görünümünü koruma baskısı, yönetimin önce kayıtları manipüle etmesine, ardından tamamen hayali poliçeler üretmesine yol açtı.",
+            "uygulama": "Sahte poliçeler ve destekleyici belgeler oluşturuldu; bu poliçelerin bir kısmı reasürans şirketlerine devredilerek nakit elde edilirken şirketin finansal görünümü şişirildi.",
+            "cokus": "Eski çalışan Ronald Secrist'in verdiği bilgiler Ray Dirks ve düzenleyicilere ulaştı; Mart 1973'te işlemler durduruldu, SEC müdahale etti ve şirket yeniden yapılanma sürecine girdi."
         },
         "relationships_tr": [
             {
                 "kaynak": "Stanley Goldblum",
-                "iliski": "bilgisayar_vurgununu_yonetti",
+                "iliski": "yonetiminde_yer_aldi",
                 "hedef": "Equity Funding Corporation of America (EFCA)"
             },
             {
-                "kaynak": "EFCA",
-                "iliski": "hayalet_policeleri_satti",
-                "hedef": "Bakersfield Reasürans Sendikası"
+                "kaynak": "Equity Funding Life Insurance Company (EFLIC)",
+                "iliski": "fiktif_policeleri_devretti",
+                "hedef": "Reasürans Şirketleri"
             },
             {
                 "kaynak": "Ronald Secrist",
-                "iliski": "sahtekarligi_ihbar_etti",
+                "iliski": "sahtekarlik_bilgilerini_iletti",
                 "hedef": "Ray Dirks"
             },
             {
                 "kaynak": "Ray Dirks",
-                "iliski": "piyasalari_ve_denetcileri_uyardi",
-                "hedef": "SEC (ABD Sermaye Piyasası Kurulu)"
+                "iliski": "yatirimcilari_ve_duzenleyicileri_uyardi",
+                "hedef": "Equity Funding Corporation of America (EFCA)"
             },
             {
-                "kaynak": "SEC",
-                "iliski": "hisse_islemlerini_durdurdu",
-                "hedef": "New York Borsası (NYSE)"
+                "kaynak": "SEC (ABD Sermaye Piyasası Kurulu)",
+                "iliski": "hukuki_islem_baslatti",
+                "hedef": "Equity Funding Corporation of America (EFCA)"
             }
         ],
         "faq_tr": [
             {
                 "q": "1973 Equity Funding Corporation of America skandalı ve hayalet poliçe dolandırıcılığı nedir?",
-                "a": "Wall Street'in gözdesi olan sigorta şirketinin büyüme rakamlarını tutturabilmek için bilgisayarlarda 64.000 adet tamamen hayali 'hayalet müşteri' ve sahte hayat sigortası poliçesi üreterek 2 milyar dolarlık sahte varlık yaratması skandalıdır."
+                "a": "Şirketin büyüme ve kârlılık rakamlarını şişirmek için binlerce hayali hayat sigortası poliçesi ve sahte finansal kayıt oluşturduğu büyük kurumsal dolandırıcılık vakasıdır."
             },
             {
-                "q": "Equity Funding sahte hayat sigortası poliçelerini reasürans şirketlerine nasıl sattı?",
-                "a": "Şirket, ürettiği hayali poliçeleri nakit avans karşılığında büyük reasürans şirketlerine devretti; sistemi sürdürebilmek için hayali müşteriler adına sahte ölüm belgeleri düzenleyip tazminat dosyaları uydurarak döngüyü finanse etti."
+                "q": "Equity Funding sahte hayat sigortası poliçelerini reasürans şirketlerine nasıl kullandı?",
+                "a": "Hayali veya usulsüz kaydedilmiş poliçeler reasürans işlemlerinde kullanıldı ve bu işlemler şirketin gerçek dışı sigorta faaliyeti ve nakit akışı görüntüsü yaratmasına yardımcı oldu."
             },
             {
-                "q": "Ray Dirks ve eski bir çalışanın ihbarıyla ortaya çıkan devasa bilgisayar muhasebe sahtekarlığı nasıl çöktü?",
-                "a": "Eski yönetici Ronald Secrist'in içeriden sızdırdığı bilgileri alan Wall Street analisti Ray Dirks'ün kurumsal yatırımcıları uyarması ve sigorta müfettişlerinin Los Angeles merkezindeki bilgisayar kayıtlarını basmasıyla hisseler çöktü ve şirket iflas etti."
+                "q": "Ray Dirks ve Ronald Secrist'in rolüyle Equity Funding skandalı nasıl ortaya çıktı?",
+                "a": "Eski çalışan Ronald Secrist'in verdiği bilgiler analist Ray Dirks tarafından araştırıldı; Dirks yatırım çevrelerini ve düzenleyicileri uyararak dolandırıcılığın ortaya çıkmasında önemli rol oynadı."
             }
         ]
     },
@@ -1131,9 +1695,83 @@
         "id": "FIN_009",
         "category": "Finance History",
         "period": "1952-1956",
-        "start_year": "1952",
-        "end_year": "1956",
+        "start_year": 1952,
+        "end_year": 1956,
         "source_url": "https://www.reddit.com/r/policystrategies/s/dyPl6TcOmX",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.93,
+            "source_count": 4,
+            "primary_source_count": 3,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "Shanghai's Five-Anti Campaign Reaches Its Final Stage",
+                "type": "primary",
+                "source_role": "contemporary_record",
+                "publisher": "People's Daily",
+                "host": "People's Daily Historical Archive",
+                "published_year": 1952,
+                "last_updated_year": null,
+                "url": "https://cn.govopendata.com/renminribao/1952/6/10/2/",
+                "supports": [
+                    "Documents the implementation of the Five-Anti Campaign in Shanghai and the large-scale review and processing of private industrial and commercial enterprises.",
+                    "Confirms the use of inspection teams, investigations, confessions, financial settlements, and differentiated treatment of private businesses."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Struggle for the Complete Victory of the Five-Anti Campaign",
+                "type": "primary",
+                "source_role": "government_policy_record",
+                "publisher": "People's Daily",
+                "host": "People's Daily Historical Archive",
+                "published_year": 1952,
+                "last_updated_year": null,
+                "url": "https://cn.govopendata.com/renminribao/1952/3/28/1/",
+                "supports": [
+                    "Records the official launch and administration of the Five-Anti Campaign in Shanghai.",
+                    "Documents the classification, investigation, and disciplinary treatment of industrialists and commercial enterprises."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Report on the Socialist Transformation of Capitalist Industry and Commerce",
+                "type": "primary",
+                "source_role": "nationalization_policy_record",
+                "publisher": "Chinese People's Political Consultative Conference",
+                "host": "CPPCC National Committee",
+                "published_year": 1956,
+                "last_updated_year": null,
+                "url": "https://www.cppcc.gov.cn/2011/10/09/ARTI1318130281794363.shtml",
+                "supports": [
+                    "Documents the transition of private industry and commerce into public-private joint ownership and state capitalism.",
+                    "Confirms the nationwide acceleration toward industry-wide public-private joint ownership during 1955-1956."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "'Red Capitalist' Rong: Wuxi's Native Son, China's Legend",
+                "type": "secondary",
+                "source_role": "biographical_context",
+                "publisher": "China Daily",
+                "host": "China Daily",
+                "published_year": 2014,
+                "last_updated_year": null,
+                "url": "https://www.chinadaily.com.cn/m/jiangsu/wuxi/2014-09/12/content_19467014.htm",
+                "supports": [
+                    "Documents Rong Yiren's role in managing the Rong family industrial enterprises after 1949.",
+                    "States that the Rong enterprises entered a government-private joint ownership arrangement in 1955."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Rong Yiren",
             "Chen Yun",
@@ -1142,126 +1780,126 @@
             "Zhou Enlai"
         ],
         "institutions": [
-            "Sung Sing Cotton Mills",
-            "Beijing Financial and Economic Committee",
+            "Shanghai Shenxin Textile Enterprises",
             "Shanghai Municipal People's Government",
             "People's Bank of China",
-            "Chinese Communist Party"
+            "Chinese Communist Party",
+            "Chinese People's Political Consultative Conference"
         ],
-        "title_en": "The Financial Collapse of Shanghai Barons and the History of Chinese Nationalization",
-        "mechanism_en": "Forensic accounting raids under the Five-Anti (Wufan) Campaign, selective asset freezes, and insurmountable retroactive tax penalties engineered to force private industrial equity into state-controlled joint ventures.",
-        "systemic_impact_en": "Complete liquidation of the Shanghai merchant and industrial bourgeoisie, peaceful expropriation of East China's industrial base, and the structural centralization of private enterprise into the state command economy.",
-        "context_en": "In 1952, the Beijing government leveraged the Five-Anti (Wufan) Campaign to trap Shanghai industrialists in a financial blockade through forensic audits and insurmountable retroactive fines. Deprived of liquidity and forced into severe debt, prominent capitalists ceded their enterprise shares and private ownership to the state by 1956.",
+        "title_en": "The Financial Transformation of Shanghai Industrialists and the Nationalization of Chinese Private Enterprise",
+        "mechanism_en": "The Five-Anti Campaign subjected private businesses to mass investigations, inspections, disclosures, and financial settlements, while the subsequent socialist transformation integrated private enterprises into state-supervised processing, purchasing, and ultimately public-private joint ownership.",
+        "systemic_impact_en": "The process transformed China's urban private industrial and commercial sector, culminating in the rapid expansion of industry-wide public-private joint ownership by 1956 and the incorporation of major private enterprises into the socialist state economy.",
+        "context_en": "Between 1952 and 1956, the Chinese Communist Party progressively transformed Shanghai's private industrial and commercial economy. The Five-Anti Campaign applied intensive political and financial scrutiny to private businesses, while later state-capitalist policies and public-private joint ownership brought major enterprises, including Rong Yiren's family businesses, under state-directed economic structures.",
         "keywords_en": [
-            "WufanMovement",
-            "ShanghaiBarons",
+            "FiveAntiCampaign",
+            "ShanghaiIndustrialists",
             "RongYiren",
             "ChineseNationalization",
-            "ForensicAudits",
+            "PublicPrivateJointOwnership",
             "StateCapitalism",
-            "FiveAntiCampaign"
+            "SocialistTransformation"
         ],
         "claims_vs_reality_en": {
-            "official_claim": "The Beijing government proclaimed the Five-Anti (Wufan) Campaign was an anti-corruption audit to eliminate capitalist bribery and establish voluntary public-private economic partnerships.",
-            "actual_reality": "It was an orchestrated forensic financial siege using asset freezes, raw material embargoes, and crushing retroactive fines to force private industrialists to surrender their equity and control to the state without military force."
+            "official_claim": "The Five-Anti Campaign was presented as a campaign against bribery, tax evasion, theft of state property, shoddy production, and theft of economic information, while the later transformation of private enterprise was presented as a transition through state capitalism and public-private cooperation.",
+            "actual_reality": "The campaigns substantially weakened the autonomy of private capital and were followed by a rapid restructuring in which private enterprises were progressively incorporated into state-directed and public-private joint ownership systems."
         },
         "causal_chain_en": {
-            "trigger": "Following the 1949 communist victory, Beijing seeks to nationalize Shanghai's industrial manufacturing base to fund central planned industrialization.",
-            "execution": "The CCP deploys worker inspection teams to audit corporate ledgers, freezing bank liquidity and imposing retroactive penalties exceeding corporate asset values.",
-            "collapse": "Bankrupted Shanghai industrialists, led by textile magnate Rong Yiren, surrender enterprise shares to state-controlled joint management by 1956 in exchange for nominal annual dividends."
+            "trigger": "After the Communist victory, the new government sought to consolidate control over China's urban economy while reducing the independent power of private industrial and commercial capital.",
+            "execution": "The Five-Anti Campaign mobilized inspection teams, investigations, employee participation, confessions, and financial settlements, followed by expanding state control through processing contracts, purchasing arrangements, and public-private joint ownership.",
+            "collapse": "By 1955-1956, the transformation accelerated into industry-wide public-private joint ownership, bringing most urban private industry and commerce into state-supervised economic structures."
         },
         "relationships_en": [
             {
-                "source": "Chen Yun",
-                "relation": "formulated_economic_takeover_policy_for",
-                "target": "Beijing Financial and Economic Committee"
+                "source": "Chinese Communist Party",
+                "relation": "launched_and_directed",
+                "target": "Five-Anti Campaign"
             },
             {
                 "source": "Shanghai Municipal People's Government",
-                "relation": "executed_wufan_forensic_raids_against",
-                "target": "Sung Sing Cotton Mills"
+                "relation": "implemented_campaign_against",
+                "target": "Shanghai Private Industry and Commerce"
             },
             {
-                "source": "People's Bank of China",
-                "relation": "froze_commercial_credit_and_liquidity_of",
-                "target": "Rong Yiren"
+                "source": "Chen Yun",
+                "relation": "helped_shape_policy_for",
+                "target": "Socialist Transformation of Private Industry and Commerce"
             },
             {
                 "source": "Rong Yiren",
-                "relation": "surrendered_private_equity_control_to",
-                "target": "Chinese Communist Party"
+                "relation": "transferred_family_enterprises_into",
+                "target": "Public-Private Joint Ownership"
             }
         ],
         "faq_en": [
             {
-                "q": "What was the Wufan Movement and how was China's private sector nationalized?",
-                "a": "Launched in 1952, the Five-Anti (Wufan) Campaign imposed retroactive fines and asset freezes on private enterprises for alleged bribery and tax fraud, forcing bankrupt capitalists into joint state-private ventures where the state assumed full control."
+                "q": "What was the Five-Anti Campaign and how did China's private sector become state-controlled?",
+                "a": "The 1952 Five-Anti Campaign targeted bribery, tax evasion, theft of state property, shoddy production, and theft of economic information. It increased state scrutiny of private businesses and was followed by broader policies that progressively incorporated private enterprises into state-directed and public-private joint ownership structures."
             },
             {
-                "q": "How did Shanghai textile magnate Rong Yiren and leading industrial barons lose their corporate empires?",
-                "a": "State authorities cut off raw material supply lines and credit to Rong Yiren's Sung Sing mills and fellow industrialists; unable to settle insurmountable financial penalties, they surrendered equity and operating control to Beijing for fixed nominal dividends."
+                "q": "How did Rong Yiren and Shanghai industrialists enter China's socialist economic system?",
+                "a": "Rong Yiren remained in China after 1949 and managed his family's industrial enterprises. During the socialist transformation of private industry, the Rong enterprises entered public-private joint ownership, reflecting the broader incorporation of major private businesses into the state-directed economy."
             },
             {
-                "q": "Which forensic financial audit tactics did Beijing employ in the 1950s to expropriate private corporations?",
-                "a": "Worker inspection brigades executed sudden forensic accounting raids on corporate headquarters, reclassifying routine balance sheet discrepancies as criminal state theft to levy fines exceeding the companies' total liquidation value."
+                "q": "What financial and administrative methods were used to transform private businesses in 1950s China?",
+                "a": "The state used investigations, inspections, financial settlements, processing and purchasing arrangements, and public-private joint ownership to progressively bring private industry and commerce under state supervision."
             }
         ],
-        "title_tr": "Şanghay Baronlarının Finansal Çöküşü ve Çin Kamulaştırma Tarihi",
-        "mechanism_tr": "Wufan Hareketi kapsamında başlatılan adli muhasebe denetimleri, banka hesaplarının dondurulması ve geriye dönük astronomik vergi/bilanço cezaları yoluyla özel sektörün likiditesinin kurutulması; ödenemeyen borçlar karşılığında hisselerin sıfır bedelle kamu-özel ortaklığına devredilmesi.",
-        "systemic_impact_tr": "Şanghay merkezli özel sanayi ve ticaret burjuvazisi tasfiye edilerek Doğu Çin'in tüm sermayesi ve üretim araçları tek kurşun atılmadan merkezi planlama idaresine ve devlet mülkiyetine geçirildi.",
-        "context_tr": "1952 yılında Pekin yönetimi, Şanghay sanayicilerini doğrudan lağvetmek yerine Wufan Hareketi üzerinden ağır adli denetimler ve astronomik bilanço cezalarıyla finansal kıskaca aldı. Likiditesi kurutulan ve borç batağına sürüklenen sermaye sahipleri, 1956 yılına gelindiğinde tüm hisselerini ve mülkiyet haklarını devlete devretmek zorunda kaldı.",
+        "title_tr": "Şanghay Sanayicilerinin Finansal Dönüşümü ve Çin'de Özel Sektörün Kamulaştırılması",
+        "mechanism_tr": "Wufan Hareketi kapsamında özel işletmelerin yoğun soruşturma, denetim, beyan ve mali uzlaşma süreçlerine tabi tutulması; ardından devlet kapitalizmi, işleme-sipariş sistemleri ve kamu-özel ortaklığı yoluyla özel işletmelerin kademeli olarak devlet denetimindeki ekonomik yapıya alınması.",
+        "systemic_impact_tr": "Süreç, Çin'in şehirlerdeki özel sanayi ve ticaret kesimini köklü biçimde dönüştürdü; 1955-1956 döneminde kamu-özel ortaklığının hızla yayılmasıyla büyük özel işletmeler devlet yönlendirmesindeki sosyalist ekonomiye dahil edildi.",
+        "context_tr": "1952-1956 arasında Çin Komünist Partisi, Şanghay'daki özel sanayi ve ticaret yapısını kademeli olarak dönüştürdü. Wufan Hareketi özel işletmeleri yoğun siyasi ve mali denetime tabi tutarken, sonraki devlet kapitalizmi ve kamu-özel ortaklığı politikaları Rong Yiren'in aile işletmeleri dahil birçok büyük özel kuruluşu devlet yönlendirmesindeki ekonomik yapıya dahil etti.",
         "keywords_tr": [
             "WufanHareketi",
-            "ŞanghayBaronları",
+            "ŞanghaySanayicileri",
             "RongYiren",
             "ÇinKamulaştırmaTarihi",
-            "AdliMuhasebe",
-            "FinansalAbluka",
-            "KamuÖzelOrtaklığı"
+            "KamuÖzelOrtaklığı",
+            "DevletKapitalizmi",
+            "SosyalistDönüşüm"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Pekin hükümeti, Wufan Hareketi'nin sadece rüşvet ve vergi kaçakçılığını temizlemek ve gönüllü kamu-özel ortaklıkları kurmak için başlatılan bir yolsuzlukla mücadele denetimi olduğunu iddia etti.",
-            "gercek_durum": "Banka hesaplarının dondurulması, hammadde ambargosu ve geriye dönük astronomik cezalarla Şanghay sanayicilerinin likiditesini kurutarak tüm özel sermayeyi tek kurşun atmadan devlete devrettiren planlı bir finansal abluka operasyonuydu."
+            "resmi_iddia": "Wufan Hareketi rüşvet, vergi kaçırma, devlet malını çalma, kalitesiz üretim ve ekonomik bilgi hırsızlığıyla mücadele olarak sunuldu; sonraki özel sektör dönüşümü ise devlet kapitalizmi ve kamu-özel işbirliği yoluyla sosyalist dönüşüm olarak tanımlandı.",
+            "gercek_durum": "Bu süreçler özel sermayenin bağımsız hareket alanını önemli ölçüde daralttı ve özel işletmelerin giderek devlet yönlendirmesindeki kamu-özel ortaklığı ve sosyalist ekonomik yapıya dahil edilmesine yol açtı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "1949 komünist zaferi sonrası Pekin yönetimi, merkezi planlı sanayileşmeyi finanse etmek için Şanghay'ın dev tekstil ve un sanayisini devlet kontrolüne almayı hedefledi.",
-            "uygulama": "İşçi teftiş tugayları şirket defterlerine adli muhasebe baskınları düzenledi, banka hesaplarını dondurdu ve şirketlerin değerini aşan geriye dönük cezalar kesti.",
-            "cokus": "Likiditesi kuruyan ve iflasa sürüklenen Şanghay baronları, tekstil kralı Rong Yiren öncülüğünde 1956'da tüm hisselerini sembolik temettüler karşılığında devlete devretmek zorunda kaldı."
+            "tetikleyici": "1949'daki Komünist zaferin ardından yeni yönetim, şehir ekonomisi üzerindeki devlet kontrolünü güçlendirmeyi ve bağımsız özel sermayenin ekonomik etkisini azaltmayı hedefledi.",
+            "uygulama": "Wufan Hareketi kapsamında denetim ekipleri, soruşturmalar, çalışanların katıldığı incelemeler, beyan süreçleri ve mali uzlaşmalar yürütüldü; bunu devlet siparişleri, satın alma düzenlemeleri ve kamu-özel ortaklığı izledi.",
+            "cokus": "1955-1956'da dönüşüm hızlandı ve sektör bazında kamu-özel ortaklığı yaygınlaştırılarak şehirlerdeki özel sanayi ve ticaretin büyük bölümü devlet denetimindeki ekonomik yapıya dahil edildi."
         },
         "relationships_tr": [
             {
-                "kaynak": "Chen Yun",
-                "iliski": "ekonomik_kamulastirma_politikasini_yazdi",
-                "hedef": "Pekin Ekonomi Komitesi"
+                "kaynak": "Çin Komünist Partisi",
+                "iliski": "wufan_hareketini_baslatti_ve_yonetti",
+                "hedef": "Wufan Hareketi"
             },
             {
                 "kaynak": "Şanghay Belediye Hükümeti",
-                "iliski": "wufan_adli_muhasebe_baskinlarini_yonetti",
-                "hedef": "Sung Sing Tekstil Fabrikaları"
+                "iliski": "kampanyayi_uyguladi",
+                "hedef": "Şanghay Özel Sanayi ve Ticaret Sektörü"
             },
             {
-                "kaynak": "Çin Halk Bankası",
-                "iliski": "ticari_kredi_ve_hesaplari_dondurdu",
-                "hedef": "Rong Yiren"
+                "kaynak": "Chen Yun",
+                "iliski": "ozel_sektorun_sosyalist_donusum_politikasina_katki_sagladi",
+                "hedef": "Çin'de Özel Sanayi ve Ticaretin Sosyalist Dönüşümü"
             },
             {
                 "kaynak": "Rong Yiren",
-                "iliski": "tum_hisselerini_devlete_teslim_etti",
-                "hedef": "Çin Komünist Partisi"
+                "iliski": "aile_isletmelerini_kamu_ozel_ortakligina_dahil_etti",
+                "hedef": "Kamu-Özel Ortaklığı"
             }
         ],
         "faq_tr": [
             {
-                "q": "Wufan Hareketi nedir ve Çin'de özel sektör nasıl kamulaştırıldı?",
-                "a": "1952'de başlatılan Beş Karşıt Kampanya (Wufan), özel sektör şirketlerine rüşvet ve vergi kaçırma suçlamalarıyla geriye dönük devasa mali cezalar kesip banka hesaplarını dondurarak, şirketleri borç takasıyla kamu-özel ortaklığı adı altında kamulaştırma hamlesidir."
+                "q": "Wufan Hareketi nedir ve Çin'de özel sektör nasıl devlet kontrolüne girdi?",
+                "a": "1952 Wufan Hareketi rüşvet, vergi kaçırma, devlet malını çalma, kalitesiz üretim ve ekonomik bilgi hırsızlığına karşı yürütülen bir kampanyaydı. Hareket özel işletmeler üzerindeki devlet denetimini artırdı ve sonraki yıllarda kamu-özel ortaklığı yoluyla özel sektörün devlet yönlendirmesindeki ekonomiye dahil edilmesini hızlandırdı."
             },
             {
-                "q": "Şanghay tekstil kralı Rong Yiren ve dev sanayiciler servetlerini nasıl kaybetti?",
-                "a": "Rong Yiren ve Şanghay baronlarının hammadde tedarikleri ve banka kredileri devlet tarafından kesildi; astronomik bilanço cezalarını ödeyemeyen sanayiciler, fabrikalarını sembolik temettü karşılığında devlete teslim etti."
+                "q": "Rong Yiren ve Şanghay'ın büyük sanayicileri Çin'in sosyalist ekonomik sistemine nasıl dahil edildi?",
+                "a": "Rong Yiren, 1949 sonrası Çin'de kalarak aile işletmelerini yönetti. Sosyalist dönüşüm sürecinde Rong ailesinin işletmeleri kamu-özel ortaklığına dahil edildi; bu gelişme büyük özel işletmelerin devlet yönlendirmesindeki ekonomiye katılmasının önemli örneklerinden biri oldu."
             },
             {
-                "q": "Pekin yönetimi 1950'lerde şirketleri mülksüzleştirmek için hangi finansal denetim taktiklerini kullandı?",
-                "a": "İşçilerden oluşan teftiş tugaylarıyla fabrikalara ani adli muhasebe baskınları düzenlendi, geçmiş defterlerdeki en ufak muhasebe farkı dahi 'devlet malı hırsızlığı' sayılarak işletmelere sermayelerini aşan cezalar kesildi."
+                "q": "1950'lerde Çin'de özel şirketleri dönüştürmek için hangi mali ve idari yöntemler kullanıldı?",
+                "a": "Devlet; soruşturmalar, denetimler, mali uzlaşmalar, işleme ve satın alma düzenlemeleri ile kamu-özel ortaklığı gibi araçları kullanarak özel sanayi ve ticareti aşamalı biçimde devlet denetimine dahil etti."
             }
         ]
     },
@@ -1269,9 +1907,68 @@
         "id": "FIN_010",
         "category": "Finance History",
         "period": "1926-1938",
-        "start_year": "1926",
-        "end_year": "1938",
+        "start_year": 1926,
+        "end_year": 1938,
         "source_url": "https://www.reddit.com/r/policystrategies/s/1BdrrXar7R",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.93,
+            "source_count": 4,
+            "primary_source_count": 1,
+            "independent_publisher_count": 4
+        },
+        "sources": [
+            {
+                "title": "In the Matter of McKesson & Robbins, Inc. — Report on Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934",
+                "type": "primary",
+                "source_role": "regulatory_investigation",
+                "publisher": "U.S. Securities and Exchange Commission",
+                "host": "SEC Historical Society",
+                "published_year": 1940,
+                "last_updated_year": null,
+                "url": "https://sechistorical.org/digital-archive/united-states-of-america-before-the-securities-and-exchange-commission-in-the-matter-of-mckesson-robbins-inc-pursuant-to-section-21a-of-the-securities-exchange-act-of-1934-report-on-investigat/",
+                "supports": [
+                    "Documents the fictitious crude drug business, fraudulent inventories and receivables, and the audit procedures used by Price Waterhouse & Co.",
+                    "Provides the SEC's detailed findings on the discovery, execution, and consequences of the McKesson & Robbins fraud."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "McKesson & Robbins Case",
+                "type": "primary",
+                "source_role": "professional_committee_report",
+                "publisher": "American Institute of Accountants",
+                "host": "University of Mississippi eGrove",
+                "published_year": 1939,
+                "last_updated_year": null,
+                "url": "https://egrove.olemiss.edu/aicpa_comm/188/",
+                "supports": [
+                    "Provides the contemporary professional accounting response to the McKesson & Robbins case.",
+                    "Documents the case's direct role in the reassessment of auditing procedures involving inventories and receivables."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Collecting Better Evidence: Proposal to Strengthen an Auditor's Use of Confirmation",
+                "type": "secondary",
+                "source_role": "regulatory_historical_analysis",
+                "publisher": "Public Company Accounting Oversight Board",
+                "host": "PCAOB",
+                "published_year": 2022,
+                "last_updated_year": null,
+                "url": "https://pcaobus.org/news-events/speeches/speech-detail/collecting-better-evidence-proposal-to-strengthen-an-auditor-s-use-of-confirmation",
+                "supports": [
+                    "Confirms that SAP No. 1 was adopted in 1939 as a direct response to the McKesson & Robbins fraud.",
+                    "Supports the historical connection between the fraud and the requirement for stronger inventory observation and independent receivables confirmation."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Philip Musica (Dr. Frank Donald Coster)",
             "Julian Thompson",
@@ -1420,9 +2117,56 @@
         "id": "INT_001",
         "category": "Espionage Notes",
         "period": "1953-1956",
-        "start_year": "1953",
-        "end_year": "1956",
+        "start_year": 1953,
+        "end_year": 1956,
         "source_url": "https://www.reddit.com/r/policystrategies/s/8RAGtWdXy1",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.94,
+            "source_count": 2,
+            "primary_source_count": 2,
+            "independent_publisher_count": 1
+        },
+        "sources": [
+            {
+                "title": "The Berlin Tunnel",
+                "type": "primary",
+                "source_role": "official_historical_archive",
+                "publisher": "Central Intelligence Agency",
+                "host": "CIA Museum / CIA Historical Archive",
+                "published_year": null,
+                "last_updated_year": null,
+                "url": "https://www.cia.gov/legacy/museum/exhibit/the-berlin-tunnel/",
+                "supports": [
+                    "Confirms the joint CIA-MI6 construction of a 1,476-foot, approximately 450-meter tunnel beneath Berlin to intercept Soviet and East German communications.",
+                    "Documents that George Blake compromised the operation by informing the KGB before the tunnel became operational.",
+                    "Confirms that the wiretap operated for approximately 11 months and produced approximately 40,000 hours of telephone recordings and millions of hours of teleprinter traffic.",
+                    "Supports the assessment that the intelligence collected was substantial and that there was no demonstrated systematic Soviet program of feeding false information through the tapped lines."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Berlin Tunnel: America's Ear Behind the Iron Curtain",
+                "type": "primary",
+                "source_role": "official_historical_account",
+                "publisher": "Central Intelligence Agency",
+                "host": "CIA",
+                "published_year": null,
+                "last_updated_year": null,
+                "url": "https://www.cia.gov/stories/story/berlin-tunnel-americas-ear-behind-the-iron-curtain/",
+                "supports": [
+                    "Documents the historical context of Operation Gold and the CIA-MI6 effort to intercept Soviet military communications in Berlin.",
+                    "Supports the conclusion that Soviet knowledge of the tunnel was linked to George Blake's espionage and that the delayed exposure helped protect his position.",
+                    "Describes the 1956 exposure of the tunnel and its transformation into an international propaganda event."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "George Blake",
             "Allen Dulles",
@@ -1438,9 +2182,9 @@
             "US Army Corps of Engineers"
         ],
         "title_en": "Operation Gold / Stopwatch: The CIA-MI6 Subterranean Berlin Wiretap and Double Agent Blake",
-        "mechanism_en": "Clandestine excavation of a 450-meter subterranean tunnel from West Berlin into the Soviet sector to intercept Red Army subterranean telephone and teleprinter cables, compromised from inception by KGB double agent George Blake.",
-        "systemic_impact_en": "Exposure of vulnerability in Allied signals intelligence (SIGINT) against human penetration (HUMINT), diplomatic fallout in occupied Germany, and the eventual unmasking of Blake leading to MI6 security restructuring.",
-        "context_en": "Historical review of the 450-meter clandestine tunnel dug under East Berlin by CIA and MI6 to tap Soviet military subterranean communication cables, and how the operation was monitored from day one by KGB double agent George Blake.",
+        "mechanism_en": "Clandestine excavation of an approximately 450-meter subterranean tunnel from West Berlin toward the Soviet sector to intercept Soviet and East German telephone and teleprinter cables, with the operation compromised before activation by KGB double agent George Blake.",
+        "systemic_impact_en": "Demonstrated the vulnerability of sophisticated signals intelligence (SIGINT) operations to human penetration (HUMINT), while also showing that a technically compromised operation could still generate significant intelligence before exposure.",
+        "context_en": "Historical review of the approximately 450-meter clandestine tunnel jointly built by CIA and MI6 beneath Berlin to tap Soviet and East German communication cables. The operation was compromised during its planning stages by MI6 officer George Blake, who informed the KGB, yet the Soviets allowed the wiretap to operate for approximately 11 months before its exposure in April 1956.",
         "keywords_en": [
             "OperationGold",
             "OperationStopwatch",
@@ -1452,59 +2196,59 @@
             "KGB"
         ],
         "claims_vs_reality_en": {
-            "official_claim": "The CIA and MI6 believed Operation Gold was the most secure and impenetrable subterranean SIGINT operation of the Cold War, secretly intercepting 500,000 hours of Soviet military communications without Moscow's awareness.",
-            "actual_reality": "The KGB had full schematics and tap coordinates before excavation even began, courtesy of MI6 double agent George Blake, allowing the Soviets to run controlled non-critical communications through the tapped lines for 11 months."
+            "official_claim": "CIA and MI6 treated Operation Gold as a highly secure clandestine SIGINT operation and successfully intercepted a substantial volume of Soviet and East German communications, including approximately 40,000 hours of telephone recordings and millions of hours of teleprinter traffic.",
+            "actual_reality": "The KGB had prior knowledge of the operation through MI6 double agent George Blake and allowed it to continue for approximately 11 months in part to protect his position. Later assessments found no demonstrated evidence that the intercepted traffic was systematically fabricated or replaced with controlled disinformation."
         },
         "causal_chain_en": {
-            "trigger": "CIA station chief William Harvey and MI6 plan a subterranean tunnel from West Berlin to tap Red Army cables in the Soviet sector.",
-            "execution": "Engineers dig a 450-meter tunnel (Operation Gold) and install induction taps on subterranean cables, while the KGB monitors the entire operation via double agent George Blake.",
-            "collapse": "In April 1956, Soviet telephone repair crews stage an accidental discovery following heavy rains; the tunnel is seized, publicized globally, and Blake is eventually arrested in 1961."
+            "trigger": "CIA and MI6 develop a joint plan to construct a clandestine tunnel from West Berlin to intercept Soviet and East German underground communication cables.",
+            "execution": "Engineers construct an approximately 450-meter tunnel and install interception equipment, while George Blake's intelligence gives the KGB advance knowledge of the operation.",
+            "collapse": "In April 1956, Soviet and East German teams expose the tunnel under the appearance of cable repair and technical discovery; the operation is publicized internationally, while Blake remains undetected until his exposure and arrest in 1961."
         },
         "relationships_en": [
             {
                 "source": "George Blake",
-                "relation": "betrayed_tunnel_schematics_to",
+                "relation": "betrayed_operation_plans_to",
                 "target": "KGB (First Chief Directorate)"
             },
             {
                 "source": "CIA (Directorate of Plans)",
-                "relation": "jointly_excavated_operation_gold_with",
+                "relation": "jointly_conducted_operation_gold_with",
                 "target": "MI6 (Secret Intelligence Service)"
             },
             {
                 "source": "William Harvey",
-                "relation": "supervised_field_operations_for",
-                "target": "CIA (Directorate of Plans)"
-            },
-            {
-                "source": "KGB (First Chief Directorate)",
-                "relation": "staged_publicized_raid_on",
+                "relation": "directed_cia_operational_planning_for",
                 "target": "Operation Gold (Berlin Tunnel)"
             },
             {
+                "source": "KGB (First Chief Directorate)",
+                "relation": "allowed_operation_to_continue_to_protect",
+                "target": "George Blake"
+            },
+            {
                 "source": "US Army Corps of Engineers",
-                "relation": "constructed_subterranean_infrastructure_for",
-                "target": "CIA (Directorate of Plans)"
+                "relation": "supported_engineering_construction_for",
+                "target": "Operation Gold (Berlin Tunnel)"
             }
         ],
         "faq_en": [
             {
                 "q": "What was the Berlin Tunnel Operation and how did the CIA wiretap Soviet communications?",
-                "a": "Conducted jointly by the CIA and MI6 between 1953 and 1956 (Operation Gold/Stopwatch), engineers dug a 450-meter subterranean tunnel from West to East Berlin to tap underground Soviet military and intelligence telephone cables."
+                "a": "Operation Gold was a joint CIA-MI6 operation that constructed an approximately 450-meter underground tunnel from West Berlin to reach Soviet and East German telephone and teleprinter cables. The interception system became operational in May 1955 and collected approximately 40,000 hours of telephone traffic and millions of hours of teleprinter communications before the tunnel was exposed in April 1956."
             },
             {
                 "q": "Why did the KGB allow the Berlin Tunnel to operate despite knowing about it in advance?",
-                "a": "To protect their prized double agent George Blake from being exposed within MI6, the KGB allowed the wiretaps to run for 11 months, routing non-critical communications through the cables until staging a planned discovery under the guise of heavy rainfall."
+                "a": "The KGB had advance knowledge of the operation through George Blake. Immediately exposing the tunnel could have endangered Blake's position inside MI6, so the Soviets allowed the operation to continue for approximately 11 months before arranging its exposure. Later assessments found no demonstrated evidence that the intercepted traffic was systematically replaced with fabricated information."
             },
             {
-                "q": "Who was MI6 officer George Blake and how did he leak the tunnel blueprints?",
-                "a": "George Blake was a senior British MI6 officer who was recruited by the KGB after being captured during the Korean War. He attended early planning conferences for the tunnel and delivered full schematics and tap coordinates to Moscow before excavation even began."
+                "q": "Who was MI6 officer George Blake and how did he compromise the Berlin Tunnel operation?",
+                "a": "George Blake was a British MI6 officer who became a KGB agent after his recruitment during the Korean War period. He had access to information about the Berlin Tunnel project during its planning stages and passed details of the operation to Soviet intelligence before the tunnel became operational."
             }
         ],
-        "title_tr": "Tarihin En Büyük İstihbarat Sızıntısı: CIA ve MI6 Sovyetleri Nasıl Dinledi?",
-        "mechanism_tr": "Batı Berlin'den Doğu Berlin altına 450 metrelik gizli bir dehliz kazılarak Kızıl Ordu Karargahı'nın yeraltı telefon ve teleks kablolarına indüksiyonlu dinleme aparatları takılması ve operasyonun çifte ajan George Blake tarafından ilk günden sızdırılması.",
-        "systemic_impact_tr": "Soğuk Savaş sinyal istihbaratının (SIGINT) çifte ajan ve insan istihbaratı (HUMINT) karşısındaki en büyük zafiyetinin kanıtlanması; Müttefiklerin teknik dinleme protokollerinin ve MI6 iç güvenlik taramalarının baştan aşağı yenilenmesi.",
-        "context_tr": "Soğuk Savaş'ta CIA ve MI6'in Doğu Berlin altından tünel kazarak Sovyet askeri iletişim hatlarını dinleme girişimi ve operasyonun çifte ajan George Blake tarafından KGB'ye sızdırılması vakası.",
+        "title_tr": "Tarihin En Büyük İstihbarat Sızıntılarından Biri: CIA ve MI6 Sovyetleri Nasıl Dinledi?",
+        "mechanism_tr": "Batı Berlin'den Sovyet sektörüne doğru yaklaşık 450 metrelik gizli bir tünel kazılarak Sovyet ve Doğu Alman yeraltı telefon ve teleks kablolarına dinleme sistemleri kurulması; operasyonun ise MI6 içindeki çifte ajan George Blake tarafından daha faaliyete geçmeden KGB'ye sızdırılması.",
+        "systemic_impact_tr": "Soğuk Savaş sinyal istihbaratının (SIGINT) insan kaynaklı sızmalara (HUMINT) karşı kırılganlığını ortaya koyarken, teknik olarak ele geçirilmiş bir operasyonun bile ortaya çıkarılmadan önce önemli miktarda gerçek istihbarat üretebileceğini göstermesi.",
+        "context_tr": "CIA ve MI6'in Berlin altında yaklaşık 450 metrelik gizli bir tünel inşa ederek Sovyet ve Doğu Alman iletişim hatlarını dinleme operasyonu. MI6 subayı George Blake, planlama aşamasında operasyonu KGB'ye sızdırdı; buna rağmen Sovyetler Blake'in kimliğini korumak için dinlemeye yaklaşık 11 ay boyunca izin verdi ve tünel Nisan 1956'da ortaya çıkarıldı.",
         "keywords_tr": [
             "BerlinTüneli",
             "OperationGold",
@@ -1515,53 +2259,53 @@
             "KGBKöstebek"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "CIA ve MI6, Berlin Tüneli'nin Soğuk Savaş'ın en gizli sinyal istihbaratı operasyonu olduğuna ve Sovyetlerin haberi olmadan 500 bin saatlik askeri iletişimi dinlediklerine inanıyordu.",
-            "gercek_durum": "KGB, MI6 içindeki çifte ajanı George Blake sayesinde tünelin tüm planlarını daha ilk kazma vurulmadan önce biliyordu; köstebeğini korumak için dinlemeye 11 ay boyunca bilerek izin verdi."
+            "resmi_iddia": "CIA ve MI6, Operation Gold'u yüksek gizlilikli bir sinyal istihbaratı operasyonu olarak yürüttü ve yaklaşık 40 bin saat telefon konuşması ile milyonlarca saatlik teleks trafiği dahil olmak üzere büyük miktarda Sovyet ve Doğu Alman iletişimi elde etti.",
+            "gercek_durum": "KGB, MI6 içindeki çifte ajan George Blake sayesinde operasyonu önceden biliyordu ve Blake'in konumunu korumak için tünelin yaklaşık 11 ay çalışmasına izin verdi. Sonraki değerlendirmelerde, dinlenen hatlar üzerinden Batı'ya sistematik biçimde sahte bilgi verildiğini kanıtlayan bir bulgu ortaya çıkmadı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "CIA Berlin şefi William Harvey ve MI6, Doğu Berlin'deki Kızıl Ordu karargah kablolarını dinlemek için gizli bir yeraltı tüneli kazma kararı aldı.",
-            "uygulama": "Müttefikler 450 metrelik tüneli kazıp kablolara dinleme aparatları taktı; ancak toplantılara katılan MI6 subayı George Blake tüm planları KGB'ye sızdırdı.",
-            "cokus": "Nisan 1956'da Sovyet onarım ekipleri sahte bir yağmur sızıntısı bahanesiyle tüneli bastı; operasyon dünya basınına ifşa edildi ve Blake 1961'de deşifre olup tutuklandı."
+            "tetikleyici": "CIA ve MI6, Batı Berlin'den Sovyet ve Doğu Alman yeraltı iletişim kablolarına ulaşmak için ortak bir gizli tünel operasyonu planladı.",
+            "uygulama": "Mühendisler yaklaşık 450 metrelik tüneli inşa edip kablolara dinleme sistemleri kurdu; ancak MI6 subayı George Blake operasyonla ilgili bilgileri daha faaliyete geçmeden KGB'ye aktarmıştı.",
+            "cokus": "Nisan 1956'da Sovyet ve Doğu Alman ekipleri tüneli kablo onarımı ve teknik keşif görüntüsü altında ortaya çıkardı; operasyon uluslararası basına taşındı, Blake ise 1961'e kadar deşifre edilmeden kaldı."
         },
         "relationships_tr": [
             {
                 "kaynak": "George Blake",
-                "iliski": "tunel_planlarini_sizdirdi",
+                "iliski": "operasyon_planlarini_sizdirdi",
                 "hedef": "KGB (Birinci Baş Direktörlük)"
             },
             {
                 "kaynak": "CIA (Planlama Direktörlüğü)",
-                "iliski": "ortak_tunel_operasyonu_yuruttu",
+                "iliski": "operation_gold_operasyonunu_ortak_yuruttu",
                 "hedef": "MI6 (Gizli İstihbarat Servisi)"
             },
             {
                 "kaynak": "William Harvey",
-                "iliski": "saha_operasyonunu_yonetti",
-                "hedef": "CIA (Planlama Direktörlüğü)"
+                "iliski": "cia_operasyon_planlamasini_yonetti",
+                "hedef": "Operation Gold (Berlin Tüneli)"
             },
             {
-                "kaynak": "KGB",
-                "iliski": "sahte_baskinla_desifre_etti",
-                "hedef": "Berlin Tüneli (Operation Gold)"
+                "kaynak": "KGB (Birinci Baş Direktörlük)",
+                "iliski": "blakei_korumak_icin_operasyonun_devamina_izin_verdi",
+                "hedef": "Operation Gold (Berlin Tüneli)"
             },
             {
                 "kaynak": "ABD Kara Kuvvetleri Mühendisleri",
-                "iliski": "yeralti_tunelini_insa_etti",
-                "hedef": "CIA"
+                "iliski": "muhendislik_insa_surecine_destek_verdi",
+                "hedef": "Operation Gold (Berlin Tüneli)"
             }
         ],
         "faq_tr": [
             {
                 "q": "Berlin Tüneli Operasyonu nedir ve CIA Sovyetleri nasıl dinledi?",
-                "a": "1953-1956 yılları arasında CIA ve MI6'in ortaklaşa yürüttüğü Operation Gold; Batı Berlin'den Doğu Berlin altına 450 metrelik gizli bir tünel kazarak Kızıl Ordu Karargahı'nın yeraltı telefon ve teleks kablolarına dinleme aparatları takması operasyonudur."
+                "a": "Operation Gold, CIA ve MI6'in ortaklaşa yürüttüğü ve Batı Berlin'den yaklaşık 450 metrelik gizli bir tünel aracılığıyla Sovyet ve Doğu Alman telefon ve teleks kablolarına ulaşmayı amaçlayan bir sinyal istihbaratı operasyonudur. Sistem Mayıs 1955'te faaliyete geçti ve Nisan 1956'da ortaya çıkarılana kadar yaklaşık 40 bin saat telefon konuşması ile milyonlarca saatlik teleks trafiği toplandı."
             },
             {
                 "q": "KGB, Berlin Tüneli planını önceden bildiği halde neden dinlemeye izin verdi?",
-                "a": "KGB, operasyonu kendisine sızdıran en değerli çifte ajanı George Blake'in MI6 içindeki kimliğini korumak ve şüphe çekmemek için tünelin 11 ay boyunca çalışmasına izin vermiş; sadece hassas bilgileri filtreleyerek sahte bir 'yağmur sızıntısı' bahanesiyle tüneli baskınla ortaya çıkarmıştır."
+                "a": "KGB, George Blake sayesinde operasyonu önceden biliyordu. Tüneli hemen ortaya çıkarmak, MI6 içindeki değerli çifte ajanlarının kimliğini riske atabilirdi. Bu nedenle operasyonun yaklaşık 11 ay sürmesine izin verildi. Sonraki değerlendirmelerde, dinlenen iletişim hatlarının sistematik olarak sahte bilgiyle doldurulduğunu gösteren kanıt bulunmadı."
             },
             {
                 "q": "MI6 ajanı George Blake kimdir ve tünel planını nasıl sızdırdı?",
-                "a": "Kore Savaşı sırasında esir düştüğünde komünist ideolojiyi benimseyip KGB saflarına geçen kıdemli bir İngiliz MI6 subayıdır. Tünel projesinin planlama toplantılarına bizzat katılmış ve tüm teknik çizimleri ve dinleme hedeflerini operasyon başlamadan önce Moskova'ya teslim etmiştir."
+                "a": "George Blake, Kore Savaşı döneminde KGB tarafından kazanılan ve daha sonra MI6 içinde çalışan bir İngiliz istihbarat subayıydı. Berlin Tüneli projesinin planlama aşamasındaki bilgilere erişti ve operasyonun ayrıntılarını tünel faaliyete geçmeden önce Sovyet istihbaratına aktardı."
             }
         ]
     },
@@ -1569,9 +2313,56 @@
         "id": "INT_002",
         "category": "Espionage Notes",
         "period": "1953-1957",
-        "start_year": "1953",
-        "end_year": "1957",
+        "start_year": 1953,
+        "end_year": 1957,
         "source_url": "https://www.reddit.com/r/policystrategies/s/3xRk7qfoOH",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.95,
+            "source_count": 2,
+            "primary_source_count": 2,
+            "independent_publisher_count": 2
+        },
+        "sources": [
+            {
+                "title": "Hollow Nickel/Rudolf Abel",
+                "type": "primary",
+                "source_role": "official_historical_record",
+                "publisher": "Federal Bureau of Investigation (FBI)",
+                "host": "FBI History",
+                "published_year": null,
+                "last_updated_year": null,
+                "url": "https://www.fbi.gov/history/cases-and-criminals/hollow-nickel-rudolph-abel",
+                "supports": [
+                    "Documents the June 1953 discovery of the hollow nickel by a Brooklyn newspaper boy and the FBI counterintelligence investigation that followed.",
+                    "Confirms Reino Häyhänen's 1957 defection, his cooperation with the FBI, the identification and arrest of Vilyam Fisher, and Fisher's use of the name Rudolf Abel after his arrest.",
+                    "Documents the espionage equipment, coded communications, dead drops, and other Soviet intelligence tradecraft connected to the case.",
+                    "Confirms Abel's 1957 conviction and his exchange for U-2 pilot Francis Gary Powers on February 10, 1962."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "The Negotiator",
+                "type": "primary",
+                "source_role": "official_intelligence_history",
+                "publisher": "Central Intelligence Agency (CIA)",
+                "host": "CIA Stories",
+                "published_year": 2017,
+                "last_updated_year": null,
+                "url": "https://www.cia.gov/stories/story/the-negotiator/",
+                "supports": [
+                    "Documents James B. Donovan's role in negotiating the February 1962 prisoner exchange.",
+                    "Confirms that Rudolf Abel was exchanged in connection with the release of Francis Gary Powers and American student Frederick Pryor.",
+                    "Confirms that the exchange negotiations involved U.S. government officials and took place in Cold War Berlin."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Rudolf Abel (Vilyam Genrikhovich Fisher)",
             "Reino Häyhänen",
@@ -1718,9 +2509,55 @@
         "id": "INT_003",
         "category": "Espionage Notes",
         "period": "1930-1933",
-        "start_year": "1930",
-        "end_year": "1933",
+        "start_year": 1930,
+        "end_year": 1933,
         "source_url": "https://www.reddit.com/r/policystrategies/s/DuO6bzRWJd",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.91,
+            "source_count": 2,
+            "primary_source_count": 0,
+            "independent_publisher_count": 2
+        },
+        "sources": [
+            {
+                "title": "Shanghai on the Métro: Spies, Networks and the Soviet Intelligence Presence",
+                "type": "secondary",
+                "source_role": "academic_historical_research",
+                "publisher": "University of California Press",
+                "host": "eScholarship, University of California",
+                "published_year": 2010,
+                "last_updated_year": null,
+                "url": "https://publishing.cdlib.org/ucpressebooks/view?docId=ft7870085f&chunk.id=d0e3969",
+                "supports": [
+                    "Documents Richard Sorge's arrival in Shanghai in early 1930 under the cover name Johnson and the establishment of his first major Soviet intelligence network.",
+                    "Confirms the importance of Shanghai as a base for Soviet military intelligence and identifies Max Clausen's early GRU work in Shanghai.",
+                    "Supports the broader historical context of Soviet intelligence activity operating through Shanghai's international and concession-based environment."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Freelance Revolutionist: Agnes Smedley in Wartime China, 1937–1941",
+                "type": "secondary",
+                "source_role": "academic_historical_research",
+                "publisher": "Boston University",
+                "host": "Boston University Department of History",
+                "published_year": 2022,
+                "last_updated_year": null,
+                "url": "https://www.bu.edu/history/files/2022/07/Freelance-Revolutionist-Agnes-Smedley-in-Wartime-China-1937-19412.pdf",
+                "supports": [
+                    "Documents Agnes Smedley's involvement with intelligence activities connected to Richard Sorge during her years in China.",
+                    "Confirms the connection between Sorge, Agnes Smedley, and Hotsumi Ozaki, including intelligence activity focused on Japanese operations in northern China.",
+                    "Supports the depiction of Shanghai as the formative operational environment in which Sorge developed networks and contacts before his later Tokyo assignment."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Richard Sorge (Johnson)",
             "Hotsumi Ozaki",
@@ -1869,9 +2706,53 @@
         "id": "INT_004",
         "category": "Espionage Notes",
         "period": "1933-1944",
-        "start_year": "1933",
-        "end_year": "1944",
+        "start_year": 1933,
+        "end_year": 1944,
         "source_url": "https://www.reddit.com/r/policystrategies/s/kN7cPNkveF",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.91,
+            "source_count": 2,
+            "primary_source_count": 1,
+            "independent_publisher_count": 2
+        },
+        "sources": [
+            {
+                "title": "The Sorge-Ozaki Spy Ring",
+                "type": "secondary",
+                "source_role": "academic_historical_analysis",
+                "publisher": "Oxford Academic",
+                "host": "Oxford University Press",
+                "published_year": 2025,
+                "last_updated_year": null,
+                "url": "https://academic.oup.com/book/61826/chapter-abstract/546886270",
+                "supports": [
+                    "Documents the Tokyo-based Sorge network, including Richard Sorge, Hotsumi Ozaki, Max Clausen and Yotoku Miyagi.",
+                    "Supports the network's penetration of German diplomatic and Japanese political circles and its eventual arrest and execution."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Undecided Decision: Japan's Northbound and Richard Sorge Spy Ring in 1941",
+                "type": "primary",
+                "source_role": "official_military_historical_research",
+                "publisher": "National Institute for Defense Studies",
+                "host": "Japan Ministry of Defense",
+                "published_year": 2022,
+                "last_updated_year": null,
+                "url": "https://www.nids.mod.go.jp/english/publication/joint_research/series19/pdf/series19.pdf",
+                "supports": [
+                    "Documents Hotsumi Ozaki's access to information concerning Japan's July 1941 strategic decisions and Sorge's transmission of intelligence to Moscow.",
+                    "Provides evidence for the importance and complexity of Japan's north-versus-south strategic decision in 1941."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Richard Sorge",
             "Hotsumi Ozaki",
@@ -2023,9 +2904,53 @@
         "id": "GEO_001",
         "category": "Geopolitical Conflict",
         "period": "1911",
-        "start_year": "1911",
-        "end_year": "1911",
+        "start_year": 1911,
+        "end_year": 1911,
         "source_url": "https://www.reddit.com/r/policystrategies/s/BDLyr4dtRr",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.94,
+            "source_count": 2,
+            "primary_source_count": 1,
+            "independent_publisher_count": 2
+        },
+        "sources": [
+            {
+                "title": "The Strangling of Persia",
+                "type": "primary",
+                "source_role": "contemporary_participant_account",
+                "publisher": "The Century Company",
+                "host": "Library of Congress",
+                "published_year": 1912,
+                "last_updated_year": null,
+                "url": "https://www.loc.gov/item/12016068/",
+                "supports": [
+                    "Documents Morgan Shuster's role as Treasurer-General of Persia and provides his firsthand account of the 1911 financial and constitutional crisis.",
+                    "Covers the Anglo-Russian spheres of influence, the conflict surrounding Shuster's reforms, Russian pressure, and the political collapse that ended his mission."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "RUSSIA i. Russo-Iranian Relations up to the Bolshevik Revolution",
+                "type": "secondary",
+                "source_role": "academic_historical_reference",
+                "publisher": "Encyclopaedia Iranica Foundation",
+                "host": "Encyclopaedia Iranica",
+                "published_year": 2014,
+                "last_updated_year": null,
+                "url": "https://www.iranicaonline.org/articles/russia-i-relations/",
+                "supports": [
+                    "Documents Shuster's appointment, his attempt to confiscate the property of Shoa al-Saltaneh, the Russian ultimatum demanding his dismissal, and British support for the Russian position.",
+                    "Confirms the advance of Russian forces and the December 1911 dissolution of the Majles and dismissal of Shuster."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "W. Morgan Shuster",
             "Ahmad Shah Qajar",
@@ -2173,9 +3098,53 @@
         "id": "CHN_001",
         "category": "China & Asia-Pacific",
         "period": "1969-1971",
-        "start_year": "1969",
-        "end_year": "1971",
+        "start_year": 1969,
+        "end_year": 1971,
         "source_url": "https://www.reddit.com/r/policystrategies/s/n19MdVJuBR",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "strongly_supported",
+            "confidence_score": 0.94,
+            "source_count": 2,
+            "primary_source_count": 1,
+            "independent_publisher_count": 2
+        },
+        "sources": [
+            {
+                "title": "Lin Piao and the Chinese Leadership",
+                "type": "primary",
+                "source_role": "declassified_intelligence_analysis",
+                "publisher": "Central Intelligence Agency",
+                "host": "CIA Reading Room",
+                "published_year": null,
+                "last_updated_year": null,
+                "url": "https://www.cia.gov/readingroom/docs/CIA-RDP80B00023A001000080016-0.pdf",
+                "supports": [
+                    "Provides contemporaneous U.S. intelligence analysis concerning Lin Biao, the Chinese leadership struggle, and the political circumstances surrounding his fall.",
+                    "Supports examination of the succession crisis, the internal power struggle within the CCP leadership, and the circumstances surrounding the 1971 Lin Biao incident."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "The Fall of Lin Piao",
+                "type": "secondary",
+                "source_role": "academic_historical_analysis",
+                "publisher": "Cambridge University Press",
+                "host": "The China Quarterly",
+                "published_year": 1973,
+                "last_updated_year": 2009,
+                "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/fall-of-lin-piao/819AFB8EC976CBC72EDD4892320FCF89",
+                "supports": [
+                    "Analyzes the political decline and fall of Lin Biao within the Chinese Communist Party leadership.",
+                    "Discusses the factional conflict surrounding Mao Zedong, Lin Biao, the succession question, and documentary evidence related to the Project 571 affair."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Lin Biao",
             "Mao Zedong",
@@ -2323,9 +3292,46 @@
         "id": "CHN_002",
         "category": "China & Asia-Pacific",
         "period": "1949-1993",
-        "start_year": "1949",
-        "end_year": "1993",
+        "start_year": 1949,
+        "end_year": 1993,
         "source_url": "https://www.reddit.com/r/policystrategies/s/whwyWU3KJ3",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "sources": [
+            {
+                "title": "Rong Yiren",
+                "type": "secondary",
+                "source_role": "biographical_research_reference",
+                "publisher": "EBSCO Information Services",
+                "host": "EBSCO Research Starters",
+                "published_year": 2021,
+                "last_updated_year": null,
+                "url": "https://www.ebsco.com/research-starters/biography/rong-yiren",
+                "supports": [
+                    "Documents Rong Yiren's background as a major Chinese industrialist, his decision to remain in China after 1949, and his status as a prominent 'Red Capitalist.'",
+                    "Covers the nationalization of his businesses, his persecution and forced janitorial labor during the Cultural Revolution, his later role in founding CITIC, and his appointment as Vice President of China."
+                ],
+                "accessed_at": "2026-08-26"
+            },
+            {
+                "title": "Rong Yiren: Staying Power Pays Off",
+                "type": "secondary",
+                "source_role": "contemporary_journalistic_profile",
+                "publisher": "Los Angeles Times",
+                "host": "Los Angeles Times",
+                "published_year": 1991,
+                "last_updated_year": null,
+                "url": "https://www.latimes.com/archives/la-xpm-1991-05-21-wr-2442-story.html",
+                "supports": [
+                    "Provides a contemporary profile of Rong Yiren's political and economic influence during China's reform era.",
+                    "Supports the broader account of Rong's unusual survival across Mao-era political upheavals and his subsequent prominence in China's state-directed economic opening."
+                ],
+                "accessed_at": "2026-08-26"
+            }
+        ],
         "actors": [
             "Rong Yiren",
             "Mao Zedong",
