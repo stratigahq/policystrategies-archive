@@ -15,8 +15,7 @@
             "level": "documented",
             "confidence_score": 0.98,
             "source_count": 4,
-            "primary_source_count": 2,
-            "independent_publisher_count": 4
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -222,8 +221,7 @@
             "level": "contested",
             "confidence_score": 0.76,
             "source_count": 4,
-            "primary_source_count": 1,
-            "independent_publisher_count": 4
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -443,8 +441,8 @@
             "level": "strongly_supported",
             "confidence_score": 0.94,
             "source_count": 2,
-            "primary_source_count": 2,
-            "independent_publisher_count": 2
+            "primary_source_count": 1
+
         },
         "sources": [
             {
@@ -622,8 +620,8 @@
             "level": "strongly_supported",
             "confidence_score": 0.92,
             "source_count": 4,
-            "primary_source_count": 1,
-            "independent_publisher_count": 4
+            "primary_source_count": 1
+
         },
         "sources": [
             {
@@ -832,8 +830,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.95,
             "source_count": 4,
-            "primary_source_count": 3,
-            "independent_publisher_count": 4
+            "primary_source_count": 3
         },
         "sources": [
             {
@@ -1042,8 +1039,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.95,
             "source_count": 4,
-            "primary_source_count": 2,
-            "independent_publisher_count": 3
+            "primary_source_count": 2
         },
         "sources": [
             {
@@ -1258,8 +1254,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.91,
             "source_count": 4,
-            "primary_source_count": 1,
-            "independent_publisher_count": 4
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -1482,8 +1477,8 @@
             "level": "strongly_supported",
             "confidence_score": 0.97,
             "source_count": 4,
-            "primary_source_count": 3,
-            "independent_publisher_count": 4
+            "primary_source_count": 3
+
         },
         "sources": [
             {
@@ -1707,8 +1702,8 @@
             "level": "strongly_supported",
             "confidence_score": 0.93,
             "source_count": 4,
-            "primary_source_count": 3,
-            "independent_publisher_count": 4
+            "primary_source_count": 3
+
         },
         "sources": [
             {
@@ -1918,9 +1913,8 @@
         "evidence": {
             "level": "strongly_supported",
             "confidence_score": 0.93,
-            "source_count": 4,
-            "primary_source_count": 1,
-            "independent_publisher_count": 4
+            "source_count": 3,
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -2129,8 +2123,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.94,
             "source_count": 2,
-            "primary_source_count": 2,
-            "independent_publisher_count": 1
+            "primary_source_count": 2
         },
         "sources": [
             {
@@ -2325,8 +2318,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.95,
             "source_count": 2,
-            "primary_source_count": 2,
-            "independent_publisher_count": 2
+            "primary_source_count": 2
         },
         "sources": [
             {
@@ -2521,8 +2513,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.91,
             "source_count": 2,
-            "primary_source_count": 0,
-            "independent_publisher_count": 2
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -2718,8 +2709,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.91,
             "source_count": 2,
-            "primary_source_count": 1,
-            "independent_publisher_count": 2
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -2916,8 +2906,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.94,
             "source_count": 2,
-            "primary_source_count": 1,
-            "independent_publisher_count": 2
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -3110,8 +3099,7 @@
             "level": "strongly_supported",
             "confidence_score": 0.94,
             "source_count": 2,
-            "primary_source_count": 1,
-            "independent_publisher_count": 2
+            "primary_source_count": 1
         },
         "sources": [
             {
@@ -3300,13 +3288,12 @@
             "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
             "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
         },
-"evidence": {
-  "level": "documented",
-  "confidence_score": 0.98,
-  "source_count": 2,
-  "primary_source_count": 0,
-  "independent_publisher_count": 2
-},
+        "evidence": {
+            "level": "documented",
+            "confidence_score": 0.98,
+            "source_count": 2,
+            "primary_source_count": 0
+        },
         "sources": [
             {
                 "title": "Rong Yiren",
