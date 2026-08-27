@@ -3300,6 +3300,13 @@
             "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
             "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
         },
+"evidence": {
+  "level": "documented",
+  "confidence_score": 0.98,
+  "source_count": 2,
+  "primary_source_count": 0,
+  "independent_publisher_count": 2
+},
         "sources": [
             {
                 "title": "Rong Yiren",
