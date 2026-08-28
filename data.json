@@ -2302,61 +2302,61 @@
             "collapse": "Finansal analistlerin dolaşımdaki kupon hacmine yönelik matematiksel imkansızlığı kanıtlaması, şirket içi evrakların basına sızdırılması ve denetim mekanizmalarının hesaplara el koymasıyla tetiklenen likidite kilitlenmesi ve banka iflasları."
         },
 
-        "relationships_tr": [
+"relationships_tr": [
             {
-                "source": "Charles Ponzi",
-                "relation": "likidite_modelini_gozlemledi",
-                "target": "Banco Zarossi"
+                "kaynak": "Charles Ponzi",
+                "iliski": "likidite_modelini_gozlemledi",
+                "hedef": "Banco Zarossi"
             },
             {
-                "source": "Banco Zarossi",
-                "relation": "eski_yatirimcilari_fonladi",
-                "target": "Yeni Musteri Sermayesi"
+                "kaynak": "Banco Zarossi",
+                "iliski": "eski_yatirimcilari_fonladi",
+                "hedef": "Yeni Musteri Sermayesi"
             },
             {
-                "source": "Charles Ponzi",
-                "relation": "kurdu",
-                "target": "Menkul Kiymetler Degisim Sirketi"
+                "kaynak": "Charles Ponzi",
+                "iliski": "kurdu",
+                "hedef": "Menkul Kiymetler Degisim Sirketi"
             },
             {
-                "source": "Menkul Kiymetler Degisim Sirketi",
-                "relation": "arbitraj_getirisi_taahhut_etti",
-                "target": "Uluslararasi Cevap Kuponlari"
+                "kaynak": "Menkul Kiymetler Degisim Sirketi",
+                "iliski": "arbitraj_getirisi_taahhut_etti",
+                "hedef": "Uluslararasi Cevap Kuponlari"
             },
             {
-                "source": "Menkul Kiymetler Degisim Sirketi",
-                "relation": "fon_topladi",
-                "target": "Boston Halki ve Polis Teskilati"
+                "kaynak": "Menkul Kiymetler Degisim Sirketi",
+                "iliski": "fon_topladi",
+                "hedef": "Boston Halki ve Polis Teskilati"
             },
             {
-                "source": "Clarence Barron",
-                "relation": "finansal_denetim_analizi_yayinladi",
-                "target": "Menkul Kiymetler Degisim Sirketi"
+                "kaynak": "Clarence Barron",
+                "iliski": "finansal_denetim_analizi_yayinladi",
+                "hedef": "Menkul Kiymetler Degisim Sirketi"
             },
             {
-                "source": "William McMasters",
-                "relation": "bos_kasa_kayitlarini_sizdirdi",
-                "target": "Boston Post"
+                "kaynak": "William McMasters",
+                "iliski": "bos_kasa_kayitlarini_sizdirdi",
+                "hedef": "Boston Post"
             },
             {
-                "source": "Boston Post",
-                "relation": "sabika_kaydini_ifsa_etti",
-                "target": "Charles Ponzi"
+                "kaynak": "Boston Post",
+                "iliski": "sabika_kaydini_ifsa_etti",
+                "hedef": "Charles Ponzi"
             },
             {
-                "source": "Federal Mufettisler",
-                "relation": "hesaplarina_el_koydu",
-                "target": "Menkul Kiymetler Degisim Sirketi"
+                "kaynak": "Federal Mufettisler",
+                "iliski": "hesaplarina_el_koydu",
+                "hedef": "Menkul Kiymetler Degisim Sirketi"
             },
             {
-                "source": "Menkul Kiymetler Degisim Sirketi Cokusu",
-                "relation": "iflasina_yol_acti",
-                "target": "Alti Boston Bankasi"
+                "kaynak": "Menkul Kiymetler Degisim Sirketi Cokusu",
+                "iliski": "iflasina_yol_acti",
+                "hedef": "Alti Boston Bankasi"
             },
             {
-                "source": "ABD Federal Mahkemesi",
-                "relation": "italyaya_sinir_disi_etti",
-                "target": "Charles Ponzi"
+                "kaynak": "ABD Federal Mahkemesi",
+                "iliski": "italyaya_sinir_disi_etti",
+                "hedef": "Charles Ponzi"
             }
         ],
         
