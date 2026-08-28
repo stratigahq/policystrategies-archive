@@ -2107,7 +2107,7 @@
             }
         ]
     },
-        {
+    {
         "id": "FIN_011",
         "category": "Finance History",
         "period": "1919-1920",
@@ -2119,62 +2119,62 @@
             "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
             "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
         },
-        "evidence": {
-            "level": "documented",
-            "confidence_score": 0.95,
-            "source_count": 3,
-            "primary_source_count": 0
-        },
-        "sources": [
-            {
-                "title": "Jacksonville's Notorious Con Artist: Charles Ponzi",
-                "type": "journalism",
-                "source_role": "contextual",
-                "publisher": "The Jaxson",
-                "host": "TheJaxsonMag.com",
-                "published_year": 2018,
-                "last_updated_year": 2026,
-                "url": "https://www.thejaxsonmag.com/article/jacksonvilles-notorious-con-artist-charles-ponzi/",
-                "supports": [
-                    "Ponzi'nin Florida'daki yaşamı ve Charpon Land Syndicate adlı emlak dolandırıcılığı",
-                    "Kimlik değiştirerek yaptığı kaçış girişimleri",
-                    "Sınır dışı edilme süreci ve Brezilya'daki yoksulluk içindeki son yılları"
-                ],
-                "accessed_at": "2026-08-28"
+            "evidence": {
+                "level": "documented",
+                "confidence_score": 0.95,
+                "source_count": 3,
+                "primary_source_count": 0
             },
-            {
-                "title": "The Best Show That Was Ever Staged\": Charles Ponzi's Scheme",
-                "type": "journalism",
-                "source_role": "foundational",
-                "publisher": "History Guild",
-                "host": "historyguild.org",
-                "published_year": 2024,
-                "last_updated_year": null,
-                "url": "https://historyguild.org/the-best-show-that-was-ever-staged-charles-ponzis-scheme/",
-                "supports": [
-                    "Securities Exchange Company'nin kuruluşu ve vaat edilen %50'lik kâr oranları",
-                    "Uluslararası yanıt kuponları (IRC) üzerinden iddia edilen arbitraj sisteminin asılsızlığı",
-                    "Sistemin çöküşü, banka iflasları ve yatırımcıların güncel değerle yüz milyonlarca dolarlık kayıpları"
-                ],
-                "accessed_at": "2026-08-28"
-            },
-            {
-                "title": "Charles Ponzi (1920)",
-                "type": "analytical",
-                "source_role": "analytical",
-                "publisher": "International Banker",
-                "host": "internationalbanker.com",
-                "published_year": 2021,
-                "last_updated_year": null,
-                "url": "https://internationalbanker.com/history-of-financial-crises/charles-ponzi-1920/",
-                "supports": [
-                    "Ponzi şemasının temel finansal mekanizması ve tarihsel arka planı",
-                    "The Boston Post ve Clarence Barron'un Ponzi'nin açığını yakalayan gazetecilik araştırmaları",
-                    "Sistemin Bernard Madoff gibi modern dönem finansal dolandırıcılık vakalarıyla karşılaştırmalı analizi"
-                ],
-                "accessed_at": "2026-08-28"
-            }
-        ],
+            "sources": [
+                {
+                    "title": "Jacksonville's Notorious Con Artist: Charles Ponzi",
+                    "type": "journalism",
+                    "source_role": "contextual",
+                    "publisher": "The Jaxson",
+                    "host": "TheJaxsonMag.com",
+                    "published_year": 2018,
+                    "last_updated_year": 2026,
+                    "url": "https://www.thejaxsonmag.com/article/jacksonvilles-notorious-con-artist-charles-ponzi/",
+                    "supports": [
+                        "Ponzi's life in Florida and the real estate fraud known as the Charpon Land Syndicate",
+                        "His escape attempts utilizing assumed identities",
+                        "The deportation process and his final years living in poverty in Brazil"
+                    ],
+                    "accessed_at": "2026-08-28"
+                },
+                {
+                    "title": "\"The Best Show That Was Ever Staged\": Charles Ponzi's Scheme",
+                    "type": "journalism",
+                    "source_role": "foundational",
+                    "publisher": "History Guild",
+                    "host": "historyguild.org",
+                    "published_year": 2024,
+                    "last_updated_year": null,
+                    "url": "https://historyguild.org/the-best-show-that-was-ever-staged-charles-ponzis-scheme/",
+                    "supports": [
+                        "The establishment of the Securities Exchange Company and the promised 50% profit returns",
+                        "The fraudulent nature of the alleged arbitrage system based on international reply coupons (IRC)",
+                        "The collapse of the scheme, subsequent bank failures, and investor losses amounting to hundreds of millions of dollars in modern valuation"
+                    ],
+                    "accessed_at": "2026-08-28"
+                },
+                {
+                    "title": "Charles Ponzi (1920)",
+                    "type": "analytical",
+                    "source_role": "analytical",
+                    "publisher": "International Banker",
+                    "host": "internationalbanker.com",
+                    "published_year": 2021,
+                    "last_updated_year": null,
+                    "url": "https://internationalbanker.com/history-of-financial-crises/charles-ponzi-1920/",
+                    "supports": [
+                        "The fundamental financial mechanics and historical background of the Ponzi scheme",
+                        "Journalistic investigations by The Boston Post and Clarence Barron that exposed Ponzi's operations",
+                        "Comparative analysis of the scheme with modern-day financial frauds, such as that of Bernard Madoff"
+                    ],
+                    "accessed_at": "2026-08-28"
+                }
+            ],
         "actors": [
             "Charles Ponzi",
             "Clarence Barron",
