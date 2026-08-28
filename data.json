@@ -2107,6 +2107,215 @@
             }
         ]
     },
+        {
+        "id": "FIN_011",
+        "category": "Finance History",
+        "period": "1919-1920",
+        "start_year": 1919,
+        "end_year": 1920,
+        "source_url": "https://www.reddit.com/r/policystrategies/s/ynOFJkqc4U",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "documented",
+            "confidence_score": 0.95,
+            "source_count": 3,
+            "primary_source_count": 0
+        },
+        "sources": [
+            {
+                "title": "Jacksonville's Notorious Con Artist: Charles Ponzi",
+                "type": "journalism",
+                "source_role": "contextual",
+                "publisher": "The Jaxson",
+                "host": "TheJaxsonMag.com",
+                "published_year": 2018,
+                "last_updated_year": 2026,
+                "url": "https://www.thejaxsonmag.com/article/jacksonvilles-notorious-con-artist-charles-ponzi/",
+                "supports": [
+                    "Ponzi'nin Florida'daki yaşamı ve Charpon Land Syndicate adlı emlak dolandırıcılığı",
+                    "Kimlik değiştirerek yaptığı kaçış girişimleri",
+                    "Sınır dışı edilme süreci ve Brezilya'daki yoksulluk içindeki son yılları"
+                ],
+                "accessed_at": "2026-08-28"
+            },
+            {
+                "title": "The Best Show That Was Ever Staged\": Charles Ponzi's Scheme",
+                "type": "journalism",
+                "source_role": "foundational",
+                "publisher": "History Guild",
+                "host": "historyguild.org",
+                "published_year": 2024,
+                "last_updated_year": null,
+                "url": "https://historyguild.org/the-best-show-that-was-ever-staged-charles-ponzis-scheme/",
+                "supports": [
+                    "Securities Exchange Company'nin kuruluşu ve vaat edilen %50'lik kâr oranları",
+                    "Uluslararası yanıt kuponları (IRC) üzerinden iddia edilen arbitraj sisteminin asılsızlığı",
+                    "Sistemin çöküşü, banka iflasları ve yatırımcıların güncel değerle yüz milyonlarca dolarlık kayıpları"
+                ],
+                "accessed_at": "2026-08-28"
+            },
+            {
+                "title": "Charles Ponzi (1920)",
+                "type": "analytical",
+                "source_role": "analytical",
+                "publisher": "International Banker",
+                "host": "internationalbanker.com",
+                "published_year": 2021,
+                "last_updated_year": null,
+                "url": "https://internationalbanker.com/history-of-financial-crises/charles-ponzi-1920/",
+                "supports": [
+                    "Ponzi şemasının temel finansal mekanizması ve tarihsel arka planı",
+                    "The Boston Post ve Clarence Barron'un Ponzi'nin açığını yakalayan gazetecilik araştırmaları",
+                    "Sistemin Bernard Madoff gibi modern dönem finansal dolandırıcılık vakalarıyla karşılaştırmalı analizi"
+                ],
+                "accessed_at": "2026-08-28"
+            }
+        ],
+        "actors": [
+            "Charles Ponzi",
+            "Clarence Barron",
+            "William McMasters"
+        ],
+        "institutions": [
+            "Securities Exchange Company",
+            "Banco Zarossi",
+            "The Boston Post",
+            "United States Postal Inspection Service"
+        ],
+        "title_en": "The Birth of the Modern Pyramid Fraud: Charles Ponzi and the Securities Exchange Company",
+        "mechanism_en": "Fabricated postal coupon arbitrage where returns for earlier investors were paid strictly from inflows of new capital without any underlying trading of International Reply Coupons.",
+        "systemic_impact_en": "Triggered the collapse of six Boston banks, caused hundreds of millions in inflation-adjusted investor losses, and established the foundational archetype for global pyramid scheme regulations.",
+        "context_en": "Charles Ponzi exploited post-WWI currency disparities by promising 50% returns in 45 days via International Reply Coupons through his Securities Exchange Company. The structure collapsed after forensic reporting revealed that theoretical coupon circulation mathematically contradicted actual global supply.",
+        "keywords_en": [
+            "PonziScheme",
+            "CharlesPonzi",
+            "SecuritiesExchangeCompany",
+            "ArbitrageFraud",
+            "PostalCoupons",
+            "ClarenceBarron",
+            "PyramidScheme"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "The Securities Exchange Company generated legitimate, risk-free 50% returns in 45 days (100% in 90 days) through cross-border arbitrage by purchasing depreciated International Reply Coupons (IRCs) in post-war Europe and redeeming them for higher-value stamps in the United States.",
+            "actual_reality": "No meaningful international coupon arbitrage ever took place; satisfying the promised returns would have required 160 million coupons when only 27,000 existed worldwide. The operation relied on a fictitious fund where early investor redemptions and executive luxury assets were financed solely by the inflow of new retail capital, leaving only $61 in physical coupons against tens of millions in liabilities."
+        },
+        "causal_chain_en": {
+            "trigger": "Post-war European currency depreciation created a theoretical price gap in International Reply Coupons, which was paired with operational knowledge gained from observing distressed fractional banking liquidity practices.",
+            "execution": "The Securities Exchange Company scaled rapidly by offering guaranteed short-term yields, deploying commissioned field agents, and exploiting regulatory arbitrage as daily inflows surged to $1 million without real asset backing.",
+            "collapse": "Forensic mathematical verification by financial analysts, investigative media exposure of insolvency, and internal disclosures triggered an immediate liquidity freeze, cascading bank insolvencies, and regulatory asset seizures."
+        },
+        "relationships_en": [
+            {
+                "source": "Charles Ponzi",
+                "relation": "observed_liquidity_model_of",
+                "target": "Banco Zarossi"
+            },
+            {
+                "source": "Banco Zarossi",
+                "relation": "funded_old_investors_with",
+                "target": "New Client Capital"
+            },
+            {
+                "source": "Charles Ponzi",
+                "relation": "founded",
+                "target": "Securities Exchange Company"
+            },
+            {
+                "source": "Securities Exchange Company",
+                "relation": "promised_arbitrage_returns_via",
+                "target": "International Reply Coupons"
+            },
+            {
+                "source": "Securities Exchange Company",
+                "relation": "collected_funds_from",
+                "target": "Boston Public and Police Department"
+            },
+            {
+                "source": "Clarence Barron",
+                "relation": "published_financial_audit_against",
+                "target": "Securities Exchange Company"
+            },
+            {
+                "source": "William McMasters",
+                "relation": "leaked_empty_vault_records_to",
+                "target": "Boston Post"
+            },
+            {
+                "source": "Boston Post",
+                "relation": "exposed_criminal_records_of",
+                "target": "Charles Ponzi"
+            },
+            {
+                "source": "Federal Investigators",
+                "relation": "seized_accounts_of",
+                "target": "Securities Exchange Company"
+            },
+            {
+                "source": "Collapse of Securities Exchange Company",
+                "relation": "triggered_bankruptcy_of",
+                "target": "Six Boston Banks"
+            },
+            {
+                "source": "US Federal Court",
+                "relation": "deported_to_italy",
+                "target": "Charles Ponzi"
+            }
+        ],
+        "faq_en": [
+            {
+                "q": "How did Charles Ponzi's original postal coupon scheme work?",
+                "a": "Ponzi promised investors a 50% return in 45 days through an international postal reply coupon arbitrage model. In reality, no significant coupon trading occurred; older investors were simply paid using capital from new entrants."
+            },
+            {
+                "q": "How was Charles Ponzi exposed and how did the system collapse?",
+                "a": "Financial analyst Clarence Barron proved that paying the promised returns would require 160 million coupons when only 27,000 existed globally. Investigative reporting by the Boston Post and leaked internal records quickly led to a liquidity freeze and Ponzi's arrest in August 1920."
+            },
+            {
+                "q": "What were the financial consequences of the 1920 Boston Ponzi scheme?",
+                "a": "The collapse resulted in estimated losses equivalent to $237 million in modern value, caused the failure of six banks, and left creditors with a payout of roughly twelve cents on the dollar."
+            }
+        ],
+        "title_tr": "Tarihin İlk Büyük Vurgunu: Charles Ponzi ve Menkul Kıymetler Değişim Şirketi",
+        "mechanism_tr": "Uluslararası Cevap Kuponu arbitrajı bahanesiyle hiçbir reel kupon ticareti yapılmaksızın, eski yatırımcıların kâr paylarının sisteme yeni giren katılımcıların anaparasıyla ödenmesi.",
+        "systemic_impact_tr": "Boston'da altı bankanın art arda iflas etmesi, günümüz değeriyle 237 milyon dolarlık sermaye kaybı ve saadet zincirlerine karşı modern finansal dolandırıcılık mevzuatının temellerinin atılması.",
+        "context_tr": "Charles Ponzi, Menkul Kıymetler Değişim Şirketi üzerinden 45 günde %50 risksiz getiri vaat ederek Boston kentinde devasa bir nakit akışı döngüsü kurmuştur. Kupon matematiğinin imkansızlığının ifşa edilmesiyle sistem çökmüş ve şehirdeki bankacılık altyapısı ağır darbe almıştır.",
+        "keywords_tr": [
+            "PonziSistemi",
+            "CharlesPonzi",
+            "SaadetZinciri",
+            "ArbitrajDolandırıcılığı",
+            "PostaKuponu",
+            "ClarenceBarron",
+            "MenkulKıymetlerDeğişimŞirketi"
+        ],
+        "claims_vs_reality_tr": {
+            "official_claim": "Menkul Kıymetler Değişim Şirketi, savaş sonrası Avrupa'da devalüe olan para birimleriyle ucuza temin edilen Uluslararası Cevap Kuponlarını (IRC) ABD'de yüksek değerli posta pullarına çevirerek risksiz kıtalararası arbitraj ile 45 günde %50, 90 günde %100 net getiri sağladığını beyan etmiştir.",
+            "actual_reality": "Fiiliyatta hiçbir uluslararası kupon ticareti yürütülmemiştir; vaat edilen getiriyi karşılamak için dünya genelinde 160 milyon kupon dolaşımı gerekirken toplam basılı kupon sayısı yalnızca 27 bindi. Sistem, eski yatırımcı çıkışlarının ve şahsi harcamaların sadece yeni sermaye girişleriyle karşılandığı fiktif bir fon yapısına dayanıyordu ve el koyma anında kasada yalnızca 61 dolarlık kupon mevcuttu."
+        },
+        "causal_chain_tr": {
+            "trigger": "Savaş sonrası Avrupa kurlarındaki sert değer kaybının Uluslararası Cevap Kuponları üzerinde teorik bir arbitraj zemini oluşturması ve geçmişteki likidite krizi yönetimi gözlemlerinin sisteme uyarlanması.",
+            "execution": "Menkul Kıymetler Değişim Şirketi'nin yüksek garantili getiri sözleşmeleri ve saha komisyoncuları aracılığıyla regülasyon boşluklarından faydalanıp günlük 1 milyon dolarlık sıcak nakit akışına ulaşarak fiktif bilançoyu büyütmesi.",
+            "collapse": "Finansal analistlerin dolaşımdaki kupon hacmine yönelik matematiksel imkansızlığı kanıtlaması, şirket içi evrakların basına sızdırılması ve denetim mekanizmalarının hesaplara el koymasıyla tetiklenen likidite kilitlenmesi ve banka iflasları."
+        },
+        "faq_tr": [
+            {
+                "q": "Charles Ponzi kimdir ve saadet zinciri fikri nasıl ortaya çıktı?",
+                "a": "1882 doğumlu İtalyan göçmen Charles Ponzi, Montreal'deki Banco Zarossi bankasında eski müşteri çıkışlarının yeni giren sıcak parayla fonlandığını gözlemledi. Bu mekanizmayı 1919'da uluslararası posta kuponu arbitrajı vaadiyle birleştirerek tarihin en bilinen finansal dolandırıcılık modelini kurdu."
+            },
+            {
+                "q": "Ponzi sistemi nasıl çalışır ve arkasındaki temel mekanizma nedir?",
+                "a": "Sistem, yatırımcılara 45 günde %50 veya 90 günde %100 gibi risksiz yüksek getiriler vadeder. Gerçek bir ticari operasyon veya arbitraj yapılmaz; sistem yalnızca içeri giren yeni yatırımcı sermayesiyle eski yatırımcılara ödeme yaparak nakit akışı kesilene kadar varlığını sürdürür."
+            },
+            {
+                "q": "Ponzi sistemi nasıl çöktü ve yatırımcıların kaybı ne kadar oldu?",
+                "a": "Finansal analist Clarence Barron'ın matematiksel tutarsızlıkları kanıtlaması ve Boston Post gazetesinin kasanın boş olduğunu ifşa etmesiyle sistem Ağustos 1920'de çöktü. Süreç altı bankanın iflasına yol açtı ve yatırımcılar günümüz değeriyle yaklaşık 237 milyon dolar kaybetti."
+            }
+        ]
+    },
     {
         "id": "INT_001",
         "category": "Espionage Notes",
