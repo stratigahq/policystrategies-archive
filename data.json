@@ -2301,6 +2301,65 @@
             "execution": "Menkul Kıymetler Değişim Şirketi'nin yüksek garantili getiri sözleşmeleri ve saha komisyoncuları aracılığıyla regülasyon boşluklarından faydalanıp günlük 1 milyon dolarlık sıcak nakit akışına ulaşarak fiktif bilançoyu büyütmesi.",
             "collapse": "Finansal analistlerin dolaşımdaki kupon hacmine yönelik matematiksel imkansızlığı kanıtlaması, şirket içi evrakların basına sızdırılması ve denetim mekanizmalarının hesaplara el koymasıyla tetiklenen likidite kilitlenmesi ve banka iflasları."
         },
+
+        "relationships_tr": [
+            {
+                "source": "Charles Ponzi",
+                "relation": "likidite_modelini_gozlemledi",
+                "target": "Banco Zarossi"
+            },
+            {
+                "source": "Banco Zarossi",
+                "relation": "eski_yatirimcilari_fonladi",
+                "target": "Yeni Musteri Sermayesi"
+            },
+            {
+                "source": "Charles Ponzi",
+                "relation": "kurdu",
+                "target": "Menkul Kiymetler Degisim Sirketi"
+            },
+            {
+                "source": "Menkul Kiymetler Degisim Sirketi",
+                "relation": "arbitraj_getirisi_taahhut_etti",
+                "target": "Uluslararasi Cevap Kuponlari"
+            },
+            {
+                "source": "Menkul Kiymetler Degisim Sirketi",
+                "relation": "fon_topladi",
+                "target": "Boston Halki ve Polis Teskilati"
+            },
+            {
+                "source": "Clarence Barron",
+                "relation": "finansal_denetim_analizi_yayinladi",
+                "target": "Menkul Kiymetler Degisim Sirketi"
+            },
+            {
+                "source": "William McMasters",
+                "relation": "bos_kasa_kayitlarini_sizdirdi",
+                "target": "Boston Post"
+            },
+            {
+                "source": "Boston Post",
+                "relation": "sabika_kaydini_ifsa_etti",
+                "target": "Charles Ponzi"
+            },
+            {
+                "source": "Federal Mufettisler",
+                "relation": "hesaplarina_el_koydu",
+                "target": "Menkul Kiymetler Degisim Sirketi"
+            },
+            {
+                "source": "Menkul Kiymetler Degisim Sirketi Cokusu",
+                "relation": "iflasina_yol_acti",
+                "target": "Alti Boston Bankasi"
+            },
+            {
+                "source": "ABD Federal Mahkemesi",
+                "relation": "italyaya_sinir_disi_etti",
+                "target": "Charles Ponzi"
+            }
+        ],
+        
         "faq_tr": [
             {
                 "q": "Charles Ponzi kimdir ve saadet zinciri fikri nasıl ortaya çıktı?",
