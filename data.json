@@ -2375,6 +2375,528 @@
             }
         ]
     },
+        {
+        "id": "FIN_012",
+        "category": "Finance History",
+        "period": "1960-2026",
+        "start_year": 1960,
+        "end_year": 2026,
+        "source_url": "https://www.reddit.com/r/policystrategies/s/WTEomnsXqe",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+        "evidence": {
+            "level": "documented",
+            "confidence_score": 0.99,
+            "source_count": 8,
+            "primary_source_count": 8
+        },
+        "sources": [
+            {
+                "title": "Madoff Victim Fund (MVF)",
+                "type": "regulatory",
+                "source_role": "foundational",
+                "publisher": "U.S. Department of Justice (DOJ)",
+                "host": "madoffvictimfund.com",
+                "published_year": 2013,
+                "last_updated_year": 2024,
+                "url": "https://madoffvictimfund.com/",
+                "supports": [
+                    "Facilitation of asset distribution to over 40,000 global fraud victims using forfeited assets",
+                    "Achieving an overall recovery payout rate of 93.71% for eligible direct and indirect fraud victims"
+                ],
+                "accessed_at": "2026-08-29"
+            },
+            {
+                "title": "Bernard L. Madoff Investment Securities LLC (BLMIS) Liquidation Proceeding",
+                "type": "primary",
+                "source_role": "judicial_record",
+                "publisher": "Office of the SIPA Trustee (Irving H. Picard)",
+                "host": "madofftrustee.com",
+                "published_year": 2008,
+                "last_updated_year": 2026,
+                "url": "https://www.madofftrustee.com/",
+                "supports": [
+                    "Official bankruptcy and liquidation proceedings under the Securities Investor Protection Act (SIPA)",
+                    "Cumulative asset recovery exceeding $15.485 billion with customer fund distributions exceeding $14.799 billion"
+                ],
+                "accessed_at": "2026-08-29"
+            },
+            {
+                "title": "SEC Charges Longtime Madoff Employee with Falsifying Documents to Deceive Regulators (Press Release No. 2011-270)",
+                "type": "regulatory",
+                "source_role": "corroborating",
+                "publisher": "U.S. Securities and Exchange Commission (SEC)",
+                "host": "sec.gov",
+                "published_year": 2011,
+                "last_updated_year": 2011,
+                "url": "https://www.sec.gov/news/press/2011/2011-270.htm",
+                "supports": [
+                    "Civil enforcement action and fraud charges filed against BLMIS Controller Enrica Cotellessa-Pitz",
+                    "Falsification of internal general ledgers and regulatory filings to conceal massive operating insolvency"
+                ],
+                "accessed_at": "2026-08-29"
+            },
+            {
+                "title": "SEC OIG Report Exhibit 0168: Bernard L. Madoff Description of Split Strike Forward Conversion Strategy",
+                "type": "primary",
+                "source_role": "historical_record",
+                "publisher": "U.S. Securities and Exchange Commission (SEC) Office of Inspector General",
+                "host": "sec.gov",
+                "published_year": 2009,
+                "last_updated_year": 2009,
+                "url": "https://www.sec.gov/news/studies/2009/oig-509/exhibit-0168.pdf",
+                "supports": [
+                    "Madoff's direct misrepresentations to regulatory examiners regarding proprietary investment strategies",
+                    "Documentary record of the fabricated split-strike forward conversion trading model submitted directly to the SEC"
+                ],
+                "accessed_at": "2026-08-29"
+            },
+            {
+                "title": "SEC v. Jerome O'Hara and George Perez (Litigation Release No. 21292)",
+                "type": "regulatory",
+                "source_role": "judicial_record",
+                "publisher": "U.S. Securities and Exchange Commission (SEC)",
+                "host": "sec.gov",
+                "published_year": 2009,
+                "last_updated_year": 2009,
+                "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21292",
+                "supports": [
+                    "Civil enforcement action against BLMIS computer programmers Jerome O'Hara and George Perez",
+                    "Development and execution of custom computer algorithms designed to fabricate fake trading blotters and customer statements"
+                ],
+                "accessed_at": "2026-08-29"
+            },
+            {
+                "title": "SEC Charges Madoff's Director of Operations with Falsifying Accounting Records and Siphoning Investor Funds (Press Release No. 2010-28)",
+                "type": "regulatory",
+                "source_role": "corroborating",
+                "publisher": "U.S. Securities and Exchange Commission (SEC)",
+                "host": "sec.gov",
+                "published_year": 2010,
+                "last_updated_year": 2010,
+                "url": "https://www.sec.gov/news/press/2010/2010-28.htm",
+                "supports": [
+                    "Civil fraud litigation and asset freeze against BLMIS Operations Director Daniel Bonventre",
+                    "Substantiation of internal accounting manipulations, backdated transactions, and unlawful siphoning of investor funds"
+                ],
+                "accessed_at": "2026-08-29"
+            },
+            {
+                "title": "Manhattan U.S. Attorney And FBI Assistant Director-In-Charge Announce Filing Of Criminal Charges Against And Deferred Prosecution Agreement With JPMorgan Chase Bank, N.A.",
+                "type": "regulatory",
+                "source_role": "institutional_validation",
+                "publisher": "U.S. Department of Justice (DOJ) / USAO SDNY",
+                "host": "justice.gov",
+                "published_year": 2014,
+                "last_updated_year": 2014,
+                "url": "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-and-fbi-assistant-director-charge-announce-filing-criminal",
+                "supports": [
+                    "Institutional criminal accountability and Bank Secrecy Act violations tied to BLMIS operating accounts",
+                    "Two-count felony information and deferred prosecution agreement involving a $1.7 billion forfeiture"
+                ],
+                "accessed_at": "2026-08-29"
+            },
+            {
+                "title": "United States v. Jerome O'Hara and George Perez (Indictment 10 Cr. 228)",
+                "type": "primary",
+                "source_role": "judicial_record",
+                "publisher": "U.S. District Court for the Southern District of New York (USAO SDNY)",
+                "host": "justice.gov",
+                "published_year": 2010,
+                "last_updated_year": 2010,
+                "url": "https://www.justice.gov/usao-sdny/file/762846/dl?inline",
+                "supports": [
+                    "Detailed criminal indictment specifying algorithmic forgery, custom software routines, and House 17 operations",
+                    "Creation of falsified trade blotters, DTC reconciliation reports, and backdated client statements"
+                ],
+                "accessed_at": "2026-08-29"
+            }
+        ],
+        "actors": [
+            "Bernard L. Madoff",
+            "Peter Madoff",
+            "Frank DiPascali",
+            "Daniel Bonventre",
+            "Enrica Cotellessa-Pitz",
+            "Jerome O'Hara",
+            "George Perez",
+            "Annette Bongiorno",
+            "Joann Crupi",
+            "Harry Markopolos",
+            "Irving Picard",
+            "Jeffry Picower",
+            "Ruth Madoff"
+        ],
+        "institutions": [
+            "Bernard L. Madoff Investment Securities (BLMIS)",
+            "U.S. Securities and Exchange Commission (SEC)",
+            "U.S. Department of Justice (DOJ)",
+            "Securities Investor Protection Corporation (SIPC)",
+            "Madoff Victim Fund (MVF)",
+            "JPMorgan Chase",
+            "Friehling & Horowitz",
+            "Fairfield Greenwich Group",
+            "Ascot Partners",
+            "NASDAQ"
+        ],
+        "title_en": "The Madoff Ponzi Scheme: Forensic Breakdown, Algorithmic Deception, and Systemic Regulatory Overhaul",
+        "mechanism_en": "Operating under the facade of an institutional Split-Strike Conversion strategy, BLMIS executed zero real market transactions. Instead, it weaponized an isolated legacy IBM AS/400 infrastructure ('House 17') to back-calculate and fabricate synthetic trade confirmations via randomized historical price algorithms, funneling all incoming capital through the commingled JPMorgan 'Chase 703' operating account to fund redemption requests.",
+        "systemic_impact_en": "Catalyzed a comprehensive overhaul of global financial oversight, establishing strict third-party Qualified Custody mandates under SEC Rule 206(4)-2, mandatory surprise PCAOB audits, Dodd-Frank private fund reporting, and institutionalized whistleblowing frameworks (TCR). Simultaneously pioneered unprecedented asset recovery standards under the SIPA Net Equity formula.",
+        "context_en": "Bernard L. Madoff orchestrated the largest Ponzi scheme in financial history by exploiting regulatory capture, technology arbitrage, and affinity networks under the guise of an algorithmic trading strategy. The systemic failure exposed massive auditing blind spots and ultimately drove the total restructuring of modern investment custody, hedge fund oversight, and forensic fraud detection.",
+        "keywords_en": [
+            "Madoff Ponzi Scheme",
+            "Split-Strike Conversion",
+            "House 17 IBM AS400",
+            "Chase 703 Account",
+            "Harry Markopolos",
+            "Regulatory Capture",
+            "Qualified Custody Rule 206(4)-2",
+            "SIPA Net Equity",
+            "Irving Picard",
+            "Madoff Victim Fund"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "The investment strategy relies on legitimate split-strike conversion via S&P 100 equities and active options contracts, delivering consistent positive returns with zero volatility across a verified $64.8 billion asset portfolio under independent audit oversight.",
+            "actual_reality": "No real securities or options trading ever took place; an isolated internal computer generated fabricated trade confirmations, while an unaudited single-person accounting firm masked an actual principal shortfall of approximately $17.5 billion routed entirely through a single commercial bank account."
+        },
+        "causal_chain_en": {
+            "trigger": "A permissive deregulation landscape and shadow derivatives market, coupled with high institutional credibility from pioneering market digitalization, created significant regulatory blind spots and shielded the entity from standard analytical skepticism.",
+            "execution": "Client deposits were commingled in a single depository account without independent custody, while an isolated algorithmic system backdated market data to generate fictitious statements and sustain cash flows via incoming capital.",
+            "collapse": "The 2008 global financial downturn triggered massive investor redemption demands that depleted available liquid reserves, leading to an immediate operational halt, regulatory intervention, and subsequent liquidation proceedings."
+        },
+        "relationships_en": [
+            {
+                "source": "Bernard L. Madoff",
+                "relation": "founded",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Bernard L. Madoff",
+                "relation": "served_as_chairman_of",
+                "target": "NASDAQ"
+            },
+            {
+                "source": "Peter Madoff",
+                "relation": "managed_compliance_for",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Frank DiPascali",
+                "relation": "directed_operations_for",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Daniel Bonventre",
+                "relation": "managed_operations_and_accounting_for",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Enrica Cotellessa-Pitz",
+                "relation": "served_as_controller_for",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Jerome O'Hara and George Perez",
+                "relation": "programmed_fictitious_trading_algorithms_on",
+                "target": "IBM AS/400 Server (House 17)"
+            },
+            {
+                "source": "Annette Bongiorno and Joann Crupi",
+                "relation": "fabricated_account_statements_for",
+                "target": "BLMIS Investors"
+            },
+            {
+                "source": "Harry Markopolos",
+                "relation": "submitted_whistleblower_reports_against",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Harry Markopolos",
+                "relation": "delivered_whistleblower_reports_to",
+                "target": "Securities and Exchange Commission (SEC)"
+            },
+            {
+                "source": "Securities and Exchange Commission (SEC)",
+                "relation": "failed_to_detect_fraud_at",
+                "target": "Avellino & Bienes"
+            },
+            {
+                "source": "Securities and Exchange Commission (SEC)",
+                "relation": "failed_to_act_on_whistleblower_warnings_regarding",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Friehling & Horowitz",
+                "relation": "signed_unverified_audit_reports_for",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Fairfield Greenwich Group",
+                "relation": "funneled_feeder_capital_to",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "Ascot Partners",
+                "relation": "funneled_feeder_capital_to",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "source": "JPMorgan Chase",
+                "relation": "maintained_unreported_suspicious_cash_flow_account",
+                "target": "Chase 703 Account"
+            },
+            {
+                "source": "JPMorgan Chase",
+                "relation": "violated_compliance_rules_of",
+                "target": "Bank Secrecy Act"
+            },
+            {
+                "source": "JPMorgan Chase",
+                "relation": "paid_civil_forfeiture_under_deferred_prosecution_agreement_to",
+                "target": "U.S. Department of Justice (DOJ)"
+            },
+            {
+                "source": "Jeffry Picower Estate",
+                "relation": "settled_record_forfeiture_with",
+                "target": "SIPA Trustee Irving Picard"
+            },
+            {
+                "source": "SIPA Trustee Irving Picard",
+                "relation": "applied_net_equity_recovery_model_for",
+                "target": "BLMIS Victims"
+            },
+            {
+                "source": "Madoff Victim Fund (MVF)",
+                "relation": "distributed_restitution_funds_to",
+                "target": "Global Madoff Victims"
+            },
+            {
+                "source": "U.S. Congress",
+                "relation": "passed_deregulation_rules_benefiting",
+                "target": "Shadow Market Derivatives"
+            },
+            {
+                "source": "Madoff Fraud Collapse",
+                "relation": "triggered_regulatory_overhaul_via",
+                "target": "SEC Rule 206(4)-2 Custody Rule"
+            },
+            {
+                "source": "Madoff Fraud Collapse",
+                "relation": "mandated_hedge_fund_registration_under",
+                "target": "Dodd-Frank Act"
+            }
+        ],
+        "faq_en": [
+            {
+                "q": "What was the main trigger behind the collapse of Bernard Madoff's Ponzi scheme?",
+                "a": "The primary catalyst was the 2008 global liquidity crisis. The macroeconomic shock dried up incoming capital flows and triggered heavy withdrawal requests that could not be satisfied because client funds had never been invested in actual market assets."
+            },
+            {
+                "q": "How was the technical camouflage executed inside BLMIS on the isolated IBM AS/400 server?",
+                "a": "The investment advisory operations (House 17) were physically and digitally separated from the legitimate market-making unit (House 05). Programmers used custom software, including DTC17EOM, to alter authentic APIBAL balance files from the Depository Trust Company (DTC), blending fake records with real data to evade regulatory audits."
+            },
+            {
+                "q": "What was the core formula and trading mechanism Madoff claimed to operate?",
+                "a": "Madoff claimed to execute a 'Split Strike Conversion' strategy consisting of buying a basket of S&P 100 stocks while purchasing put options and selling out-of-the-money call options to create a protected return corridor of 10% to 17%. In reality, no securities were bought; statements were generated using hindsight market data (historical pricing) and random transaction blotters."
+            },
+            {
+                "q": "How were investor funds routed and utilized through the JPMorgan Chase 703 Account?",
+                "a": "Instead of executing trades, investor deposits were pooled directly into BLMIS's JPMorgan Chase '703 Account'. These liquid balances were used directly to fulfill withdrawal requests for older investors, cover internal operating deficits, and finance personal transfers."
+            },
+            {
+                "q": "What regulatory reforms were enacted globally in response to the Madoff fraud?",
+                "a": "The SEC overhauled Rule 206(4)-2 (Custody Rule) to mandate independent third-party custodians and established the Office of Market Intelligence (OMI). Additionally, the Dodd-Frank Wall Street Reform and Consumer Protection Act institutionalized strengthened whistleblower programs and heightened Bank Secrecy Act/AML compliance standards for financial institutions."
+            },
+            {
+                "q": "What legal sentences and forfeiture penalties were imposed on the key actors and institutions?",
+                "a": "Bernard Madoff was sentenced to 150 years in prison, while Chief Compliance Officer Peter Madoff received a 10-year sentence. JPMorgan Chase paid a $1.7 billion penalty for Bank Secrecy Act violations, and $2.2 billion was forfeited from the estate of early investor Jeffry Picower."
+            },
+            {
+                "q": "What percentage of lost assets was recovered for the victims by December 2024?",
+                "a": "Through dual recovery mechanisms managed by the SIPC Trustee (~$15.38 billion) and the DOJ Madoff Victim Fund via federal remission (~$4.3 billion), a total recovery rate of 93.71% was achieved across 40,930 verified victims across 127 countries upon completion of the 10th and final distribution in December 2024."
+            }
+        ],
+        "title_tr": "Bernard Madoff Ponzi Skandalı: Adli Finans, Algoritmik İllüzyon ve Sistemsel Regülasyon Reformu",
+        "mechanism_tr": "BLMIS, 'Split-Strike Conversion' stratejisi kisvesi altında piyasada hiçbir gerçek alım-satım yapmamıştır. 'House 17' kod adlı bağımsız IBM AS/400 altyapısında geçmiş borsa verilerine dayalı algoritmalarla sahte ekstre ve işlemler üretilmiş; yatırımcı sermayeleri JPMorgan bünyesindeki 'Chase 703' havuz hesabında toplanarak eski katılımcıların nakit çıkışları yeni girenlerin anaparasıyla finanse edilmiştir.",
+        "systemic_impact_tr": "SEC Rule 206(4)-2 kapsamında zorunlu bağımsız 'Nitelikli Saklama Kuruluşu' ve PCAOB onaylı habersiz denetim standartlarını getirmiş; Dodd-Frank Yasası ile serbest fonların tescilini zorunlu kılmıştır. Hukuki ve operasyonel tasfiye süreçlerinde uygulanan 'Net Hak Sahipliği' (Net Equity) modeli ile adli varlık geri kazanımında tarihi bir küresel emsal oluşturulmuştur.",
+        "context_tr": "Bernard Madoff, düzenleyici yakalama, teknolojik itibar ve aşinalık ağlarını suistimal ederek küresel finans tarihinin en büyük kurgusal varlık yönetim ve veri sahteciliği operasyonunu yürütmüştür. 2008 likidite kriziyle çöken şema, modern sermaye piyasalarında saklama bağımsızlığı, adli veri analitiği ve gölge bankacılık denetimlerinin tamamen yeniden inşa edilmesine yol açmıştır.",
+        "keywords_tr": [
+            "Bernard Madoff",
+            "Ponzi Düzeni",
+            "Split-Strike Stratejisi",
+            "House 17 AS400",
+            "Chase 703 Hesabı",
+            "Düzenleyici Yakalama",
+            "SEC Kuralı 206(4)-2",
+            "Net Hak Sahipliği",
+            "Irving Picard",
+            "Madoff Mağdurları Fonu"
+        ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Yatırım stratejisi, S&P 100 hisseleri ve aktif opsiyon sözleşmelerine dayalı bölünmüş kullanım dönüşümü (split-strike conversion) ile sıfıra yakın volatilitede istikrarlı getiri sağlamakta ve bağımsız denetimden geçen 64,8 milyar dolarlık bir portföyü yönetmektedir.",
+            "gercek_durum": "Piyasada hiçbir fiili hisse senedi veya opsiyon işlemi gerçekleştirilmemiş; izole bir sunucu üzerinden geriye dönük sahte işlem ekstreleri üretilmiş ve tek kişilik tabela denetim firması aracılığıyla yaklaşık 17,5 milyar dolarlık anapara açığı tek bir ticari banka hesabında gizlenmiştir."
+        },
+        "causal_chain_tr": {
+            "tetikleyici": "Türev piyasalarını denetim dışı bırakan finansal serbestleşme adımları ve kurucunun borsa dijitalleşmesindeki öncü rolünün yarattığı düzenleyici körlük, sistemi temel analitik denetimlerden muaf kılan bir zemin oluşturdu.",
+            "uygulama": "Müşteri varlıkları bağımsız bir saklama kuruluşu yerine tek bir ana mevduat hesabında toplanarak, izole algoritmalarla sahte alım-satım kayıtları üretildi ve eski yatırımcıların çıkışları yeni giren anaparalarla finanse edildi.",
+            "cokus": "2008 küresel likidite krizinin tetiklediği yoğun nakit çekim talepleri mevcut rezervleri tüketerek sistemik bir tıkanmaya yol açtı; nakit akışının durmasıyla birlikte operasyon ifşa edilerek adli tasfiye sürecine girildi."
+        },
+        "relationships_tr": [
+            {
+                "kaynak": "Bernard L. Madoff",
+                "iliski": "kurdu",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Bernard L. Madoff",
+                "iliski": "baskanlik_etti",
+                "hedef": "NASDAQ"
+            },
+            {
+                "kaynak": "Peter Madoff",
+                "iliski": "uyum_sureclerini_yonetti",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Frank DiPascali",
+                "iliski": "operasyon_direktorlugunu_yuruttu",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Daniel Bonventre",
+                "iliski": "operasyon_ve_muhasebeyi_yonetti",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Enrica Cotellessa-Pitz",
+                "iliski": "kontrolorluk_gorevini_yuruttu",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Jerome O'Hara ve George Perez",
+                "iliski": "fiktif_islem_algoritmalari_kodladi",
+                "hedef": "IBM AS/400 Sunucusu (House 17)"
+            },
+            {
+                "kaynak": "Annette Bongiorno ve Joann Crupi",
+                "iliski": "sahte_hesap_ekstresi_uretti",
+                "hedef": "BLMIS Yatirimcilari"
+            },
+            {
+                "kaynak": "Harry Markopolos",
+                "iliski": "ihbar_raporlari_hazirladi",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Harry Markopolos",
+                "iliski": "ihbar_raporlarini_sundu",
+                "hedef": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)"
+            },
+            {
+                "kaynak": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)",
+                "iliski": "denetim_boslugu_gosterdi",
+                "hedef": "Avellino & Bienes"
+            },
+            {
+                "kaynak": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)",
+                "iliski": "ihbar_uyarilarini_goz_ardi_etti",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Friehling & Horowitz",
+                "iliski": "denetimsiz_mali_onay_verdi",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Fairfield Greenwich Group",
+                "iliski": "araci_fon_kaynagi_saglamistir",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "Ascot Partners",
+                "iliski": "araci_fon_kaynagi_saglamistir",
+                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+            },
+            {
+                "kaynak": "JPMorgan Chase",
+                "iliski": "bildirimsiz_supheli_nakit_hesabi_barindirdi",
+                "hedef": "Chase 703 Hesabi"
+            },
+            {
+                "kaynak": "JPMorgan Chase",
+                "iliski": "uyum_kuralini_ihlal_etti",
+                "hedef": "Banka Gizlilik Yasasi (Bank Secrecy Act)"
+            },
+            {
+                "kaynak": "JPMorgan Chase",
+                "iliski": "ertelenmis_kovusturma_anlasmasi_kapsaminda_musadere_odedi",
+                "hedef": "ABD Adalet Bakanligi (DOJ)"
+            },
+            {
+                "kaynak": "Jeffry Picower Miras Yonetimi",
+                "iliski": "rekor_musadere_uzlasmasi_imzaladi",
+                "hedef": "SIPA Mutevellisi Irving Picard"
+            },
+            {
+                "kaynak": "SIPA Mutevellisi Irving Picard",
+                "iliski": "net_hak_sahipligi_modelini_uyguladi",
+                "hedef": "BLMIS Magdurlari"
+            },
+            {
+                "kaynak": "Madoff Magdurlari Fonu (MVF)",
+                "iliski": "tazminat_odemesi_gerceklestirdi",
+                "hedef": "Kuresel Madoff Magdurlari"
+            },
+            {
+                "kaynak": "ABD Kongresi",
+                "iliski": "deregulasyon_zemini_olusturdu",
+                "hedef": "Golge Piyasa Turev Urunleri"
+            },
+            {
+                "kaynak": "Madoff Cokusu",
+                "iliski": "saklama_kurallarinin_yeniden_yazilmasini_tetikledi",
+                "hedef": "SEC Kural 206(4)-2 Saklama Kurali"
+            },
+            {
+                "kaynak": "Madoff Cokusu",
+                "iliski": "serbest_fon_tescil_zorunlulugu_getirdi",
+                "hedef": "Dodd-Frank Yasasi"
+            }
+        ],
+        "faq_tr": [
+            {
+                "q": "Bernard Madoff Ponzi şemasının çöküşündeki ana tetikleyici neydi?",
+                "a": "Ana tetikleyici 2008 küresel likidite krizi oldu. Makroekonomik sarsıntı sonucunda sisteme giren taze fon akışı kesildi ve gelen yoğun yatırımcı çekim talepleri, toplanan paralar gerçek piyasa varlıklarına dönüştürülmediği için karşılanamayarak sistemi çöküşe sürükledi."
+            },
+            {
+                "q": "BLMIS bünyesindeki izole IBM AS/400 sunucusu (House 17) üzerinden teknik kamuflaj nasıl sağlandı?",
+                "a": "Kurgusal yatırım danışmanlığı operasyonları (House 17), meşru piyasa yapıcılığı biriminden (House 05) fiziksel ve sistemsel olarak izole edildi. Yazılımcılar tarafından geliştirilen DTC17EOM programı, Depository Trust Company'den (DTC) gelen gerçek APIBAL hesap bakiyesi dosyalarını manipüle ederek sahte kayıtları meşru verilerle harmanladı ve denetçilerin çapraz kontrol yapmasını engelledi."
+            },
+            {
+                "q": "Madoff'un yatırımcılara sunduğu kurgusal yatırım stratejisi ve getiri formülü neydi?",
+                "a": "Madoff, S&P 100 hisse sepeti alımı ile eş zamanlı 'put' opsiyonu alma ve 'call' opsiyonu satma esasına dayanan 'Split Strike Conversion' stratejisiyle %10 ila %17 arasında stabil getiri sağladığını iddia etmiştir. Gerçekte ise hiçbir menkul kıymet alımı yapılmamış; geçmiş piyasa verileri (hindsight) kullanılarak geriye dönük sahte işlem kayıtları üretilmiştir."
+            },
+            {
+                "q": "Yatırımcı fonları JPMorgan Chase bünyesindeki '703 Account' üzerinden nasıl yönlendirildi?",
+                "a": "Müşterilerden toplanan milyarlarca dolarlık fon, menkul kıymet alımına yönlendirilmek yerine doğrudan JPMorgan Chase'deki '703 Account' adlı ana havuz hesabında toplandı. Bu bakiye, eski yatırımcıların çıkış taleplerini karşılamak, piyasa yapıcı birimdeki zararları sübvanse etmek ve şahsi harcamaları finanse etmek için kullanıldı."
+            },
+            {
+                "q": "Madoff skandalı sonrasında küresel finansal düzenlemelerde hangi kalıcı reformlar yapıldı?",
+                "a": "SEC, Kural 206(4)-2'yi (Custody Rule) güncelleyerek varlıkların bağımsız saklama kuruluşlarında (independent custodian) tutulmasını zorunlu kıldı. İhbarların analizi için Piyasa İstihbarat Ofisi (OMI) kuruldu; Dodd-Frank Yasası ile muhbir (whistleblower) ödül programları ve bankalar için Bank Secrecy Act/AML denetim standartları güçlendirildi."
+            },
+            {
+                "q": "Yargı sürecinde sorumlu aktörlere ve finansal kuruluşlara hangi cezalar ve müsadere yaptırımları uygulandı?",
+                "a": "Bernard Madoff 150 yıl, Baş Uyum Görevlisi Peter Madoff ise 10 yıl hapis cezasına çarptırıldı. Finansal ortaklardan JPMorgan Chase'e Bank Secrecy Act ihlalleri sebebiyle 1.7 milyar dolar ceza kesilirken, Jeffry Picower'ın mal varlığından 2.2 milyar dolarlık müsadere (forfeiture) gerçekleştirildi."
+            },
+            {
+                "q": "Aralık 2024 final dağıtımı itibarıyla mağdurların kayıplarının ne kadarı geri iade edildi?",
+                "a": "SIPC Mütevelli Heyeti'nin sağladığı yaklaşık 15.38 milyar dolar ve Adalet Bakanlığı Madoff Victim Fund (MVF) üzerinden yapılan 4.3 milyar doları aşkın dağıtımla, Aralık 2024'teki 10. ve final aşama sonucunda 127 ülkeden 40.930 mağdurun kayıpları %93.71 oranında geri kazanıldı."
+            }
+        ]
+    },
     {
         "id": "INT_001",
         "category": "Espionage Notes",
