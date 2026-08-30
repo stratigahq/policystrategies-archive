@@ -4258,5 +4258,392 @@
                 "a": "Rong, ailesinin Batı ve Hong Kong'daki ticari itibarını kullanarak 1979'da Çin'in ilk devlet yatırım holdingi CITIC'i kurdu; Çin'in ilk yurtdışı tahvil ihracını (yen cinsi) gerçekleştirdi ve yabancı ortaklı ilk modern fabrikaların kurulmasına öncülük etti."
             }
         ]
-    }
+    },
+
+ {
+    "id": "BIO_001",
+    "category": "Biyografi",
+    "period": "1170-1250",
+    "start_year": 1170,
+    "end_year": 1250,
+    "source_url": "https://www.reddit.com/r/policystrategies/wiki/economist/leonardo-fibonacci",
+    "cross_references": {
+        "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+        "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+        "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+    },
+    "evidence": {
+        "level": "documented",
+        "confidence_score": 0.95,
+        "source_count": 9,
+        "primary_source_count": 5
+    },
+    "sources": [
+        {
+            "title": "Fibonacci",
+            "type": "Academic Paper",
+            "source_role": "foundational",
+            "publisher": "Rutgers University",
+            "host": "rutgers.edu",
+            "published_year": 1999,
+            "last_updated_year": 1999,
+            "url": "https://rutgers.edu",
+            "supports": [
+                "The text details the life of Italian mathematician Fibonacci, his major works like 'Liber abbaci', and how he introduced the Hindu-Arabic numeral system to the West, laying the foundations for modern number theory."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "Recent Developments on Quadratic Twists of Elliptic Curves",
+            "type": "Academic Paper",
+            "source_role": "analytical",
+            "publisher": "Columbia University",
+            "host": "columbia.edu",
+            "published_year": 2018,
+            "last_updated_year": 2018,
+            "url": "https://www.math.columbia.edu/~chaoli/Survey.pdf",
+            "supports": [
+                "The paper surveys recent mathematical advancements in the arithmetic of quadratic twists of elliptic curves, connecting the ancient congruent number problem to modern frameworks like Goldfeld's conjecture and the Birch and Swinnerton-Dyer (BSD) conjecture."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "Fibonacci | Biography, Sequence, & Facts",
+            "type": "Encyclopedia Entry",
+            "source_role": "contextual",
+            "publisher": "Encyclopedia Britannica",
+            "host": "britannica.com",
+            "published_year": 2026,
+            "last_updated_year": 2026,
+            "url": "https://www.britannica.com/biography/Fibonacci",
+            "supports": [
+                "The biography outlines the life of medieval Italian mathematician Fibonacci, highlighting his introduction of Hindu-Arabic numerals to Europe through 'Liber abaci' and detailing his contributions to number theory and the famous recursive sequence."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "Liber Abaci and the Fibonacci Sequence",
+            "type": "Book Chapter",
+            "source_role": "analytical",
+            "publisher": "World Scientific",
+            "host": "worldscientific.com",
+            "published_year": 2023,
+            "last_updated_year": 2023,
+            "url": "https://www.worldscientific.com/doi/pdf/10.1142/9789811269158_0001",
+            "supports": [
+                "The text explains the recursive mathematical definition of the Fibonacci sequence and explores its diverse applications in combinatorics, including Zeckendorf representations, composition of integers, and monomer-dimer tiling patterns."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "Leonardo Fibonacci: From Liber Abaci to the Golden Ratio Legacy",
+            "type": "Web Article",
+            "source_role": "corroborating",
+            "publisher": "Facsimile Finder",
+            "host": "facsimilefinder.com",
+            "published_year": 2025,
+            "last_updated_year": 2025,
+            "url": "https://www.facsimilefinder.com/articles/fibonacci-liber-abaci-golden-ratio/",
+            "supports": [
+                "The article highlights the historical global journey of the 'Liber Abaci' manuscript, detailing how it brought Hindu-Arabic numerals to Europe and influenced Renaissance theories of proportion, perspective, and fine art."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "Fibonacci (1170 - 1250) - Biography - MacTutor History of Mathematics",
+            "type": "Encyclopedia Entry",
+            "source_role": "contextual",
+            "publisher": "University of St Andrews",
+            "host": "st-andrews.ac.uk",
+            "published_year": 1998,
+            "last_updated_year": 1998,
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fibonacci/",
+            "supports": [
+                "The biography details the academic life of Leonardo Pisano (Fibonacci), exploring his relationship with Emperor Frederick II's court and his major mathematical texts like 'Liber abaci', 'Practica geometriae', 'Flos', and 'Liber quadratorum'."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "Fibonacci's Liber Abaci (Book of Calculation)",
+            "type": "Web Article",
+            "source_role": "corroborating",
+            "publisher": "University of Utah",
+            "host": "utah.edu",
+            "published_year": 2009,
+            "last_updated_year": 2009,
+            "url": "https://www.math.utah.edu/~beebe/software/java/fibonacci/liber-abaci.html",
+            "supports": [
+                "The page explores the publishing history of 'Liber Abaci', provides the original 1202 Latin text excerpt of the rabbit problem alongside its English translation, and charts the exponential growth of the resulting mathematical sequence."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "About Fibonacci’s Book of Squares",
+            "type": "Book Chapter",
+            "source_role": "analytical",
+            "publisher": "IREM Paris 7",
+            "host": "publimath.fr",
+            "published_year": 2011,
+            "last_updated_year": 2011,
+            "url": "https://bibnum.publimath.fr/ACF/ACF08023.pdf",
+            "supports": [
+                "The text analyzes Fibonacci's 'Liber quadratorum' (1225), focusing on his systematic proofs for Diophantine equations and his resolution of the congruent number problem presented by Johannes of Palermo."
+            ],
+            "accessed_at": "2026-08-30"
+        },
+        {
+            "title": "Fibonacci and the Financial Revolution",
+            "type": "Academic Paper",
+            "source_role": "foundational",
+            "publisher": "National Bureau of Economic Research",
+            "host": "nber.org",
+            "published_year": 2004,
+            "last_updated_year": 2004,
+            "url": "https://www.nber.org/system/files/working_papers/w10352/w10352.pdf",
+            "supports": [
+                "The paper details Fibonacci's pioneering contributions to financial mathematics within 'Liber Abaci', showcasing how his early development of present value analysis and compound interest modeling catalyzed European capitalism."
+            ],
+            "accessed_at": "2026-08-30"
+        }
+    ],
+    "actors": [
+        "Leonardo Pisano (Fibonacci)",
+        "Emperor Frederick II",
+        "Johannes of Palermo",
+        "Pierre de Fermat",
+        "Leonhard Euler",
+        "Diophantus",
+        "Jerrold Tunnell"
+    ],
+    "institutions": [
+        "Court of Emperor Frederick II"
+    ],
+    "title_en": "The mathematical data standardization revolution starting with Fibonacci's transfer of the Hindu-Arabic numeral system to Europe in the 13th century, extending to modern cryptography and elliptic curve theory.",
+    "mechanism_en": "In the computational architecture, a transition was made from cumbersome Roman numerals to Hindu-Arabic symbols, and the concepts of zero (zephirum) and the fraction line (virga) were integrated into the system for data standardization. The congruum problem was modeled as the common difference in an arithmetic progression of three consecutive perfect squares using the formula $4mn(m+n)(m-n)$, where m and n are coprime and of different parity. Furthermore, the impossibility of a rational solution was proven by expanding the cubic equation $x^3 + 2x^2 + 10x = 20$ in the sexagesimal system as $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$.",
+    "systemic_impact_en": "Algebraic operations evolved from verbal narrative to symbolic structure, laying the methodological groundwork for modern algebra. This analytical perspective, aimed at understanding the ontological nature of solutions, paved the way for Fermat's Right Triangle Theorem, the 1983 Tunnell Criterion, and the modern investigation of rational points on elliptic curves ($y^2 = x^3 - N^2x$) via the BSD conjecture. These historical processes ultimately formed the core of modern scientific DNA, reaching up to today's quantum physics and digital finance systems.",
+    "context_en": "This is a series of events triggered in the early 13th century when Leonardo Pisano (Fibonacci) encountered the Hindu-Arabic numeral system and zero in Bugia, Algeria. With the publication of Liber Abbaci in 1202 and the subsequent Liber Quadratorum in 1225, analytical knowledge was transferred from the Islamic world to Europe. Encouraged by the scientific challenges at Emperor Frederick II's court, particularly by scholars like Johannes of Palermo, this process led to a structural transformation in the coding of knowledge.",
+    "keywords_en": [
+        "History of Algebra",
+        "Number Theory",
+        "Elliptic Curves",
+        "Diophantine Analysis",
+        "Congruum",
+        "Liber Abbaci",
+        "Liber Quadratorum"
+    ],
+    "claims_vs_reality_en": {
+        "official_claim": "It is widely claimed that Fibonacci is merely a popular figure whose contributions are limited to practical commercial arithmetic, basic calculation methods, the rabbit problem, and the A000045 sequence.",
+        "actual_reality": "Forensic historical analysis reveals he is the architect of Modern Number Theory, having initiated an analytical revolution by dissecting the nature of cubic equations, proving the impossibility of rational solutions, and developing systematic proofs for complex Diophantine equations."
+    },
+    "causal_chain_en": {
+        "trigger": "The initial catalyst occurred in Bugia when Fibonacci discovered the nine Indian symbols and zero, identifying a critical structural superiority and operational gap in the existing computational architecture.",
+        "execution": "The operation was executed through the publication of Liber Abbaci, strategically integrating zephirum (zero) and virga (fraction bar) into European commerce to create a standardized system that minimized error margins in financial data transmission.",
+        "collapse": "The traditional verbal algebra framework collapsed under the systemic audits and analytical challenges at Emperor Frederick II's court, where the Congruum problem exposed the old system's limits, irreversibly locking the mathematical architecture into a trajectory towards modern elliptic curve cryptography."
+    },
+    "relationships_en": [
+        {
+            "source": "Leonardo Pisano (Fibonacci)",
+            "relation": "initiated_analytical_transfer",
+            "target": "Western Mathematics"
+        },
+        {
+            "source": "Liber Abbaci (1202)",
+            "relation": "facilitated_standardization",
+            "target": "Hindu-Arabic Numeral System"
+        },
+        {
+            "source": "Leonardo Pisano (Fibonacci)",
+            "relation": "formulated_mathematical_proof",
+            "target": "Congruum Mechanism"
+        },
+        {
+            "source": "Liber Quadratorum",
+            "relation": "established_methodological_infrastructure",
+            "target": "Modern Algebra"
+        },
+        {
+            "source": "Court of Emperor Frederick II",
+            "relation": "provided_analytical_challenge",
+            "target": "Cubic Equation (x^3 + 2x^2 + 10x = 20)"
+        },
+        {
+            "source": "Leonardo Pisano (Fibonacci)",
+            "relation": "proved_irrationality",
+            "target": "Cubic Equation Solution"
+        },
+        {
+            "source": "Leonardo Pisano (Fibonacci)",
+            "relation": "systematized_data_standardization",
+            "target": "Zephirum and Virga"
+        },
+        {
+            "source": "Johannes of Palermo",
+            "relation": "triggered_theoretical_deepening",
+            "target": "Congruum Problem"
+        },
+        {
+            "source": "Pierre de Fermat",
+            "relation": "expanded_theoretical_framework",
+            "target": "Fermat's Right Triangle Theorem"
+        },
+        {
+            "source": "Jerrold Tunnell",
+            "relation": "developed_diagnostic_criterion",
+            "target": "Tunnell Criterion (Modulo 8 Residue Classes)"
+        },
+        {
+            "source": "Tunnell Criterion",
+            "relation": "established_theoretical_bridge",
+            "target": "Birch-Swinnerton-Dyer (BSD) Conjecture"
+        }
+    ],
+    "faq_en": [
+        {
+            "q": "Where and how did the initial event that triggered Fibonacci's mathematical revolution take place?",
+            "a": "The main trigger for the process initiated by Fibonacci was his introduction to the \"nine Indian symbols\" and zero in Bugia (Algeria). Through this, he recognized the superiority in computational architecture."
+        },
+        {
+            "q": "What is the mathematical formula underlying the \"Congruum\" problem, and how do its parameters work?",
+            "a": "The congruum mechanism is based on the formula $4mn(m+n)(m-n)$. In this formula, the parameters m and n must be coprime and have different parity (one odd, the other even)."
+        },
+        {
+            "q": "How did the 1202 book Liber Abbaci permanently change financial data transmission in Europe?",
+            "a": "The work Liber Abbaci initiated standardization in mathematical data processing by enabling the transition from cumbersome Roman numerals to the highly efficient Hindu-Arabic system. Additionally, it integrated the concepts of \"zephirum\" (zero) and \"virga\" (fraction line) into European trade, minimizing the margin of error in financial data transmission."
+        },
+        {
+            "q": "What analytical breakthrough did Fibonacci create with the cubic equation $x^3 + 2x^2 + 10x = 20$ presented to him at Emperor Frederick II's court?",
+            "a": "Fibonacci meticulously proved that the solution to this cubic equation could not be an integer, a rational number, or a Euclidean irrational magnitude. With this approach, he created a methodological breakthrough by shifting the focus from merely \"finding a result\" to understanding the ontological nature of the solution."
+        },
+        {
+            "q": "How do Fibonacci's 13th-century studies on the Congruum problem influence today's modern number theory and cryptography?",
+            "a": "Fibonacci's discoveries on the congruum built a theoretical bridge extending to the investigation of rational points on elliptic curves ($y^2 = x^3 - N^2x$) via Tunnell's Criterion and the Birch and Swinnerton-Dyer (BSD) conjecture. This historical process presents a continuity that reaches the cryptographic foundations of quantum physics and modern digital finance systems."
+        },
+        {
+            "q": "What did Fibonacci prove about the nature of the common difference (congruum) in an arithmetic progression formed by three consecutive perfect squares?",
+            "a": "In 1225, Fibonacci proved that a congruum (congruous number) can never be a perfect square. This was also the first proof of the fact that Fermat would later state as the area of a right triangle cannot be a square number."
+        },
+        {
+            "q": "What is the main difference between the popular culture perception of Fibonacci's rabbit problem and his historical and scientific reality?",
+            "a": "While popular perception limits Fibonacci to the rabbit problem and sequence \"A000045\", scientific reality shows that he was the most sophisticated Diophantine analyst of the Middle Ages and the founder of modern number theory. He developed systematic proofs on complex Diophantine equations."
+        },
+        {
+            "q": "How does Tunnell's Criterion, developed in 1983, separate specific modulo classes (5, 6, 7 vs 1, 2, 3) to find Congruum numbers?",
+            "a": "Tunnell's Criterion is based on residue classes modulo 8. For square-free numbers, the modulo 8 classes of 5, 6, and 7 are directly Tunnell numbers and carry the potential to be a congruum. In contrast, classes 1, 2, and 3 are subject to a more complex process requiring the counting of integer solutions to specific quadratic equations."
+        }
+    ],
+    "title_tr": "13. yüzyılda Fibonacci'nin Hint-Arap sayı sistemini Avrupa'ya taşımasıyla başlayan ve modern kriptografi ile eliptik eğriler teorisine uzanan matematiksel veri standardizasyonu devrimi.",
+    "mechanism_tr": "Hesaplama mimarisinde hantal Roma rakamlarından Hint-Arap sembollerine geçilmiş; veri standardizasyonu için sıfır (zephirum) ve kesir çizgisi (virga) kavramları sisteme entegre edilmiştir. Congruum problemi, ardışık üç tam kare sayının aritmetik dizisindeki ortak fark olarak, m ve n aralarında asal ve farklı paritede olmak şartıyla $4mn(m+n)(m-n)$ formülüyle modellenmiştir. Ayrıca $x^3 + 2x^2 + 10x = 20$ kübik denklemi için seksagesimal sistemde $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$ açılımı yapılarak rasyonel çözüm imkansızlığı ispatlanmış ve dikkat çözümün ontolojik doğasına çekilmiştir.",
+    "systemic_impact_tr": "Cebirsel işlemler sözel anlatıdan sembolik yapıya evrilerek modern cebirin metodolojik altyapısı hazırlanmıştır. Çözümün ontolojik doğasını anlamaya yönelik bu analitik perspektif, Fermat'nın Dik Üçgen Teoremi'ne, 1983 tarihli Tunnell Kriteri'ne ve günümüzde kuantum fiziği ile dijital finans sistemlerinin temelini oluşturan eliptik eğriler ($y^2 = x^3 - N^2x$) üzerindeki rasyonel noktaların araştırılmasına doğrudan zemin oluşturmuştur.",
+    "context_tr": "Süreç, 13. yüzyılın başlarında Leonardo Pisano'nun (Fibonacci) Cezayir'in Bugia kentinde Hint-Arap sistemi ve sıfır ile tanışmasıyla tetiklenmiştir. 1202'de Liber Abbaci ve 1225'te Liber Quadratorum'un yayımlanması, ayrıca İmparator II. Frederick'in sarayındaki Johannes of Palermo gibi bilginlerin meydan okumalarıyla, İslam dünyasının analitik birikimi Avrupa'ya aktarılmış ve bilginin yapısal kodlanmasında köklü bir transformasyon başlatılmıştır.",
+    "keywords_tr": [
+        "Cebir Tarihi",
+        "Sayı Teorisi",
+        "Eliptik Eğriler",
+        "Diophantine Analizi",
+        "Congruum",
+        "Liber Abbaci",
+        "Liber Quadratorum",
+        "İmparator II. Friedrich'in Sarayı"
+    ],
+    "claims_vs_reality_tr": {
+        "resmi_iddia": "Fibonacci'nin katkılarının yalnızca pratik ticari aritmetik, temel hesaplama yöntemleri, tavşan problemi ve A000045 numaralı diziyle sınırlı olduğu iddia edilmiştir.",
+        "actual_reality": "Adli tarihsel incelemeler, onun kübik denklemlerin doğasını analiz edip rasyonel çözüm imkânsızlığını ispatlayarak analitik bir devrim başlatan ve karmaşık Diophantine denklemleri üzerinde sistematik ispatlar geliştiren Modern Sayılar Teorisinin kurucusu olduğunu göstermektedir."
+    },
+    "causal_chain_tr": {
+        "tetikleyici": "Olayın ilk kıvılcımı, Fibonacci'nin Bugia'da dokuz Hint sembolü ve sıfır ile tanışarak mevcut hesaplama mimarisindeki yapısal üstünlüğü ve operasyonel boşluğu keşfetmesiyle ateşlenmiştir.",
+        "uygulama": "Operasyon, Liber Abbaci eseriyle zephirum (sıfır) ve virga (kesir çizgisi) kavramlarının Avrupa ticaretine entegre edilmesiyle yürütülmüş, finansal veri iletiminde hata payını minimize eden sistematik bir veri standardizasyonu gerçekleştirilmiştir.",
+        "cokus": "İmparator Frederick II'nin sarayındaki analitik denetimler ve Congruum probleminin ifşasıyla birlikte eski sözel cebir sistemi çökmüş; süreç, Tunnell Kriteri ve eliptik eğriler üzerindeki hesaplamalara uzanan sistemik bir kilitlenme ve paradigma kaymasıyla sonuçlanmıştır."
+    },
+    "relationships_tr": [
+        {
+            "kaynak": "Leonardo Pisano (Fibonacci)",
+            "iliski": "analitik_transfer_baslatti",
+            "hedef": "Batı Matematiği"
+        },
+        {
+            "kaynak": "Liber Abbaci (1202)",
+            "iliski": "standardizasyonu_sagladi",
+            "hedef": "Hint-Arap Rakam Sistemi"
+        },
+        {
+            "kaynak": "Leonardo Pisano (Fibonacci)",
+            "iliski": "matematiksel_ispat_formule_etti",
+            "hedef": "Congruum Mekanizması"
+        },
+        {
+            "kaynak": "Liber Quadratorum",
+            "iliski": "metodolojik_altyapiyi_kurdu",
+            "hedef": "Modern Cebir"
+        },
+        {
+            "kaynak": "İmparator Frederick II'nin Sarayı",
+            "iliski": "analitik_meydan_okuma_sundu",
+            "hedef": "Kübik Denklem (x^3 + 2x^2 + 10x = 20)"
+        },
+        {
+            "kaynak": "Leonardo Pisano (Fibonacci)",
+            "iliski": "irrasyonelligi_ispatladi",
+            "hedef": "Kübik Denklem Çözümü"
+        },
+        {
+            "kaynak": "Leonardo Pisano (Fibonacci)",
+            "iliski": "veri_standardizasyonunu_sistemlestirdi",
+            "hedef": "Zephirum ve Virga"
+        },
+        {
+            "kaynak": "Johannes of Palermo",
+            "iliski": "teorik_derinlesmeyi_tetikledi",
+            "hedef": "Congruum Problemi"
+        },
+        {
+            "kaynak": "Pierre de Fermat",
+            "iliski": "teorik_cerceveyi_genisletti",
+            "hedef": "Fermat'nın Dik Üçgen Teoremi"
+        },
+        {
+            "kaynak": "Jerrold Tunnell",
+            "iliski": "teshis_kriteri_gelistirdi",
+            "hedef": "Tunnell Kriteri (Modülo 8 Kalıntı Sınıfları)"
+        },
+        {
+            "kaynak": "Tunnell Kriteri",
+            "iliski": "teorik_kopru_kurdu",
+            "hedef": "Birch-Swinnerton-Dyer (BSD) Varsayımı"
+        }
+    ],
+    "faq_tr": [
+        {
+            "q": "Fibonacci'nin matematiksel devrimini başlatan ilk olay nerede ve nasıl gerçekleşti?",
+            "a": "Fibonacci'nin başlattığı sürecin ana tetikleyicisi, Bugia'da (Cezayir) \"dokuz Hint sembolü\" ve sıfır ile tanışmasıdır. Bu sayede hesaplama mimarisindeki üstünlüğü fark etmiştir."
+        },
+        {
+            "q": "\"Congruum\" (uyumlu sayı) probleminin temelini oluşturan matematiksel formül nedir ve parametreleri nasıl çalışır?",
+            "a": "Congruum mekanizmasının temelini $4mn(m+n)(m-n)$ formülü oluşturur. Bu formülde, m ve n parametreleri aralarında asal olmalı ve farklı pariteye (biri tek, diğeri çift) sahip olmalıdır."
+        },
+        {
+            "q": "1202 tarihli Liber Abbaci kitabı, Avrupa'daki finansal veri iletimini kalıcı olarak nasıl değiştirdi?",
+            "a": "Liber Abbaci eseri, hantal Roma rakamlarından yüksek verimlilik sunan Hint-Arap sistemine geçişi sağlayarak matematiksel veri işlemede standardizasyonu başlatmıştır. Ayrıca, \"zephirum\" (sıfır) ve \"virga\" (kesir çizgisi) kavramlarını Avrupa ticaretine entegre ederek finansal veri iletiminde hata payını minimize etmiştir."
+        },
+        {
+            "q": "Fibonacci, İmparator Frederick II'nin sarayında kendisine sunulan $x^3 + 2x^2 + 10x = 20$ kübik denkleminde nasıl bir analitik kırılma yarattı?",
+            "a": "Fibonacci, bu kübik denklemin çözümünün bir tam sayı, rasyonel sayı veya Öklidyen bir irrasyonel büyüklük olamayacağını titizlikle ispatlamıştır. Bu yaklaşımıyla, odak noktasını sadece bir \"sonuç bulmaktan\" ziyade çözümün ontolojik doğasını anlamaya kaydırarak metodolojik bir kırılma yaratmıştır."
+        },
+        {
+            "q": "Fibonacci'nin 13. yüzyılda Congruum problemi üzerine yaptığı çalışmalar günümüz modern sayılar teorisini ve kriptografiyi nasıl etkiliyor?",
+            "a": "Fibonacci'nin congruum üzerine yaptığı keşifler, Tunnell Kriteri ve Birch-Swinnerton-Dyer (BSD) varsayımı aracılığıyla eliptik eğriler ($y^2 = x^3 - N^2x$) üzerindeki rasyonel noktaların araştırılmasına uzanan teorik bir köprü kurmuştur. Bu tarihsel süreç, kuantum fiziği ve modern dijital finans sistemlerinin kriptografik temellerine kadar ulaşan bir süreklilik arz eder."
+        },
+        {
+            "q": "Fibonacci, ardışık üç tam kare sayının oluşturduğu aritmetik dizideki ortak farkın (congruum) doğası hakkında neyi ispatlamıştır?",
+            "a": "Fibonacci 1225 yılında, bir congruum'un (uyumlu sayı) asla bir tam kare olamayacağını ispatlamıştır. Bu durum, Fermat'nın daha sonra bir dik üçgenin alanının kare sayı olamayacağını belirttiği teoreminin de ilk kanıtı olmuştur."
+        },
+        {
+            "q": "Fibonacci'nin popüler kültürdeki tavşan problemi algısı ile tarihsel ve bilimsel gerçekliği arasındaki ana fark nedir?",
+            "a": "Popüler algı Fibonacci'yi tavşan problemi ve \"A000045\" nolu diziyle sınırlandırsa da, bilimsel gerçeklik onun Orta Çağ'ın en sofistike Diophantine analisti ve modern sayılar teorisinin kurucusu olduğunu göstermektedir. O, karmaşık Diophantine denklemleri üzerinde sistematik ispatlar geliştirmiştir."
+        },
+        {
+            "q": "1983 yılında geliştirilen Tunnell Kriteri, belirli modülo sınıflarını (5, 6, 7 ile 1, 2, 3) Congruum sayılarını bulmak için nasıl ayırır?",
+            "a": "Tunnell Kriteri modülo 8 üzerindeki kalıntı sınıflarına dayanır. Karesel çarpansız (square-free) sayılarda 5, 6 ve 7 modülo 8 sınıfları doğrudan Tunnell sayısıdır ve congruum olma potansiyeli taşır. Buna karşın, 1, 2 ve 3 sınıfları belirli karesel denklemlerin tam sayı çözümlerinin sayılmasını gerektiren daha karmaşık bir sürece tabidir."
+        }
+    ]
+}   
 ]
