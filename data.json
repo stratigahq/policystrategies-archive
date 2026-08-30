@@ -97,11 +97,11 @@
         "context_en": "Detailed post-mortem of Bre-X Minerals' fraudulent Indonesian gold discovery. Explores how salted core samples artificially inflated Toronto Stock Exchange valuations, misled Wall Street investment banks, and triggered systemic liquidity collapse in commodities markets.",
         "keywords_en": [
             "BreX",
-            "BusangFraud",
-            "MiningScandal",
-            "CommoditiesFraud",
-            "MarketManipulation",
-            "SaltedCores"
+            "Busang Fraud",
+            "Mining Scandal",
+            "Commodities Fraud",
+            "Market Manipulation",
+            "Salted Cores"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Bre-X discovered the world's richest gold deposit in Busang, claiming over 200 million ounces of mineable reserves.",
@@ -154,10 +154,10 @@
         "context_tr": "Bre-X şirketinin Endonezya ormanlarında uydurduğu sahte altın rezervi vakası. Kuruşluk hisselerin Wall Street fonlarıyla milyarlarca dolarlık balona dönüşmesi ve çöküşü.",
         "keywords_tr": [
             "Bre-X",
-            "AltınVurgunu",
-            "MadencilikSkandalı",
-            "BorsaManipülasyonu",
-            "EmtiaDolandırıcılığı"
+            "Altın Vurgunu",
+            "Madencilik Skandalı",
+            "Borsa Manipülasyonu",
+            "Emtia Dolandırıcılığı"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Bre-X, Endonezya Busang'da 200 milyon onsu aşan rezervle tarihin en zengin altın yatağını keşfettiğini iddia etti.",
@@ -303,13 +303,13 @@
         "systemic_impact_en": "Disruption of Soviet natural gas exports to Western Europe, crippling Moscow's foreign exchange currency reserves and dismantling Soviet industrial espionage networks.",
         "context_en": "Analysis of the CIA's Operation Farewell Dossier involving weaponized SCADA control software supplied to the USSR. Details how the covert logic bomb disrupted Soviet natural gas exports to Western Europe, crippling Moscow's foreign exchange currency reserves.",
         "keywords_en": [
-            "FarewellDossier",
-            "CIASabotage",
-            "EconomicWarfare",
-            "SovietEnergy",
-            "PipelineSabotage",
+            "Farewel lDossier",
+            "CIA Sabotage",
+            "Economic Warfare",
+            "Soviet Energy",
+            "Pipeline Sabotage",
             "SCADA",
-            "LogicBomb"
+            "Logic Bomb"
         ],
         "claims_vs_reality_en": {
             "official_claim": "The Soviet government claimed the Trans-Siberian pipeline was operating on secure domestic automated controls and attributed pipeline ruptures to standard industrial material defects.",
@@ -366,13 +366,13 @@
         "systemic_impact_tr": "Sovyetler Birliği'nin Avrupa'ya doğal gaz satarak döviz kazanmasının engellenmesi ve Moskova'nın Line X endüstriyel casusluk ağının tamamen çökertilmesi.",
         "context_tr": "CIA'in Sovyet doğal gaz hattı otomasyon yazılımına yerleştirdiği truva atı operasyonu. Sovyetlerin Avrupa'ya gaz satarak döviz kazanmasını engelleyen tarihin en büyük siber-finansal altyapı sabotajı.",
         "keywords_tr": [
-            "FarewellDosyası",
-            "CIASabotajı",
-            "EkonomikSavaş",
-            "SovyetEnerjisi",
-            "BoruHattıSabotajı",
+            "Farewel lDosyası",
+            "CIA Sabotajı",
+            "Ekonomik Savaş",
+            "Sovyet Enerjisi",
+            "BoruHattı Sabotajı",
             "SCADA",
-            "MantıkBombası"
+            "Mantık Bombası"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Sovyet yönetimi Trans-Sibirya boru hattının güvenli yerli sistemlerle yönetildiğini iddia etti ve patlamayı sıradan mekanik malzeme yorgunluğuna bağladı.",
@@ -442,7 +442,6 @@
             "confidence_score": 0.94,
             "source_count": 2,
             "primary_source_count": 1
-
         },
         "sources": [
             {
@@ -493,11 +492,11 @@
         "systemic_impact_en": "Total eradication of private capital markets in Central Europe and the forced transition of industrial equity into state-owned planned command economies.",
         "context_en": "Examination of the postwar Soviet-led systematic destruction of Central European equity markets. Covers decree-based margin squeezes, state-engineered hyperinflation, and arbitrary arrests of private equity holders under anti-bourgeois liquidation policies.",
         "keywords_en": [
-            "IronCurtain",
-            "StockExchangeNationalization",
-            "BudapestBourse",
-            "PragueExchange",
-            "PostWarFinance",
+            "Iron Curtain",
+            "Stock Exchange Nationalization",
+            "Budapest Bourse",
+            "Prague Exchange",
+            "PostWar Finance",
             "Expropriation",
             "Hyperinflation"
         ],
@@ -551,11 +550,11 @@
         "systemic_impact_tr": "Orta Avrupa'daki tüm bağımsız sermaye piyasalarının ve borsa binalarının kapatılarak sanayi tesislerinin bedelsiz devlet mülkiyetine geçirilmesi.",
         "context_tr": "2. Dünya Savaşı sonrası Budapeşte ve Prag borsalarında hisse senetlerinin Sovyet güdümlü bürokrasi tarafından manipülasyon, hiperenflasyon ve yasal baskılarla değersizleştirilip kamulaştırılması.",
         "keywords_tr": [
-            "DemirPerde",
-            "BorsaKamulaştırma",
-            "BudapeşteBorsası",
-            "PragBorsası",
-            "SavaşSonrasıFinans",
+            "Demir Perde",
+            "Borsa Kamulaştırma",
+            "Budapeşte Borsası",
+            "Prag Borsası",
+            "Savaş Sonrası Finans",
             "Mülksüzleştirme"
         ],
         "claims_vs_reality_tr": {
@@ -621,7 +620,6 @@
             "confidence_score": 0.92,
             "source_count": 4,
             "primary_source_count": 1
-
         },
         "sources": [
             {
@@ -700,14 +698,14 @@
         "systemic_impact_en": "Liquidation of sovereign French securities trading, systematic wealth extraction to fund the Third Reich war machine, and the post-war centralization of French securities clearing systems.",
         "context_en": "The German occupation's takeover of French securities markets. Details the forced shutdown of the unofficial 'Coulisse' trading floor, conversion of anonymous bearer shares to registered securities via CCDVT, and physical price-pegging by Reichsbank officials to fund the German war machine.",
         "keywords_en": [
-            "ParisBourse",
-            "CoulisseMarket",
+            "Paris Bourse",
+            "Coulisse Market",
             "Reichsbank",
-            "BearerShares",
-            "WarFinance",
+            "Bearer Shares",
+            "War Finance",
             "CCDVT",
-            "OccupiedFrance",
-            "PricePegging"
+            "Occupied France",
+            "Price Pegging"
         ],
         "claims_vs_reality_en": {
             "official_claim": "The German Military Administration and Vichy Government claimed the reorganization of the Paris Bourse and CCDVT centralization were technical modernization measures to protect French investors from wartime currency speculation.",
@@ -759,14 +757,14 @@
         "systemic_impact_tr": "Fransız vatandaşlarının ve şirketlerinin likiditesinin Alman savaş tahvillerine aktarılması ve savaş sonrası Fransız menkul kıymet saklama sisteminin (CCDVT) merkezileştirilmesi.",
         "context_tr": "Nazi işgali altındaki Paris Borsası'nda serbest pazarın kapatılması, hamiline hisselerin fişlenerek kontrol altına alınması ve Fransız servetinin Reichsbank tahvillerine yönlendirilmesi süreci.",
         "keywords_tr": [
-            "ParisBorsası",
-            "CoulissePazarı",
+            "Paris Borsası",
+            "Coulisse Pazarı",
             "Reichsbank",
-            "HamilineHisse",
-            "SavaşFinansı",
+            "Hamiline Hisse",
+            "Savaş Finansı",
             "CCDVT",
-            "Naziİşgali",
-            "FiyatSabitleme"
+            "Nazi İşgali",
+            "Fiyat Sabitleme"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Alman Askeri İdaresi ve Vichy Hükümeti, Paris Borsası'nın yeniden yapılandırılması ve CCDVT merkezileşmesinin Fransız yatırımcıları savaş dönemi spekülasyonlarından korumak için teknik bir modernizasyon olduğunu iddia etti.",
@@ -913,10 +911,10 @@
         "keywords_en": [
             "Onassis",
             "SaudiOil",
-            "TankerAgreement",
+            "Tanker Agreement",
             "ARAMCO",
-            "OilShipping",
-            "MaritimeFinance",
+            "Oil Shipping",
+            "Maritime Finance",
             "Geoeconomics"
         ],
         "claims_vs_reality_en": {
@@ -970,11 +968,11 @@
         "context_tr": "1954 tarihli Onassis–Suudi Arabistan tanker anlaşmasının vaka incelemesi. Yunan armatör Aristotle Onassis'in Saudi Arabian Tanker Company Ltd. üzerinden Suudi petrolünün taşınmasında önemli bir rol edinme girişimi, ARAMCO'nun itirazına ve ABD hükümetinin doğrudan müdahil olmasına yol açtı.",
         "keywords_tr": [
             "Onassis",
-            "SuudiPetrolü",
-            "TankerAnlaşması",
+            "Suudi Petrolü",
+            "Tanker Anlaşması",
             "ARAMCO",
-            "PetrolTaşımacılığı",
-            "DenizcilikFinansı",
+            "Petrol Taşımacılığı",
+            "Denizcilik Finansı",
             "Jeoekonomi"
         ],
         "claims_vs_reality_tr": {
@@ -1126,10 +1124,10 @@
         "systemic_impact_en": "The fraud exposed serious weaknesses in commodity-collateral verification, related-party lending controls and bank supervision. INTERBANK was intervened in August 2000, and its failure became part of a wider Nicaraguan banking crisis requiring state-backed resolution measures.",
         "context_en": "Case study of the 2000 Nicaragua INTERBANK-CONSAGRO commodity collateral scandal. A major coffee exporter and bank insiders were linked to financing arrangements supported by warehouse documentation for coffee stocks that did not exist as represented, alongside other irregular credit operations.",
         "keywords_en": [
-            "CoffeeFraud",
-            "WarehouseReceipts",
-            "CommodityFinance",
-            "CollateralFraud",
+            "Coffee Fraud",
+            "Warehouse Receipts",
+            "Commodity Finance",
+            "Collateral Fraud",
             "INTERBANK",
             "CONSAGRO",
             "Nicaragua"
@@ -1184,10 +1182,10 @@
         "systemic_impact_tr": "Vaka, emtia teminatlarının doğrulanması, bağlantılı taraflara kredi verilmesi ve banka içi kontrollerdeki ciddi zafiyetleri ortaya çıkardı. INTERBANK Ağustos 2000'de müdahale altına alındı ve bankanın çöküşü Nikaragua'daki daha geniş bankacılık krizinin önemli parçalarından biri hâline geldi.",
         "context_tr": "2000 Nikaragua INTERBANK-CONSAGRO emtia teminat skandalının vaka incelemesi. Büyük bir kahve ihracatçısıyla bağlantılı şirketler ve banka içindeki yöneticiler, gerçekte belgelerde gösterildiği biçimde bulunmayan kahve stoklarını temsil eden depo belgeleri ve başka düzensiz kredi işlemleri üzerinden finansman sağladı.",
         "keywords_tr": [
-            "KahveSahtekarlığı",
-            "DepoMakbuzu",
-            "EmtiaFinansı",
-            "TeminatSahtekarlığı",
+            "Kahve Sahtekarlığı",
+            "Depo Makbuzu",
+            "Emtia Finansı",
+            "Teminat Sahtekarlığı",
             "INTERBANK",
             "CONSAGRO",
             "Nikaragua"
@@ -1339,13 +1337,13 @@
         "systemic_impact_en": "The affair triggered investigations in the United States and Argentina, exposed the vulnerability of cross-border banking structures to opaque ownership and related-party transactions, and became intertwined with the political repression that followed Argentina's 1976 military coup.",
         "context_en": "Case study of Argentine financier David Graiver and the international financial network associated with him during the 1970s. Contemporary investigations and later historical accounts linked approximately $17 million associated with Montoneros to financial structures connected to the Graiver group.",
         "keywords_en": [
-            "DavidGraiver",
+            "David Graiver",
             "Montoneros",
-            "MoneyLaundering",
-            "TransnationalBanking",
-            "BankFraud",
-            "OffshoreFinance",
-            "AmericanBankAndTrust"
+            "Money Laundering",
+            "Transnational Banking",
+            "Bank Fraud",
+            "Offshore Finance",
+            "American Bank&Trust"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Graiver's international business network was presented as a legitimate collection of banking and investment interests operating across several jurisdictions.",
@@ -1402,13 +1400,13 @@
         "systemic_impact_tr": "Olay ABD ve Arjantin'de finansal soruşturmaları tetikledi; sınır ötesi bankacılık yapılarındaki karmaşık sahiplik ilişkileri ve bağlantılı taraf işlemlerinin yarattığı riskleri ortaya çıkardı ve 1976 Arjantin askeri darbesi sonrasındaki siyasi baskı süreciyle iç içe geçti.",
         "context_tr": "1970'lerde Arjantinli finansçı David Graiver ve onunla bağlantılı uluslararası finans ağının vaka incelemesi. Dönemin soruşturmaları ve sonraki tarihsel anlatımlar, Montoneros ile ilişkilendirilen yaklaşık 17 milyon dolarlık fonun Graiver grubuyla bağlantılı finansal yapılar üzerinden yönetildiğini ve hareket ettirildiğini ortaya koymaktadır.",
         "keywords_tr": [
-            "DavidGraiver",
+            "David Graiver",
             "Montoneros",
-            "KaraPara",
-            "UluslararasıBankacılık",
-            "BankaSahtekarlığı",
-            "OffshoreFinans",
-            "AmericanBankAndTrust"
+            "Kara Para",
+            "Uluslararası Bankacılık",
+            "Banka Sahtekarlığı",
+            "Offshore Finans",
+            "American Bank&Trust"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Graiver'ın uluslararası şirket ve bankacılık ağı, farklı ülkelerde faaliyet gösteren meşru yatırım ve finans kuruluşlarından oluşan bir iş imparatorluğu olarak görünüyordu.",
@@ -1562,14 +1560,14 @@
         "systemic_impact_en": "The scandal became one of the first major computer-assisted corporate fraud cases, triggered extensive regulatory and criminal investigations, and later became central to the landmark Supreme Court insider-trading decision in Dirks v. SEC.",
         "context_en": "Case study of the 1973 collapse of Equity Funding Corporation of America, where management systematically created fictitious life insurance policies and financial records to inflate corporate growth, assets, and earnings before the fraud was exposed.",
         "keywords_en": [
-            "EquityFunding",
-            "InsuranceFraud",
-            "SECInvestigation",
-            "ReinsuranceScandal",
-            "ComputerFraud",
-            "RayDirks",
+            "Equity Funding",
+            "Insurance Fraud",
+            "SECI nvestigation",
+            "Reinsurance Scandal",
+            "Computer Fraud",
+            "Ray Dirks",
             "Whistleblower",
-            "GhostPolicies"
+            "Ghost Policies"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Equity Funding presented itself as a rapidly growing financial services company combining life insurance sales with mutual fund investments and expanding earnings.",
@@ -1626,14 +1624,14 @@
         "systemic_impact_tr": "Skandal, tarihin ilk büyük bilgisayar destekli kurumsal dolandırıcılık vakalarından biri hâline geldi; geniş çaplı düzenleyici ve cezai soruşturmaları tetikledi ve daha sonra Dirks v. SEC kararına konu oldu.",
         "context_tr": "1973 Equity Funding Corporation of America çöküşünün vaka incelemesi. Şirket yönetimi, büyüme ve kârlılık görünümünü korumak için hayali hayat sigortası poliçeleri ve sahte finansal kayıtlar üretti.",
         "keywords_tr": [
-            "EquityFunding",
-            "SigortaVurgunu",
-            "HayaletPoliçe",
-            "ReasüransSkandalı",
-            "BilgisayarSahtekarlığı",
-            "SECSoruşturması",
-            "AdliBilişim",
-            "RayDirks"
+            "Equity Funding",
+            "Sigorta Vurgunu",
+            "Hayalet Poliçe",
+            "Reasürans Skandalı",
+            "Bilgisayar Sahtekarlığı",
+            "SEC Soruşturması",
+            "Adli Bilişim",
+            "Ray Dirks"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Equity Funding Corporation, hayat sigortası ve yatırım fonlarını birleştiren, hızla büyüyen ve yüksek kâr üreten başarılı bir finans şirketi olduğunu gösteriyordu.",
@@ -1703,7 +1701,6 @@
             "confidence_score": 0.93,
             "source_count": 4,
             "primary_source_count": 3
-
         },
         "sources": [
             {
@@ -1786,13 +1783,13 @@
         "systemic_impact_en": "The process transformed China's urban private industrial and commercial sector, culminating in the rapid expansion of industry-wide public-private joint ownership by 1956 and the incorporation of major private enterprises into the socialist state economy.",
         "context_en": "Between 1952 and 1956, the Chinese Communist Party progressively transformed Shanghai's private industrial and commercial economy. The Five-Anti Campaign applied intensive political and financial scrutiny to private businesses, while later state-capitalist policies and public-private joint ownership brought major enterprises, including Rong Yiren's family businesses, under state-directed economic structures.",
         "keywords_en": [
-            "FiveAntiCampaign",
-            "ShanghaiIndustrialists",
-            "RongYiren",
-            "ChineseNationalization",
-            "PublicPrivateJointOwnership",
-            "StateCapitalism",
-            "SocialistTransformation"
+            "Five AntiCampaign",
+            "Shanghai Industrialists",
+            "Rong Yiren",
+            "Chinese Nationalization",
+            "Public Private Joint Ownership",
+            "State Capitalism",
+            "Socialist Transformation"
         ],
         "claims_vs_reality_en": {
             "official_claim": "The Five-Anti Campaign was presented as a campaign against bribery, tax evasion, theft of state property, shoddy production, and theft of economic information, while the later transformation of private enterprise was presented as a transition through state capitalism and public-private cooperation.",
@@ -1844,13 +1841,13 @@
         "systemic_impact_tr": "Süreç, Çin'in şehirlerdeki özel sanayi ve ticaret kesimini köklü biçimde dönüştürdü; 1955-1956 döneminde kamu-özel ortaklığının hızla yayılmasıyla büyük özel işletmeler devlet yönlendirmesindeki sosyalist ekonomiye dahil edildi.",
         "context_tr": "1952-1956 arasında Çin Komünist Partisi, Şanghay'daki özel sanayi ve ticaret yapısını kademeli olarak dönüştürdü. Wufan Hareketi özel işletmeleri yoğun siyasi ve mali denetime tabi tutarken, sonraki devlet kapitalizmi ve kamu-özel ortaklığı politikaları Rong Yiren'in aile işletmeleri dahil birçok büyük özel kuruluşu devlet yönlendirmesindeki ekonomik yapıya dahil etti.",
         "keywords_tr": [
-            "WufanHareketi",
-            "ŞanghaySanayicileri",
-            "RongYiren",
-            "ÇinKamulaştırmaTarihi",
-            "KamuÖzelOrtaklığı",
-            "DevletKapitalizmi",
-            "SosyalistDönüşüm"
+            "Wufan Hareketi",
+            "Şanghay Sanayicileri",
+            "Rong Yiren",
+            "Çin Kamulaştırma Tarihi",
+            "Kamu Özel Ortaklığı",
+            "Devlet Kapitalizmi",
+            "Sosyalist Dönüşüm"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Wufan Hareketi rüşvet, vergi kaçırma, devlet malını çalma, kalitesiz üretim ve ekonomik bilgi hırsızlığıyla mücadele olarak sunuldu; sonraki özel sektör dönüşümü ise devlet kapitalizmi ve kamu-özel işbirliği yoluyla sosyalist dönüşüm olarak tanımlandı.",
@@ -1983,12 +1980,12 @@
         "systemic_impact_en": "Publication of Statement on Auditing Procedure No. 1 (SAP No. 1) by the AIA, establishing mandatory on-site physical inventory counts, direct third-party receivables confirmation, and the foundation of modern forensic auditing.",
         "context_en": "Convicted con artist Philip Musica assumed a false identity to lead pharmaceutical giant McKesson & Robbins, inflating the balance sheet with millions of dollars in fictitious inventory via shell companies. The exposure of the phantom assets in 1938 fundamentally transformed corporate governance by mandating physical inventory counts and independent audit verifications.",
         "keywords_en": [
-            "McKessonRobbins",
-            "PhilipMusica",
-            "AccountingFraud",
-            "PhantomInventory",
-            "PriceWaterhouse",
-            "AuditStandards",
+            "McKesson Robbins",
+            "Philip Musica",
+            "Accounting Fraud",
+            "Phantom Inventory",
+            "Price Waterhouse",
+            "Audit Standards",
             "SAPNo1",
             "SEC"
         ],
@@ -2047,12 +2044,12 @@
         "systemic_impact_tr": "Amerikan Muhasebeciler Enstitüsü (AIA) tarafından bağımsız denetçiler için fiziki stok sayımı ve alacak teyidinin zorunlu hale getirilmesi (SAP No. 1); modern kurumsal adli denetim ve mesleki şüphecilik standartlarının doğuşu.",
         "context_tr": "Sabıkalı Philip Musica, sahte bir kimlikle ilaç devi McKesson & Robbins'in başına geçerek paravan şirketler üzerinden milyonlarca dolarlık hayalet stok yaratmıştır. 1938'de fiktif varlıkların ortaya çıkmasıyla patlak veren skandal, denetçilere bizzat fiziki stok sayımı yapma zorunluluğu getirerek modern denetim standartlarını temelden değiştirmiştir.",
         "keywords_tr": [
-            "McKessonRobbins",
-            "PhilipMusica",
-            "MuhasebeHilesi",
-            "HayaletStok",
-            "PriceWaterhouse",
-            "DenetimStandartları",
+            "McKesson Robbins",
+            "Philip Musica",
+            "Muhasebe Hilesi",
+            "Hayalet Stok",
+            "Price Waterhouse",
+            "Denetim Standartları",
             "SAPNo1",
             "SECDenetimi"
         ],
@@ -2119,62 +2116,62 @@
             "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
             "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
         },
-            "evidence": {
-                "level": "documented",
-                "confidence_score": 0.95,
-                "source_count": 3,
-                "primary_source_count": 0
+        "evidence": {
+            "level": "documented",
+            "confidence_score": 0.95,
+            "source_count": 3,
+            "primary_source_count": 0
+        },
+        "sources": [
+            {
+                "title": "Jacksonville's Notorious Con Artist: Charles Ponzi",
+                "type": "journalism",
+                "source_role": "contextual",
+                "publisher": "The Jaxson",
+                "host": "TheJaxsonMag.com",
+                "published_year": 2018,
+                "last_updated_year": 2026,
+                "url": "https://www.thejaxsonmag.com/article/jacksonvilles-notorious-con-artist-charles-ponzi/",
+                "supports": [
+                    "Ponzi's life in Florida and the real estate fraud known as the Charpon Land Syndicate",
+                    "His escape attempts utilizing assumed identities",
+                    "The deportation process and his final years living in poverty in Brazil"
+                ],
+                "accessed_at": "2026-08-28"
             },
-            "sources": [
-                {
-                    "title": "Jacksonville's Notorious Con Artist: Charles Ponzi",
-                    "type": "journalism",
-                    "source_role": "contextual",
-                    "publisher": "The Jaxson",
-                    "host": "TheJaxsonMag.com",
-                    "published_year": 2018,
-                    "last_updated_year": 2026,
-                    "url": "https://www.thejaxsonmag.com/article/jacksonvilles-notorious-con-artist-charles-ponzi/",
-                    "supports": [
-                        "Ponzi's life in Florida and the real estate fraud known as the Charpon Land Syndicate",
-                        "His escape attempts utilizing assumed identities",
-                        "The deportation process and his final years living in poverty in Brazil"
-                    ],
-                    "accessed_at": "2026-08-28"
-                },
-                {
-                    "title": "\"The Best Show That Was Ever Staged\": Charles Ponzi's Scheme",
-                    "type": "journalism",
-                    "source_role": "foundational",
-                    "publisher": "History Guild",
-                    "host": "historyguild.org",
-                    "published_year": 2024,
-                    "last_updated_year": null,
-                    "url": "https://historyguild.org/the-best-show-that-was-ever-staged-charles-ponzis-scheme/",
-                    "supports": [
-                        "The establishment of the Securities Exchange Company and the promised 50% profit returns",
-                        "The fraudulent nature of the alleged arbitrage system based on international reply coupons (IRC)",
-                        "The collapse of the scheme, subsequent bank failures, and investor losses amounting to hundreds of millions of dollars in modern valuation"
-                    ],
-                    "accessed_at": "2026-08-28"
-                },
-                {
-                    "title": "Charles Ponzi (1920)",
-                    "type": "analytical",
-                    "source_role": "analytical",
-                    "publisher": "International Banker",
-                    "host": "internationalbanker.com",
-                    "published_year": 2021,
-                    "last_updated_year": null,
-                    "url": "https://internationalbanker.com/history-of-financial-crises/charles-ponzi-1920/",
-                    "supports": [
-                        "The fundamental financial mechanics and historical background of the Ponzi scheme",
-                        "Journalistic investigations by The Boston Post and Clarence Barron that exposed Ponzi's operations",
-                        "Comparative analysis of the scheme with modern-day financial frauds, such as that of Bernard Madoff"
-                    ],
-                    "accessed_at": "2026-08-28"
-                }
-            ],
+            {
+                "title": "The Best Show That Was Ever Staged: Charles Ponzi's Scheme",
+                "type": "journalism",
+                "source_role": "foundational",
+                "publisher": "History Guild",
+                "host": "historyguild.org",
+                "published_year": 2024,
+                "last_updated_year": null,
+                "url": "https://historyguild.org/the-best-show-that-was-ever-staged-charles-ponzis-scheme/",
+                "supports": [
+                    "The establishment of the Securities Exchange Company and the promised 50% profit returns",
+                    "The fraudulent nature of the alleged arbitrage system based on international reply coupons (IRC)",
+                    "The collapse of the scheme, subsequent bank failures, and investor losses amounting to hundreds of millions of dollars in modern valuation"
+                ],
+                "accessed_at": "2026-08-28"
+            },
+            {
+                "title": "Charles Ponzi (1920)",
+                "type": "analytical",
+                "source_role": "analytical",
+                "publisher": "International Banker",
+                "host": "internationalbanker.com",
+                "published_year": 2021,
+                "last_updated_year": null,
+                "url": "https://internationalbanker.com/history-of-financial-crises/charles-ponzi-1920/",
+                "supports": [
+                    "The fundamental financial mechanics and historical background of the Ponzi scheme",
+                    "Journalistic investigations by The Boston Post and Clarence Barron that exposed Ponzi's operations",
+                    "Comparative analysis of the scheme with modern-day financial frauds, such as that of Bernard Madoff"
+                ],
+                "accessed_at": "2026-08-28"
+            }
+        ],
         "actors": [
             "Charles Ponzi",
             "Clarence Barron",
@@ -2191,13 +2188,13 @@
         "systemic_impact_en": "Triggered the collapse of six Boston banks, caused hundreds of millions in inflation-adjusted investor losses, and established the foundational archetype for global pyramid scheme regulations.",
         "context_en": "Charles Ponzi exploited post-WWI currency disparities by promising 50% returns in 45 days via International Reply Coupons through his Securities Exchange Company. The structure collapsed after forensic reporting revealed that theoretical coupon circulation mathematically contradicted actual global supply.",
         "keywords_en": [
-            "PonziScheme",
-            "CharlesPonzi",
-            "SecuritiesExchangeCompany",
-            "ArbitrageFraud",
-            "PostalCoupons",
-            "ClarenceBarron",
-            "PyramidScheme"
+            "Ponzi Scheme",
+            "Charles Ponzi",
+            "Securities Exchange Company",
+            "Arbitrage Fraud",
+            "Postal Coupons",
+            "Clarence Barron",
+            "Pyramid Scheme"
         ],
         "claims_vs_reality_en": {
             "official_claim": "The Securities Exchange Company generated legitimate, risk-free 50% returns in 45 days (100% in 90 days) through cross-border arbitrage by purchasing depreciated International Reply Coupons (IRCs) in post-war Europe and redeeming them for higher-value stamps in the United States.",
@@ -2284,13 +2281,13 @@
         "systemic_impact_tr": "Boston'da altı bankanın art arda iflas etmesi, günümüz değeriyle 237 milyon dolarlık sermaye kaybı ve saadet zincirlerine karşı modern finansal dolandırıcılık mevzuatının temellerinin atılması.",
         "context_tr": "Charles Ponzi, Menkul Kıymetler Değişim Şirketi üzerinden 45 günde %50 risksiz getiri vaat ederek Boston kentinde devasa bir nakit akışı döngüsü kurmuştur. Kupon matematiğinin imkansızlığının ifşa edilmesiyle sistem çökmüş ve şehirdeki bankacılık altyapısı ağır darbe almıştır.",
         "keywords_tr": [
-            "PonziSistemi",
-            "CharlesPonzi",
-            "SaadetZinciri",
-            "ArbitrajDolandırıcılığı",
-            "PostaKuponu",
-            "ClarenceBarron",
-            "MenkulKıymetlerDeğişimŞirketi"
+            "Ponzi Sistemi",
+            "Charles Ponzi",
+            "Saadet Zinciri",
+            "Arbitraj Dolandırıcılığı",
+            "Posta Kuponu",
+            "Clarence Barron",
+            "MenkulKıymetler Değişim Şirketi"
         ],
         "claims_vs_reality_tr": {
             "official_claim": "Menkul Kıymetler Değişim Şirketi, savaş sonrası Avrupa'da devalüe olan para birimleriyle ucuza temin edilen Uluslararası Cevap Kuponlarını (IRC) ABD'de yüksek değerli posta pullarına çevirerek risksiz kıtalararası arbitraj ile 45 günde %50, 90 günde %100 net getiri sağladığını beyan etmiştir.",
@@ -2301,8 +2298,7 @@
             "execution": "Menkul Kıymetler Değişim Şirketi'nin yüksek garantili getiri sözleşmeleri ve saha komisyoncuları aracılığıyla regülasyon boşluklarından faydalanıp günlük 1 milyon dolarlık sıcak nakit akışına ulaşarak fiktif bilançoyu büyütmesi.",
             "collapse": "Finansal analistlerin dolaşımdaki kupon hacmine yönelik matematiksel imkansızlığı kanıtlaması, şirket içi evrakların basına sızdırılması ve denetim mekanizmalarının hesaplara el koymasıyla tetiklenen likidite kilitlenmesi ve banka iflasları."
         },
-
-"relationships_tr": [
+        "relationships_tr": [
             {
                 "kaynak": "Charles Ponzi",
                 "iliski": "likidite_modelini_gozlemledi",
@@ -2359,7 +2355,6 @@
                 "hedef": "Charles Ponzi"
             }
         ],
-        
         "faq_tr": [
             {
                 "q": "Charles Ponzi kimdir ve saadet zinciri fikri nasıl ortaya çıktı?",
@@ -2375,7 +2370,7 @@
             }
         ]
     },
-        {
+    {
         "id": "FIN_012",
         "category": "Finance History",
         "period": "1960-2026",
@@ -2969,13 +2964,13 @@
         "systemic_impact_en": "Demonstrated the vulnerability of sophisticated signals intelligence (SIGINT) operations to human penetration (HUMINT), while also showing that a technically compromised operation could still generate significant intelligence before exposure.",
         "context_en": "Historical review of the approximately 450-meter clandestine tunnel jointly built by CIA and MI6 beneath Berlin to tap Soviet and East German communication cables. The operation was compromised during its planning stages by MI6 officer George Blake, who informed the KGB, yet the Soviets allowed the wiretap to operate for approximately 11 months before its exposure in April 1956.",
         "keywords_en": [
-            "OperationGold",
-            "OperationStopwatch",
-            "BerlinTunnel",
-            "GeorgeBlake",
-            "SignalsIntelligence",
+            "Operation Gold",
+            "Operation Stopwatch",
+            "Berlin Tunnel",
+            "George Blake",
+            "Signals Intelligence",
             "Wiretapping",
-            "ColdWarEspionage",
+            "Cold War Espionage",
             "KGB"
         ],
         "claims_vs_reality_en": {
@@ -3033,13 +3028,13 @@
         "systemic_impact_tr": "Soğuk Savaş sinyal istihbaratının (SIGINT) insan kaynaklı sızmalara (HUMINT) karşı kırılganlığını ortaya koyarken, teknik olarak ele geçirilmiş bir operasyonun bile ortaya çıkarılmadan önce önemli miktarda gerçek istihbarat üretebileceğini göstermesi.",
         "context_tr": "CIA ve MI6'in Berlin altında yaklaşık 450 metrelik gizli bir tünel inşa ederek Sovyet ve Doğu Alman iletişim hatlarını dinleme operasyonu. MI6 subayı George Blake, planlama aşamasında operasyonu KGB'ye sızdırdı; buna rağmen Sovyetler Blake'in kimliğini korumak için dinlemeye yaklaşık 11 ay boyunca izin verdi ve tünel Nisan 1956'da ortaya çıkarıldı.",
         "keywords_tr": [
-            "BerlinTüneli",
-            "OperationGold",
-            "GeorgeBlake",
-            "Sinyalİstihbaratı",
-            "KabloDinleme",
-            "SoğukSavaşCasusluğu",
-            "KGBKöstebek"
+            "Berlin Tüneli",
+            "Operation Gold",
+            "George Blake",
+            "Sinyal İstihbaratı",
+            "Kablo Dinleme",
+            "Soğuk Savaş Casusluğu",
+            "KGB Köstebek"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "CIA ve MI6, Operation Gold'u yüksek gizlilikli bir sinyal istihbaratı operasyonu olarak yürüttü ve yaklaşık 40 bin saat telefon konuşması ile milyonlarca saatlik teleks trafiği dahil olmak üzere büyük miktarda Sovyet ve Doğu Alman iletişimi elde etti.",
@@ -3163,14 +3158,14 @@
         "systemic_impact_en": "Dismantling of the primary Soviet deep-cover 'Illegals' network in North America, leading to the landmark Cold War prisoner exchange at the Glienicke Bridge (Bridge of Spies) in 1962.",
         "context_en": "The unraveling of a premier Soviet illegal spy ring in New York after a physical 5-cent coin containing encrypted microfilm was accidentally dropped in Brooklyn, leading to the FBI's high-profile arrest of Vilyam Fisher (Rudolf Abel).",
         "keywords_en": [
-            "HollowNickelCase",
-            "RudolfAbel",
-            "VilyamFisher",
-            "KGBIllegals",
-            "FBICounterintelligence",
+            "Hollow Nickel Case",
+            "Rudolf Abel",
+            "Vilyam Fisher",
+            "KGB Illegals",
+            "FBI Counterintelligence",
             "Microfilm",
             "Cryptanalysis",
-            "BridgeOfSpies"
+            "Bridge OfSpies"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Vilyam Fisher lived in Brooklyn as Emil R. Goldfus, a quiet, modest commercial artist, amateur photographer, and patriotic American citizen.",
@@ -3227,14 +3222,14 @@
         "systemic_impact_tr": "Kuzey Amerika'daki en büyük Sovyet 'İllegaller' casusluk ağının çökertilmesi, FBI karşı istihbarat kriptoanaliz kapasitesinin tescillenmesi ve 1962'de Glienicke Köprüsü'ndeki tarihi casus takası (Casuslar Köprüsü).",
         "context_tr": "Manhattan'da bir gazete dağıtıcısının düşürdüğü içi oyuk 5 sentlik bozuk paradan çıkan mikrofilmin, FBI kriptologları tarafından deşifre edilerek Sovyet casus ağı lideri Rudolf Abel'in yakalanmasına uzanan hikayesi.",
         "keywords_tr": [
-            "İçiBoşNikel",
-            "RudolfAbel",
-            "VilyamFisher",
-            "KGBİllegalleri",
-            "FBITakibi",
+            "İçi Boş Nikel",
+            "Rudolf Abel",
+            "Vilyam Fisher",
+            "KGB İllegalleri",
+            "FBI Takibi",
             "Mikrofilm",
             "Kriptoanaliz",
-            "CasuslarKöprüsü"
+            "Casuslar Köprüsü"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Vilyam Fisher, Brooklyn'de 'Emil R. Goldfus' adıyla sakin bir hayat yaşayan, fotoğrafçılık ve resim yapan mütevazı bir Amerikan vatandaşıydı.",
@@ -3359,14 +3354,14 @@
         "systemic_impact_en": "Exploitation of colonial policing blind spots to establish deep Soviet strategic intelligence in the Pacific, deciphering the 1931 Mukden Incident and laying the structural groundwork for the legendary Tokyo Sorge ring.",
         "context_en": "In the early 1930s, Richard Sorge leveraged Shanghai's fragmented concession zones and his cover as a conservative German journalist to establish a sophisticated intelligence network for the Red Army. Aided by key contact Hotsumi Ozaki and radio operator Max Clausen, the cell funneled critical intelligence on the Manchurian invasion and Sino-German military cooperation directly to Moscow without detection.",
         "keywords_en": [
-            "RichardSorge",
-            "GRUSpyRing",
-            "ShanghaiEspionage",
-            "HotsumiOzaki",
-            "MaxClausen",
-            "MukdenIncident",
-            "SinoGermanCooperation",
-            "SignalsIntelligence"
+            "Richard Sorge",
+            "GRU Spy Ring",
+            "Shanghai Espionage",
+            "Hotsumi Ozaki",
+            "Max Clausen",
+            "Mukden Incident",
+            "SinoGerman Cooperation",
+            "Signals Intelligence"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Richard Sorge was a devoted conservative German journalist, intellectual Nazi sympathizer, and financial correspondent covering East Asian agriculture for prominent German publications.",
@@ -3423,14 +3418,14 @@
         "systemic_impact_tr": "Sömürge polisinin sadece sokaktaki komünist militanlara odaklanıp elit çevrelerdeki yabancı casusluk ağlarına karşı körlük yaşaması; Sovyetlerin Mukden Olayı ve Pasifik jeopolitiğini önceden deşifre ederek daha sonraki efsanevi Tokyo Sorge hücresinin temelini atması.",
         "context_tr": "Richard Sorge, 1930'ların başında parçalanmış Şanghay imtiyaz bölgelerini ve Alman ekonomi muhabiri kimliğini kullanarak Kızıl Ordu adına kusursuz bir istihbarat ağı kurmuştur. Hotsumi Ozaki ve teknik operatör Max Clausen'in desteğiyle, hem Mançurya işgaline dair kritik veriler hem de Çin-Alman askeri sırları tespit edilmeden doğrudan Moskova'ya aktarılmıştır.",
         "keywords_tr": [
-            "RichardSorge",
-            "GRUCasusu",
-            "Şanghayİstihbaratı",
-            "HotsumiOzaki",
-            "MaxClausen",
-            "MukdenOlayı",
-            "Askeriİstihbarat",
-            "KısaDalgaTelsiz"
+            "Richard Sorge",
+            "GRU Casusu",
+            "Şanghay İstihbaratı",
+            "Hotsumi Ozaki",
+            "Max Clausen",
+            "Mukden Olayı",
+            "Askeri İstihbarat",
+            "Kısa Dalga Telsiz"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Richard Sorge, Şanghay'da Alman gazeteleri için ekonomi ve tarım muhabirliği yapan muhafazakar bir Alman entelektüeli ve sadık bir Nazi Partisi sempatizanıydı.",
@@ -3554,15 +3549,15 @@
         "systemic_impact_en": "Preempted a two-front war for the USSR by confirming Japanese southward expansion, enabling the redeployment of Far Eastern Siberian divisions to decisively alter the outcome of the Battle of Moscow.",
         "context_en": "Operating under the Ramsay ring in Tokyo, Soviet GRU operative Richard Sorge cultivated unprecedented access to German Ambassador Eugen Ott and Imperial Japanese Cabinet secrets via Hotsumi Ozaki. This intelligence pipeline provided Moscow with pivotal confirmation of Operation Barbarossa and Japan's southern military pivot prior to the ring's compromise in October 1941.",
         "keywords_en": [
-            "RichardSorge",
-            "RamsayRing",
+            "Richard Sorge",
+            "Ramsay Ring",
             "GRU",
             "Tokko",
-            "OperationBarbarossa",
-            "BattleOfMoscow",
+            "Operation Barbarossa",
+            "Battle OfMoscow",
             "HUMINT",
-            "HotsumiOzaki",
-            "EugenOtt"
+            "Hotsumi Ozaki",
+            "Eugen Ott"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Dr. Richard Sorge was an impeccably loyal Nazi Party member, trusted German press attache, and confidant to Ambassador Eugen Ott at the German Embassy in Tokyo.",
@@ -3619,15 +3614,15 @@
         "systemic_impact_tr": "Japonya'nın Sibirya yerine Güney Pasifik'e yöneleceğini kesinleştirerek Kızıl Ordu'nun Uzak Doğu tümenlerini batıya kaydırmasını sağlamış, SSCB'yi iki cepheli savaştan kurtararak Moskova Savunması'nın sonucunu tayin etmiştir.",
         "context_tr": "Sovyet GRU ajanı Richard Sorge, Tokyo'da kurduğu Ramsay şebekesiyle Alman Büyükelçisi Eugen Ott ve Japon Başbakanı'nın danışmanı Hotsumi Ozaki üzerinden en üst düzey stratejik planlara erişim sağlamıştır. Ağ, Barbarossa Harekâtı ve Japonya'nın güney stratejisi gibi kritik istihbaratları Moskova'ya aktardıktan sonra Ekim 1941'de Tokkō takibiyle çökertilmiştir.",
         "keywords_tr": [
-            "RichardSorge",
-            "RamsayŞebekesi",
+            "Richard Sorge",
+            "Ramsay Şebekesi",
             "GRU",
             "Tokkō",
-            "BarbarossaHarekâtı",
-            "MoskovaSavunması",
+            "Barbarossa Harekâtı",
+            "Moskova Savunması",
             "HUMINT",
-            "HotsumiOzaki",
-            "EugenOtt"
+            "Hotsumi Ozaki",
+            "Eugen Ott"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Dr. Richard Sorge, Nazi Partisi üyesi, Frankfurter Zeitung muhabiri ve Tokyo'daki Alman Büyükelçisi General Eugen Ott'un en güvendiği gayriresmi danışmanıydı.",
@@ -3683,7 +3678,7 @@
     {
         "id": "GEO_001",
         "category": "Geopolitical Conflict",
-        "period": "1911",
+        "period": "1911-1911",
         "start_year": 1911,
         "end_year": 1911,
         "source_url": "https://www.reddit.com/r/policystrategies/s/BDLyr4dtRr",
@@ -3749,14 +3744,14 @@
         "systemic_impact_en": "Complete liquidation of Qajar sovereign fiscal autonomy, cementing the semi-colonial Anglo-Russian partition of Iran, and establishing a historical case study on financial imperialism (The Strangling of Persia).",
         "context_en": "Detailed post-mortem of the 1911 constitutional and fiscal crisis in Persia. Explores American financial advisor W. Morgan Shuster's appointment as Treasurer-General to modernize Iranian tax revenues, the subsequent Tsarist Russian military invasion and ultimatum backed by Britain, the forced dissolution of the Majlis, and the complete fiscal subjugation of the Qajar Dynasty under the 1907 Anglo-Russian Convention.",
         "keywords_en": [
-            "MorganShuster",
-            "QajarDynasty",
-            "GreatGame",
-            "ImperialIntervention",
-            "SovereignDebt",
-            "GunboatDiplomacy",
-            "PersianConstitutionalRevolution",
-            "ShuaAlSaltaneh"
+            "Morgan Shuster",
+            "Qajar Dynasty",
+            "Great Game",
+            "Imperial Intervention",
+            "Sovereign Debt",
+            "Gunboat Diplomacy",
+            "Persian Constitutional Revolution",
+            "ShuaAl Saltaneh"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Tsarist Russia and the British Empire officially maintained that their 1907 Convention respected the absolute territorial integrity, financial independence, and national sovereignty of Qajar Persia.",
@@ -3813,14 +3808,14 @@
         "systemic_impact_tr": "Kaçar Hanedanı'nın mali bağımsızlığını tamamen yitirerek İngiliz ve Rus nüfuz alanına teslim olması; Meclis iradesinin bastırılması ve tarihe 'İran'ın Boğulması' olarak geçen finansal sömürgeleşme sürecinin tamamlanması.",
         "context_tr": "1911 yılında Kaçar Hanedanı maliyesini toparlamak için başa getirilen Amerikalı mali danışman Morgan Shuster vakası. Çarlık Rusyası'nın İngiltere ile kurduğu nüfuz alanını korumak için İran Meclisi'ne verdiği askeri ültimatom, Kuzey İran'ın işgali ve Kaçar devletinin mali egemenliğini tamamen yitirerek iflasa sürüklenişi.",
         "keywords_tr": [
-            "MorganShuster",
-            "KaçarHanedanı",
-            "BüyükOyun",
-            "EmperyalMüdahale",
-            "EgemenBorçKrizi",
-            "GançikDiplomasisi",
-            "MeşrutiyetDevrimi",
-            "ŞuaybEsSaltana"
+            "Morgan Shuster",
+            "Kaçar Hanedanı",
+            "Büyük Oyun",
+            "Emperyal Müdahale",
+            "Egemen Borç Krizi",
+            "Gançik Diplomasisi",
+            "Meşrutiyet Devrimi",
+            "ŞuaybEs Saltana"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Çarlık Rusyası ve İngiliz İmparatorluğu, 1907 Antlaşması'nın Kaçar İranı'nın toprak bütünlüğüne, mali bağımsızlığına ve egemenliğine tamamen saygılı olduğunu iddia etti.",
@@ -3945,11 +3940,11 @@
             "LinBiao",
             "Project571",
             "MaoZedong",
-            "CulturalRevolution",
-            "CoupdEtat",
-            "MongoliaPlaneCrash",
+            "Cultural Revolution",
+            "Coupd Etat",
+            "Mongolia Plane Crash",
             "Ondorkhaan",
-            "PLAAirForce"
+            "PLAAir Force"
         ],
         "claims_vs_reality_en": {
             "official_claim": "The CCP Constitution and state propaganda formally proclaimed Marshal Lin Biao as Chairman Mao Zedong's closest comrade-in-arms and sole designated constitutional successor.",
@@ -4008,12 +4003,12 @@
         "keywords_tr": [
             "LinBiao",
             "MaoZedong",
-            "Proje571",
-            "LushanKonferansı",
-            "KültürDevrimi",
-            "DarbeGirişimi",
-            "ÖndörkhaanKazası",
-            "ÇinSiyasiTarihi"
+            "Proje 571",
+            "Lushan Konferansı",
+            "Kültür Devrimi",
+            "Darbe Girişimi",
+            "Öndörkhaan Kazası",
+            "Çin Siyasi Tarihi"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Çin Komünist Partisi tüzüğü ve devlet propagandası, Mareşal Lin Biao'nun Başkan Mao Zedong'un 'en yakın silah arkadaşı' ve anayasal tek halefi olduğunu ilan etti.",
@@ -4135,14 +4130,14 @@
         "systemic_impact_en": "Pioneering the 'Red Capitalist' model, institutionalizing pragmatic state-market integration, and channeling billions in global foreign direct investment (FDI) into post-Mao China.",
         "context_en": "Rong Yiren experienced the nationalization of his enterprises and was forced into manual labor as a janitor during the Cultural Revolution. Under Deng Xiaoping, he founded CITIC to drive foreign investment and eventually rose to the Vice Presidency of China.",
         "keywords_en": [
-            "RongYiren",
-            "RedCapitalist",
+            "Rong Yiren",
+            "Red Capitalist",
             "CITIC",
-            "DengXiaoping",
-            "CulturalRevolution",
-            "ChineseNationalization",
-            "EconomicReforms",
-            "SungSingMills"
+            "Deng Xiaoping",
+            "Cultural Revolution",
+            "Chinese Nationalization",
+            "Economic Reforms",
+            "Sung Sing Mills"
         ],
         "claims_vs_reality_en": {
             "official_claim": "Radical Red Guards during the Cultural Revolution branded Rong Yiren as a counter-revolutionary class enemy, traitor, and parasitic bourgeois bloodsucker.",
@@ -4199,14 +4194,14 @@
         "systemic_impact_tr": "Çin'in 'Kızıl Kapitalist' modelinin doğuşu, komünist yönetim altında pragmatik piyasa reformlarının kurumsallaşması ve Çin'in küresel doğrudan yabancı yatırımlara (FDI) açılması.",
         "context_tr": "Rong Yiren, Mao döneminde fabrikalarının kamulaştırılması ve Kültür Devrimi'nde hademeliğe zorlanması gibi tasfiyelere maruz kalmıştır. Deng Xiaoping döneminde ise CITIC'i kurarak Çin'in dışa açılma sürecine öncülük etmiş ve Devlet Başkan Yardımcılığına kadar yükselmiştir.",
         "keywords_tr": [
-            "RongYiren",
-            "KızılKapitalist",
+            "Rong Yiren",
+            "Kızıl Kapitalist",
             "CITIC",
-            "DengXiaoping",
-            "KültürDevrimi",
-            "KamulaştırmaTarihi",
-            "ÇinEkonomikReformu",
-            "SungSingFabrikaları"
+            "Deng Xiaoping",
+            "Kültür Devrimi",
+            "Kamulaştırma Tarihi",
+            "Çin Ekonomik Reformu",
+            "Sung Sing Fabrikaları"
         ],
         "claims_vs_reality_tr": {
             "resmi_iddia": "Kültür Devrimi sırasında radikal Kızıl Muhafızlar, Rong Yiren'i rejim düşmanı bir karşı-devrimci, vatan haini ve burjuva kan emici olarak ilan etti.",
@@ -4260,390 +4255,390 @@
         ]
     },
 
- {
-    "id": "BIO_001",
-    "category": "Biyografi",
-    "period": "1170-1250",
-    "start_year": 1170,
-    "end_year": 1250,
-    "source_url": "https://www.reddit.com/r/policystrategies/wiki/economist/leonardo-fibonacci",
-    "cross_references": {
-        "github_repository": "https://github.com/stratigahq/policystrategies-archive",
-        "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
-        "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
-    },
-    "evidence": {
-        "level": "documented",
-        "confidence_score": 0.95,
-        "source_count": 9,
-        "primary_source_count": 5
-    },
-    "sources": [
-        {
-            "title": "Fibonacci",
-            "type": "Academic Paper",
-            "source_role": "foundational",
-            "publisher": "Rutgers University",
-            "host": "rutgers.edu",
-            "published_year": 1999,
-            "last_updated_year": 1999,
-            "url": "https://rutgers.edu",
-            "supports": [
-                "The text details the life of Italian mathematician Fibonacci, his major works like 'Liber abbaci', and how he introduced the Hindu-Arabic numeral system to the West, laying the foundations for modern number theory."
-            ],
-            "accessed_at": "2026-08-30"
+    {
+        "id": "BIO_001",
+        "category": "Biyografi",
+        "period": "1170-1250",
+        "start_year": 1170,
+        "end_year": 1250,
+        "source_url": "https://www.reddit.com/r/policystrategies/wiki/economist/leonardo-fibonacci",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
         },
-        {
-            "title": "Recent Developments on Quadratic Twists of Elliptic Curves",
-            "type": "Academic Paper",
-            "source_role": "analytical",
-            "publisher": "Columbia University",
-            "host": "columbia.edu",
-            "published_year": 2018,
-            "last_updated_year": 2018,
-            "url": "https://www.math.columbia.edu/~chaoli/Survey.pdf",
-            "supports": [
-                "The paper surveys recent mathematical advancements in the arithmetic of quadratic twists of elliptic curves, connecting the ancient congruent number problem to modern frameworks like Goldfeld's conjecture and the Birch and Swinnerton-Dyer (BSD) conjecture."
-            ],
-            "accessed_at": "2026-08-30"
+        "evidence": {
+            "level": "documented",
+            "confidence_score": 0.95,
+            "source_count": 9,
+            "primary_source_count": 5
         },
-        {
-            "title": "Fibonacci | Biography, Sequence, & Facts",
-            "type": "Encyclopedia Entry",
-            "source_role": "contextual",
-            "publisher": "Encyclopedia Britannica",
-            "host": "britannica.com",
-            "published_year": 2026,
-            "last_updated_year": 2026,
-            "url": "https://www.britannica.com/biography/Fibonacci",
-            "supports": [
-                "The biography outlines the life of medieval Italian mathematician Fibonacci, highlighting his introduction of Hindu-Arabic numerals to Europe through 'Liber abaci' and detailing his contributions to number theory and the famous recursive sequence."
-            ],
-            "accessed_at": "2026-08-30"
+        "sources": [
+            {
+                "title": "Fibonacci",
+                "type": "Academic Paper",
+                "source_role": "foundational",
+                "publisher": "Rutgers University",
+                "host": "rutgers.edu",
+                "published_year": 1999,
+                "last_updated_year": 1999,
+                "url": "https://rutgers.edu",
+                "supports": [
+                    "The text details the life of Italian mathematician Fibonacci, his major works like 'Liber abbaci', and how he introduced the Hindu-Arabic numeral system to the West, laying the foundations for modern number theory."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "Recent Developments on Quadratic Twists of Elliptic Curves",
+                "type": "Academic Paper",
+                "source_role": "analytical",
+                "publisher": "Columbia University",
+                "host": "columbia.edu",
+                "published_year": 2018,
+                "last_updated_year": 2018,
+                "url": "https://www.math.columbia.edu/~chaoli/Survey.pdf",
+                "supports": [
+                    "The paper surveys recent mathematical advancements in the arithmetic of quadratic twists of elliptic curves, connecting the ancient congruent number problem to modern frameworks like Goldfeld's conjecture and the Birch and Swinnerton-Dyer (BSD) conjecture."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "Fibonacci | Biography, Sequence, & Facts",
+                "type": "Encyclopedia Entry",
+                "source_role": "contextual",
+                "publisher": "Encyclopedia Britannica",
+                "host": "britannica.com",
+                "published_year": 2026,
+                "last_updated_year": 2026,
+                "url": "https://www.britannica.com/biography/Fibonacci",
+                "supports": [
+                    "The biography outlines the life of medieval Italian mathematician Fibonacci, highlighting his introduction of Hindu-Arabic numerals to Europe through 'Liber abaci' and detailing his contributions to number theory and the famous recursive sequence."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "Liber Abaci and the Fibonacci Sequence",
+                "type": "Book Chapter",
+                "source_role": "analytical",
+                "publisher": "World Scientific",
+                "host": "worldscientific.com",
+                "published_year": 2023,
+                "last_updated_year": 2023,
+                "url": "https://www.worldscientific.com/doi/pdf/10.1142/9789811269158_0001",
+                "supports": [
+                    "The text explains the recursive mathematical definition of the Fibonacci sequence and explores its diverse applications in combinatorics, including Zeckendorf representations, composition of integers, and monomer-dimer tiling patterns."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "Leonardo Fibonacci: From Liber Abaci to the Golden Ratio Legacy",
+                "type": "Web Article",
+                "source_role": "corroborating",
+                "publisher": "Facsimile Finder",
+                "host": "facsimilefinder.com",
+                "published_year": 2025,
+                "last_updated_year": 2025,
+                "url": "https://www.facsimilefinder.com/articles/fibonacci-liber-abaci-golden-ratio/",
+                "supports": [
+                    "The article highlights the historical global journey of the 'Liber Abaci' manuscript, detailing how it brought Hindu-Arabic numerals to Europe and influenced Renaissance theories of proportion, perspective, and fine art."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "Fibonacci (1170 - 1250) - Biography - MacTutor History of Mathematics",
+                "type": "Encyclopedia Entry",
+                "source_role": "contextual",
+                "publisher": "University of St Andrews",
+                "host": "st-andrews.ac.uk",
+                "published_year": 1998,
+                "last_updated_year": 1998,
+                "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fibonacci/",
+                "supports": [
+                    "The biography details the academic life of Leonardo Pisano (Fibonacci), exploring his relationship with Emperor Frederick II's court and his major mathematical texts like 'Liber abaci', 'Practica geometriae', 'Flos', and 'Liber quadratorum'."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "Fibonacci's Liber Abaci (Book of Calculation)",
+                "type": "Web Article",
+                "source_role": "corroborating",
+                "publisher": "University of Utah",
+                "host": "utah.edu",
+                "published_year": 2009,
+                "last_updated_year": 2009,
+                "url": "https://www.math.utah.edu/~beebe/software/java/fibonacci/liber-abaci.html",
+                "supports": [
+                    "The page explores the publishing history of 'Liber Abaci', provides the original 1202 Latin text excerpt of the rabbit problem alongside its English translation, and charts the exponential growth of the resulting mathematical sequence."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "About Fibonacci’s Book of Squares",
+                "type": "Book Chapter",
+                "source_role": "analytical",
+                "publisher": "IREM Paris 7",
+                "host": "publimath.fr",
+                "published_year": 2011,
+                "last_updated_year": 2011,
+                "url": "https://bibnum.publimath.fr/ACF/ACF08023.pdf",
+                "supports": [
+                    "The text analyzes Fibonacci's 'Liber quadratorum' (1225), focusing on his systematic proofs for Diophantine equations and his resolution of the congruent number problem presented by Johannes of Palermo."
+                ],
+                "accessed_at": "2026-08-30"
+            },
+            {
+                "title": "Fibonacci and the Financial Revolution",
+                "type": "Academic Paper",
+                "source_role": "foundational",
+                "publisher": "National Bureau of Economic Research",
+                "host": "nber.org",
+                "published_year": 2004,
+                "last_updated_year": 2004,
+                "url": "https://www.nber.org/system/files/working_papers/w10352/w10352.pdf",
+                "supports": [
+                    "The paper details Fibonacci's pioneering contributions to financial mathematics within 'Liber Abaci', showcasing how his early development of present value analysis and compound interest modeling catalyzed European capitalism."
+                ],
+                "accessed_at": "2026-08-30"
+            }
+        ],
+        "actors": [
+            "Leonardo Pisano (Fibonacci)",
+            "Emperor Frederick II",
+            "Johannes of Palermo",
+            "Pierre de Fermat",
+            "Leonhard Euler",
+            "Diophantus",
+            "Jerrold Tunnell"
+        ],
+        "institutions": [
+            "Court of Emperor Frederick II"
+        ],
+        "title_en": "The mathematical data standardization revolution starting with Fibonacci's transfer of the Hindu-Arabic numeral system to Europe in the 13th century, extending to modern cryptography and elliptic curve theory.",
+        "mechanism_en": "In the computational architecture, a transition was made from cumbersome Roman numerals to Hindu-Arabic symbols, and the concepts of zero (zephirum) and the fraction line (virga) were integrated into the system for data standardization. The congruum problem was modeled as the common difference in an arithmetic progression of three consecutive perfect squares using the formula $4mn(m+n)(m-n)$, where m and n are coprime and of different parity. Furthermore, the impossibility of a rational solution was proven by expanding the cubic equation $x^3 + 2x^2 + 10x = 20$ in the sexagesimal system as $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$.",
+        "systemic_impact_en": "Algebraic operations evolved from verbal narrative to symbolic structure, laying the methodological groundwork for modern algebra. This analytical perspective, aimed at understanding the ontological nature of solutions, paved the way for Fermat's Right Triangle Theorem, the 1983 Tunnell Criterion, and the modern investigation of rational points on elliptic curves ($y^2 = x^3 - N^2x$) via the BSD conjecture. These historical processes ultimately formed the core of modern scientific DNA, reaching up to today's quantum physics and digital finance systems.",
+        "context_en": "This is a series of events triggered in the early 13th century when Leonardo Pisano (Fibonacci) encountered the Hindu-Arabic numeral system and zero in Bugia, Algeria. With the publication of Liber Abbaci in 1202 and the subsequent Liber Quadratorum in 1225, analytical knowledge was transferred from the Islamic world to Europe. Encouraged by the scientific challenges at Emperor Frederick II's court, particularly by scholars like Johannes of Palermo, this process led to a structural transformation in the coding of knowledge.",
+        "keywords_en": [
+            "History of Algebra",
+            "Number Theory",
+            "Elliptic Curves",
+            "Diophantine Analysis",
+            "Congruum",
+            "Liber Abbaci",
+            "Liber Quadratorum"
+        ],
+        "claims_vs_reality_en": {
+            "official_claim": "It is widely claimed that Fibonacci is merely a popular figure whose contributions are limited to practical commercial arithmetic, basic calculation methods, the rabbit problem, and the A000045 sequence.",
+            "actual_reality": "Forensic historical analysis reveals he is the architect of Modern Number Theory, having initiated an analytical revolution by dissecting the nature of cubic equations, proving the impossibility of rational solutions, and developing systematic proofs for complex Diophantine equations."
         },
-        {
-            "title": "Liber Abaci and the Fibonacci Sequence",
-            "type": "Book Chapter",
-            "source_role": "analytical",
-            "publisher": "World Scientific",
-            "host": "worldscientific.com",
-            "published_year": 2023,
-            "last_updated_year": 2023,
-            "url": "https://www.worldscientific.com/doi/pdf/10.1142/9789811269158_0001",
-            "supports": [
-                "The text explains the recursive mathematical definition of the Fibonacci sequence and explores its diverse applications in combinatorics, including Zeckendorf representations, composition of integers, and monomer-dimer tiling patterns."
-            ],
-            "accessed_at": "2026-08-30"
+        "causal_chain_en": {
+            "trigger": "The initial catalyst occurred in Bugia when Fibonacci discovered the nine Indian symbols and zero, identifying a critical structural superiority and operational gap in the existing computational architecture.",
+            "execution": "The operation was executed through the publication of Liber Abbaci, strategically integrating zephirum (zero) and virga (fraction bar) into European commerce to create a standardized system that minimized error margins in financial data transmission.",
+            "collapse": "The traditional verbal algebra framework collapsed under the systemic audits and analytical challenges at Emperor Frederick II's court, where the Congruum problem exposed the old system's limits, irreversibly locking the mathematical architecture into a trajectory towards modern elliptic curve cryptography."
         },
-        {
-            "title": "Leonardo Fibonacci: From Liber Abaci to the Golden Ratio Legacy",
-            "type": "Web Article",
-            "source_role": "corroborating",
-            "publisher": "Facsimile Finder",
-            "host": "facsimilefinder.com",
-            "published_year": 2025,
-            "last_updated_year": 2025,
-            "url": "https://www.facsimilefinder.com/articles/fibonacci-liber-abaci-golden-ratio/",
-            "supports": [
-                "The article highlights the historical global journey of the 'Liber Abaci' manuscript, detailing how it brought Hindu-Arabic numerals to Europe and influenced Renaissance theories of proportion, perspective, and fine art."
-            ],
-            "accessed_at": "2026-08-30"
+        "relationships_en": [
+            {
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "initiated_analytical_transfer",
+                "target": "Western Mathematics"
+            },
+            {
+                "source": "Liber Abbaci (1202)",
+                "relation": "facilitated_standardization",
+                "target": "Hindu-Arabic Numeral System"
+            },
+            {
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "formulated_mathematical_proof",
+                "target": "Congruum Mechanism"
+            },
+            {
+                "source": "Liber Quadratorum",
+                "relation": "established_methodological_infrastructure",
+                "target": "Modern Algebra"
+            },
+            {
+                "source": "Court of Emperor Frederick II",
+                "relation": "provided_analytical_challenge",
+                "target": "Cubic Equation (x^3 + 2x^2 + 10x = 20)"
+            },
+            {
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "proved_irrationality",
+                "target": "Cubic Equation Solution"
+            },
+            {
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "systematized_data_standardization",
+                "target": "Zephirum and Virga"
+            },
+            {
+                "source": "Johannes of Palermo",
+                "relation": "triggered_theoretical_deepening",
+                "target": "Congruum Problem"
+            },
+            {
+                "source": "Pierre de Fermat",
+                "relation": "expanded_theoretical_framework",
+                "target": "Fermat's Right Triangle Theorem"
+            },
+            {
+                "source": "Jerrold Tunnell",
+                "relation": "developed_diagnostic_criterion",
+                "target": "Tunnell Criterion (Modulo 8 Residue Classes)"
+            },
+            {
+                "source": "Tunnell Criterion",
+                "relation": "established_theoretical_bridge",
+                "target": "Birch-Swinnerton-Dyer (BSD) Conjecture"
+            }
+        ],
+        "faq_en": [
+            {
+                "q": "Where and how did the initial event that triggered Fibonacci's mathematical revolution take place?",
+                "a": "The main trigger for the process initiated by Fibonacci was his introduction to the \"nine Indian symbols\" and zero in Bugia (Algeria). Through this, he recognized the superiority in computational architecture."
+            },
+            {
+                "q": "What is the mathematical formula underlying the \"Congruum\" problem, and how do its parameters work?",
+                "a": "The congruum mechanism is based on the formula $4mn(m+n)(m-n)$. In this formula, the parameters m and n must be coprime and have different parity (one odd, the other even)."
+            },
+            {
+                "q": "How did the 1202 book Liber Abbaci permanently change financial data transmission in Europe?",
+                "a": "The work Liber Abbaci initiated standardization in mathematical data processing by enabling the transition from cumbersome Roman numerals to the highly efficient Hindu-Arabic system. Additionally, it integrated the concepts of \"zephirum\" (zero) and \"virga\" (fraction line) into European trade, minimizing the margin of error in financial data transmission."
+            },
+            {
+                "q": "What analytical breakthrough did Fibonacci create with the cubic equation $x^3 + 2x^2 + 10x = 20$ presented to him at Emperor Frederick II's court?",
+                "a": "Fibonacci meticulously proved that the solution to this cubic equation could not be an integer, a rational number, or a Euclidean irrational magnitude. With this approach, he created a methodological breakthrough by shifting the focus from merely \"finding a result\" to understanding the ontological nature of the solution."
+            },
+            {
+                "q": "How do Fibonacci's 13th-century studies on the Congruum problem influence today's modern number theory and cryptography?",
+                "a": "Fibonacci's discoveries on the congruum built a theoretical bridge extending to the investigation of rational points on elliptic curves ($y^2 = x^3 - N^2x$) via Tunnell's Criterion and the Birch and Swinnerton-Dyer (BSD) conjecture. This historical process presents a continuity that reaches the cryptographic foundations of quantum physics and modern digital finance systems."
+            },
+            {
+                "q": "What did Fibonacci prove about the nature of the common difference (congruum) in an arithmetic progression formed by three consecutive perfect squares?",
+                "a": "In 1225, Fibonacci proved that a congruum (congruous number) can never be a perfect square. This was also the first proof of the fact that Fermat would later state as the area of a right triangle cannot be a square number."
+            },
+            {
+                "q": "What is the main difference between the popular culture perception of Fibonacci's rabbit problem and his historical and scientific reality?",
+                "a": "While popular perception limits Fibonacci to the rabbit problem and sequence \"A000045\", scientific reality shows that he was the most sophisticated Diophantine analyst of the Middle Ages and the founder of modern number theory. He developed systematic proofs on complex Diophantine equations."
+            },
+            {
+                "q": "How does Tunnell's Criterion, developed in 1983, separate specific modulo classes (5, 6, 7 vs 1, 2, 3) to find Congruum numbers?",
+                "a": "Tunnell's Criterion is based on residue classes modulo 8. For square-free numbers, the modulo 8 classes of 5, 6, and 7 are directly Tunnell numbers and carry the potential to be a congruum. In contrast, classes 1, 2, and 3 are subject to a more complex process requiring the counting of integer solutions to specific quadratic equations."
+            }
+        ],
+        "title_tr": "13. yüzyılda Fibonacci'nin Hint-Arap sayı sistemini Avrupa'ya taşımasıyla başlayan ve modern kriptografi ile eliptik eğriler teorisine uzanan matematiksel veri standardizasyonu devrimi.",
+        "mechanism_tr": "Hesaplama mimarisinde hantal Roma rakamlarından Hint-Arap sembollerine geçilmiş; veri standardizasyonu için sıfır (zephirum) ve kesir çizgisi (virga) kavramları sisteme entegre edilmiştir. Congruum problemi, ardışık üç tam kare sayının aritmetik dizisindeki ortak fark olarak, m ve n aralarında asal ve farklı paritede olmak şartıyla $4mn(m+n)(m-n)$ formülüyle modellenmiştir. Ayrıca $x^3 + 2x^2 + 10x = 20$ kübik denklemi için seksagesimal sistemde $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$ açılımı yapılarak rasyonel çözüm imkansızlığı ispatlanmış ve dikkat çözümün ontolojik doğasına çekilmiştir.",
+        "systemic_impact_tr": "Cebirsel işlemler sözel anlatıdan sembolik yapıya evrilerek modern cebirin metodolojik altyapısı hazırlanmıştır. Çözümün ontolojik doğasını anlamaya yönelik bu analitik perspektif, Fermat'nın Dik Üçgen Teoremi'ne, 1983 tarihli Tunnell Kriteri'ne ve günümüzde kuantum fiziği ile dijital finans sistemlerinin temelini oluşturan eliptik eğriler ($y^2 = x^3 - N^2x$) üzerindeki rasyonel noktaların araştırılmasına doğrudan zemin oluşturmuştur.",
+        "context_tr": "Süreç, 13. yüzyılın başlarında Leonardo Pisano'nun (Fibonacci) Cezayir'in Bugia kentinde Hint-Arap sistemi ve sıfır ile tanışmasıyla tetiklenmiştir. 1202'de Liber Abbaci ve 1225'te Liber Quadratorum'un yayımlanması, ayrıca İmparator II. Frederick'in sarayındaki Johannes of Palermo gibi bilginlerin meydan okumalarıyla, İslam dünyasının analitik birikimi Avrupa'ya aktarılmış ve bilginin yapısal kodlanmasında köklü bir transformasyon başlatılmıştır.",
+        "keywords_tr": [
+            "Cebir Tarihi",
+            "Sayı Teorisi",
+            "Eliptik Eğriler",
+            "Diophantine Analizi",
+            "Congruum",
+            "Liber Abbaci",
+            "Liber Quadratorum",
+            "İmparator II. Friedrich'in Sarayı"
+        ],
+        "claims_vs_reality_tr": {
+            "resmi_iddia": "Fibonacci'nin katkılarının yalnızca pratik ticari aritmetik, temel hesaplama yöntemleri, tavşan problemi ve A000045 numaralı diziyle sınırlı olduğu iddia edilmiştir.",
+            "actual_reality": "Adli tarihsel incelemeler, onun kübik denklemlerin doğasını analiz edip rasyonel çözüm imkânsızlığını ispatlayarak analitik bir devrim başlatan ve karmaşık Diophantine denklemleri üzerinde sistematik ispatlar geliştiren Modern Sayılar Teorisinin kurucusu olduğunu göstermektedir."
         },
-        {
-            "title": "Fibonacci (1170 - 1250) - Biography - MacTutor History of Mathematics",
-            "type": "Encyclopedia Entry",
-            "source_role": "contextual",
-            "publisher": "University of St Andrews",
-            "host": "st-andrews.ac.uk",
-            "published_year": 1998,
-            "last_updated_year": 1998,
-            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fibonacci/",
-            "supports": [
-                "The biography details the academic life of Leonardo Pisano (Fibonacci), exploring his relationship with Emperor Frederick II's court and his major mathematical texts like 'Liber abaci', 'Practica geometriae', 'Flos', and 'Liber quadratorum'."
-            ],
-            "accessed_at": "2026-08-30"
+        "causal_chain_tr": {
+            "tetikleyici": "Olayın ilk kıvılcımı, Fibonacci'nin Bugia'da dokuz Hint sembolü ve sıfır ile tanışarak mevcut hesaplama mimarisindeki yapısal üstünlüğü ve operasyonel boşluğu keşfetmesiyle ateşlenmiştir.",
+            "uygulama": "Operasyon, Liber Abbaci eseriyle zephirum (sıfır) ve virga (kesir çizgisi) kavramlarının Avrupa ticaretine entegre edilmesiyle yürütülmüş, finansal veri iletiminde hata payını minimize eden sistematik bir veri standardizasyonu gerçekleştirilmiştir.",
+            "cokus": "İmparator Frederick II'nin sarayındaki analitik denetimler ve Congruum probleminin ifşasıyla birlikte eski sözel cebir sistemi çökmüş; süreç, Tunnell Kriteri ve eliptik eğriler üzerindeki hesaplamalara uzanan sistemik bir kilitlenme ve paradigma kaymasıyla sonuçlanmıştır."
         },
-        {
-            "title": "Fibonacci's Liber Abaci (Book of Calculation)",
-            "type": "Web Article",
-            "source_role": "corroborating",
-            "publisher": "University of Utah",
-            "host": "utah.edu",
-            "published_year": 2009,
-            "last_updated_year": 2009,
-            "url": "https://www.math.utah.edu/~beebe/software/java/fibonacci/liber-abaci.html",
-            "supports": [
-                "The page explores the publishing history of 'Liber Abaci', provides the original 1202 Latin text excerpt of the rabbit problem alongside its English translation, and charts the exponential growth of the resulting mathematical sequence."
-            ],
-            "accessed_at": "2026-08-30"
-        },
-        {
-            "title": "About Fibonacci’s Book of Squares",
-            "type": "Book Chapter",
-            "source_role": "analytical",
-            "publisher": "IREM Paris 7",
-            "host": "publimath.fr",
-            "published_year": 2011,
-            "last_updated_year": 2011,
-            "url": "https://bibnum.publimath.fr/ACF/ACF08023.pdf",
-            "supports": [
-                "The text analyzes Fibonacci's 'Liber quadratorum' (1225), focusing on his systematic proofs for Diophantine equations and his resolution of the congruent number problem presented by Johannes of Palermo."
-            ],
-            "accessed_at": "2026-08-30"
-        },
-        {
-            "title": "Fibonacci and the Financial Revolution",
-            "type": "Academic Paper",
-            "source_role": "foundational",
-            "publisher": "National Bureau of Economic Research",
-            "host": "nber.org",
-            "published_year": 2004,
-            "last_updated_year": 2004,
-            "url": "https://www.nber.org/system/files/working_papers/w10352/w10352.pdf",
-            "supports": [
-                "The paper details Fibonacci's pioneering contributions to financial mathematics within 'Liber Abaci', showcasing how his early development of present value analysis and compound interest modeling catalyzed European capitalism."
-            ],
-            "accessed_at": "2026-08-30"
-        }
-    ],
-    "actors": [
-        "Leonardo Pisano (Fibonacci)",
-        "Emperor Frederick II",
-        "Johannes of Palermo",
-        "Pierre de Fermat",
-        "Leonhard Euler",
-        "Diophantus",
-        "Jerrold Tunnell"
-    ],
-    "institutions": [
-        "Court of Emperor Frederick II"
-    ],
-    "title_en": "The mathematical data standardization revolution starting with Fibonacci's transfer of the Hindu-Arabic numeral system to Europe in the 13th century, extending to modern cryptography and elliptic curve theory.",
-    "mechanism_en": "In the computational architecture, a transition was made from cumbersome Roman numerals to Hindu-Arabic symbols, and the concepts of zero (zephirum) and the fraction line (virga) were integrated into the system for data standardization. The congruum problem was modeled as the common difference in an arithmetic progression of three consecutive perfect squares using the formula $4mn(m+n)(m-n)$, where m and n are coprime and of different parity. Furthermore, the impossibility of a rational solution was proven by expanding the cubic equation $x^3 + 2x^2 + 10x = 20$ in the sexagesimal system as $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$.",
-    "systemic_impact_en": "Algebraic operations evolved from verbal narrative to symbolic structure, laying the methodological groundwork for modern algebra. This analytical perspective, aimed at understanding the ontological nature of solutions, paved the way for Fermat's Right Triangle Theorem, the 1983 Tunnell Criterion, and the modern investigation of rational points on elliptic curves ($y^2 = x^3 - N^2x$) via the BSD conjecture. These historical processes ultimately formed the core of modern scientific DNA, reaching up to today's quantum physics and digital finance systems.",
-    "context_en": "This is a series of events triggered in the early 13th century when Leonardo Pisano (Fibonacci) encountered the Hindu-Arabic numeral system and zero in Bugia, Algeria. With the publication of Liber Abbaci in 1202 and the subsequent Liber Quadratorum in 1225, analytical knowledge was transferred from the Islamic world to Europe. Encouraged by the scientific challenges at Emperor Frederick II's court, particularly by scholars like Johannes of Palermo, this process led to a structural transformation in the coding of knowledge.",
-    "keywords_en": [
-        "History of Algebra",
-        "Number Theory",
-        "Elliptic Curves",
-        "Diophantine Analysis",
-        "Congruum",
-        "Liber Abbaci",
-        "Liber Quadratorum"
-    ],
-    "claims_vs_reality_en": {
-        "official_claim": "It is widely claimed that Fibonacci is merely a popular figure whose contributions are limited to practical commercial arithmetic, basic calculation methods, the rabbit problem, and the A000045 sequence.",
-        "actual_reality": "Forensic historical analysis reveals he is the architect of Modern Number Theory, having initiated an analytical revolution by dissecting the nature of cubic equations, proving the impossibility of rational solutions, and developing systematic proofs for complex Diophantine equations."
-    },
-    "causal_chain_en": {
-        "trigger": "The initial catalyst occurred in Bugia when Fibonacci discovered the nine Indian symbols and zero, identifying a critical structural superiority and operational gap in the existing computational architecture.",
-        "execution": "The operation was executed through the publication of Liber Abbaci, strategically integrating zephirum (zero) and virga (fraction bar) into European commerce to create a standardized system that minimized error margins in financial data transmission.",
-        "collapse": "The traditional verbal algebra framework collapsed under the systemic audits and analytical challenges at Emperor Frederick II's court, where the Congruum problem exposed the old system's limits, irreversibly locking the mathematical architecture into a trajectory towards modern elliptic curve cryptography."
-    },
-    "relationships_en": [
-        {
-            "source": "Leonardo Pisano (Fibonacci)",
-            "relation": "initiated_analytical_transfer",
-            "target": "Western Mathematics"
-        },
-        {
-            "source": "Liber Abbaci (1202)",
-            "relation": "facilitated_standardization",
-            "target": "Hindu-Arabic Numeral System"
-        },
-        {
-            "source": "Leonardo Pisano (Fibonacci)",
-            "relation": "formulated_mathematical_proof",
-            "target": "Congruum Mechanism"
-        },
-        {
-            "source": "Liber Quadratorum",
-            "relation": "established_methodological_infrastructure",
-            "target": "Modern Algebra"
-        },
-        {
-            "source": "Court of Emperor Frederick II",
-            "relation": "provided_analytical_challenge",
-            "target": "Cubic Equation (x^3 + 2x^2 + 10x = 20)"
-        },
-        {
-            "source": "Leonardo Pisano (Fibonacci)",
-            "relation": "proved_irrationality",
-            "target": "Cubic Equation Solution"
-        },
-        {
-            "source": "Leonardo Pisano (Fibonacci)",
-            "relation": "systematized_data_standardization",
-            "target": "Zephirum and Virga"
-        },
-        {
-            "source": "Johannes of Palermo",
-            "relation": "triggered_theoretical_deepening",
-            "target": "Congruum Problem"
-        },
-        {
-            "source": "Pierre de Fermat",
-            "relation": "expanded_theoretical_framework",
-            "target": "Fermat's Right Triangle Theorem"
-        },
-        {
-            "source": "Jerrold Tunnell",
-            "relation": "developed_diagnostic_criterion",
-            "target": "Tunnell Criterion (Modulo 8 Residue Classes)"
-        },
-        {
-            "source": "Tunnell Criterion",
-            "relation": "established_theoretical_bridge",
-            "target": "Birch-Swinnerton-Dyer (BSD) Conjecture"
-        }
-    ],
-    "faq_en": [
-        {
-            "q": "Where and how did the initial event that triggered Fibonacci's mathematical revolution take place?",
-            "a": "The main trigger for the process initiated by Fibonacci was his introduction to the \"nine Indian symbols\" and zero in Bugia (Algeria). Through this, he recognized the superiority in computational architecture."
-        },
-        {
-            "q": "What is the mathematical formula underlying the \"Congruum\" problem, and how do its parameters work?",
-            "a": "The congruum mechanism is based on the formula $4mn(m+n)(m-n)$. In this formula, the parameters m and n must be coprime and have different parity (one odd, the other even)."
-        },
-        {
-            "q": "How did the 1202 book Liber Abbaci permanently change financial data transmission in Europe?",
-            "a": "The work Liber Abbaci initiated standardization in mathematical data processing by enabling the transition from cumbersome Roman numerals to the highly efficient Hindu-Arabic system. Additionally, it integrated the concepts of \"zephirum\" (zero) and \"virga\" (fraction line) into European trade, minimizing the margin of error in financial data transmission."
-        },
-        {
-            "q": "What analytical breakthrough did Fibonacci create with the cubic equation $x^3 + 2x^2 + 10x = 20$ presented to him at Emperor Frederick II's court?",
-            "a": "Fibonacci meticulously proved that the solution to this cubic equation could not be an integer, a rational number, or a Euclidean irrational magnitude. With this approach, he created a methodological breakthrough by shifting the focus from merely \"finding a result\" to understanding the ontological nature of the solution."
-        },
-        {
-            "q": "How do Fibonacci's 13th-century studies on the Congruum problem influence today's modern number theory and cryptography?",
-            "a": "Fibonacci's discoveries on the congruum built a theoretical bridge extending to the investigation of rational points on elliptic curves ($y^2 = x^3 - N^2x$) via Tunnell's Criterion and the Birch and Swinnerton-Dyer (BSD) conjecture. This historical process presents a continuity that reaches the cryptographic foundations of quantum physics and modern digital finance systems."
-        },
-        {
-            "q": "What did Fibonacci prove about the nature of the common difference (congruum) in an arithmetic progression formed by three consecutive perfect squares?",
-            "a": "In 1225, Fibonacci proved that a congruum (congruous number) can never be a perfect square. This was also the first proof of the fact that Fermat would later state as the area of a right triangle cannot be a square number."
-        },
-        {
-            "q": "What is the main difference between the popular culture perception of Fibonacci's rabbit problem and his historical and scientific reality?",
-            "a": "While popular perception limits Fibonacci to the rabbit problem and sequence \"A000045\", scientific reality shows that he was the most sophisticated Diophantine analyst of the Middle Ages and the founder of modern number theory. He developed systematic proofs on complex Diophantine equations."
-        },
-        {
-            "q": "How does Tunnell's Criterion, developed in 1983, separate specific modulo classes (5, 6, 7 vs 1, 2, 3) to find Congruum numbers?",
-            "a": "Tunnell's Criterion is based on residue classes modulo 8. For square-free numbers, the modulo 8 classes of 5, 6, and 7 are directly Tunnell numbers and carry the potential to be a congruum. In contrast, classes 1, 2, and 3 are subject to a more complex process requiring the counting of integer solutions to specific quadratic equations."
-        }
-    ],
-    "title_tr": "13. yüzyılda Fibonacci'nin Hint-Arap sayı sistemini Avrupa'ya taşımasıyla başlayan ve modern kriptografi ile eliptik eğriler teorisine uzanan matematiksel veri standardizasyonu devrimi.",
-    "mechanism_tr": "Hesaplama mimarisinde hantal Roma rakamlarından Hint-Arap sembollerine geçilmiş; veri standardizasyonu için sıfır (zephirum) ve kesir çizgisi (virga) kavramları sisteme entegre edilmiştir. Congruum problemi, ardışık üç tam kare sayının aritmetik dizisindeki ortak fark olarak, m ve n aralarında asal ve farklı paritede olmak şartıyla $4mn(m+n)(m-n)$ formülüyle modellenmiştir. Ayrıca $x^3 + 2x^2 + 10x = 20$ kübik denklemi için seksagesimal sistemde $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$ açılımı yapılarak rasyonel çözüm imkansızlığı ispatlanmış ve dikkat çözümün ontolojik doğasına çekilmiştir.",
-    "systemic_impact_tr": "Cebirsel işlemler sözel anlatıdan sembolik yapıya evrilerek modern cebirin metodolojik altyapısı hazırlanmıştır. Çözümün ontolojik doğasını anlamaya yönelik bu analitik perspektif, Fermat'nın Dik Üçgen Teoremi'ne, 1983 tarihli Tunnell Kriteri'ne ve günümüzde kuantum fiziği ile dijital finans sistemlerinin temelini oluşturan eliptik eğriler ($y^2 = x^3 - N^2x$) üzerindeki rasyonel noktaların araştırılmasına doğrudan zemin oluşturmuştur.",
-    "context_tr": "Süreç, 13. yüzyılın başlarında Leonardo Pisano'nun (Fibonacci) Cezayir'in Bugia kentinde Hint-Arap sistemi ve sıfır ile tanışmasıyla tetiklenmiştir. 1202'de Liber Abbaci ve 1225'te Liber Quadratorum'un yayımlanması, ayrıca İmparator II. Frederick'in sarayındaki Johannes of Palermo gibi bilginlerin meydan okumalarıyla, İslam dünyasının analitik birikimi Avrupa'ya aktarılmış ve bilginin yapısal kodlanmasında köklü bir transformasyon başlatılmıştır.",
-    "keywords_tr": [
-        "Cebir Tarihi",
-        "Sayı Teorisi",
-        "Eliptik Eğriler",
-        "Diophantine Analizi",
-        "Congruum",
-        "Liber Abbaci",
-        "Liber Quadratorum",
-        "İmparator II. Friedrich'in Sarayı"
-    ],
-    "claims_vs_reality_tr": {
-        "resmi_iddia": "Fibonacci'nin katkılarının yalnızca pratik ticari aritmetik, temel hesaplama yöntemleri, tavşan problemi ve A000045 numaralı diziyle sınırlı olduğu iddia edilmiştir.",
-        "actual_reality": "Adli tarihsel incelemeler, onun kübik denklemlerin doğasını analiz edip rasyonel çözüm imkânsızlığını ispatlayarak analitik bir devrim başlatan ve karmaşık Diophantine denklemleri üzerinde sistematik ispatlar geliştiren Modern Sayılar Teorisinin kurucusu olduğunu göstermektedir."
-    },
-    "causal_chain_tr": {
-        "tetikleyici": "Olayın ilk kıvılcımı, Fibonacci'nin Bugia'da dokuz Hint sembolü ve sıfır ile tanışarak mevcut hesaplama mimarisindeki yapısal üstünlüğü ve operasyonel boşluğu keşfetmesiyle ateşlenmiştir.",
-        "uygulama": "Operasyon, Liber Abbaci eseriyle zephirum (sıfır) ve virga (kesir çizgisi) kavramlarının Avrupa ticaretine entegre edilmesiyle yürütülmüş, finansal veri iletiminde hata payını minimize eden sistematik bir veri standardizasyonu gerçekleştirilmiştir.",
-        "cokus": "İmparator Frederick II'nin sarayındaki analitik denetimler ve Congruum probleminin ifşasıyla birlikte eski sözel cebir sistemi çökmüş; süreç, Tunnell Kriteri ve eliptik eğriler üzerindeki hesaplamalara uzanan sistemik bir kilitlenme ve paradigma kaymasıyla sonuçlanmıştır."
-    },
-    "relationships_tr": [
-        {
-            "kaynak": "Leonardo Pisano (Fibonacci)",
-            "iliski": "analitik_transfer_baslatti",
-            "hedef": "Batı Matematiği"
-        },
-        {
-            "kaynak": "Liber Abbaci (1202)",
-            "iliski": "standardizasyonu_sagladi",
-            "hedef": "Hint-Arap Rakam Sistemi"
-        },
-        {
-            "kaynak": "Leonardo Pisano (Fibonacci)",
-            "iliski": "matematiksel_ispat_formule_etti",
-            "hedef": "Congruum Mekanizması"
-        },
-        {
-            "kaynak": "Liber Quadratorum",
-            "iliski": "metodolojik_altyapiyi_kurdu",
-            "hedef": "Modern Cebir"
-        },
-        {
-            "kaynak": "İmparator Frederick II'nin Sarayı",
-            "iliski": "analitik_meydan_okuma_sundu",
-            "hedef": "Kübik Denklem (x^3 + 2x^2 + 10x = 20)"
-        },
-        {
-            "kaynak": "Leonardo Pisano (Fibonacci)",
-            "iliski": "irrasyonelligi_ispatladi",
-            "hedef": "Kübik Denklem Çözümü"
-        },
-        {
-            "kaynak": "Leonardo Pisano (Fibonacci)",
-            "iliski": "veri_standardizasyonunu_sistemlestirdi",
-            "hedef": "Zephirum ve Virga"
-        },
-        {
-            "kaynak": "Johannes of Palermo",
-            "iliski": "teorik_derinlesmeyi_tetikledi",
-            "hedef": "Congruum Problemi"
-        },
-        {
-            "kaynak": "Pierre de Fermat",
-            "iliski": "teorik_cerceveyi_genisletti",
-            "hedef": "Fermat'nın Dik Üçgen Teoremi"
-        },
-        {
-            "kaynak": "Jerrold Tunnell",
-            "iliski": "teshis_kriteri_gelistirdi",
-            "hedef": "Tunnell Kriteri (Modülo 8 Kalıntı Sınıfları)"
-        },
-        {
-            "kaynak": "Tunnell Kriteri",
-            "iliski": "teorik_kopru_kurdu",
-            "hedef": "Birch-Swinnerton-Dyer (BSD) Varsayımı"
-        }
-    ],
-    "faq_tr": [
-        {
-            "q": "Fibonacci'nin matematiksel devrimini başlatan ilk olay nerede ve nasıl gerçekleşti?",
-            "a": "Fibonacci'nin başlattığı sürecin ana tetikleyicisi, Bugia'da (Cezayir) \"dokuz Hint sembolü\" ve sıfır ile tanışmasıdır. Bu sayede hesaplama mimarisindeki üstünlüğü fark etmiştir."
-        },
-        {
-            "q": "\"Congruum\" (uyumlu sayı) probleminin temelini oluşturan matematiksel formül nedir ve parametreleri nasıl çalışır?",
-            "a": "Congruum mekanizmasının temelini $4mn(m+n)(m-n)$ formülü oluşturur. Bu formülde, m ve n parametreleri aralarında asal olmalı ve farklı pariteye (biri tek, diğeri çift) sahip olmalıdır."
-        },
-        {
-            "q": "1202 tarihli Liber Abbaci kitabı, Avrupa'daki finansal veri iletimini kalıcı olarak nasıl değiştirdi?",
-            "a": "Liber Abbaci eseri, hantal Roma rakamlarından yüksek verimlilik sunan Hint-Arap sistemine geçişi sağlayarak matematiksel veri işlemede standardizasyonu başlatmıştır. Ayrıca, \"zephirum\" (sıfır) ve \"virga\" (kesir çizgisi) kavramlarını Avrupa ticaretine entegre ederek finansal veri iletiminde hata payını minimize etmiştir."
-        },
-        {
-            "q": "Fibonacci, İmparator Frederick II'nin sarayında kendisine sunulan $x^3 + 2x^2 + 10x = 20$ kübik denkleminde nasıl bir analitik kırılma yarattı?",
-            "a": "Fibonacci, bu kübik denklemin çözümünün bir tam sayı, rasyonel sayı veya Öklidyen bir irrasyonel büyüklük olamayacağını titizlikle ispatlamıştır. Bu yaklaşımıyla, odak noktasını sadece bir \"sonuç bulmaktan\" ziyade çözümün ontolojik doğasını anlamaya kaydırarak metodolojik bir kırılma yaratmıştır."
-        },
-        {
-            "q": "Fibonacci'nin 13. yüzyılda Congruum problemi üzerine yaptığı çalışmalar günümüz modern sayılar teorisini ve kriptografiyi nasıl etkiliyor?",
-            "a": "Fibonacci'nin congruum üzerine yaptığı keşifler, Tunnell Kriteri ve Birch-Swinnerton-Dyer (BSD) varsayımı aracılığıyla eliptik eğriler ($y^2 = x^3 - N^2x$) üzerindeki rasyonel noktaların araştırılmasına uzanan teorik bir köprü kurmuştur. Bu tarihsel süreç, kuantum fiziği ve modern dijital finans sistemlerinin kriptografik temellerine kadar ulaşan bir süreklilik arz eder."
-        },
-        {
-            "q": "Fibonacci, ardışık üç tam kare sayının oluşturduğu aritmetik dizideki ortak farkın (congruum) doğası hakkında neyi ispatlamıştır?",
-            "a": "Fibonacci 1225 yılında, bir congruum'un (uyumlu sayı) asla bir tam kare olamayacağını ispatlamıştır. Bu durum, Fermat'nın daha sonra bir dik üçgenin alanının kare sayı olamayacağını belirttiği teoreminin de ilk kanıtı olmuştur."
-        },
-        {
-            "q": "Fibonacci'nin popüler kültürdeki tavşan problemi algısı ile tarihsel ve bilimsel gerçekliği arasındaki ana fark nedir?",
-            "a": "Popüler algı Fibonacci'yi tavşan problemi ve \"A000045\" nolu diziyle sınırlandırsa da, bilimsel gerçeklik onun Orta Çağ'ın en sofistike Diophantine analisti ve modern sayılar teorisinin kurucusu olduğunu göstermektedir. O, karmaşık Diophantine denklemleri üzerinde sistematik ispatlar geliştirmiştir."
-        },
-        {
-            "q": "1983 yılında geliştirilen Tunnell Kriteri, belirli modülo sınıflarını (5, 6, 7 ile 1, 2, 3) Congruum sayılarını bulmak için nasıl ayırır?",
-            "a": "Tunnell Kriteri modülo 8 üzerindeki kalıntı sınıflarına dayanır. Karesel çarpansız (square-free) sayılarda 5, 6 ve 7 modülo 8 sınıfları doğrudan Tunnell sayısıdır ve congruum olma potansiyeli taşır. Buna karşın, 1, 2 ve 3 sınıfları belirli karesel denklemlerin tam sayı çözümlerinin sayılmasını gerektiren daha karmaşık bir sürece tabidir."
-        }
-    ]
-}   
+        "relationships_tr": [
+            {
+                "kaynak": "Leonardo Pisano (Fibonacci)",
+                "iliski": "analitik_transfer_baslatti",
+                "hedef": "Batı Matematiği"
+            },
+            {
+                "kaynak": "Liber Abbaci (1202)",
+                "iliski": "standardizasyonu_sagladi",
+                "hedef": "Hint-Arap Rakam Sistemi"
+            },
+            {
+                "kaynak": "Leonardo Pisano (Fibonacci)",
+                "iliski": "matematiksel_ispat_formule_etti",
+                "hedef": "Congruum Mekanizması"
+            },
+            {
+                "kaynak": "Liber Quadratorum",
+                "iliski": "metodolojik_altyapiyi_kurdu",
+                "hedef": "Modern Cebir"
+            },
+            {
+                "kaynak": "İmparator Frederick II'nin Sarayı",
+                "iliski": "analitik_meydan_okuma_sundu",
+                "hedef": "Kübik Denklem (x^3 + 2x^2 + 10x = 20)"
+            },
+            {
+                "kaynak": "Leonardo Pisano (Fibonacci)",
+                "iliski": "irrasyonelligi_ispatladi",
+                "hedef": "Kübik Denklem Çözümü"
+            },
+            {
+                "kaynak": "Leonardo Pisano (Fibonacci)",
+                "iliski": "veri_standardizasyonunu_sistemlestirdi",
+                "hedef": "Zephirum ve Virga"
+            },
+            {
+                "kaynak": "Johannes of Palermo",
+                "iliski": "teorik_derinlesmeyi_tetikledi",
+                "hedef": "Congruum Problemi"
+            },
+            {
+                "kaynak": "Pierre de Fermat",
+                "iliski": "teorik_cerceveyi_genisletti",
+                "hedef": "Fermat'nın Dik Üçgen Teoremi"
+            },
+            {
+                "kaynak": "Jerrold Tunnell",
+                "iliski": "teshis_kriteri_gelistirdi",
+                "hedef": "Tunnell Kriteri (Modülo 8 Kalıntı Sınıfları)"
+            },
+            {
+                "kaynak": "Tunnell Kriteri",
+                "iliski": "teorik_kopru_kurdu",
+                "hedef": "Birch-Swinnerton-Dyer (BSD) Varsayımı"
+            }
+        ],
+        "faq_tr": [
+            {
+                "q": "Fibonacci'nin matematiksel devrimini başlatan ilk olay nerede ve nasıl gerçekleşti?",
+                "a": "Fibonacci'nin başlattığı sürecin ana tetikleyicisi, Bugia'da (Cezayir) \"dokuz Hint sembolü\" ve sıfır ile tanışmasıdır. Bu sayede hesaplama mimarisindeki üstünlüğü fark etmiştir."
+            },
+            {
+                "q": "\"Congruum\" (uyumlu sayı) probleminin temelini oluşturan matematiksel formül nedir ve parametreleri nasıl çalışır?",
+                "a": "Congruum mekanizmasının temelini $4mn(m+n)(m-n)$ formülü oluşturur. Bu formülde, m ve n parametreleri aralarında asal olmalı ve farklı pariteye (biri tek, diğeri çift) sahip olmalıdır."
+            },
+            {
+                "q": "1202 tarihli Liber Abbaci kitabı, Avrupa'daki finansal veri iletimini kalıcı olarak nasıl değiştirdi?",
+                "a": "Liber Abbaci eseri, hantal Roma rakamlarından yüksek verimlilik sunan Hint-Arap sistemine geçişi sağlayarak matematiksel veri işlemede standardizasyonu başlatmıştır. Ayrıca, \"zephirum\" (sıfır) ve \"virga\" (kesir çizgisi) kavramlarını Avrupa ticaretine entegre ederek finansal veri iletiminde hata payını minimize etmiştir."
+            },
+            {
+                "q": "Fibonacci, İmparator Frederick II'nin sarayında kendisine sunulan $x^3 + 2x^2 + 10x = 20$ kübik denkleminde nasıl bir analitik kırılma yarattı?",
+                "a": "Fibonacci, bu kübik denklemin çözümünün bir tam sayı, rasyonel sayı veya Öklidyen bir irrasyonel büyüklük olamayacağını titizlikle ispatlamıştır. Bu yaklaşımıyla, odak noktasını sadece bir \"sonuç bulmaktan\" ziyade çözümün ontolojik doğasını anlamaya kaydırarak metodolojik bir kırılma yaratmıştır."
+            },
+            {
+                "q": "Fibonacci'nin 13. yüzyılda Congruum problemi üzerine yaptığı çalışmalar günümüz modern sayılar teorisini ve kriptografiyi nasıl etkiliyor?",
+                "a": "Fibonacci'nin congruum üzerine yaptığı keşifler, Tunnell Kriteri ve Birch-Swinnerton-Dyer (BSD) varsayımı aracılığıyla eliptik eğriler ($y^2 = x^3 - N^2x$) üzerindeki rasyonel noktaların araştırılmasına uzanan teorik bir köprü kurmuştur. Bu tarihsel süreç, kuantum fiziği ve modern dijital finans sistemlerinin kriptografik temellerine kadar ulaşan bir süreklilik arz eder."
+            },
+            {
+                "q": "Fibonacci, ardışık üç tam kare sayının oluşturduğu aritmetik dizideki ortak farkın (congruum) doğası hakkında neyi ispatlamıştır?",
+                "a": "Fibonacci 1225 yılında, bir congruum'un (uyumlu sayı) asla bir tam kare olamayacağını ispatlamıştır. Bu durum, Fermat'nın daha sonra bir dik üçgenin alanının kare sayı olamayacağını belirttiği teoreminin de ilk kanıtı olmuştur."
+            },
+            {
+                "q": "Fibonacci'nin popüler kültürdeki tavşan problemi algısı ile tarihsel ve bilimsel gerçekliği arasındaki ana fark nedir?",
+                "a": "Popüler algı Fibonacci'yi tavşan problemi ve \"A000045\" nolu diziyle sınırlandırsa da, bilimsel gerçeklik onun Orta Çağ'ın en sofistike Diophantine analisti ve modern sayılar teorisinin kurucusu olduğunu göstermektedir. O, karmaşık Diophantine denklemleri üzerinde sistematik ispatlar geliştirmiştir."
+            },
+            {
+                "q": "1983 yılında geliştirilen Tunnell Kriteri, belirli modülo sınıflarını (5, 6, 7 ile 1, 2, 3) Congruum sayılarını bulmak için nasıl ayırır?",
+                "a": "Tunnell Kriteri modülo 8 üzerindeki kalıntı sınıflarına dayanır. Karesel çarpansız (square-free) sayılarda 5, 6 ve 7 modülo 8 sınıfları doğrudan Tunnell sayısıdır ve congruum olma potansiyeli taşır. Buna karşın, 1, 2 ve 3 sınıfları belirli karesel denklemlerin tam sayı çözümlerinin sayılmasını gerektiren daha karmaşık bir sürece tabidir."
+            }
+        ]
+    }
 ]
