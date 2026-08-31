@@ -160,34 +160,34 @@
             "Emtia Dolandırıcılığı"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Bre-X, Endonezya Busang'da 200 milyon onsu aşan rezervle tarihin en zengin altın yatağını keşfettiğini iddia etti.",
-            "gercek_durum": "Madende ekonomik hiçbir altın yoktu; volkanik kaya numunelerine nehirlerden ve altın takılardan kazınan mikroskobik tozlar serpiştirilmişti."
+            "official_claim": "Bre-X, Endonezya Busang'da 200 milyon onsu aşan rezervle tarihin en zengin altın yatağını keşfettiğini iddia etti.",
+            "actual_reality": "Madende ekonomik hiçbir altın yoktu; volkanik kaya numunelerine nehirlerden ve altın takılardan kazınan mikroskobik tozlar serpiştirilmişti."
         },
         "causal_chain_tr": {
-            "tetikleyici": "İflasın eşiğindeki Bre-X şirketi, Busang arazisinde devasa altın bulduğunu duyurarak küresel sermaye piyasalarından fon toplamaya başladı.",
-            "uygulama": "Baş jeolog De Guzman yıllarca karot numunelerini tuzlayarak sahte laboratuvar raporlarıyla kuruşluk hisseleri milyarlarca dolarlık deve dönüştürdü.",
-            "cokus": "Ortak Freeport'un bağımsız tahlillerinde hiç altın çıkmaması ve De Guzman'ın helikopterden şüpheli ölümüyle hisseler sıfırlandı ve şirket battı."
+            "trigger": "İflasın eşiğindeki Bre-X şirketi, Busang arazisinde devasa altın bulduğunu duyurarak küresel sermaye piyasalarından fon toplamaya başladı.",
+            "execution": "Baş jeolog De Guzman yıllarca karot numunelerini tuzlayarak sahte laboratuvar raporlarıyla kuruşluk hisseleri milyarlarca dolarlık deve dönüştürdü.",
+            "collapse": "Ortak Freeport'un bağımsız tahlillerinde hiç altın çıkmaması ve De Guzman'ın helikopterden şüpheli ölümüyle hisseler sıfırlandı ve şirket battı."
         },
         "relationships_tr": [
             {
-                "kaynak": "Michael de Guzman",
-                "iliski": "sahte_tahlil_uretti",
-                "hedef": "Bre-X Minerals"
+                "source": "Michael de Guzman",
+                "relation": "sahte_tahlil_uretti",
+                "target": "Bre-X Minerals"
             },
             {
-                "kaynak": "Bre-X Minerals",
-                "iliski": "yatirimcilari_yaniltti",
-                "hedef": "Toronto Borsası"
+                "source": "Bre-X Minerals",
+                "relation": "yatirimcilari_yaniltti",
+                "target": "Toronto Borsası"
             },
             {
-                "kaynak": "Freeport-McMoRan",
-                "iliski": "sahtekarligi_ortaya_cikardi",
-                "hedef": "Busang Madeni"
+                "source": "Freeport-McMoRan",
+                "relation": "sahtekarligi_ortaya_cikardi",
+                "target": "Busang Madeni"
             },
             {
-                "kaynak": "Lehman Brothers",
-                "iliski": "al_tavsiyesi_verdi",
-                "hedef": "Bre-X Hisseleri"
+                "source": "Lehman Brothers",
+                "relation": "al_tavsiyesi_verdi",
+                "target": "Bre-X Hisseleri"
             }
         ],
         "faq_tr": [
@@ -375,39 +375,39 @@
             "Mantık Bombası"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Sovyet yönetimi Trans-Sibirya boru hattının güvenli yerli sistemlerle yönetildiğini iddia etti ve patlamayı sıradan mekanik malzeme yorgunluğuna bağladı.",
-            "gercek_durum": "Boru hattı kontrol yazılımı KGB tarafından Kanada'dan çalınmış ve CIA tarafından vanaları patlatacak gizli bir mantık bombasıyla kasten modifiye edilmişti."
+            "official_claim": "Sovyet yönetimi Trans-Sibirya boru hattının güvenli yerli sistemlerle yönetildiğini iddia etti ve patlamayı sıradan mekanik malzeme yorgunluğuna bağladı.",
+            "actual_reality": "Boru hattı kontrol yazılımı KGB tarafından Kanada'dan çalınmış ve CIA tarafından vanaları patlatacak gizli bir mantık bombasıyla kasten modifiye edilmişti."
         },
         "causal_chain_tr": {
-            "tetikleyici": "KGB Albayı Vladimir Vetrov'un Fransız istihbaratına (DST) sızdırdığı Farewell Dosyası, Sovyetlerin Batı'dan çalmayı planladığı teknoloji listesini deşifre etti.",
-            "uygulama": "CIA, Sovyet paravan şirketlerinin çalacağı Kanada yapımı SCADA boru hattı kontrol yazılımına gizli bir mantık bombası (truva atı) yerleştirdi.",
-            "cokus": "Yazılım Sibirya'da devreye girdiğinde basınç vanalarını aşırı yükleyerek devasa bir patlamaya yol açtı ve Sovyetlerin Avrupa'ya gaz satarak döviz kazanmasını felç etti."
+            "trigger": "KGB Albayı Vladimir Vetrov'un Fransız istihbaratına (DST) sızdırdığı Farewell Dosyası, Sovyetlerin Batı'dan çalmayı planladığı teknoloji listesini deşifre etti.",
+            "execution": "CIA, Sovyet paravan şirketlerinin çalacağı Kanada yapımı SCADA boru hattı kontrol yazılımına gizli bir mantık bombası (truva atı) yerleştirdi.",
+            "collapse": "Yazılım Sibirya'da devreye girdiğinde basınç vanalarını aşırı yükleyerek devasa bir patlamaya yol açtı ve Sovyetlerin Avrupa'ya gaz satarak döviz kazanmasını felç etti."
         },
         "relationships_tr": [
             {
-                "kaynak": "Vladimir Vetrov (Farewell)",
-                "iliski": "line_x_dosyasini_sizdirdi",
-                "hedef": "Direction de la Surveillance du Territoire (DST)"
+                "source": "Vladimir Vetrov (Farewell)",
+                "relation": "line_x_dosyasini_sizdirdi",
+                "target": "Direction de la Surveillance du Territoire (DST)"
             },
             {
-                "kaynak": "DST",
-                "iliski": "istihbarati_teslim_etti",
-                "hedef": "CIA"
+                "source": "DST",
+                "relation": "istihbarati_teslim_etti",
+                "target": "CIA"
             },
             {
-                "kaynak": "Gus W. Weiss",
-                "iliski": "sabotaj_planini_hazirladi",
-                "hedef": "CIA"
+                "source": "Gus W. Weiss",
+                "relation": "sabotaj_planini_hazirladi",
+                "target": "CIA"
             },
             {
-                "kaynak": "CIA",
-                "iliski": "truva_ati_yazilimini_kullandi",
-                "hedef": "Sovyet Gaz Bakanlığı"
+                "source": "CIA",
+                "relation": "truva_ati_yazilimini_kullandi",
+                "target": "Sovyet Gaz Bakanlığı"
             },
             {
-                "kaynak": "KGB (Line X)",
-                "iliski": "modifiye_yazilimi_caldi",
-                "hedef": "Trans-Sibirya Boru Hattı"
+                "source": "KGB (Line X)",
+                "relation": "modifiye_yazilimi_caldi",
+                "target": "Trans-Sibirya Boru Hattı"
             }
         ],
         "faq_tr": [
@@ -558,34 +558,34 @@
             "Mülksüzleştirme"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Savaş sonrası geçiş hükümetleri, borsaların ulusal yeniden inşayı finanse etmek ve serbest piyasayı canlandırmak amacıyla açıldığını iddia etti.",
-            "gercek_durum": "Borsalar ve şirketler; yapay hiperenflasyon, kâr tavanı kararnameleri ve vergi cezalarıyla kasten iflas ettirilerek özel mülkiyet tazminatsız şekilde devlete devredildi."
+            "official_claim": "Savaş sonrası geçiş hükümetleri, borsaların ulusal yeniden inşayı finanse etmek ve serbest piyasayı canlandırmak amacıyla açıldığını iddia etti.",
+            "actual_reality": "Borsalar ve şirketler; yapay hiperenflasyon, kâr tavanı kararnameleri ve vergi cezalarıyla kasten iflas ettirilerek özel mülkiyet tazminatsız şekilde devlete devredildi."
         },
         "causal_chain_tr": {
-            "tetikleyici": "2. Dünya Savaşı'nın yıkımı ardından Budapeşte ve Prag borsaları yeniden açılarak özel sektör sermayesiyle toparlanma süreci başlatıldı.",
-            "uygulama": "Sovyet güdümlü bakanlıklar kâr sınırlamaları getirdi, kotasyon kurallarını bozdu ve büyük hisse sahiplerini 'vatan haini spekülatör' ilan ederek gözaltına aldı.",
-            "cokus": "Hisse senetlerinin değeri sıfırlandı, 1948 darbesiyle tüm sermaye piyasaları tamamen kapatılarak sanayi tesisleri bedelsiz kamulaştırıldı."
+            "trigger": "2. Dünya Savaşı'nın yıkımı ardından Budapeşte ve Prag borsaları yeniden açılarak özel sektör sermayesiyle toparlanma süreci başlatıldı.",
+            "execution": "Sovyet güdümlü bakanlıklar kâr sınırlamaları getirdi, kotasyon kurallarını bozdu ve büyük hisse sahiplerini 'vatan haini spekülatör' ilan ederek gözaltına aldı.",
+            "collapse": "Hisse senetlerinin değeri sıfırlandı, 1948 darbesiyle tüm sermaye piyasaları tamamen kapatılarak sanayi tesisleri bedelsiz kamulaştırıldı."
         },
         "relationships_tr": [
             {
-                "kaynak": "Matyas Rakosi",
-                "iliski": "kamulastirma_baskisi_uyguladi",
-                "hedef": "Budapeşte Borsası"
+                "source": "Matyas Rakosi",
+                "relation": "kamulastirma_baskisi_uyguladi",
+                "target": "Budapeşte Borsası"
             },
             {
-                "kaynak": "Klement Gottwald",
-                "iliski": "darbe_sonrasi_tasfiyeyi_yonetti",
-                "hedef": "Prag Borsası"
+                "source": "Klement Gottwald",
+                "relation": "darbe_sonrasi_tasfiyeyi_yonetti",
+                "target": "Prag Borsası"
             },
             {
-                "kaynak": "Sovyet Askeri İdaresi",
-                "iliski": "merkezi_planlama_dikte_etti",
-                "hedef": "Macaristan Ulusal Bankası"
+                "source": "Sovyet Askeri İdaresi",
+                "relation": "merkezi_planlama_dikte_etti",
+                "target": "Macaristan Ulusal Bankası"
             },
             {
-                "kaynak": "Çekoslovakya Maliye Bakanlığı",
-                "iliski": "hisseleri_tazminatsiz_devraldi",
-                "hedef": "Prag Borsası"
+                "source": "Çekoslovakya Maliye Bakanlığı",
+                "relation": "hisseleri_tazminatsiz_devraldi",
+                "target": "Prag Borsası"
             }
         ],
         "faq_tr": [
@@ -767,34 +767,34 @@
             "Fiyat Sabitleme"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Alman Askeri İdaresi ve Vichy Hükümeti, Paris Borsası'nın yeniden yapılandırılması ve CCDVT merkezileşmesinin Fransız yatırımcıları savaş dönemi spekülasyonlarından korumak için teknik bir modernizasyon olduğunu iddia etti.",
-            "gercek_durum": "Reformlar finansal gizliliği tamamen yok etti, özel servet sahiplerini fişledi ve hisse fiyatlarını yapay sabitleyerek tüm Fransız likiditesini doğrudan Alman savaş tahvillerine aktardı."
+            "official_claim": "Alman Askeri İdaresi ve Vichy Hükümeti, Paris Borsası'nın yeniden yapılandırılması ve CCDVT merkezileşmesinin Fransız yatırımcıları savaş dönemi spekülasyonlarından korumak için teknik bir modernizasyon olduğunu iddia etti.",
+            "actual_reality": "Reformlar finansal gizliliği tamamen yok etti, özel servet sahiplerini fişledi ve hisse fiyatlarını yapay sabitleyerek tüm Fransız likiditesini doğrudan Alman savaş tahvillerine aktardı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "1940'ta Fransa'nın işgali ardından Nazi Almanyası, işgal masraflarını finanse etmek ve Fransız sermayesini Alman savaş ekonomisine çekmek için harekete geçti.",
-            "uygulama": "Reichsbank komiserleri gayriresmi serbest pazar 'Coulisse'i kapattı, CCDVT aracılığıyla tüm hamiline hisseleri fişledi ve borsa seanslarında yapay taban/tavan fiyatları zorunlu kıldı.",
-            "cokus": "Fransız borsa piyasası tamamen kukla bir likidite tuzağına dönüştü; 1944 kurtuluşu sonrası Nazi fiyat kontrolleri lağvedildi ve CCDVT modern Fransız takas kurumuna dönüştürüldü."
+            "trigger": "1940'ta Fransa'nın işgali ardından Nazi Almanyası, işgal masraflarını finanse etmek ve Fransız sermayesini Alman savaş ekonomisine çekmek için harekete geçti.",
+            "execution": "Reichsbank komiserleri gayriresmi serbest pazar 'Coulisse'i kapattı, CCDVT aracılığıyla tüm hamiline hisseleri fişledi ve borsa seanslarında yapay taban/tavan fiyatları zorunlu kıldı.",
+            "collapse": "Fransız borsa piyasası tamamen kukla bir likidite tuzağına dönüştü; 1944 kurtuluşu sonrası Nazi fiyat kontrolleri lağvedildi ve CCDVT modern Fransız takas kurumuna dönüştürüldü."
         },
         "relationships_tr": [
             {
-                "kaynak": "Reichsbank",
-                "iliski": "denetim_komiserleri_atadi",
-                "hedef": "Paris Borsası"
+                "source": "Reichsbank",
+                "relation": "denetim_komiserleri_atadi",
+                "target": "Paris Borsası"
             },
             {
-                "kaynak": "Otto Abetz",
-                "iliski": "ekonomik_tasfiyeyi_koordine_etti",
-                "hedef": "Vichy Hükümeti"
+                "source": "Otto Abetz",
+                "relation": "ekonomik_tasfiyeyi_koordine_etti",
+                "target": "Vichy Hükümeti"
             },
             {
-                "kaynak": "Vichy Hükümeti",
-                "iliski": "hisselerin_merkezilesmesini_zorunlu_kildi",
-                "hedef": "CCDVT"
+                "source": "Vichy Hükümeti",
+                "relation": "hisselerin_merkezilesmesini_zorunlu_kildi",
+                "target": "CCDVT"
             },
             {
-                "kaynak": "CCDVT",
-                "iliski": "serbest_ticareti_kapatti",
-                "hedef": "Coulisse Pazarı"
+                "source": "CCDVT",
+                "relation": "serbest_ticareti_kapatti",
+                "target": "Coulisse Pazarı"
             }
         ],
         "faq_tr": [
@@ -976,34 +976,34 @@
             "Jeoekonomi"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Anlaşma, Suudi Arabistan'ın kendi petrol taşımacılığıyla daha doğrudan bağlantılı bir tanker filosu geliştirmesine yardımcı olacak bir düzenleme olarak sunuldu.",
-            "gercek_durum": "ARAMCO, anlaşmanın mevcut petrol imtiyazı haklarıyla çeliştiğini savundu; ABD makamları ise anlaşmanın etkisiz hâle getirilmesi veya iptal edilmesi için önlem alınmasını önerdi."
+            "official_claim": "Anlaşma, Suudi Arabistan'ın kendi petrol taşımacılığıyla daha doğrudan bağlantılı bir tanker filosu geliştirmesine yardımcı olacak bir düzenleme olarak sunuldu.",
+            "actual_reality": "ARAMCO, anlaşmanın mevcut petrol imtiyazı haklarıyla çeliştiğini savundu; ABD makamları ise anlaşmanın etkisiz hâle getirilmesi veya iptal edilmesi için önlem alınmasını önerdi."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Savaş sonrası petrol tüketiminin ve tanker taşımacılığının hızla büyümesi, petrolün yalnızca üretimini değil taşınmasını da stratejik bir güç alanına dönüştürdü.",
-            "uygulama": "Aristotle Onassis, Ocak 1954'te Suudi Arabistan hükümetiyle Suudi petrolünün taşınması için kendi bağlantılı şirketine yetki sağlayan bir anlaşma yaptı.",
-            "cokus": "ARAMCO anlaşmanın kendi imtiyaz haklarını ihlal ettiğini savundu; ABD hükümeti anlaşmaya karşı harekete geçti ve uyuşmazlık tahkim sürecine taşındı."
+            "trigger": "Savaş sonrası petrol tüketiminin ve tanker taşımacılığının hızla büyümesi, petrolün yalnızca üretimini değil taşınmasını da stratejik bir güç alanına dönüştürdü.",
+            "execution": "Aristotle Onassis, Ocak 1954'te Suudi Arabistan hükümetiyle Suudi petrolünün taşınması için kendi bağlantılı şirketine yetki sağlayan bir anlaşma yaptı.",
+            "collapse": "ARAMCO anlaşmanın kendi imtiyaz haklarını ihlal ettiğini savundu; ABD hükümeti anlaşmaya karşı harekete geçti ve uyuşmazlık tahkim sürecine taşındı."
         },
         "relationships_tr": [
             {
-                "kaynak": "Aristotle Onassis",
-                "iliski": "tanker_anlasmasi_imzaladi",
-                "hedef": "Suudi Arabistan Hükümeti"
+                "source": "Aristotle Onassis",
+                "relation": "tanker_anlasmasi_imzaladi",
+                "target": "Suudi Arabistan Hükümeti"
             },
             {
-                "kaynak": "Suudi Arabistan Hükümeti",
-                "iliski": "petrol_tasima_yetkisi_verdi",
-                "hedef": "Saudi Arabian Tanker Company Ltd."
+                "source": "Suudi Arabistan Hükümeti",
+                "relation": "petrol_tasima_yetkisi_verdi",
+                "target": "Saudi Arabian Tanker Company Ltd."
             },
             {
-                "kaynak": "ARAMCO",
-                "iliski": "anlasmaya_karsi_cikti",
-                "hedef": "Aristotle Onassis"
+                "source": "ARAMCO",
+                "relation": "anlasmaya_karsi_cikti",
+                "target": "Aristotle Onassis"
             },
             {
-                "kaynak": "ABD Ulusal Güvenlik Konseyi",
-                "iliski": "anlasmanin_etkisizlestirilmesini_onerdi",
-                "hedef": "Onassis-Suudi Arabistan Tanker Anlaşması"
+                "source": "ABD Ulusal Güvenlik Konseyi",
+                "relation": "anlasmanin_etkisizlestirilmesini_onerdi",
+                "target": "Onassis-Suudi Arabistan Tanker Anlaşması"
             }
         ],
         "faq_tr": [
@@ -1191,34 +1191,34 @@
             "Nikaragua"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Depo makbuzları, ticari finansmana teminat oluşturacak şekilde 22.000 tondan fazla kahvenin depolarda bulunduğunu gösteriyordu.",
-            "gercek_durum": "Makbuzlarda gösterilen miktarlar bazı depoların fiziksel kapasitesini aşıyordu. Denetimlerde kahve yığınlarının yalnızca görünen ön sıralarındaki çuvalların kahve içerdiği, diğer çok sayıda çuvalın ise pirinç kabuğuyla doldurulduğu ortaya çıktı."
+            "official_claim": "Depo makbuzları, ticari finansmana teminat oluşturacak şekilde 22.000 tondan fazla kahvenin depolarda bulunduğunu gösteriyordu.",
+            "actual_reality": "Makbuzlarda gösterilen miktarlar bazı depoların fiziksel kapasitesini aşıyordu. Denetimlerde kahve yığınlarının yalnızca görünen ön sıralarındaki çuvalların kahve içerdiği, diğer çok sayıda çuvalın ise pirinç kabuğuyla doldurulduğu ortaya çıktı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Centeno-CONSAGRO grubuyla bağlantılı şirketlere yönelik büyük ve giderek daha riskli kredi maruziyeti oluştu.",
-            "uygulama": "Kahve stoklarını temsil ettiği iddia edilen depo makbuzları finansman sağlamak için kullanılırken, başka düzensiz kredi işlemleri, sahte tahsilatlar ve kahve sevkiyatlarındaki tutarsızlıklar INTERBANK'ın kredi portföyündeki gerçek bozulmayı gizledi.",
-            "cokus": "Denetimler ve fiziki stok kontrolleri, temsil edilen teminatlar ile gerçek içerik arasında ciddi farklar bulunduğunu ortaya çıkardı. Nikaragua bankacılık otoritesi INTERBANK'a Ağustos 2000'de müdahale etti ve banka daha sonra varlık ve yükümlülüklerinin devri yoluyla çözüme kavuşturuldu."
+            "trigger": "Centeno-CONSAGRO grubuyla bağlantılı şirketlere yönelik büyük ve giderek daha riskli kredi maruziyeti oluştu.",
+            "execution": "Kahve stoklarını temsil ettiği iddia edilen depo makbuzları finansman sağlamak için kullanılırken, başka düzensiz kredi işlemleri, sahte tahsilatlar ve kahve sevkiyatlarındaki tutarsızlıklar INTERBANK'ın kredi portföyündeki gerçek bozulmayı gizledi.",
+            "collapse": "Denetimler ve fiziki stok kontrolleri, temsil edilen teminatlar ile gerçek içerik arasında ciddi farklar bulunduğunu ortaya çıkardı. Nikaragua bankacılık otoritesi INTERBANK'a Ağustos 2000'de müdahale etti ve banka daha sonra varlık ve yükümlülüklerinin devri yoluyla çözüme kavuşturuldu."
         },
         "relationships_tr": [
             {
-                "kaynak": "Centeno-CONSAGRO Grubu",
-                "iliski": "finansman_sagladi",
-                "hedef": "Banco Internacional S.A. (INTERBANK)"
+                "source": "Centeno-CONSAGRO Grubu",
+                "relation": "finansman_sagladi",
+                "target": "Banco Internacional S.A. (INTERBANK)"
             },
             {
-                "kaynak": "Depo Personeli",
-                "iliski": "depo_makbuzu_duzenledi",
-                "hedef": "Centeno-CONSAGRO Grubu"
+                "source": "Depo Personeli",
+                "relation": "depo_makbuzu_duzenledi",
+                "target": "Centeno-CONSAGRO Grubu"
             },
             {
-                "kaynak": "Nikaragua Bankalar ve Diğer Finansal Kuruluşlar Denetim Otoritesi",
-                "iliski": "mudahale_etti",
-                "hedef": "Banco Internacional S.A. (INTERBANK)"
+                "source": "Nikaragua Bankalar ve Diğer Finansal Kuruluşlar Denetim Otoritesi",
+                "relation": "mudahale_etti",
+                "target": "Banco Internacional S.A. (INTERBANK)"
             },
             {
-                "kaynak": "Banco de la Producción (BANPRO)",
-                "iliski": "varlik_ve_yukumlulukleri_devraldi",
-                "hedef": "Banco Internacional S.A. (INTERBANK)"
+                "source": "Banco de la Producción (BANPRO)",
+                "relation": "varlik_ve_yukumlulukleri_devraldi",
+                "target": "Banco Internacional S.A. (INTERBANK)"
             }
         ],
         "faq_tr": [
@@ -1409,39 +1409,39 @@
             "American Bank&Trust"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Graiver'ın uluslararası şirket ve bankacılık ağı, farklı ülkelerde faaliyet gösteren meşru yatırım ve finans kuruluşlarından oluşan bir iş imparatorluğu olarak görünüyordu.",
-            "gercek_durum": "ABD'deki soruşturmalar, Graiver ailesiyle bağlantılı şirketler ve bankalar üzerinden karmaşık sınır ötesi para transferleri yapıldığı; bazı işlemlerde zimmete para geçirme ve banka kayıtlarının tahrif edilmesi iddialarının bulunduğunu ortaya çıkardı."
+            "official_claim": "Graiver'ın uluslararası şirket ve bankacılık ağı, farklı ülkelerde faaliyet gösteren meşru yatırım ve finans kuruluşlarından oluşan bir iş imparatorluğu olarak görünüyordu.",
+            "actual_reality": "ABD'deki soruşturmalar, Graiver ailesiyle bağlantılı şirketler ve bankalar üzerinden karmaşık sınır ötesi para transferleri yapıldığı; bazı işlemlerde zimmete para geçirme ve banka kayıtlarının tahrif edilmesi iddialarının bulunduğunu ortaya çıkardı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Montoneros ile ilişkilendirilen ve Bunge & Born kaçırma eyleminden elde edilen fidye paralarını da kapsayan fonlar, David Graiver ve onun finansal ağıyla bağlantılı yapılara ulaştı.",
-            "uygulama": "Graiver ağı, American Bank & Trust ve Banque pour l'Amérique du Sud ile bağlantılı uluslararası şirket ve bankacılık ilişkileri üzerinden fonları farklı ülkeler arasında hareket ettirdi.",
-            "cokus": "David Graiver'ın Ağustos 1976'da Meksika'daki uçak kazasında ölmesinin ardından, ABD ve Arjantin'deki makamlar finansal işlemleri ve Graiver ailesiyle bağlantılı şirketleri soruşturmaya devam etti."
+            "trigger": "Montoneros ile ilişkilendirilen ve Bunge & Born kaçırma eyleminden elde edilen fidye paralarını da kapsayan fonlar, David Graiver ve onun finansal ağıyla bağlantılı yapılara ulaştı.",
+            "execution": "Graiver ağı, American Bank & Trust ve Banque pour l'Amérique du Sud ile bağlantılı uluslararası şirket ve bankacılık ilişkileri üzerinden fonları farklı ülkeler arasında hareket ettirdi.",
+            "collapse": "David Graiver'ın Ağustos 1976'da Meksika'daki uçak kazasında ölmesinin ardından, ABD ve Arjantin'deki makamlar finansal işlemleri ve Graiver ailesiyle bağlantılı şirketleri soruşturmaya devam etti."
         },
         "relationships_tr": [
             {
-                "kaynak": "Montoneros",
-                "iliski": "iliskili_fonlarin_yonetimini_bagladi",
-                "hedef": "David Graiver"
+                "source": "Montoneros",
+                "relation": "iliskili_fonlarin_yonetimini_bagladi",
+                "target": "David Graiver"
             },
             {
-                "kaynak": "David Graiver",
-                "iliski": "finansal_agini_baglantili_hale_getirdi",
-                "hedef": "American Bank & Trust (New York)"
+                "source": "David Graiver",
+                "relation": "finansal_agini_baglantili_hale_getirdi",
+                "target": "American Bank & Trust (New York)"
             },
             {
-                "kaynak": "American Bank & Trust (New York)",
-                "iliski": "iddia_edilen_fon_transferlerini_yonlendirdi",
-                "hedef": "Banque pour l'Amérique du Sud (Brüksel)"
+                "source": "American Bank & Trust (New York)",
+                "relation": "iddia_edilen_fon_transferlerini_yonlendirdi",
+                "target": "Banque pour l'Amérique du Sud (Brüksel)"
             },
             {
-                "kaynak": "Robert Morgenthau",
-                "iliski": "finansal_ag_sorusturmasini_yonetti",
-                "hedef": "Graiver Finansal Ağı"
+                "source": "Robert Morgenthau",
+                "relation": "finansal_ag_sorusturmasini_yonetti",
+                "target": "Graiver Finansal Ağı"
             },
             {
-                "kaynak": "New York Büyük Jürisi",
-                "iliski": "Graiver_agiyla_baglantili_kisiler_hakkinda_iddianame_hazirladi",
-                "hedef": "David Graiver Finansal Ağı"
+                "source": "New York Büyük Jürisi",
+                "relation": "Graiver_agiyla_baglantili_kisiler_hakkinda_iddianame_hazirladi",
+                "target": "David Graiver Finansal Ağı"
             }
         ],
         "faq_tr": [
@@ -1634,39 +1634,39 @@
             "Ray Dirks"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Equity Funding Corporation, hayat sigortası ve yatırım fonlarını birleştiren, hızla büyüyen ve yüksek kâr üreten başarılı bir finans şirketi olduğunu gösteriyordu.",
-            "gercek_durum": "Şirketin bildirdiği sigorta faaliyetlerinin, varlıklarının ve gelirlerinin önemli bir bölümü hayaliydi; binlerce var olmayan poliçe reasürans işlemlerinde kullanılmıştı."
+            "official_claim": "Equity Funding Corporation, hayat sigortası ve yatırım fonlarını birleştiren, hızla büyüyen ve yüksek kâr üreten başarılı bir finans şirketi olduğunu gösteriyordu.",
+            "actual_reality": "Şirketin bildirdiği sigorta faaliyetlerinin, varlıklarının ve gelirlerinin önemli bir bölümü hayaliydi; binlerce var olmayan poliçe reasürans işlemlerinde kullanılmıştı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Hızlı büyüme ve yüksek kâr görünümünü koruma baskısı, yönetimin önce kayıtları manipüle etmesine, ardından tamamen hayali poliçeler üretmesine yol açtı.",
-            "uygulama": "Sahte poliçeler ve destekleyici belgeler oluşturuldu; bu poliçelerin bir kısmı reasürans şirketlerine devredilerek nakit elde edilirken şirketin finansal görünümü şişirildi.",
-            "cokus": "Eski çalışan Ronald Secrist'in verdiği bilgiler Ray Dirks ve düzenleyicilere ulaştı; Mart 1973'te işlemler durduruldu, SEC müdahale etti ve şirket yeniden yapılanma sürecine girdi."
+            "trigger": "Hızlı büyüme ve yüksek kâr görünümünü koruma baskısı, yönetimin önce kayıtları manipüle etmesine, ardından tamamen hayali poliçeler üretmesine yol açtı.",
+            "execution": "Sahte poliçeler ve destekleyici belgeler oluşturuldu; bu poliçelerin bir kısmı reasürans şirketlerine devredilerek nakit elde edilirken şirketin finansal görünümü şişirildi.",
+            "collapse": "Eski çalışan Ronald Secrist'in verdiği bilgiler Ray Dirks ve düzenleyicilere ulaştı; Mart 1973'te işlemler durduruldu, SEC müdahale etti ve şirket yeniden yapılanma sürecine girdi."
         },
         "relationships_tr": [
             {
-                "kaynak": "Stanley Goldblum",
-                "iliski": "yonetiminde_yer_aldi",
-                "hedef": "Equity Funding Corporation of America (EFCA)"
+                "source": "Stanley Goldblum",
+                "relation": "yonetiminde_yer_aldi",
+                "target": "Equity Funding Corporation of America (EFCA)"
             },
             {
-                "kaynak": "Equity Funding Life Insurance Company (EFLIC)",
-                "iliski": "fiktif_policeleri_devretti",
-                "hedef": "Reasürans Şirketleri"
+                "source": "Equity Funding Life Insurance Company (EFLIC)",
+                "relation": "fiktif_policeleri_devretti",
+                "target": "Reasürans Şirketleri"
             },
             {
-                "kaynak": "Ronald Secrist",
-                "iliski": "sahtekarlik_bilgilerini_iletti",
-                "hedef": "Ray Dirks"
+                "source": "Ronald Secrist",
+                "relation": "sahtekarlik_bilgilerini_iletti",
+                "target": "Ray Dirks"
             },
             {
-                "kaynak": "Ray Dirks",
-                "iliski": "yatirimcilari_ve_duzenleyicileri_uyardi",
-                "hedef": "Equity Funding Corporation of America (EFCA)"
+                "source": "Ray Dirks",
+                "relation": "yatirimcilari_ve_duzenleyicileri_uyardi",
+                "target": "Equity Funding Corporation of America (EFCA)"
             },
             {
-                "kaynak": "SEC (ABD Sermaye Piyasası Kurulu)",
-                "iliski": "hukuki_islem_baslatti",
-                "hedef": "Equity Funding Corporation of America (EFCA)"
+                "source": "SEC (ABD Sermaye Piyasası Kurulu)",
+                "relation": "hukuki_islem_baslatti",
+                "target": "Equity Funding Corporation of America (EFCA)"
             }
         ],
         "faq_tr": [
@@ -1850,34 +1850,34 @@
             "Sosyalist Dönüşüm"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Wufan Hareketi rüşvet, vergi kaçırma, devlet malını çalma, kalitesiz üretim ve ekonomik bilgi hırsızlığıyla mücadele olarak sunuldu; sonraki özel sektör dönüşümü ise devlet kapitalizmi ve kamu-özel işbirliği yoluyla sosyalist dönüşüm olarak tanımlandı.",
-            "gercek_durum": "Bu süreçler özel sermayenin bağımsız hareket alanını önemli ölçüde daralttı ve özel işletmelerin giderek devlet yönlendirmesindeki kamu-özel ortaklığı ve sosyalist ekonomik yapıya dahil edilmesine yol açtı."
+            "official_claim": "Wufan Hareketi rüşvet, vergi kaçırma, devlet malını çalma, kalitesiz üretim ve ekonomik bilgi hırsızlığıyla mücadele olarak sunuldu; sonraki özel sektör dönüşümü ise devlet kapitalizmi ve kamu-özel işbirliği yoluyla sosyalist dönüşüm olarak tanımlandı.",
+            "actual_reality": "Bu süreçler özel sermayenin bağımsız hareket alanını önemli ölçüde daralttı ve özel işletmelerin giderek devlet yönlendirmesindeki kamu-özel ortaklığı ve sosyalist ekonomik yapıya dahil edilmesine yol açtı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "1949'daki Komünist zaferin ardından yeni yönetim, şehir ekonomisi üzerindeki devlet kontrolünü güçlendirmeyi ve bağımsız özel sermayenin ekonomik etkisini azaltmayı hedefledi.",
-            "uygulama": "Wufan Hareketi kapsamında denetim ekipleri, soruşturmalar, çalışanların katıldığı incelemeler, beyan süreçleri ve mali uzlaşmalar yürütüldü; bunu devlet siparişleri, satın alma düzenlemeleri ve kamu-özel ortaklığı izledi.",
-            "cokus": "1955-1956'da dönüşüm hızlandı ve sektör bazında kamu-özel ortaklığı yaygınlaştırılarak şehirlerdeki özel sanayi ve ticaretin büyük bölümü devlet denetimindeki ekonomik yapıya dahil edildi."
+            "trigger": "1949'daki Komünist zaferin ardından yeni yönetim, şehir ekonomisi üzerindeki devlet kontrolünü güçlendirmeyi ve bağımsız özel sermayenin ekonomik etkisini azaltmayı hedefledi.",
+            "execution": "Wufan Hareketi kapsamında denetim ekipleri, soruşturmalar, çalışanların katıldığı incelemeler, beyan süreçleri ve mali uzlaşmalar yürütüldü; bunu devlet siparişleri, satın alma düzenlemeleri ve kamu-özel ortaklığı izledi.",
+            "collapse": "1955-1956'da dönüşüm hızlandı ve sektör bazında kamu-özel ortaklığı yaygınlaştırılarak şehirlerdeki özel sanayi ve ticaretin büyük bölümü devlet denetimindeki ekonomik yapıya dahil edildi."
         },
         "relationships_tr": [
             {
-                "kaynak": "Çin Komünist Partisi",
-                "iliski": "wufan_hareketini_baslatti_ve_yonetti",
-                "hedef": "Wufan Hareketi"
+                "source": "Çin Komünist Partisi",
+                "relation": "wufan_hareketini_baslatti_ve_yonetti",
+                "target": "Wufan Hareketi"
             },
             {
-                "kaynak": "Şanghay Belediye Hükümeti",
-                "iliski": "kampanyayi_uyguladi",
-                "hedef": "Şanghay Özel Sanayi ve Ticaret Sektörü"
+                "source": "Şanghay Belediye Hükümeti",
+                "relation": "kampanyayi_uyguladi",
+                "target": "Şanghay Özel Sanayi ve Ticaret Sektörü"
             },
             {
-                "kaynak": "Chen Yun",
-                "iliski": "ozel_sektorun_sosyalist_donusum_politikasina_katki_sagladi",
-                "hedef": "Çin'de Özel Sanayi ve Ticaretin Sosyalist Dönüşümü"
+                "source": "Chen Yun",
+                "relation": "ozel_sektorun_sosyalist_donusum_politikasina_katki_sagladi",
+                "target": "Çin'de Özel Sanayi ve Ticaretin Sosyalist Dönüşümü"
             },
             {
-                "kaynak": "Rong Yiren",
-                "iliski": "aile_isletmelerini_kamu_ozel_ortakligina_dahil_etti",
-                "hedef": "Kamu-Özel Ortaklığı"
+                "source": "Rong Yiren",
+                "relation": "aile_isletmelerini_kamu_ozel_ortakligina_dahil_etti",
+                "target": "Kamu-Özel Ortaklığı"
             }
         ],
         "faq_tr": [
@@ -2054,39 +2054,39 @@
             "SECDenetimi"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "McKesson & Robbins yönetimi ve onaylı denetim raporları, şirketin Kanada depolarında saklanan 20 milyon dolarlık fiziki ham ilaç stokuna sahip olduğunu iddia etti.",
-            "gercek_durum": "Ham ilaç departmanı tamamen hayaliydi; Kanada'daki depolar sahte posta kutularından ibaretti ve 20 milyon dolarlık stok paravan şirket faturalarıyla havadan yaratılmıştı."
+            "official_claim": "McKesson & Robbins yönetimi ve onaylı denetim raporları, şirketin Kanada depolarında saklanan 20 milyon dolarlık fiziki ham ilaç stokuna sahip olduğunu iddia etti.",
+            "actual_reality": "Ham ilaç departmanı tamamen hayaliydi; Kanada'daki depolar sahte posta kutularından ibaretti ve 20 milyon dolarlık stok paravan şirket faturalarıyla havadan yaratılmıştı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Sabıkalı dolandırıcı Philip Musica, sahte tıp diplomasıyla 'Dr. Frank Coster' kimliğine bürünenerek ilaç devi McKesson & Robbins'in yönetimini ele geçirdi.",
-            "uygulama": "Musica ve kardeşleri hayali bir ham ilaç birimi kurarak paravan şirket W.W. Smith & Co. üzerinden sahte faturalar ve konşimentolarla bilançonun %20'sini şişirdi.",
-            "cokus": "CFO Julian Thompson stokların sigortasız olduğunu fark etti; SEC baskınıyla sahtekarlık patlak verdi, Musica intihar etti ve denetimde zorunlu fiziki sayım devrimi (SAP No. 1) başladı."
+            "trigger": "Sabıkalı dolandırıcı Philip Musica, sahte tıp diplomasıyla 'Dr. Frank Coster' kimliğine bürünenerek ilaç devi McKesson & Robbins'in yönetimini ele geçirdi.",
+            "execution": "Musica ve kardeşleri hayali bir ham ilaç birimi kurarak paravan şirket W.W. Smith & Co. üzerinden sahte faturalar ve konşimentolarla bilançonun %20'sini şişirdi.",
+            "collapse": "CFO Julian Thompson stokların sigortasız olduğunu fark etti; SEC baskınıyla sahtekarlık patlak verdi, Musica intihar etti ve denetimde zorunlu fiziki sayım devrimi (SAP No. 1) başladı."
         },
         "relationships_tr": [
             {
-                "kaynak": "Philip Musica (Dr. Frank Donald Coster)",
-                "iliski": "hayalet_stok_bilancosu_yaratti",
-                "hedef": "McKesson & Robbins"
+                "source": "Philip Musica (Dr. Frank Donald Coster)",
+                "relation": "hayalet_stok_bilancosu_yaratti",
+                "target": "McKesson & Robbins"
             },
             {
-                "kaynak": "George Musica (George Vernard)",
-                "iliski": "paravan_sirketi_yonetti",
-                "hedef": "W.W. Smith & Company"
+                "source": "George Musica (George Vernard)",
+                "relation": "paravan_sirketi_yonetti",
+                "target": "W.W. Smith & Company"
             },
             {
-                "kaynak": "Price Waterhouse",
-                "iliski": "fiziki_sayim_yapmadan_onayladi",
-                "hedef": "McKesson & Robbins"
+                "source": "Price Waterhouse",
+                "relation": "fiziki_sayim_yapmadan_onayladi",
+                "target": "McKesson & Robbins"
             },
             {
-                "kaynak": "Julian Thompson",
-                "iliski": "sahtekarligi_ihbar_etti",
-                "hedef": "SEC (ABD Sermaye Piyasası Kurulu)"
+                "source": "Julian Thompson",
+                "relation": "sahtekarligi_ihbar_etti",
+                "target": "SEC (ABD Sermaye Piyasası Kurulu)"
             },
             {
-                "kaynak": "SEC",
-                "iliski": "zorunlu_denetim_reformunu_baslatti",
-                "hedef": "AIA (Amerikan Muhasebeciler Enstitüsü)"
+                "source": "SEC",
+                "relation": "zorunlu_denetim_reformunu_baslatti",
+                "target": "AIA (Amerikan Muhasebeciler Enstitüsü)"
             }
         ],
         "faq_tr": [
@@ -2300,59 +2300,59 @@
         },
         "relationships_tr": [
             {
-                "kaynak": "Charles Ponzi",
-                "iliski": "likidite_modelini_gozlemledi",
-                "hedef": "Banco Zarossi"
+                "source": "Charles Ponzi",
+                "relation": "likidite_modelini_gozlemledi",
+                "target": "Banco Zarossi"
             },
             {
-                "kaynak": "Banco Zarossi",
-                "iliski": "eski_yatirimcilari_fonladi",
-                "hedef": "Yeni Musteri Sermayesi"
+                "source": "Banco Zarossi",
+                "relation": "eski_yatirimcilari_fonladi",
+                "target": "Yeni Musteri Sermayesi"
             },
             {
-                "kaynak": "Charles Ponzi",
-                "iliski": "kurdu",
-                "hedef": "Menkul Kiymetler Degisim Sirketi"
+                "source": "Charles Ponzi",
+                "relation": "kurdu",
+                "target": "Menkul Kiymetler Degisim Sirketi"
             },
             {
-                "kaynak": "Menkul Kiymetler Degisim Sirketi",
-                "iliski": "arbitraj_getirisi_taahhut_etti",
-                "hedef": "Uluslararasi Cevap Kuponlari"
+                "source": "Menkul Kiymetler Degisim Sirketi",
+                "relation": "arbitraj_getirisi_taahhut_etti",
+                "target": "Uluslararasi Cevap Kuponlari"
             },
             {
-                "kaynak": "Menkul Kiymetler Degisim Sirketi",
-                "iliski": "fon_topladi",
-                "hedef": "Boston Halki ve Polis Teskilati"
+                "source": "Menkul Kiymetler Degisim Sirketi",
+                "relation": "fon_topladi",
+                "target": "Boston Halki ve Polis Teskilati"
             },
             {
-                "kaynak": "Clarence Barron",
-                "iliski": "finansal_denetim_analizi_yayinladi",
-                "hedef": "Menkul Kiymetler Degisim Sirketi"
+                "source": "Clarence Barron",
+                "relation": "finansal_denetim_analizi_yayinladi",
+                "target": "Menkul Kiymetler Degisim Sirketi"
             },
             {
-                "kaynak": "William McMasters",
-                "iliski": "bos_kasa_kayitlarini_sizdirdi",
-                "hedef": "Boston Post"
+                "source": "William McMasters",
+                "relation": "bos_kasa_kayitlarini_sizdirdi",
+                "target": "Boston Post"
             },
             {
-                "kaynak": "Boston Post",
-                "iliski": "sabika_kaydini_ifsa_etti",
-                "hedef": "Charles Ponzi"
+                "source": "Boston Post",
+                "relation": "sabika_kaydini_ifsa_etti",
+                "target": "Charles Ponzi"
             },
             {
-                "kaynak": "Federal Mufettisler",
-                "iliski": "hesaplarina_el_koydu",
-                "hedef": "Menkul Kiymetler Degisim Sirketi"
+                "source": "Federal Mufettisler",
+                "relation": "hesaplarina_el_koydu",
+                "target": "Menkul Kiymetler Degisim Sirketi"
             },
             {
-                "kaynak": "Menkul Kiymetler Degisim Sirketi Cokusu",
-                "iliski": "iflasina_yol_acti",
-                "hedef": "Alti Boston Bankasi"
+                "source": "Menkul Kiymetler Degisim Sirketi Cokusu",
+                "relation": "iflasina_yol_acti",
+                "target": "Alti Boston Bankasi"
             },
             {
-                "kaynak": "ABD Federal Mahkemesi",
-                "iliski": "italyaya_sinir_disi_etti",
-                "hedef": "Charles Ponzi"
+                "source": "ABD Federal Mahkemesi",
+                "relation": "italyaya_sinir_disi_etti",
+                "target": "Charles Ponzi"
             }
         ],
         "faq_tr": [
@@ -2731,134 +2731,134 @@
             "Madoff Mağdurları Fonu"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Yatırım stratejisi, S&P 100 hisseleri ve aktif opsiyon sözleşmelerine dayalı bölünmüş kullanım dönüşümü (split-strike conversion) ile sıfıra yakın volatilitede istikrarlı getiri sağlamakta ve bağımsız denetimden geçen 64,8 milyar dolarlık bir portföyü yönetmektedir.",
-            "gercek_durum": "Piyasada hiçbir fiili hisse senedi veya opsiyon işlemi gerçekleştirilmemiş; izole bir sunucu üzerinden geriye dönük sahte işlem ekstreleri üretilmiş ve tek kişilik tabela denetim firması aracılığıyla yaklaşık 17,5 milyar dolarlık anapara açığı tek bir ticari banka hesabında gizlenmiştir."
+            "official_claim": "Yatırım stratejisi, S&P 100 hisseleri ve aktif opsiyon sözleşmelerine dayalı bölünmüş kullanım dönüşümü (split-strike conversion) ile sıfıra yakın volatilitede istikrarlı getiri sağlamakta ve bağımsız denetimden geçen 64,8 milyar dolarlık bir portföyü yönetmektedir.",
+            "actual_reality": "Piyasada hiçbir fiili hisse senedi veya opsiyon işlemi gerçekleştirilmemiş; izole bir sunucu üzerinden geriye dönük sahte işlem ekstreleri üretilmiş ve tek kişilik tabela denetim firması aracılığıyla yaklaşık 17,5 milyar dolarlık anapara açığı tek bir ticari banka hesabında gizlenmiştir."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Türev piyasalarını denetim dışı bırakan finansal serbestleşme adımları ve kurucunun borsa dijitalleşmesindeki öncü rolünün yarattığı düzenleyici körlük, sistemi temel analitik denetimlerden muaf kılan bir zemin oluşturdu.",
-            "uygulama": "Müşteri varlıkları bağımsız bir saklama kuruluşu yerine tek bir ana mevduat hesabında toplanarak, izole algoritmalarla sahte alım-satım kayıtları üretildi ve eski yatırımcıların çıkışları yeni giren anaparalarla finanse edildi.",
-            "cokus": "2008 küresel likidite krizinin tetiklediği yoğun nakit çekim talepleri mevcut rezervleri tüketerek sistemik bir tıkanmaya yol açtı; nakit akışının durmasıyla birlikte operasyon ifşa edilerek adli tasfiye sürecine girildi."
+            "trigger": "Türev piyasalarını denetim dışı bırakan finansal serbestleşme adımları ve kurucunun borsa dijitalleşmesindeki öncü rolünün yarattığı düzenleyici körlük, sistemi temel analitik denetimlerden muaf kılan bir zemin oluşturdu.",
+            "execution": "Müşteri varlıkları bağımsız bir saklama kuruluşu yerine tek bir ana mevduat hesabında toplanarak, izole algoritmalarla sahte alım-satım kayıtları üretildi ve eski yatırımcıların çıkışları yeni giren anaparalarla finanse edildi.",
+            "collapse": "2008 küresel likidite krizinin tetiklediği yoğun nakit çekim talepleri mevcut rezervleri tüketerek sistemik bir tıkanmaya yol açtı; nakit akışının durmasıyla birlikte operasyon ifşa edilerek adli tasfiye sürecine girildi."
         },
         "relationships_tr": [
             {
-                "kaynak": "Bernard L. Madoff",
-                "iliski": "kurdu",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Bernard L. Madoff",
+                "relation": "kurdu",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Bernard L. Madoff",
-                "iliski": "baskanlik_etti",
-                "hedef": "NASDAQ"
+                "source": "Bernard L. Madoff",
+                "relation": "baskanlik_etti",
+                "target": "NASDAQ"
             },
             {
-                "kaynak": "Peter Madoff",
-                "iliski": "uyum_sureclerini_yonetti",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Peter Madoff",
+                "relation": "uyum_sureclerini_yonetti",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Frank DiPascali",
-                "iliski": "operasyon_direktorlugunu_yuruttu",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Frank DiPascali",
+                "relation": "operasyon_direktorlugunu_yuruttu",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Daniel Bonventre",
-                "iliski": "operasyon_ve_muhasebeyi_yonetti",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Daniel Bonventre",
+                "relation": "operasyon_ve_muhasebeyi_yonetti",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Enrica Cotellessa-Pitz",
-                "iliski": "kontrolorluk_gorevini_yuruttu",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Enrica Cotellessa-Pitz",
+                "relation": "kontrolorluk_gorevini_yuruttu",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Jerome O'Hara ve George Perez",
-                "iliski": "fiktif_islem_algoritmalari_kodladi",
-                "hedef": "IBM AS/400 Sunucusu (House 17)"
+                "source": "Jerome O'Hara ve George Perez",
+                "relation": "fiktif_islem_algoritmalari_kodladi",
+                "target": "IBM AS/400 Sunucusu (House 17)"
             },
             {
-                "kaynak": "Annette Bongiorno ve Joann Crupi",
-                "iliski": "sahte_hesap_ekstresi_uretti",
-                "hedef": "BLMIS Yatirimcilari"
+                "source": "Annette Bongiorno ve Joann Crupi",
+                "relation": "sahte_hesap_ekstresi_uretti",
+                "target": "BLMIS Yatirimcilari"
             },
             {
-                "kaynak": "Harry Markopolos",
-                "iliski": "ihbar_raporlari_hazirladi",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Harry Markopolos",
+                "relation": "ihbar_raporlari_hazirladi",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Harry Markopolos",
-                "iliski": "ihbar_raporlarini_sundu",
-                "hedef": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)"
+                "source": "Harry Markopolos",
+                "relation": "ihbar_raporlarini_sundu",
+                "target": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)"
             },
             {
-                "kaynak": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)",
-                "iliski": "denetim_boslugu_gosterdi",
-                "hedef": "Avellino & Bienes"
+                "source": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)",
+                "relation": "denetim_boslugu_gosterdi",
+                "target": "Avellino & Bienes"
             },
             {
-                "kaynak": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)",
-                "iliski": "ihbar_uyarilarini_goz_ardi_etti",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "ABD Menkul Kiymetler ve Borsa Komisyonu (SEC)",
+                "relation": "ihbar_uyarilarini_goz_ardi_etti",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Friehling & Horowitz",
-                "iliski": "denetimsiz_mali_onay_verdi",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Friehling & Horowitz",
+                "relation": "denetimsiz_mali_onay_verdi",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Fairfield Greenwich Group",
-                "iliski": "araci_fon_kaynagi_saglamistir",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Fairfield Greenwich Group",
+                "relation": "araci_fon_kaynagi_saglamistir",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "Ascot Partners",
-                "iliski": "araci_fon_kaynagi_saglamistir",
-                "hedef": "Bernard L. Madoff Investment Securities (BLMIS)"
+                "source": "Ascot Partners",
+                "relation": "araci_fon_kaynagi_saglamistir",
+                "target": "Bernard L. Madoff Investment Securities (BLMIS)"
             },
             {
-                "kaynak": "JPMorgan Chase",
-                "iliski": "bildirimsiz_supheli_nakit_hesabi_barindirdi",
-                "hedef": "Chase 703 Hesabi"
+                "source": "JPMorgan Chase",
+                "relation": "bildirimsiz_supheli_nakit_hesabi_barindirdi",
+                "target": "Chase 703 Hesabi"
             },
             {
-                "kaynak": "JPMorgan Chase",
-                "iliski": "uyum_kuralini_ihlal_etti",
-                "hedef": "Banka Gizlilik Yasasi (Bank Secrecy Act)"
+                "source": "JPMorgan Chase",
+                "relation": "uyum_kuralini_ihlal_etti",
+                "target": "Banka Gizlilik Yasasi (Bank Secrecy Act)"
             },
             {
-                "kaynak": "JPMorgan Chase",
-                "iliski": "ertelenmis_kovusturma_anlasmasi_kapsaminda_musadere_odedi",
-                "hedef": "ABD Adalet Bakanligi (DOJ)"
+                "source": "JPMorgan Chase",
+                "relation": "ertelenmis_kovusturma_anlasmasi_kapsaminda_musadere_odedi",
+                "target": "ABD Adalet Bakanligi (DOJ)"
             },
             {
-                "kaynak": "Jeffry Picower Miras Yonetimi",
-                "iliski": "rekor_musadere_uzlasmasi_imzaladi",
-                "hedef": "SIPA Mutevellisi Irving Picard"
+                "source": "Jeffry Picower Miras Yonetimi",
+                "relation": "rekor_musadere_uzlasmasi_imzaladi",
+                "target": "SIPA Mutevellisi Irving Picard"
             },
             {
-                "kaynak": "SIPA Mutevellisi Irving Picard",
-                "iliski": "net_hak_sahipligi_modelini_uyguladi",
-                "hedef": "BLMIS Magdurlari"
+                "source": "SIPA Mutevellisi Irving Picard",
+                "relation": "net_hak_sahipligi_modelini_uyguladi",
+                "target": "BLMIS Magdurlari"
             },
             {
-                "kaynak": "Madoff Magdurlari Fonu (MVF)",
-                "iliski": "tazminat_odemesi_gerceklestirdi",
-                "hedef": "Kuresel Madoff Magdurlari"
+                "source": "Madoff Magdurlari Fonu (MVF)",
+                "relation": "tazminat_odemesi_gerceklestirdi",
+                "target": "Kuresel Madoff Magdurlari"
             },
             {
-                "kaynak": "ABD Kongresi",
-                "iliski": "deregulasyon_zemini_olusturdu",
-                "hedef": "Golge Piyasa Turev Urunleri"
+                "source": "ABD Kongresi",
+                "relation": "deregulasyon_zemini_olusturdu",
+                "target": "Golge Piyasa Turev Urunleri"
             },
             {
-                "kaynak": "Madoff Cokusu",
-                "iliski": "saklama_kurallarinin_yeniden_yazilmasini_tetikledi",
-                "hedef": "SEC Kural 206(4)-2 Saklama Kurali"
+                "source": "Madoff Cokusu",
+                "relation": "saklama_kurallarinin_yeniden_yazilmasini_tetikledi",
+                "target": "SEC Kural 206(4)-2 Saklama Kurali"
             },
             {
-                "kaynak": "Madoff Cokusu",
-                "iliski": "serbest_fon_tescil_zorunlulugu_getirdi",
-                "hedef": "Dodd-Frank Yasasi"
+                "source": "Madoff Cokusu",
+                "relation": "serbest_fon_tescil_zorunlulugu_getirdi",
+                "target": "Dodd-Frank Yasasi"
             }
         ],
         "faq_tr": [
@@ -3037,39 +3037,39 @@
             "KGB Köstebek"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "CIA ve MI6, Operation Gold'u yüksek gizlilikli bir sinyal istihbaratı operasyonu olarak yürüttü ve yaklaşık 40 bin saat telefon konuşması ile milyonlarca saatlik teleks trafiği dahil olmak üzere büyük miktarda Sovyet ve Doğu Alman iletişimi elde etti.",
-            "gercek_durum": "KGB, MI6 içindeki çifte ajan George Blake sayesinde operasyonu önceden biliyordu ve Blake'in konumunu korumak için tünelin yaklaşık 11 ay çalışmasına izin verdi. Sonraki değerlendirmelerde, dinlenen hatlar üzerinden Batı'ya sistematik biçimde sahte bilgi verildiğini kanıtlayan bir bulgu ortaya çıkmadı."
+            "official_claim": "CIA ve MI6, Operation Gold'u yüksek gizlilikli bir sinyal istihbaratı operasyonu olarak yürüttü ve yaklaşık 40 bin saat telefon konuşması ile milyonlarca saatlik teleks trafiği dahil olmak üzere büyük miktarda Sovyet ve Doğu Alman iletişimi elde etti.",
+            "actual_reality": "KGB, MI6 içindeki çifte ajan George Blake sayesinde operasyonu önceden biliyordu ve Blake'in konumunu korumak için tünelin yaklaşık 11 ay çalışmasına izin verdi. Sonraki değerlendirmelerde, dinlenen hatlar üzerinden Batı'ya sistematik biçimde sahte bilgi verildiğini kanıtlayan bir bulgu ortaya çıkmadı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "CIA ve MI6, Batı Berlin'den Sovyet ve Doğu Alman yeraltı iletişim kablolarına ulaşmak için ortak bir gizli tünel operasyonu planladı.",
-            "uygulama": "Mühendisler yaklaşık 450 metrelik tüneli inşa edip kablolara dinleme sistemleri kurdu; ancak MI6 subayı George Blake operasyonla ilgili bilgileri daha faaliyete geçmeden KGB'ye aktarmıştı.",
-            "cokus": "Nisan 1956'da Sovyet ve Doğu Alman ekipleri tüneli kablo onarımı ve teknik keşif görüntüsü altında ortaya çıkardı; operasyon uluslararası basına taşındı, Blake ise 1961'e kadar deşifre edilmeden kaldı."
+            "trigger": "CIA ve MI6, Batı Berlin'den Sovyet ve Doğu Alman yeraltı iletişim kablolarına ulaşmak için ortak bir gizli tünel operasyonu planladı.",
+            "execution": "Mühendisler yaklaşık 450 metrelik tüneli inşa edip kablolara dinleme sistemleri kurdu; ancak MI6 subayı George Blake operasyonla ilgili bilgileri daha faaliyete geçmeden KGB'ye aktarmıştı.",
+            "collapse": "Nisan 1956'da Sovyet ve Doğu Alman ekipleri tüneli kablo onarımı ve teknik keşif görüntüsü altında ortaya çıkardı; operasyon uluslararası basına taşındı, Blake ise 1961'e kadar deşifre edilmeden kaldı."
         },
         "relationships_tr": [
             {
-                "kaynak": "George Blake",
-                "iliski": "operasyon_planlarini_sizdirdi",
-                "hedef": "KGB (Birinci Baş Direktörlük)"
+                "source": "George Blake",
+                "relation": "operasyon_planlarini_sizdirdi",
+                "target": "KGB (Birinci Baş Direktörlük)"
             },
             {
-                "kaynak": "CIA (Planlama Direktörlüğü)",
-                "iliski": "operation_gold_operasyonunu_ortak_yuruttu",
-                "hedef": "MI6 (Gizli İstihbarat Servisi)"
+                "source": "CIA (Planlama Direktörlüğü)",
+                "relation": "operation_gold_operasyonunu_ortak_yuruttu",
+                "target": "MI6 (Gizli İstihbarat Servisi)"
             },
             {
-                "kaynak": "William Harvey",
-                "iliski": "cia_operasyon_planlamasini_yonetti",
-                "hedef": "Operation Gold (Berlin Tüneli)"
+                "source": "William Harvey",
+                "relation": "cia_operasyon_planlamasini_yonetti",
+                "target": "Operation Gold (Berlin Tüneli)"
             },
             {
-                "kaynak": "KGB (Birinci Baş Direktörlük)",
-                "iliski": "blakei_korumak_icin_operasyonun_devamina_izin_verdi",
-                "hedef": "Operation Gold (Berlin Tüneli)"
+                "source": "KGB (Birinci Baş Direktörlük)",
+                "relation": "blakei_korumak_icin_operasyonun_devamina_izin_verdi",
+                "target": "Operation Gold (Berlin Tüneli)"
             },
             {
-                "kaynak": "ABD Kara Kuvvetleri Mühendisleri",
-                "iliski": "muhendislik_insa_surecine_destek_verdi",
-                "hedef": "Operation Gold (Berlin Tüneli)"
+                "source": "ABD Kara Kuvvetleri Mühendisleri",
+                "relation": "muhendislik_insa_surecine_destek_verdi",
+                "target": "Operation Gold (Berlin Tüneli)"
             }
         ],
         "faq_tr": [
@@ -3232,39 +3232,39 @@
             "Casuslar Köprüsü"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Vilyam Fisher, Brooklyn'de 'Emil R. Goldfus' adıyla sakin bir hayat yaşayan, fotoğrafçılık ve resim yapan mütevazı bir Amerikan vatandaşıydı.",
-            "gercek_durum": "KGB'nin Kuzey Amerika'daki tüm yasadışı derin operasyonlarını ve nükleer istihbarat kurye ağlarını yöneten Albay rütbeli baş casus Rudolf Abel'di."
+            "official_claim": "Vilyam Fisher, Brooklyn'de 'Emil R. Goldfus' adıyla sakin bir hayat yaşayan, fotoğrafçılık ve resim yapan mütevazı bir Amerikan vatandaşıydı.",
+            "actual_reality": "KGB'nin Kuzey Amerika'daki tüm yasadışı derin operasyonlarını ve nükleer istihbarat kurye ağlarını yöneten Albay rütbeli baş casus Rudolf Abel'di."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Brooklyn'de bir gazete dağıtıcısının düşürdüğü 5 sentlik bozuk paranın içinden şifreli mikrofilm çıkmasıyla FBI 4 yıl sürecek gizli bir kriptoanaliz avı başlattı.",
-            "uygulama": "KGB baş casusu Rudolf Abel, Brooklyn'deki sanat stüdyosundan telsiz şifreleri ve oyuk eşyalarla Kuzey Amerika'daki nükleer ve askeri casusluk ağını yönetti.",
-            "cokus": "Alkolik yardımcısı Häyhänen 1957'de Paris'te ABD Elçiliği'ne sığınıp şifreyi çözdü; FBI Abel'i tutukladı ve 1962'de Casuslar Köprüsü'nde Gary Powers ile takas edildi."
+            "trigger": "Brooklyn'de bir gazete dağıtıcısının düşürdüğü 5 sentlik bozuk paranın içinden şifreli mikrofilm çıkmasıyla FBI 4 yıl sürecek gizli bir kriptoanaliz avı başlattı.",
+            "execution": "KGB baş casusu Rudolf Abel, Brooklyn'deki sanat stüdyosundan telsiz şifreleri ve oyuk eşyalarla Kuzey Amerika'daki nükleer ve askeri casusluk ağını yönetti.",
+            "collapse": "Alkolik yardımcısı Häyhänen 1957'de Paris'te ABD Elçiliği'ne sığınıp şifreyi çözdü; FBI Abel'i tutukladı ve 1962'de Casuslar Köprüsü'nde Gary Powers ile takas edildi."
         },
         "relationships_tr": [
             {
-                "kaynak": "Rudolf Abel (Vilyam Fisher)",
-                "iliski": "derin_casusluk_hucresini_yonetti",
-                "hedef": "KGB (S Direktörlüğü - İllegaller)"
+                "source": "Rudolf Abel (Vilyam Fisher)",
+                "relation": "derin_casusluk_hucresini_yonetti",
+                "target": "KGB (S Direktörlüğü - İllegaller)"
             },
             {
-                "kaynak": "Reino Häyhänen",
-                "iliski": "yardimci_ve_kuryelik_yapti",
-                "hedef": "Rudolf Abel (Vilyam Fisher)"
+                "source": "Reino Häyhänen",
+                "relation": "yardimci_ve_kuryelik_yapti",
+                "target": "Rudolf Abel (Vilyam Fisher)"
             },
             {
-                "kaynak": "Reino Häyhänen",
-                "iliski": "iltica_edip_sifreleri_teslim_etti",
-                "hedef": "FBI"
+                "source": "Reino Häyhänen",
+                "relation": "iltica_edip_sifreleri_teslim_etti",
+                "target": "FBI"
             },
             {
-                "kaynak": "FBI",
-                "iliski": "takip_edip_tutukladi",
-                "hedef": "Rudolf Abel (Vilyam Fisher)"
+                "source": "FBI",
+                "relation": "takip_edip_tutukladi",
+                "target": "Rudolf Abel (Vilyam Fisher)"
             },
             {
-                "kaynak": "James B. Donovan",
-                "iliski": "tarihi_casus_takasini_muzakere_etti",
-                "hedef": "Francis Gary Powers"
+                "source": "James B. Donovan",
+                "relation": "tarihi_casus_takasini_muzakere_etti",
+                "target": "Francis Gary Powers"
             }
         ],
         "faq_tr": [
@@ -3428,39 +3428,39 @@
             "Kısa Dalga Telsiz"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Richard Sorge, Şanghay'da Alman gazeteleri için ekonomi ve tarım muhabirliği yapan muhafazakar bir Alman entelektüeli ve sadık bir Nazi Partisi sempatizanıydı.",
-            "gercek_durum": "Kızıl Ordu Askeri İstihbarat Dairesi'ne (GRU) bağlı üst düzey bir Sovyet istihbarat subayıydı; Şanghay imtiyaz bölgelerinden Alman ve Japon askeri sırlarını Moskova'ya aktarıyordu."
+            "official_claim": "Richard Sorge, Şanghay'da Alman gazeteleri için ekonomi ve tarım muhabirliği yapan muhafazakar bir Alman entelektüeli ve sadık bir Nazi Partisi sempatizanıydı.",
+            "actual_reality": "Kızıl Ordu Askeri İstihbarat Dairesi'ne (GRU) bağlı üst düzey bir Sovyet istihbarat subayıydı; Şanghay imtiyaz bölgelerinden Alman ve Japon askeri sırlarını Moskova'ya aktarıyordu."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Sovyet GRU karargahı, Japonya'nın Mançurya niyetlerini ve Çin'deki Alman Askeri Misyonu'nu izlemek üzere 1930'da Richard Sorge'yi Şanghay'a gönderdi.",
-            "uygulama": "Sorge, gazeteci Agnes Smedley ve Japon muhabir Hotsumi Ozaki'yi ağa kattı; Max Clausen'in el yapımı gizli kısa dalga telsizleriyle askeri verileri Moskova'ya iletti.",
-            "cokus": "Şanghay Belediye Polisi'ne hiç yakalanmayan hücre görevini 1933'te başarıyla tamamladı ve Sorge'nin 2. Dünya Savaşı'nın kaderini değiştireceği Tokyo hücresine zemin hazırladı."
+            "trigger": "Sovyet GRU karargahı, Japonya'nın Mançurya niyetlerini ve Çin'deki Alman Askeri Misyonu'nu izlemek üzere 1930'da Richard Sorge'yi Şanghay'a gönderdi.",
+            "execution": "Sorge, gazeteci Agnes Smedley ve Japon muhabir Hotsumi Ozaki'yi ağa kattı; Max Clausen'in el yapımı gizli kısa dalga telsizleriyle askeri verileri Moskova'ya iletti.",
+            "collapse": "Şanghay Belediye Polisi'ne hiç yakalanmayan hücre görevini 1933'te başarıyla tamamladı ve Sorge'nin 2. Dünya Savaşı'nın kaderini değiştireceği Tokyo hücresine zemin hazırladı."
         },
         "relationships_tr": [
             {
-                "kaynak": "Richard Sorge (Johnson)",
-                "iliski": "sanghay_casus_hucresini_yonetti",
-                "hedef": "GRU (Sovyet Askeri İstihbaratı)"
+                "source": "Richard Sorge (Johnson)",
+                "relation": "sanghay_casus_hucresini_yonetti",
+                "target": "GRU (Sovyet Askeri İstihbaratı)"
             },
             {
-                "kaynak": "Hotsumi Ozaki",
-                "iliski": "japon_askeri_istihbaratini_sagladi",
-                "hedef": "Richard Sorge (Johnson)"
+                "source": "Hotsumi Ozaki",
+                "relation": "japon_askeri_istihbaratini_sagladi",
+                "target": "Richard Sorge (Johnson)"
             },
             {
-                "kaynak": "Max Clausen",
-                "iliski": "gizli_telsiz_operatorlugu_yapti",
-                "hedef": "Richard Sorge (Johnson)"
+                "source": "Max Clausen",
+                "relation": "gizli_telsiz_operatorlugu_yapti",
+                "target": "Richard Sorge (Johnson)"
             },
             {
-                "kaynak": "Agnes Smedley",
-                "iliski": "diplomatik_ve_sosyal_ag_kurdu",
-                "hedef": "Richard Sorge (Johnson)"
+                "source": "Agnes Smedley",
+                "relation": "diplomatik_ve_sosyal_ag_kurdu",
+                "target": "Richard Sorge (Johnson)"
             },
             {
-                "kaynak": "Çin'deki Alman Askeri Misyonu",
-                "iliski": "askeri_sirlari_fark_etmeden_paylasti",
-                "hedef": "Richard Sorge (Johnson)"
+                "source": "Çin'deki Alman Askeri Misyonu",
+                "relation": "askeri_sirlari_fark_etmeden_paylasti",
+                "target": "Richard Sorge (Johnson)"
             }
         ],
         "faq_tr": [
@@ -3625,39 +3625,39 @@
             "Eugen Ott"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Dr. Richard Sorge, Nazi Partisi üyesi, Frankfurter Zeitung muhabiri ve Tokyo'daki Alman Büyükelçisi General Eugen Ott'un en güvendiği gayriresmi danışmanıydı.",
-            "gercek_durum": "Kızıl Ordu Askeri İstihbarat Dairesi'nin (GRU) Tokyo'daki baş casusu 'Ramsay' kod adlı subayıydı; Berlin'den gelen askeri kriptoları ve Japon kabine kararlarını Moskova'ya sızdırıyordu."
+            "official_claim": "Dr. Richard Sorge, Nazi Partisi üyesi, Frankfurter Zeitung muhabiri ve Tokyo'daki Alman Büyükelçisi General Eugen Ott'un en güvendiği gayriresmi danışmanıydı.",
+            "actual_reality": "Kızıl Ordu Askeri İstihbarat Dairesi'nin (GRU) Tokyo'daki baş casusu 'Ramsay' kod adlı subayıydı; Berlin'den gelen askeri kriptoları ve Japon kabine kararlarını Moskova'ya sızdırıyordu."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Sovyet GRU karargahı, SSCB'yi iki cepheli bir savaştan korumak ve Berlin-Tokyo askeri ittifakını izlemek için Sorge'yi Tokyo'da Ramsay şebekesini kurmakla görevlendirdi.",
-            "uygulama": "Sorge Alman Büyükelçiliği kripto odasına sızarken Hotsumi Ozaki Japon kabine kararlarını temin etti; Max Clausen bu hayati verileri gizli HF telsizle Vladivostok'a iletti.",
-            "cokus": "Ekim 1941'de Tokkō kurye Miyagi üzerinden ağa ulaşıp Ozaki ve Sorge'yi tutukladı; Sorge ve Ozaki Kasım 1944'te Sugamo Cezaevi'nde idam edildi."
+            "trigger": "Sovyet GRU karargahı, SSCB'yi iki cepheli bir savaştan korumak ve Berlin-Tokyo askeri ittifakını izlemek için Sorge'yi Tokyo'da Ramsay şebekesini kurmakla görevlendirdi.",
+            "execution": "Sorge Alman Büyükelçiliği kripto odasına sızarken Hotsumi Ozaki Japon kabine kararlarını temin etti; Max Clausen bu hayati verileri gizli HF telsizle Vladivostok'a iletti.",
+            "collapse": "Ekim 1941'de Tokkō kurye Miyagi üzerinden ağa ulaşıp Ozaki ve Sorge'yi tutukladı; Sorge ve Ozaki Kasım 1944'te Sugamo Cezaevi'nde idam edildi."
         },
         "relationships_tr": [
             {
-                "kaynak": "Richard Sorge",
-                "iliski": "ramsay_sebekesini_yonetti",
-                "hedef": "GRU (Sovyet Askeri İstihbaratı)"
+                "source": "Richard Sorge",
+                "relation": "ramsay_sebekesini_yonetti",
+                "target": "GRU (Sovyet Askeri İstihbaratı)"
             },
             {
-                "kaynak": "Richard Sorge",
-                "iliski": "kripto_odasina_sizdi",
-                "hedef": "Alman Büyükelçiliği Tokyo"
+                "source": "Richard Sorge",
+                "relation": "kripto_odasina_sizdi",
+                "target": "Alman Büyükelçiliği Tokyo"
             },
             {
-                "kaynak": "Hotsumi Ozaki",
-                "iliski": "kabine_kararlarini_sizdirdi",
-                "hedef": "Japon İmparatorluk Kabinesi"
+                "source": "Hotsumi Ozaki",
+                "relation": "kabine_kararlarini_sizdirdi",
+                "target": "Japon İmparatorluk Kabinesi"
             },
             {
-                "kaynak": "Eugen Ott",
-                "iliski": "fark_etmeden_berlin_yazismalarini_paylasti",
-                "hedef": "Richard Sorge"
+                "source": "Eugen Ott",
+                "relation": "fark_etmeden_berlin_yazismalarini_paylasti",
+                "target": "Richard Sorge"
             },
             {
-                "kaynak": "Düşünce Polisi Tokkō",
-                "iliski": "sebekeyi_cokertip_tutukladi",
-                "hedef": "Richard Sorge"
+                "source": "Düşünce Polisi Tokkō",
+                "relation": "sebekeyi_cokertip_tutukladi",
+                "target": "Richard Sorge"
             }
         ],
         "faq_tr": [
@@ -3818,39 +3818,39 @@
             "ŞuaybEs Saltana"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Çarlık Rusyası ve İngiliz İmparatorluğu, 1907 Antlaşması'nın Kaçar İranı'nın toprak bütünlüğüne, mali bağımsızlığına ve egemenliğine tamamen saygılı olduğunu iddia etti.",
-            "gercek_durum": "İki emperyal güç gizli bir nüfuz karteli kurarak Kuzey İran'ı Kazak tugaylarıyla işgal etti ve İran'ın bağımsız bir vergi/maliye sistemi kurmasını engellemek için Morgan Shuster'ın kovulmasını askeri ültimatomla dayattı."
+            "official_claim": "Çarlık Rusyası ve İngiliz İmparatorluğu, 1907 Antlaşması'nın Kaçar İranı'nın toprak bütünlüğüne, mali bağımsızlığına ve egemenliğine tamamen saygılı olduğunu iddia etti.",
+            "actual_reality": "İki emperyal güç gizli bir nüfuz karteli kurarak Kuzey İran'ı Kazak tugaylarıyla işgal etti ve İran'ın bağımsız bir vergi/maliye sistemi kurmasını engellemek için Morgan Shuster'ın kovulmasını askeri ültimatomla dayattı."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Kaçar Meclisi, iflas eden devlet maliyesini toparlamak ve vergi egemenliğini kurmak için Amerikalı maliyeci Morgan Shuster'ı Hazine Genel Saymanı olarak atadı.",
-            "uygulama": "Shuster Hazine Jandarması'nı kurarak vergi kaçıran Rus yanlısı Prens Şuayb es-Saltana'nın sarayına haciz koydu ve emperyal imtiyazlara doğrudan meydan okudu.",
-            "cokus": "Çarlık Rusyası askeri ültimatom verip Kuzey İran'ı işgal etti; Tahran hükümeti boyun eğerek Aralık 1911'de Meclis'i kapattı ve Shuster'ı sınır dışı etti."
+            "trigger": "Kaçar Meclisi, iflas eden devlet maliyesini toparlamak ve vergi egemenliğini kurmak için Amerikalı maliyeci Morgan Shuster'ı Hazine Genel Saymanı olarak atadı.",
+            "execution": "Shuster Hazine Jandarması'nı kurarak vergi kaçıran Rus yanlısı Prens Şuayb es-Saltana'nın sarayına haciz koydu ve emperyal imtiyazlara doğrudan meydan okudu.",
+            "collapse": "Çarlık Rusyası askeri ültimatom verip Kuzey İran'ı işgal etti; Tahran hükümeti boyun eğerek Aralık 1911'de Meclis'i kapattı ve Shuster'ı sınır dışı etti."
         },
         "relationships_tr": [
             {
-                "kaynak": "İran Meşrutiyet Meclisi",
-                "iliski": "hazine_genel_saymani_atadi",
-                "hedef": "W. Morgan Shuster"
+                "source": "İran Meşrutiyet Meclisi",
+                "relation": "hazine_genel_saymani_atadi",
+                "target": "W. Morgan Shuster"
             },
             {
-                "kaynak": "W. Morgan Shuster",
-                "iliski": "vergi_haczi_koydu",
-                "hedef": "Prens Şuayb es-Saltana"
+                "source": "W. Morgan Shuster",
+                "relation": "vergi_haczi_koydu",
+                "target": "Prens Şuayb es-Saltana"
             },
             {
-                "kaynak": "Çarlık Rusyası (Kazak Tugayı)",
-                "iliski": "askeri_ultimatom_ve_isgal_baslatti",
-                "hedef": "Kaçar Hanedanı"
+                "source": "Çarlık Rusyası (Kazak Tugayı)",
+                "relation": "askeri_ultimatom_ve_isgal_baslatti",
+                "target": "Kaçar Hanedanı"
             },
             {
-                "kaynak": "İngiliz Dışişleri Bakanlığı",
-                "iliski": "rus_isgalini_diplomatik_olarak_destekledi",
-                "hedef": "Kaçar Hanedanı"
+                "source": "İngiliz Dışişleri Bakanlığı",
+                "relation": "rus_isgalini_diplomatik_olarak_destekledi",
+                "target": "Kaçar Hanedanı"
             },
             {
-                "kaynak": "W. Morgan Shuster",
-                "iliski": "tarihi_ifsaat_kitabini_yazdi (The Strangling of Persia)",
-                "hedef": "İran Genel Saymanlığı"
+                "source": "W. Morgan Shuster",
+                "relation": "tarihi_ifsaat_kitabini_yazdi (The Strangling of Persia)",
+                "target": "İran Genel Saymanlığı"
             }
         ],
         "faq_tr": [
@@ -4011,39 +4011,39 @@
             "Çin Siyasi Tarihi"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Çin Komünist Partisi tüzüğü ve devlet propagandası, Mareşal Lin Biao'nun Başkan Mao Zedong'un 'en yakın silah arkadaşı' ve anayasal tek halefi olduğunu ilan etti.",
-            "gercek_durum": "Lin Biao ve oğlu Lin Liguo, Mao'nun özel trenini bombalayarak askeri darbe yapmayı planlayan (Proje 571) gizli bir cunta kurmuş; deşifre olunca Sovyetler'e kaçarken uçakları Moğolistan'da düşmüştür."
+            "official_claim": "Çin Komünist Partisi tüzüğü ve devlet propagandası, Mareşal Lin Biao'nun Başkan Mao Zedong'un 'en yakın silah arkadaşı' ve anayasal tek halefi olduğunu ilan etti.",
+            "actual_reality": "Lin Biao ve oğlu Lin Liguo, Mao'nun özel trenini bombalayarak askeri darbe yapmayı planlayan (Proje 571) gizli bir cunta kurmuş; deşifre olunca Sovyetler'e kaçarken uçakları Moğolistan'da düşmüştür."
         },
         "causal_chain_tr": {
-            "tetikleyici": "1970 Lushan Konferansı'nda Lin Biao'nun askeri kanadının iktidarı tekeline alma hamlesi, Mao'nun orduyu partiden tasfiye etme sürecini başlatmasına yol açtı.",
-            "uygulama": "Lin Liguo, Mao'nun teftiş trenine alev makineleri ve füzelerle saldırıp askeri darbe yapmayı planlayan 'Proje 571' operasyonel planını hazırladı.",
-            "cokus": "Lin'in kızının ihbarıyla Zhou Enlai durumu öğrendi; Mao tren rotasını değiştirdi ve Lin Biao ailesi gece yarısı kaçtıkları yakıtsız Trident jetiyle Moğolistan'da can verdi."
+            "trigger": "1970 Lushan Konferansı'nda Lin Biao'nun askeri kanadının iktidarı tekeline alma hamlesi, Mao'nun orduyu partiden tasfiye etme sürecini başlatmasına yol açtı.",
+            "execution": "Lin Liguo, Mao'nun teftiş trenine alev makineleri ve füzelerle saldırıp askeri darbe yapmayı planlayan 'Proje 571' operasyonel planını hazırladı.",
+            "collapse": "Lin'in kızının ihbarıyla Zhou Enlai durumu öğrendi; Mao tren rotasını değiştirdi ve Lin Biao ailesi gece yarısı kaçtıkları yakıtsız Trident jetiyle Moğolistan'da can verdi."
         },
         "relationships_tr": [
             {
-                "kaynak": "Lin Liguo",
-                "iliski": "proje_571_darbe_planini_yazdi",
-                "hedef": "Lin Biao"
+                "source": "Lin Liguo",
+                "relation": "proje_571_darbe_planini_yazdi",
+                "target": "Lin Biao"
             },
             {
-                "kaynak": "Lin Biao",
-                "iliski": "parti_otoritesine_karsi_cunta_kurdu",
-                "hedef": "Mao Zedong"
+                "source": "Lin Biao",
+                "relation": "parti_otoritesine_karsi_cunta_kurdu",
+                "target": "Mao Zedong"
             },
             {
-                "kaynak": "Zhou Enlai",
-                "iliski": "kacis_ihbarini_alarak_onlem_aldi",
-                "hedef": "Mao Zedong"
+                "source": "Zhou Enlai",
+                "relation": "kacis_ihbarini_alarak_onlem_aldi",
+                "target": "Mao Zedong"
             },
             {
-                "kaynak": "Halk Kurtuluş Ordusu Hava Kuvvetleri",
-                "iliski": "izinsiz_trident_jetini_tahsis_etti",
-                "hedef": "Lin Biao"
+                "source": "Halk Kurtuluş Ordusu Hava Kuvvetleri",
+                "relation": "izinsiz_trident_jetini_tahsis_etti",
+                "target": "Lin Biao"
             },
             {
-                "kaynak": "KGB (SSCB)",
-                "iliski": "mogolistan_enkazinda_gizli_otopsi_yapti",
-                "hedef": "Lin Biao"
+                "source": "KGB (SSCB)",
+                "relation": "mogolistan_enkazinda_gizli_otopsi_yapti",
+                "target": "Lin Biao"
             }
         ],
         "faq_tr": [
@@ -4204,39 +4204,39 @@
             "Sung Sing Fabrikaları"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Kültür Devrimi sırasında radikal Kızıl Muhafızlar, Rong Yiren'i rejim düşmanı bir karşı-devrimci, vatan haini ve burjuva kan emici olarak ilan etti.",
-            "gercek_durum": "Rong, Mao'nun 'Kızıl Kapitalisti' ve Deng Xiaoping'in vazgeçilmez finans mimarıydı; Çin'in ilk devlet yatırım tröstü CITIC'i kurarak Çin Devlet Başkan Yardımcılığına kadar yükseldi."
+            "official_claim": "Kültür Devrimi sırasında radikal Kızıl Muhafızlar, Rong Yiren'i rejim düşmanı bir karşı-devrimci, vatan haini ve burjuva kan emici olarak ilan etti.",
+            "actual_reality": "Rong, Mao'nun 'Kızıl Kapitalisti' ve Deng Xiaoping'in vazgeçilmez finans mimarıydı; Çin'in ilk devlet yatırım tröstü CITIC'i kurarak Çin Devlet Başkan Yardımcılığına kadar yükseldi."
         },
         "causal_chain_tr": {
-            "tetikleyici": "1949 devrimi sonrası Şanghaylı milyarder Rong Yiren kaçmayıp Çin'de kalmayı seçti ve ailesine ait 24 fabrikayı kamu-özel ortaklığıyla devlete devretti.",
-            "uygulama": "1966 Kültür Devrimi'nde Kızıl Muhafızlar evini bastı, mal varlığını yağmaladı ve Başbakan Zhou Enlai gizlice koruyana kadar Rong'u hademelik yapıp tuvalet temizlemeye zorladı.",
-            "cokus": "1978'de Deng Xiaoping Rong'u itibarını iade ederek göreve çağırdı; kurduğu CITIC tröstüyle Çin'e milyarlarca dolar çeken Rong, 1993'te Çin Devlet Başkan Yardımcısı oldu."
+            "trigger": "1949 devrimi sonrası Şanghaylı milyarder Rong Yiren kaçmayıp Çin'de kalmayı seçti ve ailesine ait 24 fabrikayı kamu-özel ortaklığıyla devlete devretti.",
+            "execution": "1966 Kültür Devrimi'nde Kızıl Muhafızlar evini bastı, mal varlığını yağmaladı ve Başbakan Zhou Enlai gizlice koruyana kadar Rong'u hademelik yapıp tuvalet temizlemeye zorladı.",
+            "collapse": "1978'de Deng Xiaoping Rong'u itibarını iade ederek göreve çağırdı; kurduğu CITIC tröstüyle Çin'e milyarlarca dolar çeken Rong, 1993'te Çin Devlet Başkan Yardımcısı oldu."
         },
         "relationships_tr": [
             {
-                "kaynak": "Mao Zedong",
-                "iliski": "kizil_kapitalist_unvanini_verdi",
-                "hedef": "Rong Yiren"
+                "source": "Mao Zedong",
+                "relation": "kizil_kapitalist_unvanini_verdi",
+                "target": "Rong Yiren"
             },
             {
-                "kaynak": "Zhou Enlai",
-                "iliski": "tasfiyeler_sirasinda_gizlice_korudu",
-                "hedef": "Rong Yiren"
+                "source": "Zhou Enlai",
+                "relation": "tasfiyeler_sirasinda_gizlice_korudu",
+                "target": "Rong Yiren"
             },
             {
-                "kaynak": "Deng Xiaoping",
-                "iliski": "citic_trostunu_kurma_gorevi_verdi",
-                "hedef": "Rong Yiren"
+                "source": "Deng Xiaoping",
+                "relation": "citic_trostunu_kurma_gorevi_verdi",
+                "target": "Rong Yiren"
             },
             {
-                "kaynak": "Rong Yiren",
-                "iliski": "kurucu_baskanligini_yapti",
-                "hedef": "CITIC (Çin Uluslararası Güven ve Yatırım Şirketi)"
+                "source": "Rong Yiren",
+                "relation": "kurucu_baskanligini_yapti",
+                "target": "CITIC (Çin Uluslararası Güven ve Yatırım Şirketi)"
             },
             {
-                "kaynak": "Çin Devlet Konseyi",
-                "iliski": "devlet_baskan_yardimcisi_atadi",
-                "hedef": "Rong Yiren"
+                "source": "Çin Devlet Konseyi",
+                "relation": "devlet_baskan_yardimcisi_atadi",
+                "target": "Rong Yiren"
             }
         ],
         "faq_tr": [
@@ -4254,7 +4254,6 @@
             }
         ]
     },
-
     {
         "id": "BIO_001",
         "category": "Biography",
@@ -4413,7 +4412,7 @@
         "institutions": [
             "Court of Emperor Frederick II"
         ],
-        "title_en": "The mathematical data standardization revolution starting with Fibonacci's transfer of the Hindu-Arabic numeral system to Europe in the 13th century, extending to modern cryptography and elliptic curve theory.",
+        "title_en": "Fibonacci and Mathematical Legacy: From Liber Abaci to Elliptic Curves in Modern Number Theory",
         "mechanism_en": "In the computational architecture, a transition was made from cumbersome Roman numerals to Hindu-Arabic symbols, and the concepts of zero (zephirum) and the fraction line (virga) were integrated into the system for data standardization. The congruum problem was modeled as the common difference in an arithmetic progression of three consecutive perfect squares using the formula $4mn(m+n)(m-n)$, where m and n are coprime and of different parity. Furthermore, the impossibility of a rational solution was proven by expanding the cubic equation $x^3 + 2x^2 + 10x = 20$ in the sexagesimal system as $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$.",
         "systemic_impact_en": "Algebraic operations evolved from verbal narrative to symbolic structure, laying the methodological groundwork for modern algebra. This analytical perspective, aimed at understanding the ontological nature of solutions, paved the way for Fermat's Right Triangle Theorem, the 1983 Tunnell Criterion, and the modern investigation of rational points on elliptic curves ($y^2 = x^3 - N^2x$) via the BSD conjecture. These historical processes ultimately formed the core of modern scientific DNA, reaching up to today's quantum physics and digital finance systems.",
         "context_en": "This is a series of events triggered in the early 13th century when Leonardo Pisano (Fibonacci) encountered the Hindu-Arabic numeral system and zero in Bugia, Algeria. With the publication of Liber Abbaci in 1202 and the subsequent Liber Quadratorum in 1225, analytical knowledge was transferred from the Islamic world to Europe. Encouraged by the scientific challenges at Emperor Frederick II's court, particularly by scholars like Johannes of Palermo, this process led to a structural transformation in the coding of knowledge.",
@@ -4526,7 +4525,7 @@
                 "a": "Tunnell's Criterion is based on residue classes modulo 8. For square-free numbers, the modulo 8 classes of 5, 6, and 7 are directly Tunnell numbers and carry the potential to be a congruum. In contrast, classes 1, 2, and 3 are subject to a more complex process requiring the counting of integer solutions to specific quadratic equations."
             }
         ],
-        "title_tr": "13. yüzyılda Fibonacci'nin Hint-Arap sayı sistemini Avrupa'ya taşımasıyla başlayan ve modern kriptografi ile eliptik eğriler teorisine uzanan matematiksel veri standardizasyonu devrimi.",
+        "title_tr": "Fibonacci ve Matematiksel Miras: Liber Abaci'den Eliptik Eğrilere Modern Sayılar Teorisi",
         "mechanism_tr": "Hesaplama mimarisinde hantal Roma rakamlarından Hint-Arap sembollerine geçilmiş; veri standardizasyonu için sıfır (zephirum) ve kesir çizgisi (virga) kavramları sisteme entegre edilmiştir. Congruum problemi, ardışık üç tam kare sayının aritmetik dizisindeki ortak fark olarak, m ve n aralarında asal ve farklı paritede olmak şartıyla $4mn(m+n)(m-n)$ formülüyle modellenmiştir. Ayrıca $x^3 + 2x^2 + 10x = 20$ kübik denklemi için seksagesimal sistemde $1^\\circ 22' 7'' 42''' 33^{IV} 4^{V} 40^{VI}$ açılımı yapılarak rasyonel çözüm imkansızlığı ispatlanmış ve dikkat çözümün ontolojik doğasına çekilmiştir.",
         "systemic_impact_tr": "Cebirsel işlemler sözel anlatıdan sembolik yapıya evrilerek modern cebirin metodolojik altyapısı hazırlanmıştır. Çözümün ontolojik doğasını anlamaya yönelik bu analitik perspektif, Fermat'nın Dik Üçgen Teoremi'ne, 1983 tarihli Tunnell Kriteri'ne ve günümüzde kuantum fiziği ile dijital finans sistemlerinin temelini oluşturan eliptik eğriler ($y^2 = x^3 - N^2x$) üzerindeki rasyonel noktaların araştırılmasına doğrudan zemin oluşturmuştur.",
         "context_tr": "Süreç, 13. yüzyılın başlarında Leonardo Pisano'nun (Fibonacci) Cezayir'in Bugia kentinde Hint-Arap sistemi ve sıfır ile tanışmasıyla tetiklenmiştir. 1202'de Liber Abbaci ve 1225'te Liber Quadratorum'un yayımlanması, ayrıca İmparator II. Frederick'in sarayındaki Johannes of Palermo gibi bilginlerin meydan okumalarıyla, İslam dünyasının analitik birikimi Avrupa'ya aktarılmış ve bilginin yapısal kodlanmasında köklü bir transformasyon başlatılmıştır.",
@@ -4541,69 +4540,69 @@
             "İmparator II. Friedrich'in Sarayı"
         ],
         "claims_vs_reality_tr": {
-            "resmi_iddia": "Fibonacci'nin katkılarının yalnızca pratik ticari aritmetik, temel hesaplama yöntemleri, tavşan problemi ve A000045 numaralı diziyle sınırlı olduğu iddia edilmiştir.",
+            "official_claim": "Fibonacci'nin katkılarının yalnızca pratik ticari aritmetik, temel hesaplama yöntemleri, tavşan problemi ve A000045 numaralı diziyle sınırlı olduğu iddia edilmiştir.",
             "actual_reality": "Adli tarihsel incelemeler, onun kübik denklemlerin doğasını analiz edip rasyonel çözüm imkânsızlığını ispatlayarak analitik bir devrim başlatan ve karmaşık Diophantine denklemleri üzerinde sistematik ispatlar geliştiren Modern Sayılar Teorisinin kurucusu olduğunu göstermektedir."
         },
         "causal_chain_tr": {
-            "tetikleyici": "Olayın ilk kıvılcımı, Fibonacci'nin Bugia'da dokuz Hint sembolü ve sıfır ile tanışarak mevcut hesaplama mimarisindeki yapısal üstünlüğü ve operasyonel boşluğu keşfetmesiyle ateşlenmiştir.",
-            "uygulama": "Operasyon, Liber Abbaci eseriyle zephirum (sıfır) ve virga (kesir çizgisi) kavramlarının Avrupa ticaretine entegre edilmesiyle yürütülmüş, finansal veri iletiminde hata payını minimize eden sistematik bir veri standardizasyonu gerçekleştirilmiştir.",
-            "cokus": "İmparator Frederick II'nin sarayındaki analitik denetimler ve Congruum probleminin ifşasıyla birlikte eski sözel cebir sistemi çökmüş; süreç, Tunnell Kriteri ve eliptik eğriler üzerindeki hesaplamalara uzanan sistemik bir kilitlenme ve paradigma kaymasıyla sonuçlanmıştır."
+            "trigger": "Olayın ilk kıvılcımı, Fibonacci'nin Bugia'da dokuz Hint sembolü ve sıfır ile tanışarak mevcut hesaplama mimarisindeki yapısal üstünlüğü ve operasyonel boşluğu keşfetmesiyle ateşlenmiştir.",
+            "execution": "Operasyon, Liber Abbaci eseriyle zephirum (sıfır) ve virga (kesir çizgisi) kavramlarının Avrupa ticaretine entegre edilmesiyle yürütülmüş, finansal veri iletiminde hata payını minimize eden sistematik bir veri standardizasyonu gerçekleştirilmiştir.",
+            "collapse": "İmparator Frederick II'nin sarayındaki analitik denetimler ve Congruum probleminin ifşasıyla birlikte eski sözel cebir sistemi çökmüş; süreç, Tunnell Kriteri ve eliptik eğriler üzerindeki hesaplamalara uzanan sistemik bir kilitlenme ve paradigma kaymasıyla sonuçlanmıştır."
         },
         "relationships_tr": [
             {
-                "kaynak": "Leonardo Pisano (Fibonacci)",
-                "iliski": "analitik_transfer_baslatti",
-                "hedef": "Batı Matematiği"
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "analitik_transfer_baslatti",
+                "target": "Batı Matematiği"
             },
             {
-                "kaynak": "Liber Abbaci (1202)",
-                "iliski": "standardizasyonu_sagladi",
-                "hedef": "Hint-Arap Rakam Sistemi"
+                "source": "Liber Abbaci (1202)",
+                "relation": "standardizasyonu_sagladi",
+                "target": "Hint-Arap Rakam Sistemi"
             },
             {
-                "kaynak": "Leonardo Pisano (Fibonacci)",
-                "iliski": "matematiksel_ispat_formule_etti",
-                "hedef": "Congruum Mekanizması"
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "matematiksel_ispat_formule_etti",
+                "target": "Congruum Mekanizması"
             },
             {
-                "kaynak": "Liber Quadratorum",
-                "iliski": "metodolojik_altyapiyi_kurdu",
-                "hedef": "Modern Cebir"
+                "source": "Liber Quadratorum",
+                "relation": "metodolojik_altyapiyi_kurdu",
+                "target": "Modern Cebir"
             },
             {
-                "kaynak": "İmparator Frederick II'nin Sarayı",
-                "iliski": "analitik_meydan_okuma_sundu",
-                "hedef": "Kübik Denklem (x^3 + 2x^2 + 10x = 20)"
+                "source": "İmparator Frederick II'nin Sarayı",
+                "relation": "analitik_meydan_okuma_sundu",
+                "target": "Kübik Denklem (x^3 + 2x^2 + 10x = 20)"
             },
             {
-                "kaynak": "Leonardo Pisano (Fibonacci)",
-                "iliski": "irrasyonelligi_ispatladi",
-                "hedef": "Kübik Denklem Çözümü"
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "irrasyonelligi_ispatladi",
+                "target": "Kübik Denklem Çözümü"
             },
             {
-                "kaynak": "Leonardo Pisano (Fibonacci)",
-                "iliski": "veri_standardizasyonunu_sistemlestirdi",
-                "hedef": "Zephirum ve Virga"
+                "source": "Leonardo Pisano (Fibonacci)",
+                "relation": "veri_standardizasyonunu_sistemlestirdi",
+                "target": "Zephirum ve Virga"
             },
             {
-                "kaynak": "Johannes of Palermo",
-                "iliski": "teorik_derinlesmeyi_tetikledi",
-                "hedef": "Congruum Problemi"
+                "source": "Johannes of Palermo",
+                "relation": "teorik_derinlesmeyi_tetikledi",
+                "target": "Congruum Problemi"
             },
             {
-                "kaynak": "Pierre de Fermat",
-                "iliski": "teorik_cerceveyi_genisletti",
-                "hedef": "Fermat'nın Dik Üçgen Teoremi"
+                "source": "Pierre de Fermat",
+                "relation": "teorik_cerceveyi_genisletti",
+                "target": "Fermat'nın Dik Üçgen Teoremi"
             },
             {
-                "kaynak": "Jerrold Tunnell",
-                "iliski": "teshis_kriteri_gelistirdi",
-                "hedef": "Tunnell Kriteri (Modülo 8 Kalıntı Sınıfları)"
+                "source": "Jerrold Tunnell",
+                "relation": "teshis_kriteri_gelistirdi",
+                "target": "Tunnell Kriteri (Modülo 8 Kalıntı Sınıfları)"
             },
             {
-                "kaynak": "Tunnell Kriteri",
-                "iliski": "teorik_kopru_kurdu",
-                "hedef": "Birch-Swinnerton-Dyer (BSD) Varsayımı"
+                "source": "Tunnell Kriteri",
+                "relation": "teorik_kopru_kurdu",
+                "target": "Birch-Swinnerton-Dyer (BSD) Varsayımı"
             }
         ],
         "faq_tr": [
