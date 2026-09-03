@@ -3868,6 +3868,367 @@
             }
         ]
     },
+        {
+        "id": "GEO_002",
+        "category": "Geopolitical Conflict",
+        "period": "2026",
+        "start_year": 2026,
+        "end_year": null,
+        "source_url": "https://www.reddit.com/r/policystrategies/s/789k2X6rw7",
+        "cross_references": {
+            "github_repository": "https://github.com/stratigahq/policystrategies-archive",
+            "huggingface_dataset": "https://huggingface.co/datasets/stratigahq/policystrategies-archive",
+            "kaggle_dataset": "https://www.kaggle.com/datasets/stratigahq/data-json"
+        },
+
+  "evidence": {
+    "level": "documented",
+    "confidence_score": 0.88,
+    "source_count": 3,
+    "primary_source_count": 0
+  },
+  "sources": [
+    {
+      "title": "'Europe Help': Ceuta Firefighters Plead for Assistance Amid Surge in Sexual Assaults and Illegal Migration",
+      "type": "journalism",
+      "source_role": "corroborating",
+      "publisher": "International Business Times UK",
+      "host": "co.uk",
+      "published_year": 2026,
+      "last_updated_year": 2026,
+      "url": "https://www.ibtimes.co.uk/ceuta-migration-crisis-european-support-1817467",
+      "supports": [
+        "Local emergency and civil response in Ceuta following the mass border breach",
+        "Municipal appeal for European Union intervention",
+        "Madrid authorization of a €309 million crisis relief package"
+      ],
+      "accessed_at": "2026-09-03"
+    },
+    {
+      "title": "Tens of thousands in Spain protest Ceuta border crisis",
+      "type": "journalism",
+      "source_role": "corroborating",
+      "publisher": "Associated Press",
+      "host": "com",
+      "published_year": 2026,
+      "last_updated_year": 2026,
+      "url": "https://apnews.com/article/spain-migration-ceuta-protest-holiday-dcc8fcac0897320c50d3bed6f7b6ebbb",
+      "supports": [
+        "Nationwide public demonstrations during Ceuta regional holiday",
+        "Escalating socio-political backlash across Spanish municipalities regarding border security and immigration management"
+      ],
+      "accessed_at": "2026-09-03"
+    },
+    {
+      "title": "The Ceuta border breach was leapt on by Europe’s right. That doesn’t absolve Spain",
+      "type": "journalism",
+      "source_role": "analytical",
+      "publisher": "The Guardian",
+      "host": "com",
+      "published_year": 2026,
+      "last_updated_year": 2026,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ceuta-border-breach-spain-response-europe",
+      "supports": [
+        "Geopolitical and humanitarian fallout of the 72,000-migrant crossing",
+        "Strategic vulnerabilities of Pedro Sánchez's administration",
+        "Weaponization of border crises by European political factions"
+      ],
+      "accessed_at": "2026-09-03"
+    }
+  ],
+"actors": [
+    "Pedro Sánchez",
+    "Juan Jesús Vivas",
+    "King Mohammed VI",
+    "Margarita Robles",
+    "José Manuel Albares",
+    "Alberto Núñez Feijóo",
+    "Santiago Abascal",
+    "Ursula von der Leyen"
+  ],
+"institutions": [
+    "Government of Spain",
+    "Government of Morocco",
+    "Autonomous City of Ceuta",
+    "People's Party",
+    "Vox",
+    "Moroccan Border Guards",
+    "Spanish Armed Forces",
+    "European Union",
+    "European Border and Coast Guard Agency"
+  ],
+"title_en": "Ceuta Border Influx Cross-Mediterranean Security Shock Geopolitical Destabilization",
+"mechanism_en": "Over a 48-hour window on July 30-31, 2026, more than 72,000 individuals breached the border perimeter between Morocco and the Spanish enclave of Ceuta, largely by swimming across coastal maritime lines. Field police documentation confirmed passive border surveillance by Moroccan border forces, facilitating unchecked mass entry. While cross-border diplomatic channels were subsequently initiated to return the majority of entrants, an estimated 5,000 individuals—including approximately 1,200 unaccompanied minors—remained in makeshift encampments across local urban centers and beaches, severely exceeding civic municipal capacities.",
+"systemic_impact_en": "The demographic influx triggered acute operational failure across local civil infrastructure, prompting public safety personnel to demonstrate for direct European Union and central government intervention. Domestically, the crisis provoked severe political conflict in Madrid, culminating in over 50,000 demonstrators demanding the Prime Minister's resignation amid sharp opposition criticism. The Spanish executive mobilized a €309 million emergency aid allocation to stabilize municipal operations. Geopolitically, the event reopened bilateral disputes regarding the sovereign status of Ceuta between Madrid and Rabat.",
+"context_en": "The crisis occurred on July 30-31, 2026, in Ceuta, a Spanish autonomous enclave situated on the North African coast adjacent to Morocco, possessing an established population base of 84,000 residents. The incident was characterized by acute diplomatic fractures between Spain and Morocco, documented fatal maritime crossings resulting in an estimated 72 to 100 casualties, internal civil unrest, and competing narratives surrounding state accountability and digital disinformation.",
+ "keywords_en": [
+    "Ceuta border crisis",
+    "Spain Morocco border",
+    "Migration crisis",
+    "Pedro Sánchez",
+    "People's Party",
+    "Vox",
+    "Border security",
+    "Unaccompanied minors",
+    "Territorial sovereignty",
+    "European Union border control"
+  ],
+"claims_vs_reality_en": {
+            "official_claim": "The central government argued that the unprecedented border surge was primarily fueled and escalated by social media disinformation networks.",
+            "actual_reality": "Official police reports from the ground established that Moroccan border authorities adopted a permissive stance during the mass crossings, revealing operational facilitation rather than mere digital rumors."
+        },
+"causal_chain_en": {
+            "trigger": "Fragile Mediterranean border security agreements and simmering diplomatic fractures between Spain and Morocco created structural vulnerabilities along the North African frontier.",
+            "execution": "Moroccan border units displayed a permissive posture, allowing over 72,000 individuals to cross the frontier within 48 hours, resulting in significant offshore casualties and an unmanageable humanitarian influx.",
+            "collapse": "Ceuta's civic infrastructure failed under extreme demographic pressure, leading to domestic political turmoil with 50,000 demonstrators demanding the Prime Minister's resignation, Moroccan challenges to territorial sovereignty, and an emergency allocation of 309 million euros."
+        },
+"relationships_en": [
+    {
+      "source": "migrant_group",
+      "relation": "breached_border_of_over_72k_people",
+      "target": "morocco_spain_border"
+    },
+    {
+      "source": "migrant_group",
+      "relation": "dispersed_across_urban_areas",
+      "target": "ceuta"
+    },
+    {
+      "source": "diplomatic_authorities",
+      "relation": "executed_majority_repatriation",
+      "target": "migrant_group"
+    },
+    {
+      "source": "migrant_group",
+      "relation": "established_makeshift_encampments_with_minors",
+      "target": "urban_and_beach_zones"
+    },
+    {
+      "source": "public_prosecutors_office",
+      "relation": "registered_23_severe_offenses",
+      "target": "criminal_investigation_records"
+    },
+    {
+      "source": "ceuta_residents",
+      "relation": "initiated_unauthorized_camp_dispersal",
+      "target": "makeshift_beach_camps"
+    },
+    {
+      "source": "state_security_forces",
+      "relation": "conducted_containment_intervention",
+      "target": "ceuta_residents"
+    },
+    {
+      "source": "emergency_and_police_personnel",
+      "relation": "petitioned_for_institutional_aid",
+      "target": "european_union_and_madrid_government"
+    },
+    {
+      "source": "peoples_party_and_vox",
+      "relation": "alleged_border_defense_failure",
+      "target": "government_of_spain"
+    },
+    {
+      "source": "madrid_protesters",
+      "relation": "demanded_resignation_via_mass_demonstration",
+      "target": "prime_minister_pedro_sanchez"
+    },
+    {
+      "source": "government_of_spain",
+      "relation": "accused_of_amplifying_crisis",
+      "target": "social_media_disinformation_networks"
+    },
+    {
+      "source": "national_police_reporting_division",
+      "relation": "documented_passive_border_surveillance",
+      "target": "moroccan_border_guard"
+    },
+    {
+      "source": "government_of_morocco",
+      "relation": "reopened_sovereignty_dispute",
+      "target": "ceuta"
+    },
+    {
+      "source": "government_of_spain",
+      "relation": "authorized_309m_euro_allocation",
+      "target": "emergency_humanitarian_relief_fund"
+    }
+  ],
+"faq_en": [
+    {
+      "q": "What triggered the Ceuta border crisis on 30–31 July 2026?",
+      "a": "The crisis was triggered when more than 72,000 people crossed the Moroccan border into the Spanish exclave of Ceuta within a 48-hour window, coinciding with police reports noting that Moroccan border guards exhibited a permissive approach during the crossings."
+    },
+    {
+      "q": "How many casualties and stranded migrants were officially documented in Ceuta?",
+      "a": "At least 72 to 100 people lost their lives at sea while trying to swim across the border. While the majority of crossers were returned through diplomatic mechanisms, approximately 5,000 individuals, including 1,200 unaccompanied minors, remained in makeshift settlements on streets and beaches."
+    },
+    {
+      "q": "What civil and legal incidents were recorded by the prosecution in Ceuta?",
+      "a": "The sudden demographic surge overwhelmed municipal infrastructure, resulting in at least 23 severe cases entering prosecution records, local residents clashing at beach camps over security concerns, and municipal first responders (firefighters, healthcare staff, and police) protesting with banners demanding European intervention."
+    },
+    {
+      "q": "How did the Spanish central government respond financially and politically to the crisis?",
+      "a": "Prime Minister Pedro Sánchez's administration approved an emergency support package worth 309 million euros to restore public order and improve humanitarian conditions, while attributing part of the unrest to social media disinformation networks."
+    },
+    {
+      "q": "What domestic political fallout occurred in Madrid following the border breach?",
+      "a": "Opposition parties Partido Popular (PP) and Vox accused the central administration of failing to protect the sovereign territory, culminating in street protests where more than 50,000 demonstrators in Madrid demanded the resignation of Prime Minister Pedro Sánchez."
+    },
+    {
+      "q": "What diplomatic stance did Morocco adopt regarding Ceuta's sovereignty?",
+      "a": "Following the mass crossings and diplomatic tensions, the Rabat administration reopened the debate surrounding the sovereignty status of the autonomous city of Ceuta."
+    },
+    {
+      "q": "What was the scale of local demographic disruption relative to Ceuta's population?",
+      "a": "Ceuta, a coastal city of only 84,000 residents, faced an influx of over 72,000 individuals within 48 hours, nearly matching the municipality's entire resident population and leading to the immediate strain of public systems."
+    }
+  ],
+"title_tr": "Ceuta Sinir Hatti Kitlesel Gecis Vakasi Jeopolitik Guvenlik Krizi",
+"mechanism_tr": "30-31 Temmuz 2026 tarihlerinde, 48 saatlik surecte 72 bini askin kisi deniz sinir hatlarini yuzerek ve Fas sinir guvenlik birimlerinin mudahalesiz tutumu neticesinde Ceuta topragina gecis saglamistir. Gecis sonrasi diplomatik mekanizmalar isletilerek kisilerin onemli kismi iade edilmis; ancak aralarinda yaklasik 1.200 refakatsiz cocugun bulundugu 5 bin kisi sahil ve kamusal alanlarda olusturulan gecici yerlesimlerde kalmistir. Bu durum, yerel altyapinin kapasite esigini asarak adli kayitlara yansiyan agir vakalara ve asayis gerilimlerine yol acmistir.",
+"systemic_impact_tr": "Kitlesel gecis hareketi, yerel idari ve guvenlik mekanizmalarini felce ugratarak kamu personelinin merkezi hukumet ve Avrupa Birligi duzeyinde dogrudan mudahale cagrisi yapmasina neden olmustur. Olay, Ispanya ic siyasetinde sert kutuplasmalara yol acmis; muhalefet partilerinin guvenlik zafiyeti elestirileri esliginde Madrid'de 50 bini askin protestocu hukumetin istifasini talep etmistir. Krizin yonetimi amaciyla 309 milyon avroluk acil destek fonu tahsis edilmis, diplomatik hatta ise Rabat yonetiminin Ceuta uzerindeki egemenlik muzakerelerini yeniden gundeme getirmesiyle kriz uluslararasi egemenlik tartismasina evrilmistir.",
+  "context_tr": "Olay, 30-31 Temmuz 2026 tarihlerinde, Kuzey Afrika kiyisinda yer alan ve 84 bin yerlesik nufusa sahip Ispanyol topragi Ceuta sinirinda gerceklesmistir. Surec; deniz gecisleri sirasinda 72 ila 100 kisinin hayatini kaybetmesi, sokak eylemleri, yerel halk ile gecis yapan gruplar arasindaki gerilimler, Fas-Ispanya diplomatik hatlarindaki kirilganliklar ve hukumetin dezenformasyon argumanlari zemininde vuku bulmustur.",
+"keywords_tr": [
+    "Ceuta sınır krizi",
+    "İspanya Fas sınırı",
+    "Göç krizi",
+    "Pedro Sánchez",
+    "Juan Jesús Vivas",
+    "Kral 6. Muhammed",
+    "Margarita Robles",
+    "José Manuel Albares",
+    "Alberto Núñez Feijóo",
+    "Santiago Abascal",
+    "Ursula von der Leyen",
+    "İspanya Hükümeti",
+    "Fas Hükümeti",
+    "Ceuta Özerk Şehir Yönetimi",
+    "Halk Partisi",
+    "Vox Partisi",
+    "Fas Sınır Muhafızları",
+    "İspanya Silahlı Kuvvetleri",
+    "Avrupa Birliği",
+    "Avrupa Sınır ve Sahil Güvenlik Ajansı",
+    "Sınır güvenliği",
+    "Refakatsiz çocuklar",
+    "Toprak egemenliği",
+    "Hibrit tehdit",
+    "Göçün araçsallaştırılması",
+    "Schengen dış sınırı",
+    "Tarajal sınır kapısı"
+  ],
+"claims_vs_reality_tr": {
+            "official_claim": "İspanyol merkezi hükümeti, yaşanan kitlesel sınır geçişlerinin ve krizin esasen sosyal medyadaki dezenformasyon ağları tarafından tetiklenip köpürtüldüğünü savunmuştur.",
+            "actual_reality": "Sahadaki resmi polis raporları, sınır geçişleri esnasında Fas sınır muhafızlarının denetimleri gevşeterek müsamahakar bir tutum sergilediğini ve krizin operasyonel bir boşluktan kaynaklandığını tespit etmiştir."
+        },
+"causal_chain_tr": {
+            "trigger": "Akdeniz havzasındaki sınır güvenliği politikalarının kırılgan diplomatik dengelere dayanması ve taraflar arasındaki siyasi çatlaklar.",
+            "execution": "Fas sınır muhafızlarının müsamahakar yaklaşımıyla 48 saatte 72 binden fazla kişinin Ceuta sınırını aşması, denizde şüpheli can kayıplarının yaşanması ve binlerce kişinin refakatsiz çocuklarla kentte mahsur kalması.",
+            "collapse": "Yerel altyapının çökmesi, Madrid sokaklarında 50 bini aşkın kişinin hükümetin istifasını talep etmesi, Fas yönetiminin kentin egemenlik statüsünü yeniden tartışmaya açması ve krizin 309 milyon avroluk acil destek paketine rağmen çözümsüz kalması."
+        },
+"relationships_tr": [
+    {
+      "source": "gocmen_grubu",
+      "relation": "72_bin_kisilik_sinir_ihlalini_gerceklestirdi",
+      "target": "fas_ispanya_siniri"
+    },
+    {
+      "source": "gocmen_grubu",
+      "relation": "kitlesel_gecis_ile_dagildi",
+      "target": "ceuta"
+    },
+    {
+      "source": "diplomatik_makamlar",
+      "relation": "coguna_geri_gonderme_protokolu_uyguladi",
+      "target": "gocmen_grubu"
+    },
+    {
+      "source": "gocmen_grubu",
+      "relation": "refakatsiz_cocuklarla_barinma_alani_kurdu",
+      "target": "kent_ve_plaj_bolgeleri"
+    },
+    {
+      "source": "savcilik_makami",
+      "relation": "23_agir_vakayi_resmi_olarak_kaydetti",
+      "target": "adli_sorusturma_kayitlari"
+    },
+    {
+      "source": "kent_sakinleri",
+      "relation": "izinsiz_kamp_dagitma_girisiminde_bulundu",
+      "target": "plaj_yerlesimleri"
+    },
+    {
+      "source": "devlet_guvenlik_gucleri",
+      "relation": "kamu_duzeni_adına_onleyici_mudahalede_bulundu",
+      "target": "kent_sakinleri"
+    },
+    {
+      "source": "acil_durum_ve_emniyet_personeli",
+      "relation": "kurumsal_acil_yardim_cagrisi_yapti",
+      "target": "avrupa_birligi_ve_madrid_yonetimi"
+    },
+    {
+      "source": "halk_partisi_ve_vox",
+      "relation": "sinir_guvenligini_saglayamamakla_itham_etti",
+      "target": "ispanya_hukumeti"
+    },
+    {
+      "source": "madrid_protestoculari",
+      "relation": "kitlesel_mitingle_istifasini_talep_etti",
+      "target": "basbakan_pedro_sanchez"
+    },
+    {
+      "source": "ispanya_hukumeti",
+      "relation": "krizi_yapay_olarak_buyutmekle_sucladi",
+      "target": "sosyal_medya_dezenformasyon_aglari"
+    },
+    {
+      "source": "saha_polis_istihbarat_raporu",
+      "relation": "pasif_sinir_denetimi_tutumunu_raporladi",
+      "target": "fas_sinir_muhafizlari"
+    },
+    {
+      "source": "fas_hukumeti",
+      "relation": "egemenlik_statusunu_yeniden_tartismaya_acti",
+      "target": "ceuta"
+    },
+    {
+      "source": "ispanya_hukumeti",
+      "relation": "309_milyon_avroluk_butce_onayladi",
+      "target": "acil_insani_yardim_fonu"
+    }
+  ],
+"faq_tr": [
+    {
+      "q": "30-31 Temmuz 2026 Ceuta sınır krizinin ana tetikleyicisi neydi?",
+      "a": "Kriz, 48 saat içinde 72 binden fazla insanın Fas sınırını aşarak İspanyol toprağı Ceuta'ya geçmesi ve saha polis raporlarının geçişler esnasında Fas sınır muhafızlarının müsamahakar bir tutum sergilediğini tespit etmesiyle tetiklendi."
+    },
+    {
+      "q": "Ceuta sınır geçişlerinde can kaybı ve mahsur kalan göçmen sayısı nedir?",
+      "a": "Sınırı yüzerek geçmeye çalışan en az 72 ila 100 kişi denizde yaşamını yitirdi. Geçiş yapanların büyük kısmı diplomatik mekanizmalarla geri gönderilse de 1.200'ü refakatsiz çocuk olmak üzere yaklaşık 5 bin kişi sokak ve plajlardaki derme çatma alanlarda kaldı."
+    },
+    {
+      "q": "Kriz sırasında Ceuta'da adli ve asayiş kayıtlarına neler yansıdı?",
+      "a": "Sosyal altyapı kapasitesinin aşılmasıyla savcılık kayıtlarına en az 23 ağır vaka yansıdı; kent sakinlerinin plajlardaki kampları dağıtma girişimi güvenlik müdahalesiyle karşılaştı ve kamu personeli 'Avrupa, yardım et!' pankartlarıyla Madrid ve Brüksel'e çağrıda bulundu."
+    },
+    {
+      "q": "İspanya merkezi hükümeti kamu düzenini sağlamak için hangi adımı attı?",
+      "a": "Merkezi yönetim, kamu düzenini yeniden tesis etmek ve insani şartları iyileştirmek adına 309 milyon avroluk acil destek paketini onayladı; ayrıca krizin sosyal medyadaki dezenformasyon ağları tarafından köpürtüldüğünü savundu."
+    },
+    {
+      "q": "Madrid hattındaki siyasi tepkiler ve muhalefetin tutumu nasıl şekillendi?",
+      "a": "Muhalefetteki Halk Partisi (PP) ve Vox, hükümeti bölgeyi koruyamamakla suçladı; Madrid meydanlarında toplanan 50 binden fazla gösterici Başbakan Pedro Sánchez'in istifasını talep etti."
+    },
+    {
+      "q": "Krizin ardından Rabat yönetiminin diplomatik adımı ne oldu?",
+      "a": "Rabat (Fas) yönetimi, sınır krizinin ve kitlesel geçişlerin ardından Ceuta kentinin egemenlik statüsünü yeniden diplomatik olarak tartışmaya açtı."
+    },
+    {
+      "q": "Ceuta'nın yerel nüfusu ile yaşanan göç dalgasının orantısal boyutu nedir?",
+      "a": "Yalnızca 84 bin kişinin ikamet ettiği Ceuta kenti, 48 saat içinde kendi nüfusuna yakın bir sayıya denk gelen 72 binden fazla kişilik ani bir göç baskısıyla karşı karşıya kaldı."
+    }
+  ]
+},
     {
         "id": "CHN_001",
         "category": "China & Asia-Pacific",
